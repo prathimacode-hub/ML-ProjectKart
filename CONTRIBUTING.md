@@ -4,11 +4,13 @@
 
 Welcome to [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart/). Before sending your pull requests, make sure that you **read the whole guidelines**. If you have any doubt on the contributing guide, please feel free to reach out.
 
+
 ### Contribution
 
 Any contribution is accepted, from fixing a grammar mistake in a comment to implementing complex algorithms. Please read this section if you are contributing your work.
 
-#### Coding Style
+
+### Coding Style
 
 We want your work to be readable by others; therefore, we encourage you to note the following:
 
@@ -19,11 +21,14 @@ We want your work to be readable by others; therefore, we encourage you to note 
   - Expand acronyms because __gcf()__ is hard to understand but __greatest_common_factor()__ is not. 
 - Avoid importing external libraries for basic algorithms. Only use those libraries for complicated algorithms. **Usage of NumPY is highly recommended.** 
 
-#### Other points to remember while submitting your work:
 
+### Other points to remember while submitting your work:
+
+- If Titanic Survival Prediction is submitted for example, the Folder Name should be "Titanic Survival Prediction" and the File Name as "Titanic_Survival_Prediction.py"
 - File extension for code should be `.py`. 
 - Strictly use snake_case (underscore_separated) in your file_name, as it will be easy to parse in future using scripts.
-- Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure. If you want to, please contact before doing so.
+- Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure you have created for your project. If you want to, please contact before doing so.
+- Elaborate your README.md file for your project briefly so that it's easier for others to understand.
 - If you have modified/added code work, make sure the code compiles before submitting.
 - If you have modified/added documentation work, ensure your language is concise and contains no grammar errors.
 - Do not update the [README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md) and [Contributing_Guidelines.md](https://github.com/prathimacode-hub/ML-ProjectKart//blob/main/CONTRIBUTING.md).
