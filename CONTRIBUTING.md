@@ -33,5 +33,4 @@ We want your work to be readable by others; therefore, we encourage you to note 
 - If you have modified/added documentation work, ensure your language is concise and contains no grammar errors.
 - Do not update the [README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md) and [Contributing_Guidelines.md](https://github.com/prathimacode-hub/ML-ProjectKart//blob/main/CONTRIBUTING.md).
 
-Happy Coding :)
-
+🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
