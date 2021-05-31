@@ -12,7 +12,7 @@ This kart showcases the finest collection of all projects based on machine learn
 The main aim is to provide an efficient and beginner-friendly projects that would help you in mastering the ML/AI algorithms and make you familiar. Turn yourself into pro with all the hands-on that got you covered.
 
 
-<h2>🙌Welcome,Join Here</h2>
+<h2>🙌Join Here</h2>
 
 Anyone related to technology who are looking to contribute to open-source, are all invited to hop in. This place has task for everyone.
 
