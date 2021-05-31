@@ -1,16 +1,51 @@
 # Contributing guidelines
 
-## Before contributing
+## 💻Before contributing
 
 Welcome to [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart/). Before sending your pull requests, make sure that you **read the whole guidelines**. If you have any doubt on the contributing guide, please feel free to reach out.
 
 
-### Contribution
+### 🙌Contribution
 
-Any contribution is accepted, from fixing a grammar mistake in a comment to implementing complex algorithms. Please read this section if you are contributing your work.
+Any contribution is accepted, from fixing a grammar mistake in a comment to implementing complex python projects. Please read this section if you are contributing your work.
 
 
-### Coding Style
+## 💻👨‍Steps to Contribute
+
+Following are the steps to guide you:
+
+* Step 1: Fork the repo and Go to your Git terminal and  clone it on your machine.
+* Step 2: Add a upstream link to main branch in your cloned repo
+    ```
+    git remote add upstream https://github.com/prathimacode-hub/ML-ProjectKart.git
+    ```
+* Step 3: Keep your cloned repo upto date by pulling from upstream (this will also avoid any merge conflicts while committing new changes)
+    ```
+    git pull upstream main https://github.com/prathimacode-hub/ML-ProjectKart.git
+    ```
+* Step 4: Create your feature branch (This is a necessary step, so don't skip it)
+    ```
+    git checkout -b <feature-name>
+    ```
+* Step 5: Commit all the changes (Write commit message as "Small Message")
+    ```
+    git commit -m "Write a meaningfull but small commit message"
+    ```
+* Step 6: Push the changes for review
+    ```
+    git push origin <branch-name>
+    ```
+* Step 7: Create a PR on Github. (Don't just hit the create a pull request button, you must write a PR message to clarify why and what are you contributing)
+
+
+## 🔨Note:
+
+> - Do not edit/delete someone else's code in this repository. You can only insert new files/folder in this repository.
+
+  > - Give a meaningful name to whatever file or folder you are adding, for e.g., if you have written a ML code on Loan Prediction, then loan_prediction.py is one example of valid name.
+
+
+### 🔑Coding Style
 
 We want your work to be readable by others; therefore, we encourage you to note the following:
 
@@ -22,9 +57,9 @@ We want your work to be readable by others; therefore, we encourage you to note 
 - Avoid importing external libraries for basic algorithms. Only use those libraries for complicated algorithms. **Usage of NumPY is highly recommended.** 
 
 
-### Other points to remember while submitting your work:
+### 📍Other points to remember while submitting your work:
 
-- If Titanic Survival Prediction is submitted for example, the Folder Name should be "Titanic Survival Prediction" and the File Name as "Titanic_Survival_Prediction.py"
+- If Titanic Survival Prediction is submitted for example, the Folder Name should be "Titanic Survival Prediction" and the File Name as "titanic_survival_prediction.py"
 - File extension for code should be `.py`. 
 - Strictly use snake_case (underscore_separated) in your file_name, as it will be easy to parse in future using scripts.
 - Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure you have created for your project. If you want to, please contact before doing so.
@@ -32,5 +67,31 @@ We want your work to be readable by others; therefore, we encourage you to note 
 - If you have modified/added code work, make sure the code compiles before submitting.
 - If you have modified/added documentation work, ensure your language is concise and contains no grammar errors.
 - Do not update the [README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md) and [Contributing_Guidelines.md](https://github.com/prathimacode-hub/ML-ProjectKart//blob/main/CONTRIBUTING.md).
+
+
+## 📖Resources
+
+1. Markdown : Markdown is a lightweight markup language like HTML, with plain text formatting syntax. 
+  * [Markdown Cheat-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+2. Git : Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
+  * [Videos to get started](https://www.youtube.com/watch?v=xAAmje1H9YM&list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW)
+  * [Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
+
+## 🤔Need more help?
+
+You can refer to the following articles on basics of Git and Github and also contact me, in case you are stuck:
+- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
+- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-an-issue-or-pull-request)
+- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
+- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+- [Learn GitHub from Scratch](https://lab.github.com/githubtraining/introduction-to-github)
+
+
+## 😇Tip from me
+
+It always takes time to understand and learn. So, do not worry at all. I know **you have got this**!💪
+
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
