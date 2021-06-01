@@ -2,8 +2,9 @@
 Title: Project Title
 About: Suggest an idea for this project
 Name: YourName
-Labels: Feature Request
-Assignees: ''
+DefineYou: LGM-SOC'21 Participant / Contributor
+Label: Feature Request
+Assignee: ''
 
 ---
 
