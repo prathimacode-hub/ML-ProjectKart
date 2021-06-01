@@ -18,7 +18,7 @@ Anyone related to technology who are looking to contribute to open-source, are a
 
 | Machine Learning | Deep Learning | Natural Language Processing | Computer Vision | FrontEnd Designers | BackEnd Developers | UI/UX Designers |
 
-If you had worked on or want to initiate a unique project and want to share it with the world, you can do that through here. Go through the contributing guidelines in [CONTRIBUTING.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/Contributing_Guidelines.md)👩‍💻
+If you had worked on or want to initiate a unique project and want to share it with the world, you can do that through here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/Contributing_Guidelines.md)👩‍💻
 
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
