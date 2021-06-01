@@ -1,4 +1,10 @@
-# Contributing guidelines
+# 🎇Contributing Guidelines
+
+This documentation contains a set of guidelines to help you during the contribution process. 
+
+I'm happy to welcome all the contributions from anyone willing to add new scripts to this repository. Thank you for helping out and remember,
+**no contribution is too small.**
+
 
 ## 💻Before Contributing
 
@@ -64,6 +70,7 @@ Following are the steps to guide you:
 15. While making PRs, don't forget to **add a description** and **screenshots** of your work.
 16. Make sure your solution to any issue is better in terms of performance and other parameters in comparison to the previous work.
 17. We all are here to learn. You are allowed to make mistakes. That's how you learn, right!.
+
 
 ### 🧲Pull Requests Review Criteria
 
