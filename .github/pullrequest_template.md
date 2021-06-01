@@ -2,6 +2,9 @@
 
 - Info about the related issue 
 
+- [ ] LGM-SOC'21 Participant 
+- [ ] Contributor
+
 Closes: #[issue number that will be closed through this PR]
 
 ### Describe the changes you've made
@@ -42,5 +45,5 @@ Example how to mark a checkbox:-
 
  Original           | Updated
  :--------------------: |:--------------------:
- original screenshot | updated screenshot |
+ Original Screenshot | Updated Screenshot |
  
