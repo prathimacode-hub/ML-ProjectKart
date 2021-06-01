@@ -2,11 +2,16 @@
 Title: Project Title
 About: Create a report to help us improve.
 Name: YourName
-DefineYou: LGM-SOC'21 Participant / Contributor
 Label: Bug Report
 Assignee: ''
 
 ---
+
+Define You:
+
+- [ ] LGM-SOC'21 Participant 
+- [ ] Contributor
+
 
 <!-- Have you talked to any of the Moderators or Project Admin (Prathima Kadari) before creating this issue? If not, just have a quick discussion and then once approved, create this issue. -->
 
