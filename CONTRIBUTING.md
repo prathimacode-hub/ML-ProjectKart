@@ -1,16 +1,16 @@
 # Contributing guidelines
 
-## 💻Before contributing
+## 💻Before Contributing
 
 Welcome to [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart/). Before sending your pull requests, make sure that you **read the whole guidelines**. If you have any doubt on the contributing guide, please feel free to reach out.
 
 
-### 🙌Contribution
+## 🙌Contribution
 
-Any contribution is accepted, from fixing a grammar mistake in a comment to implementing complex python projects. Please read this section if you are contributing your work.
+Any contribution is accepted, from fixing grammatical mistakes to implementing complex algorithms. Please read this section if you are contributing your work.
 
 
-## 💻👨‍Steps to Contribute
+### 🔖Steps to Contribute
 
 Following are the steps to guide you:
 
@@ -38,35 +38,57 @@ Following are the steps to guide you:
 * Step 7: Create a PR on Github. (Don't just hit the create a pull request button, you must write a PR message to clarify why and what are you contributing)
 
 
-## 🔨Note:
+### 🔨Note:
 
 > - Do not edit/delete someone else's code in this repository. You can only insert new files/folder in this repository.
 
-  > - Give a meaningful name to whatever file or folder you are adding, for e.g., if you have written a ML code on Loan Prediction, then loan_prediction.py is one example of valid name.
+  > - Give a meaningful name to whatever file or folder you are adding. (For e.g., if you have written a ML code on Loan Prediction, then loan_prediction.py is one example of valid name)
 
 
-### 🔑Coding Style
+## 🔑Guidelines
+
+1. Welcome to this repository, if you are here as open source program participant/contributor.
+2. Participants / contributors have to **comment** on issues they would like to work on, and mentors or the PA will assign you.
+3. Issues will be assigned on a **first-come, first-serve basis.**
+4. Participants / contributors can also **open their issues**, but it needs to be verified and labelled by a mentor or PA. Please discuss with the team once before opening your issues. We respect all your contributions, whether it is an Issue or a Pull Request.
+5. Each participant / contributor will be **assigned 1 issue (max)** at a time to work.
+6. Participants are expected to follow **project guidelines** and [**coding style**](https://pep8.org/"). **Structured code** is one of our top priority.
+7. Try to **explain your approach** to solve any issue in the comments. This will increase the chances of you being assigned.
+8. Don't create issues that are **already listed**.
+9. Please don't pick up an issue already assigned to someone else. Work on the issues after it gets **assigned to you**.
+10. Make sure you **discuss issues** before working on the issue.
+11. Pull requests will be merged after being **reviewed** by a mentor or PA.
+12. It might take **a day or two** to review your pull request. Please have patience and be nice.
+13. Always create a pull request from a **branch** other than `main`.
+14. Participants / contributors have to complete issues before the decided Deadline. If you fail to make a PR within the deadline, then the issue will be assigned to another person in the queue.
+15. While making PRs, don't forget to **add a description** and **screenshots** of your work.
+16. Make sure your solution to any issue is better in terms of performance and other parameters in comparison to the previous work.
+17. We all are here to learn. You are allowed to make mistakes. That's how you learn, right!.
+
+### 🧲Pull Requests Review Criteria
+
+1. Please fill the **PR Template** properly while making a Pull Request.
+2. You must add your code .ipynb file into the respective **folders**.
+3. Your work must be original, written by you not copied from other resources.
+4. You must comment on your code where necessary.
+4. For frontend changes, kindly share screenshots and work samples of your work before sending a PR.
+5. Follow the proper [style guides](https://google.github.io/styleguide/) for your work.
+6. For any queries or discussions, please feel free to drop a message.
+
+
+## 📍Other points to remember while submitting your work:
 
 We want your work to be readable by others; therefore, we encourage you to note the following:
 
-- Follow PEP8 guidelines. Read more about it <a href="https://pep8.org/"> here. </a>
-- Please write in Python 3.7+.  __print()__ is a function in Python 3 so __print "Hello"__ will _not_ work but __print("Hello")__ will.
-- Please focus hard on naming of functions, classes, and variables.  Help your reader by using __descriptive names__ that can help you to remove redundant comments.
-  - Please follow the [Python Naming Conventions](https://pep8.org/#prescriptive-naming-conventions) so variable_names and function_names should be lower_case, CONSTANTS in UPPERCASE, ClassNames should be CamelCase, etc.
-  - Expand acronyms because __gcf()__ is hard to understand but __greatest_common_factor()__ is not. 
-- Avoid importing external libraries for basic algorithms. Only use those libraries for complicated algorithms. **Usage of NumPY is highly recommended.** 
-
-
-### 📍Other points to remember while submitting your work:
-
 - If Titanic Survival Prediction is submitted for example, the Folder Name should be "Titanic Survival Prediction" and the File Name as "titanic_survival_prediction.py"
-- File extension for code should be `.py`. 
+- File extension for code should be `.ipynb`. 
 - Strictly use snake_case (underscore_separated) in your file_name, as it will be easy to parse in future using scripts.
 - Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure you have created for your project. If you want to, please contact before doing so.
 - Elaborate your README.md file for your project briefly so that it's easier for others to understand.
-- If you have modified/added code work, make sure the code compiles before submitting.
+- If you have modified/added code work, make sure that algorithm works before submitting
 - If you have modified/added documentation work, ensure your language is concise and contains no grammar errors.
 - Do not update the [README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md) and [Contributing_Guidelines.md](https://github.com/prathimacode-hub/ML-ProjectKart//blob/main/CONTRIBUTING.md).
+- Avoid importing external libraries for basic algorithms. Only use those libraries for complicated algorithms. **Usage of NumPY is highly recommended.** 
 
 
 ## 📖Resources
@@ -91,7 +113,7 @@ You can refer to the following articles on basics of Git and Github and also con
 
 ## 😇Tip from me
 
-It always takes time to understand and learn. So, do not worry at all. I know **you have got this**!💪
+It always takes time to understand and learn. So, do not worry at all. I know you can do this**!💪
 
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
