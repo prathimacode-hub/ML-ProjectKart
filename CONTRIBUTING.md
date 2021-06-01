@@ -84,6 +84,7 @@ We want your work to be readable by others; therefore, we encourage you to note 
 - File extension for code should be `.ipynb`. 
 - Strictly use snake_case (underscore_separated) in your file_name, as it will be easy to parse in future using scripts.
 - Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure you have created for your project. If you want to, please contact before doing so.
+- The project folder should have 2 repositories : Dataset and Model. Dataset should have the related dataset files for project to work and Model should have the algorithm program file and other related files concerning the project. 
 - Elaborate your README.md file for your project briefly so that it's easier for others to understand.
 - If you have modified/added code work, make sure that algorithm works before submitting
 - If you have modified/added documentation work, ensure your language is concise and contains no grammar errors.
