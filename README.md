@@ -74,8 +74,6 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=150px height=150px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-**Prathima Kadari**
-
 
 <h2>⭐Give this Project a Star</h2>
 
