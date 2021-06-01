@@ -54,6 +54,11 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 | --------------- | --------------- | --------------- |
 
 
+<h2>👍 OpenSource Program</h2>
+
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
+
+
 <h2>📜 Code Of Conduct</h2>
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/CODE_OF_CONDUCT.md).
@@ -87,8 +92,6 @@ If you want to contact me, you can reach me through below handles.
 
 <a href="https://twitter.com/prathimak88"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
 
-<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
-</td>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 
