@@ -56,7 +56,7 @@ Following are the steps to guide you:
 1. Welcome to this repository, if you are here as open source program participant/contributor.
 2. Participants / contributors have to **comment** on issues they would like to work on, and mentors or the PA will assign you.
 3. Issues will be assigned on a **first-come, first-serve basis.**
-4. Participants / contributors can also **open their issues**, but it needs to be verified and labelled by a mentor or PA. Please discuss with the team once before opening your issues. We respect all your contributions, whether it is an Issue or a Pull Request.
+4. Participants / contributors can also **open their issues** using [issue_template](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/.github/issue_template), but it needs to be verified and labelled by a mentor or PA. Please discuss with the team once before opening your issues. We respect all your contributions, whether it is an Issue or a Pull Request.
 5. Each participant / contributor will be **assigned 1 issue (max)** at a time to work.
 6. Participants are expected to follow **project guidelines** and [**coding style**](https://pep8.org/"). **Structured code** is one of our top priority.
 7. Try to **explain your approach** to solve any issue in the comments. This will increase the chances of you being assigned.
@@ -74,7 +74,7 @@ Following are the steps to guide you:
 
 ### 🧲Pull Requests Review Criteria
 
-1. Please fill the **PR Template** properly while making a Pull Request.
+1. Please fill the **[PR Template](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/pullrequest_template.md)** properly while making a Pull Request.
 2. You must add your code .ipynb file into the respective **folders**.
 3. Your work must be original, written by you not copied from other resources.
 4. You must comment on your code where necessary.
@@ -92,7 +92,8 @@ We want your work to be readable by others; therefore, we encourage you to note 
 - Strictly use snake_case (underscore_separated) in your file_name, as it will be easy to parse in future using scripts.
 - Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure you have created for your project. If you want to, please contact before doing so.
 - The project folder should have 2 repositories : Dataset and Model. Dataset should have the related dataset files for project to work and Model should have the algorithm program file and other related files concerning the project. 
-- Elaborate your README.md file for your project briefly so that it's easier for others to understand.
+- The [README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md) file should be concise and clear about what the project is about and what it does.
+- It should be documented briefly enough to let readers understand. 
 - If you have modified/added code work, make sure that algorithm works before submitting
 - If you have modified/added documentation work, ensure your language is concise and contains no grammar errors.
 - Do not update the [README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md) and [Contributing_Guidelines.md](https://github.com/prathimacode-hub/ML-ProjectKart//blob/main/CONTRIBUTING.md).
