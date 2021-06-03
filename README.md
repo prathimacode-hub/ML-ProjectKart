@@ -65,6 +65,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 | S.no | Project Name | Description |
 | --------------- | --------------- | --------------- |
+|     1.    |  Exploratory Data Analysis Of Meteorological Data  |   It analyzes the meteorological weather data of last 10yrs from 2006 to 2016 at Finland to check an increase of global warming   |
 
 
 <h2>👍 OpenSource Program</h2>
