@@ -42,7 +42,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
 * You can only work on issues that have been assigned to you.
-* If you want to contribute the algorithm, it's preferrable that you create an issue before making a PR and link your PR to that issue.
+* If you want to contribute the algorithm, it's preferrable that you create a new issue before making a PR and link your PR to that issue.
 * If you have modified/added code work, make sure the code compiles before submitting.
 * Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
 * Do not update the **[README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md).**
@@ -55,6 +55,8 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 
 <h2>👍 OpenSource Program</h2>
+
+This project is a part of this open source progam.
 
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
 
