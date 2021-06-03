@@ -1,6 +1,6 @@
 # Customer-Segmentation-Analysis-Using-Machine-Learning
 
-# Algorithm-used: K-Means-Clustering
+# Algorithm Used: K-Means Clustering
 
 
 
