@@ -2,7 +2,20 @@
 
 ![Alt text of image](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/ML-ProjectKart.png)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) ![Maintenance](https://img.shields.io/maintenance/yes/2021) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/prathimacode-hub/ML-ProjectKart) ![Maintenance](https://img.shields.io/maintenance/yes/2021) 
+
+
+<center>
+
+![](https://badgen.net/github/stars/prathimacode-hub/ML-ProjectKart)
+![](https://badgen.net/github/forks/prathimacode-hub/ML-ProjectKart)
+![](https://badgen.net/github/open-issues/prathimacode-hub/ML-ProjectKart)
+![](https://badgen.net/github/closed-issues/prathimacode-hub/ML-ProjectKart)
+![](https://badgen.net/github/prs/prathimacode-hub/ML-ProjectKart)
+![](https://badgen.net/github/open-prs/prathimacode-hub/ML-ProjectKart)
+![](https://badgen.net/github/closed-prs/prathimacode-hub/ML-ProjectKart)
+
+</center>
 
 
 <h2>📌Repository</h2>
@@ -61,6 +74,25 @@ This project is a part of this open source progam.
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
 
 
+<h2> ✨ Hall Of Fame </h2>
+
+Thanks goes to these amazing people for their contributions 🎉🎉🎉
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/prathimacode-hub/"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="100px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a><br /><a href="#projectManagement-prathimacode-hub" title="Project Management">📆</a> <a href="#question-prathimacode-hub" title="Answering Questions">💬</a> <a href="https://github.com/prathimacode-hub/ML-ProjectKart/pulls?q=is%3Apr+reviewed-by%3Aprathimacode-hub" title="Reviewed Pull Requests">👀</a> <a href="#talk-prathimacode-hub" title="Talks">📢</a> <a href="#ideas-prathimacode-hub" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/prathimacode-hub/ML-ProjectKart/commits?author=prathimacode-hub" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/theanshulcode"><img src="https://avatars.githubusercontent.com/u/77589822?v=4" width="100px;" alt=""/><br /><sub><b>Anshul Srivastava</b></sub></a><br /><a href="https://github.com/prathimacode-hub/ML-ProjectKart/commits?author=theanshulcode" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/ML-ProjectKart/commits?author=theanshulcode" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+    
+    
 <h2>📜 Code Of Conduct</h2>
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/CODE_OF_CONDUCT.md).
