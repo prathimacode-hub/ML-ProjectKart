@@ -57,19 +57,20 @@ Following are the steps to guide you:
 2. Participants / contributors have to **comment** on issues they would like to work on, and mentors or the PA will assign you.
 3. Issues will be assigned on a **first-come, first-serve basis.**
 4. Participants / contributors can also **open their issues** using [issue_template](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/.github/issue_template), but it needs to be verified and labelled by a mentor or PA. Please discuss with the team once before opening your issues. We respect all your contributions, whether it is an Issue or a Pull Request.
-5. Each participant / contributor will be **assigned 1 issue (max)** at a time to work.
-6. Participants are expected to follow **project guidelines** and [**coding style**](https://pep8.org/"). **Structured code** is one of our top priority.
-7. Try to **explain your approach** to solve any issue in the comments. This will increase the chances of you being assigned.
-8. Don't create issues that are **already listed**.
-9. Please don't pick up an issue already assigned to someone else. Work on the issues after it gets **assigned to you**.
-10. Make sure you **discuss issues** before working on the issue.
-11. Pull requests will be merged after being **reviewed** by a mentor or PA.
-12. It might take **a day or two** to review your pull request. Please have patience and be nice.
-13. Always create a pull request from a **branch** other than `main`.
-14. Participants / contributors have to complete issues before the decided Deadline. If you fail to make a PR within the deadline, then the issue will be assigned to another person in the queue.
-15. While making PRs, don't forget to **add a description** and **screenshots** of your work.
-16. Make sure your solution to any issue is better in terms of performance and other parameters in comparison to the previous work.
-17. We all are here to learn. You are allowed to make mistakes. That's how you learn, right!.
+5. When you raise a issue, make sure you get it assigned to you, before you start working on that project.
+6. Each participant / contributor will be **assigned 1 issue (max)** at a time to work.
+7. Participants are expected to follow **project guidelines** and [**coding style**](https://pep8.org/"). **Structured code** is one of our top priority.
+8. Try to **explain your approach** to solve any issue in the comments. This will increase the chances of you being assigned.
+9. Don't create issues that are **already listed**.
+10. Please don't pick up an issue already assigned to someone else. Work on the issues after it gets **assigned to you**.
+11. Make sure you **discuss issues** before working on the issue.
+12. Pull requests will be merged after being **reviewed** by a mentor or PA.
+13. It might take **a day or two** to review your pull request. Please have patience and be nice.
+14. Always create a pull request from a **branch** other than `main`.
+15. Participants / contributors have to complete issues before the decided Deadline. If you fail to make a PR within the deadline, then the issue will be assigned to another person in the queue.
+16. While making PRs, don't forget to **add a description** of your work.
+17. Make sure your solution to any issue is better in terms of performance and other parameters in comparison to the previous work.
+18. We all are here to learn. You are allowed to make mistakes. That's how you learn, right!.
 
 
 ### 🧲Pull Requests Review Criteria
