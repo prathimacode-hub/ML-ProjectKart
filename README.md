@@ -77,7 +77,8 @@ This project is a part of this open source progam.
 
 <h2> ✨ Contributors </h2>
 
-Thanks goes to these Wonderful People 👨🏻‍💻: Contributions of any kind are welcome!🚀 
+Thanks goes to these Wonderful People 👨🏻‍💻 
+Contributions of any kind are welcome!🚀 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
