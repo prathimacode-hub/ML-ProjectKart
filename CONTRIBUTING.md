@@ -69,8 +69,9 @@ Following are the steps to guide you:
 14. Always create a pull request from a **branch** other than `main`.
 15. Participants / contributors have to complete issues before the decided Deadline. If you fail to make a PR within the deadline, then the issue will be assigned to another person in the queue.
 16. While making PRs, don't forget to **add a description** of your work.
-17. Make sure your solution to any issue is better in terms of performance and other parameters in comparison to the previous work.
-18. We all are here to learn. You are allowed to make mistakes. That's how you learn, right!.
+17. Include issue number (Fixes:issuenumber) in your commit message while creating a pull request.
+18. Make sure your solution to any issue is better in terms of performance and other parameters in comparison to the previous work.
+19. We all are here to learn. You are allowed to make mistakes. That's how you learn, right!.
 
 
 ### 🧲Pull Requests Review Criteria
