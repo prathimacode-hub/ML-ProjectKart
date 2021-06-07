@@ -105,7 +105,7 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 
 | S.no | Project Name | Description |
 | --------------- | --------------- | --------------- |
-|     1.    |  Exploratory Data Analysis Of Meteorological Data  |   It analyzes the meteorological weather data of last 10yrs from 2006 to 2016 at Finland to check an increase of global warming   |
+|     1.    |  [Exploratory Data Analysis Of Meteorological Data](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Data%20Analysis%20of%20Meteorological%20Data)  |   It analyzes the meteorological weather data of last 10yrs from 2006 to 2016 at Finland to check an increase of global warming   |
 
 
 <h2>👍OpenSource Program</h2>
