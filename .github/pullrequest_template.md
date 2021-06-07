@@ -7,9 +7,9 @@
 
 Closes: #[issue number that will be closed through this PR]
 
-### Describe the changes you've made
+### Describe the add-ons or changes you've made
 
-Give a clear description what modifications you have made
+Give a clear description of what have you added or modifications made
 
 ## Type of change
 
@@ -26,6 +26,7 @@ Example how to mark a checkbox:-
 
 ## How Has This Been Tested?
 
+Describe how it has been tested
 Describe how have you verified the changes made
 
 ## Checklist:
@@ -35,13 +36,13 @@ Example how to mark a checkbox:-
 -->
 - [ ] My code follows the guidelines of this project.
 - [ ] I have performed a self-review of my own code.
-- [ ] I have commented my code, particularly whereever it was hard to understand.
+- [ ] I have commented my code, particularly wherever it was hard to understand.
 - [ ] I have made corresponding changes to the documentation.
 - [ ] My changes generate no new warnings.
-- [ ] I have added tests that prove my fix is effective or that my feature works.
+- [ ] I have added things that prove my fix is effective or that my feature works.
 - [ ] Any dependent changes have been merged and published in downstream modules.
 
-## Screenshots
+## Screenshots (Only for Front End and UI/UX Designers)
 
  Original           | Updated
  :--------------------: |:--------------------:
