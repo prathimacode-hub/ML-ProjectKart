@@ -29,11 +29,51 @@ The main aim is to provide an efficient and beginner-friendly projects that woul
 
 Anyone related to technology who are looking to contribute to open-source, are all invited to hop in. This place has task for everyone.
 
-| Machine Learning | Deep Learning | Natural Language Processing | Computer Vision | FrontEnd Designers | BackEnd Developers | UI/UX Designers |
+| **Machine Learning** | **Deep Learning** | **Natural Language Processing** | **Computer Vision** | **FrontEnd Designers** | **BackEnd Developers** | **UI/UX Designers** |
+
+**Data Analysts** - Frame the problem. Get, explore and prepare the data 
+
+**Machine Learning, Deep Learning, Computer Vision, Natural Language Processing Enthusiasts** - Try different algorithms, build model, optimize the model 
+
+**Front End Designers** – Design or code the webpage designed by designers 
+
+**Back End Developers** – Create backend for the model using Flask or Django 
+
+**UI/UX Designers** – Design dashboards, forms, webpages for the model 
 
 If you had worked on or want to initiate a unique project and want to share it with the world, you can do that through here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/CONTRIBUTING.md)👩‍💻
 
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+
+<h2>🛠Templates to Follow</h2>
+
+- [Feature request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/issue_template/feature_request.md)
+- [Bug Report](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/issue_template/bug_report.md)
+- [Pull Request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/pullrequest_template.md)
+- [README](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md)
+
+**Note** : One should follow these templates while creating a new issue or pull request. Else, 'LGM-SOC' label won't be assigned neither your contributions would count.
+This is to ensure that we know you as a 'LGM-SOC' participant.
+
+
+<h2>🛠Project Structure</h2>
+
+Your projects should contain this flow to maintain similarity across all other projects. Make sure to note these things, before you create a PR.
+
+**Dataset** - This folder would have a .csv file.
+
+**Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a README.md using this [template](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md). Any other related files can be added into this folder.
+
+**Images** - This folder would have images added if applicable.
+
+**Front End** - This folder would have files related to coding and designing the webpage. 
+
+**Back End** - This folder would have files regarding backend creation for the model using Flask and Django.
+
+**UI/UX** - This folder would have files regarding dashboards, forms and webpages for the model.
+
+Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respective folders and elaborate briefly about how it works by showing step by step procedure using screenshots.
 
 
 <h2>👨‍💻 Workflow:</h2>
@@ -111,6 +151,7 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
   <tr>
 <td align="center"><a href="https://github.com/Manasi2001"><img src="https://avatars.githubusercontent.com/u/68627617?v=4" width="100px;" alt=""/><br /><sub><b>Manasi Chibber</b></sub></a></td>
 <td align="center"><a href="https://github.com/TanweerulHaque"><img src="https://avatars.githubusercontent.com/u/50830237?v=4" width="100px;" alt=""/><br /><sub><b>Tanweerul Haque</b></sub></a></td>
+<td align="center"><a href="https://github.com/SinghShreya05"><img src="https://avatars.githubusercontent.com/u/50830709?v=4" width="100px;" alt=""/><br /><sub><b>Shreya Singh</b></sub></a></td>
   </tr>
 </table>
 
