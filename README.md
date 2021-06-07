@@ -105,9 +105,19 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/ML-P
 This project follows the [Mozilla Public License 2.0](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/LICENSE).
 
 
+<h2> ✔Mentors(LGM-SOC)</h2>
+
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/Manasi2001"><img src="https://avatars.githubusercontent.com/u/68627617?v=4" width="100px;" alt=""/><br /><sub><b>Manasi Chibber</b></sub></a></td>
+<td align="center"><a href="https://github.com/TanweerulHaque"><img src="https://avatars.githubusercontent.com/u/50830237?v=4" width="100px;" alt=""/><br /><sub><b>Tanweerul Haque</b></sub></a></td>
+  </tr>
+</table>
+
+
 <h2>🙂 Project Admin</h2>
 
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=120px height=120px /></a>
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=100px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 
