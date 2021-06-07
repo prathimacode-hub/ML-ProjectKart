@@ -39,7 +39,7 @@ Anyone related to technology who are looking to contribute to open-source, are a
 
 **Back End Developers** – Create backend for the model using Flask or Django 
 
-**UI/UX Designers** – Design dashboards, forms, webpages for the model 
+**UI/UX Designers** – Design dashboards, forms and webpages for the model 
 
 If you had worked on or want to initiate a unique project and want to share it with the world, you can do that through here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/CONTRIBUTING.md)👩‍💻
 
@@ -76,7 +76,7 @@ Your projects should contain this flow to maintain similarity across all other p
 Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respective folders and elaborate briefly about how it works by showing step by step procedure using screenshots.
 
 
-<h2>👨‍💻 Workflow:</h2>
+<h2>👨‍💻Workflow:</h2>
 
 - Fork the repository
 
@@ -91,7 +91,7 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 > print("Start contributing for ML-ProjectKart")
 
 
-<h2>⚙️ Things to Note</h2>
+<h2>⚙️Things to Note</h2>
 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
 * You can only work on issues that have been assigned to you.
@@ -108,44 +108,39 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 |     1.    |  Exploratory Data Analysis Of Meteorological Data  |   It analyzes the meteorological weather data of last 10yrs from 2006 to 2016 at Finland to check an increase of global warming   |
 
 
-<h2>👍 OpenSource Program</h2>
+<h2>👍OpenSource Program</h2>
 
 This project is a part of this open source progam.
 
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
 
+ 
+<h2>✨Hall Of Fame</h2>   
 
-<h2> ✨ Contributors </h2>
+Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
 
-Thanks goes to these Wonderful People 👨🏻‍💻 
-Contributions of any kind are welcome!🚀 
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://github.com/prathimacode-hub/"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="100px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a><br /><a href="#projectManagement-prathimacode-hub" title="Project Management">📆</a> <a href="#question-prathimacode-hub" title="Answering Questions">💬</a> <a href="https://github.com/prathimacode-hub/ML-ProjectKart/pulls?q=is%3Apr+reviewed-by%3Aprathimacode-hub" title="Reviewed Pull Requests">👀</a> <a href="#talk-prathimacode-hub" title="Talks">📢</a> <a href="#ideas-prathimacode-hub" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/prathimacode-hub/ML-ProjectKart/commits?author=prathimacode-hub" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/theanshulcode"><img src="https://avatars.githubusercontent.com/u/77589822?v=4" width="100px;" alt=""/><br /><sub><b>Anshul Srivastava</b></sub></a><br /><a href="https://github.com/prathimacode-hub/ML-ProjectKart/commits?author=theanshulcode" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/ML-ProjectKart/commits?author=theanshulcode" title="Documentation">📖</a></td>
-  </tr>
+	<tr>
+		<td>
+            <a href="https://github.com/prathimacode-hub/ML-ProjectKart/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=prathimacode-hub/ML-ProjectKart" />
+</a>
+    </td>
+	</tr>
 </table>
 
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
     
-    
-<h2>📜 Code Of Conduct</h2>
+<h2>📜Code Of Conduct</h2>
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/CODE_OF_CONDUCT.md).
 
 
-<h2>📝 License</h2>  
+<h2>📝License</h2>  
 
 This project follows the [Mozilla Public License 2.0](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/LICENSE).
 
 
-<h2> ✔Mentors(LGM-SOC)</h2>
+<h2>✔Mentors(LGM-SOC)</h2>
 
 <table>
   <tr>
@@ -156,9 +151,9 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
 </table>
 
 
-<h2>🙂 Project Admin</h2>
+<h2>🙂Project Admin</h2>
 
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=100px /></a>
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=120px height=120px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 
