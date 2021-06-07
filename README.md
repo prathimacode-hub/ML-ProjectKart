@@ -57,7 +57,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 This is to ensure that we know you as a 'LGM-SOC' participant.
 
 
-<h2>🛠Project Structure</h2>
+<h2>📝Project Structure</h2>
 
 Your projects should contain this flow to maintain similarity across all other projects. Make sure to note these things, before you create a PR.
 
