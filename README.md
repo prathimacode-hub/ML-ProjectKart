@@ -55,6 +55,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 **Note** : One should follow these templates while creating a new issue or pull request. Else, 'LGM-SOC' label won't be assigned neither your contributions would count.
 This is to ensure that we know you as a 'LGM-SOC' participant.
+If you had taken up the issue, that's already in the "Issues" tab. You should mention yourself as 'LGM-SOC' participant. 
 
 
 <h2>📝Project Structure</h2>
