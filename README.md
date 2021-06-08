@@ -64,7 +64,7 @@ Your projects should contain this flow to maintain similarity across all other p
 
 **Dataset** - This folder would have a .csv file.
 
-**Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a README.md using this [template](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md). Any other related files can be added into this folder.
+**Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a **'README.md'** using this [template](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md) and **'requirements.txt'** file which would be enclosed with all needed add-ons and libraries that are included in the project
 
 **Images** - This folder would have images added if applicable.
 
