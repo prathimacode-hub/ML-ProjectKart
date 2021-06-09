@@ -93,10 +93,10 @@ We want your work to be readable by others; therefore, we encourage you to note 
 - File extension for code should be `.ipynb`. 
 - Strictly use snake_case (underscore_separated) in your file_name, as it will be easy to parse in future using scripts.
 - Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure you have created for your project. If you want to, please contact before doing so.
-- The project folder should have 2 repositories : Dataset and Model. Dataset should have the related dataset files for project to work and Model should have the program file and other related files concerning the project for ML, DL, CV, NLP enthusiasts.
+- The basic project folder should have 2 repositories : Dataset and Model. Dataset should have the related dataset files for project to work and Model should have the program file and other related files concerning the project for ML, DL, CV, NLP enthusiasts.
 - The [README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md) file should be concise and clear about what the project is about and what it does.
 - It should be documented briefly enough to let readers understand. 
-- If you have modified/added code work, make sure that algorithm works before submitting
+- If you have modified/added code work, make sure that algorithm works before submitting.
 - If you have modified/added documentation work, ensure your language is concise and contains no grammar errors.
 - For front end designers, back end developers and UI/UX designers follow the project structure mentioned in [README](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md)
 - Do not update the [README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md) and [Contributing_Guidelines.md](https://github.com/prathimacode-hub/ML-ProjectKart//blob/main/CONTRIBUTING.md).
