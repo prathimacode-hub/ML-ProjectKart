@@ -16,6 +16,3 @@ The Customer Segmentation has been done using K Means Clustering. K-means cluste
 For the 5 cluster analysis where all the three parameters, age,annual income and spending score is taken into consideration, I have plotted a 3-D plot using pyplot library which provides excellent readability.
 
 
-Article
-
-I wrote an article on the same analysis, please find it [**here**](https://theanshul.medium.com/customer-segmentation-using-k-means-clustering-ffded3a2695).
