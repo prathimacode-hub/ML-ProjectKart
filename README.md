@@ -122,15 +122,19 @@ This project is a part of this open source progam.
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
-	<tr>
-		<td>
-            <a href="https://github.com/prathimacode-hub/ML-ProjectKart/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=prathimacode-hub/ML-ProjectKart" />
-</a>
-    </td>
-	</tr>
+  <tr>
+    <td align="center"><a href="https://github.com/prathimacode-hub/"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="100px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
+    <td align="center"><a href="https://github.com/theanshulcode"><img src="https://avatars.githubusercontent.com/u/77589822?v=4" width="100px;" alt=""/><br /><sub><b>Anshul Srivastava</b></sub></a></td>
+  </tr>
 </table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
     
 <h2>📜Code Of Conduct</h2>
