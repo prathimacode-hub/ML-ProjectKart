@@ -43,6 +43,8 @@ Anyone related to technology who are looking to contribute to open-source, are a
 
 If you had worked on or want to initiate a unique project and want to share it with the world, you can do that through here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/CONTRIBUTING.md)👩‍💻
 
+When issue is raised from your end (or) taken it from issues tab to add a project, elaborate as much as you could and as well notify us about the task you will be working, that might be Model Creation (or) Data Analysis (or) Front End (or) Back End (or) UI/UX Design.
+
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
