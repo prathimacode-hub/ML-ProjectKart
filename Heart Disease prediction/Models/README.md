@@ -18,6 +18,7 @@ Dataset can be downloaded from [kaggle](https://www.kaggle.com/ronitf/heart-dise
 - numpy
 - pandas
 - seaborn
+- matplotlib
 - scikit-learn
 
 **CONCLUSION**<br>
