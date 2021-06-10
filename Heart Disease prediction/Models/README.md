@@ -1,12 +1,12 @@
 **Heart Disease Prediction**
 
-**GOAL** <br>
+**GOAL**
 The goal of this project is to predict heart disease form features like age, cholesterol level, blood sugar level etc.
 
-**DATASET**<br>
+**DATASET**
 Dataset can be downloaded from [kaggle](https://www.kaggle.com/ronitf/heart-disease-uci).
 
-**WHAT I HAD DONE**<br>
+**WHAT I HAD DONE**
 - I used seaborn to visualize the correlation between the features.
 - Then I used different classification models present in sklearn to train the model.
 
@@ -14,14 +14,14 @@ Dataset can be downloaded from [kaggle](https://www.kaggle.com/ronitf/heart-dise
 -  Support Vector Machine(SVM)
 -  K-Nearest Neighbors
 
-**LIBRARIES NEEDED**<br>
+**LIBRARIES NEEDED**
 - numpy
 - pandas
 - seaborn
 - matplotlib
 - scikit-learn
 
-**CONCLUSION**<br>
+**CONCLUSION**
 By using SVM I got 
  ```python
     Train set Accuracy:  90.90
