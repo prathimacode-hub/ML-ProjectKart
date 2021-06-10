@@ -43,6 +43,8 @@ Anyone related to technology who are looking to contribute to open-source, are a
 
 If you had worked on or want to initiate a unique project and want to share it with the world, you can do that through here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/CONTRIBUTING.md)👩‍💻
 
+When issue is raised from your end (or) taken it from issues tab to add a project, elaborate as much as you could and as well notify us about the task you will be working, that might be Model Creation (or) Data Analysis (or) Front End (or) Back End (or) UI/UX Design.
+
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
@@ -55,6 +57,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 **Note** : One should follow these templates while creating a new issue or pull request. Else, 'LGM-SOC' label won't be assigned neither your contributions would count.
 This is to ensure that we know you as a 'LGM-SOC' participant.
+If you had taken up the issue, that's already in the "Issues" tab. You should mention yourself as 'LGM-SOC' participant. 
 
 
 <h2>📝Project Structure</h2>
@@ -63,7 +66,7 @@ Your projects should contain this flow to maintain similarity across all other p
 
 **Dataset** - This folder would have a .csv file.
 
-**Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a README.md using this [template](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md). Any other related files can be added into this folder.
+**Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a **'README.md'** using this [template](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md) and **'requirements.txt'** file which would be enclosed with all needed add-ons and libraries that are included in the project
 
 **Images** - This folder would have images added if applicable.
 
@@ -119,15 +122,19 @@ This project is a part of this open source progam.
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
-	<tr>
-		<td>
-            <a href="https://github.com/prathimacode-hub/ML-ProjectKart/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=prathimacode-hub/ML-ProjectKart" />
-</a>
-    </td>
-	</tr>
+  <tr>
+    <td align="center"><a href="https://github.com/prathimacode-hub/"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="100px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
+    <td align="center"><a href="https://github.com/theanshulcode"><img src="https://avatars.githubusercontent.com/u/77589822?v=4" width="100px;" alt=""/><br /><sub><b>Anshul Srivastava</b></sub></a></td>
+  </tr>
 </table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
     
 <h2>📜Code Of Conduct</h2>
