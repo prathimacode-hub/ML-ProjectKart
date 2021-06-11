@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>EmoRec</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body>
+
+    <section>
+        <h2 style=font-family:cursive;>EmoRec Welcomes you, have funn!!</h2>
+    </section>
+
+    <br>
+    <br>
+
+
+    <div id="wrapper">
+        <form action="/predict" name="myforms" method="POST" id=paper>
+            <textarea placeholder="Enter Here" id="text" name="text" rows="10"
+                style="overflow: hidden; word-wrap: break-word; resize: none; height: 180px; ">
+        </textarea>
+            <input type="submit" class="btn fourth" value="predict">
+        </form>
+    </div>
+
+
+
+    {% if prediction %}
+    <section>
+        <h2 style="font-family:verdana"> Emotion predicted is : {{prediction}}!</h2>
+    </section>
+    {% endif %}
+
+
+    {% for error in errors %}
+    <h4>{{ error }}</h4>
+    {% endfor %}
+
+
+
+
+</body>
+
+</html>
