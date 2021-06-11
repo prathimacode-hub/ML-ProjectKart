@@ -127,8 +127,9 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!ðŸš
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/prathimacode-hub/"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="100px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
     <td align="center"><a href="https://github.com/theanshulcode"><img src="https://avatars.githubusercontent.com/u/77589822?v=4" width="100px;" alt=""/><br /><sub><b>Anshul Srivastava</b></sub></a></td>
+    <td align="center"><a href="https://github.com/raunak51299"><img src="https://avatars.githubusercontent.com/u/27999592?v=4" width="100px;" alt=""/><br /><sub><b>Raunak</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Soumayan-pal01"><img src="https://avatars.githubusercontent.com/u/66107748?v=4" width="100px;" alt=""/><br /><sub><b>Soumayan Pal</b></sub></a></td>
   </tr>
 </table>
 
