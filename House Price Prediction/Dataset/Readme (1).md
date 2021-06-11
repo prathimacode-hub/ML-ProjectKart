@@ -17,7 +17,3 @@ The real estate markets, like those in Sydney and Melbourne, present an interest
 - **Sqft_above**: Squarefoot above is the space available at roof.
 
 
-
-
-
-
