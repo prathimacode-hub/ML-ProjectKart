@@ -1,7 +1,7 @@
 **Ice Cream Revenue Prediction**
 
 **GOAL**<br>
-The goal of this project is to predict the daily cce cream revenue form temperature feature.
+The goal of this project is to predict the daily ice cream revenue form temperature feature.
 
 **DATASET**<br>
 Dataset can be downloaded from [kaggle](https://www.kaggle.com/vinicius150987/ice-cream-revenue).
