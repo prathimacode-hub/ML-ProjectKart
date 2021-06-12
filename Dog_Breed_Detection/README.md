@@ -20,8 +20,12 @@ The Notebook can be found here or at:
 https://www.kaggle.com/anshalsingh/dog-breed-identification
 
 ## Working
-To get the model setup on your machine downlad the model from here https://drive.google.com/file/d/1PoZVJyJibe36KJIrdGa52YIrkPQ52uHZ/view?usp=sharing and put in the main directory.
+To get the model setup on your machine download the model from here https://drive.google.com/file/d/1PoZVJyJibe36KJIrdGa52YIrkPQ52uHZ/view?usp=sharing and put it in the "Back End" directory.
+After that follow the below steps:
+- Run the python script named "app.py"
 
-Run the "app.py" script given in the folder if requirements satisfied it would lead to a link , open that in browser and you're ready to predict.
+- After that go to the produced link in your browser
+
+- Upload your image and find out your dog's breed.
 
 ![Demo](https://raw.githubusercontent.com/Anshal55/ML-ProjectKart/Dog_breed_identification/Dog_Breed_Detection/Images/WorkingDemo.png)
