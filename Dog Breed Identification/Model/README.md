@@ -9,7 +9,7 @@ Steps folllowed are:
 - Train the model.
 - Save the model.
 - Make predictions.
-
+ 
 # Dog Breed Identification
 This project is about predicting the breed of a dog, this can be helpful to people who are not expert in the field.
 - The dataset consists of about 10,000 images for training, I used an Image data generator to get the train and validation data.
