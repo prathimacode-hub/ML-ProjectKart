@@ -14,7 +14,7 @@ import pickle
 app =Flask(__name__)
 
 #load model
-model = load_model("Model_nasanet.h5")
+model = load_model("Model_nasnet.h5")
 
 print("Model Loaded!")
 
