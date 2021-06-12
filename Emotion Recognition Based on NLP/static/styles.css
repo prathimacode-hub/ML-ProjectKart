@@ -1,0 +1,147 @@
+.fourth {
+    border-color: #f1c40f;
+    color: rgb(10, 1, 1);
+    background-image: -webkit-linear-gradient(45deg, #c52222 50%, transparent 50%);
+    background-image: linear-gradient(45deg, #f50929 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    -webkit-transition: background 300ms ease-in-out;
+    transition: background 300ms ease-in-out;
+}
+.fourth:hover {
+    background-position: 0;
+}
+body {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+.btn {
+    box-sizing: border-box;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+    background-color: transparent;
+    border: 2px solid #070100;
+    border-radius: 0.6em;
+    color: #0c0100;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-self: center;
+        -ms-flex-item-align: center;
+            align-self: center;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1;
+    margin: 20px;
+    padding: 1.2em 2.8em;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+  }
+  .btn:hover, .btn:focus {
+    color: rgb(8, 0, 0);
+    outline: 0;
+  }
+  
+
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+*{	
+    outline:none;	
+    border:none;	
+    margin:0px;	
+    padding:0px;	
+    font-family:Courier, monospace;	
+  }
+#paper {
+    color:#FFF;
+    font-size:20px;
+  }
+#margin {	
+    margin-left:12px;	
+    margin-bottom:20px;	
+    -webkit-user-select: none;	
+    -moz-user-select: none;	
+    -ms-user-select: none;	
+    -o-user-select: none;	
+    user-select: none; 	
+  }
+#text {
+    width:500px;
+    overflow:hidden;
+    background-color:#FFF;
+    color:#222;
+    font-family:Courier, monospace;
+    font-weight:normal;
+    font-size:24px;
+    resize:none;
+    line-height:40px;
+    padding-left:100px;
+    padding-right:100px;
+    padding-top:45px;
+    padding-bottom:34px;
+    background-image:url(https://static.tumblr.com/maopbtg/E9Bmgtoht/lines.png), url(https://static.tumblr.com/maopbtg/nBUmgtogx/paper.png);
+    background-repeat:repeat-y, repeat;
+    -webkit-border-radius:12px;
+    border-radius:12px;
+    -webkit-box-shadow: 0px 2px 14px #000;
+    box-shadow: 0px 2px 14px #000;
+    border-top:1px solid #FFF;
+    border-bottom:1px solid #FFF;
+  }
+#wrapper {	
+    width:700px;	
+    height:auto;	
+    margin-left:auto;	
+    margin-right:auto;	
+    margin-top:24px;	
+    margin-bottom:100px;
+}
+
+section {
+    width:32%;
+    margin:0 auto;
+    margin-top:80px;
+  }
+h2 {
+    color: #080008; 
+    font-family:sans-serif;
+    font-weight:lighter;
+    font-size: 2em;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 30em;
+    animation: keyframes 5s steps(500) infinite; 
+  }
+  
+@keyframes keyframes{ 
+    
+    from{ width: 0px;} 
+    
+} 
+
+
+
+  
+  
+
+
+
+  
+
