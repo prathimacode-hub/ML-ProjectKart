@@ -29,6 +29,11 @@
     "description": "This issue will be considered as level 1 issue for LGM-SOC 21.Points will be 5",
     "color": "cfda2c"
   },
+    {
+    "name": "🟪 Level0 ",
+    "description": "This issue will be considered as level 0 issue for LGM-SOC 21.Points will be 5",
+    "color": "aa00de"
+  },
   {
     "name": " LGMSOC21 ",
     "description": "This issue will be considered for LGM-SOC 21",
