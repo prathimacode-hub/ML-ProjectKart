@@ -17,5 +17,3 @@ To get the model setup on your machine downlad the model from here https://drive
 Run the "app.py" script given in the folder if requirements satisfied it would lead to a link , open that in browser and you're ready to predict.
 
 ![Demo](https://raw.githubusercontent.com/Anshal55/ML-ProjectKart/Dog_breed_identification/Dog_Breed_Identification/WorkingDemo.png)
-
-- [ x ] 
