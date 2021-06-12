@@ -108,7 +108,16 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 
 | S.no | Project Name | Description |
 | --------------- | --------------- | --------------- |
-|     1.    |  [Exploratory Data Analysis Of Meteorological Data](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Data%20Analysis%20of%20Meteorological%20Data)  |   It analyzes the meteorological weather data of last 10yrs from 2006 to 2016 at Finland to check an increase of global warming   |
+|     1.    |  [Exploratory Data Analysis Of Meteorological Data](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Data%20Analysis%20of%20Meteorological%20Data)  |   It analyzes the meteorological weather data of last 10yrs from 2006 to 2016 at Finland to check an increase of global warming.   |
+|     2.    |  [Heart Disease Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Heart%20Disease%20prediction)  |   This project predicts heart disease based on features like age, cholesterol level, blood sugar level etc.   |
+|     3.    |  [Face Mask Detection Using OpenCV](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Face%20Mask%20Detection%20using%20OpenCV)  |    This a Face Mask Detection project that uses both Haar Cascades and Caffe framework approaches for face detection and a finetuned MobileNetV2 model to detect masks on face taking real time video stream as input.   |
+|     4.    |  [Emotion Recognition using NLP](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Emotion%20Recognition%20Based%20on%20NLP)  |  An Intelligent Emotion Predictor which uses NLP technique by sending text input to determine whether data is positive, negative or neutral.   |
+|     5.    |  [Loan Eligibility Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Loan%20Eligibility%20Prediction)  |   This is a loan eligibility prediction project which will predict the eligibility of a customer for getting a loan from the company using various parameters.  |
+|     6.    |  [Brain Tumor Detection and Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Brain%20Tumor%20Detection%20and%20Classification)  |   This project detects the presence of brain tumor by processing MRI scans of the patient. If the presence of tumor is detected, it is then classified into ‘Glioma’, ‘Pituitary’ or ‘Meningioma’.    |
+|     7.    |  [House Prices Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/House%20Price%20Prediction)  |   This project predicts the prices of houses located in the cities of US, with the help of essential features.   |
+|     8.    |  [Icecream Revenue Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Ice%20Cream%20Revenue%20Prediction)  |   This is an icecream revenue prediction which predicts the daily revenue of icecreams depending on the temperature feature.   |
+
+
 
 
 <h2>👍OpenSource Program</h2>
@@ -130,6 +139,10 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
     <td align="center"><a href="https://github.com/theanshulcode"><img src="https://avatars.githubusercontent.com/u/77589822?v=4" width="100px;" alt=""/><br /><sub><b>Anshul Srivastava</b></sub></a></td>
     <td align="center"><a href="https://github.com/raunak51299"><img src="https://avatars.githubusercontent.com/u/27999592?v=4" width="100px;" alt=""/><br /><sub><b>Raunak</b></sub></a></td>
     <td align="center"><a href="https://github.com/Soumayan-pal01"><img src="https://avatars.githubusercontent.com/u/66107748?v=4" width="100px;" alt=""/><br /><sub><b>Soumayan Pal</b></sub></a></td>
+    <td align="center"><a href="https://github.com/NEERAJAP2001"><img src="https://avatars.githubusercontent.com/u/65017645?v=4" width="100px;" alt=""/><br /><sub><b>Neeraj Ap</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Rutikab12"><img src="https://avatars.githubusercontent.com/u/71027989?v=4" width="100px;" alt=""/><br /><sub><b>Rutik Bhoyar</b></sub></a></td>
+    <td align="center"><a href="https://github.com/PriyankaHotchandani"><img src="https://avatars.githubusercontent.com/u/68430517?v=4" width="100px;" alt=""/><br /><sub><b>Priyanka Hotchandani</b></sub></a></td>
+    <td align="center"><a href="https://github.com/harshita9621"><img src="https://avatars.githubusercontent.com/u/57454733?v=4" width="100px;" alt=""/><br /><sub><b>Harshita Nayak</b></sub></a></td>
   </tr>
 </table>
 
