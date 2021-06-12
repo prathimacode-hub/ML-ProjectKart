@@ -18,3 +18,4 @@ Run the "app.py" script given in the folder if requirements satisfied it would l
 
 ![Demo](https://raw.githubusercontent.com/Anshal55/ML-ProjectKart/Dog_breed_identification/Dog_Breed_Identification/WorkingDemo.png)
 
+- [x]
