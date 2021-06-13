@@ -6,7 +6,7 @@
 
 ## How to Use:
 - Add your image to the [Input Folder](https://github.com/Sidhved/ML-ProjectKart/tree/main/Animate%20Me!/Input%20Image) and/or change the corresponding image address in the [Animate_Me.py](https://github.com/Sidhved/ML-ProjectKart/blob/main/Animate%20Me!/Animate_Me.py)
-- A window with the output image will pop up (You can also find the image saved in the [Output Folder](https://github.com/Sidhved/ML-ProjectKart/tree/main/Animate%20Me!/Output%20Image)
+- A window with the output image will pop up (You can also find the image saved in the [Output Folder](https://github.com/Sidhved/ML-ProjectKart/tree/main/Animate%20Me!/Output%20Image))
 - To learn about the intermediary steps, run the [Animate_Me.ipynb](https://github.com/Sidhved/ML-ProjectKart/blob/main/Animate%20Me!/Animate_Me.ipynb)
 
 ## Further Work / Improvements:
