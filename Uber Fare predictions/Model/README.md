@@ -54,6 +54,6 @@
 
 **Conclusion**
 
-We can conclude from this project that the Random Forest is a very powerful model to perform regression tasks using ensemble learning appraoch called as bagging or bootstrap aggregating to predict the fares with an accuracy of 80%. This accuracy increases to % when model hypertuning is done using the RandomisedSearchCV which works on the cross-validation approach.
+We can conclude from this project that the Random Forest is a very powerful model to perform regression tasks using ensemble learning appraoch called as bagging or bootstrap aggregating to predict the fares with an accuracy of 81%.
  
 <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Uber%20Fare%20predictions/Images/RF_regressor.png" width="500">
