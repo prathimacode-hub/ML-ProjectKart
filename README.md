@@ -116,8 +116,11 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 |     6.    |  [Brain Tumor Detection and Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Brain%20Tumor%20Detection%20and%20Classification)  |   This project detects the presence of brain tumor by processing MRI scans of the patient. If the presence of tumor is detected, it is then classified into ‘Glioma’, ‘Pituitary’ or ‘Meningioma’.    |
 |     7.    |  [House Prices Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/House%20Price%20Prediction)  |   This project predicts the prices of houses located in the cities of US, with the help of essential features.   |
 |     8.    |  [Icecream Revenue Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Ice%20Cream%20Revenue%20Prediction)  |   This is an icecream revenue prediction which predicts the daily revenue of icecreams depending on the temperature feature.   |
-
-
+|     9.    |  [Uber Fare Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Uber%20Fare%20predictions)  |   This project helps in predicting the fare to be charged for the Uber travelling person.   |
+|     10.    |  [Parkinson's Disease Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Parkinson's%20Disease%20Prediction)  |    This project helps in finding the reasons for parkinson's disease and who are predicted to have this disease.   |
+|     11.    |  [Concrete Strength Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Concrete%20Strength%20Prediction)  |   The aim of this project is to predict strength of the concrete from features as fly ash, blast furnamce slag, water, fine aggregate, coarse aggregate, cement, age etc.   |
+|     12.    |  [Dog Breed Identifiction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Dog%20Breed%20Identification)  |   Dog Breed Identification helps in predicting the breed of the dogs using an image model   |
+|     13.    |  [Churn Risk Score Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Churn%20Risk%20Score%20Prediction)  |   This project is used to predict the churn score for a website based on the related features   |
 
 
 <h2>👍OpenSource Program</h2>
@@ -144,6 +147,11 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
     <td align="center"><a href="https://github.com/PriyankaHotchandani"><img src="https://avatars.githubusercontent.com/u/68430517?v=4" width="100px;" alt=""/><br /><sub><b>Priyanka Hotchandani</b></sub></a></td>
     <td align="center"><a href="https://github.com/harshita9621"><img src="https://avatars.githubusercontent.com/u/57454733?v=4" width="100px;" alt=""/><br /><sub><b>Harshita Nayak</b></sub></a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Sumit11081996"><img src="https://avatars.githubusercontent.com/u/68699320?v=4" width="100px;" alt=""/><br /><sub><b>Sumit</b></sub></a></td>
+    <td align="center"><a href="https://github.com/ayushi424"><img src="https://avatars.githubusercontent.com/u/68391974?v=4" width="100px;" alt=""/><br /><sub><b>Ayushi Shrivastava</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Anshal55"><img src="https://avatars.githubusercontent.com/u/54211313?v=4" width="100px;" alt=""/><br /><sub><b>Anshal Singh</b></sub></a></td>
+   </tr>
 </table>
 
 <!-- markdownlint-enable -->
