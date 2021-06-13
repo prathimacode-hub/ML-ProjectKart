@@ -121,6 +121,7 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 |     11.    |  [Concrete Strength Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Concrete%20Strength%20Prediction)  |   The aim of this project is to predict strength of the concrete from features as fly ash, blast furnamce slag, water, fine aggregate, coarse aggregate, cement, age etc.   |
 |     12.    |  [Dog Breed Identifiction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Dog%20Breed%20Identification)  |   Dog Breed Identification helps in predicting the breed of the dogs using an image model   |
 |     13.    |  [Churn Risk Score Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Churn%20Risk%20Score%20Prediction)  |   This project is used to predict the churn score for a website based on the related features   |
+|     14.    |  [Animate Me](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Animate%20Me!)  |   It is a simple OpenCV project that converts input image to a cartoon equivalent   |
 
 
 <h2>üëçOpenSource Program</h2>
@@ -151,6 +152,9 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!üö
     <td align="center"><a href="https://github.com/Sumit11081996"><img src="https://avatars.githubusercontent.com/u/68699320?v=4" width="100px;" alt=""/><br /><sub><b>Sumit</b></sub></a></td>
     <td align="center"><a href="https://github.com/ayushi424"><img src="https://avatars.githubusercontent.com/u/68391974?v=4" width="100px;" alt=""/><br /><sub><b>Ayushi Shrivastava</b></sub></a></td>
     <td align="center"><a href="https://github.com/Anshal55"><img src="https://avatars.githubusercontent.com/u/54211313?v=4" width="100px;" alt=""/><br /><sub><b>Anshal Singh</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Sidhved"><img src="https://avatars.githubusercontent.com/u/66831453?v=4" width="100px;" alt=""/><br /><sub><b>Sidhved</b></sub></a></td>
+   
+   
    </tr>
 </table>
 
