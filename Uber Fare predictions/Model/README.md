@@ -1,6 +1,10 @@
 **PROJECT TITLE - Uber Fare Prediction**
-        
-<img src = "" width="300">
+  
+ 
+ 
+<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Uber%20Fare%20predictions/Images/project_viz2.png" width="400"> 
+<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Uber%20Fare%20predictions/Images/project_viz1.png" width="200">
+
 
 **GOAL** - The main objective of project is to design an algorithm which will tell the fare to be charged for a passenger. Multiple machine learning algorithms have been used to develop a regression model.
 
@@ -22,6 +26,7 @@
 - Splitting the data
 - Defining a model to pass any algorithm and to calculate the r2_score, MAE, MSE, RMSE.
 - Using RandomForestRegressor
+- Using Linear Regression
 - Using KNNs
 - Using Decision Tree
 - Saving the model locally
@@ -43,12 +48,12 @@
 
 **Data Visualizations**
 
-<img src = "" width="400">
+<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Uber%20Fare%20predictions/Images/boxplot_3.png" width="500">
 
-<img src = "" width="400">
+<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Uber%20Fare%20predictions/Images/final_outlier_plot.png" width="500">
 
 **Conclusion**
 
 We can conclude from this project that the Random Forest is a very powerful model to perform regression tasks using ensemble learning appraoch called as bagging or bootstrap aggregating to predict the fares with an accuracy of 80%. This accuracy increases to % when model hypertuning is done using the RandomisedSearchCV which works on the cross-validation approach.
  
-<img src = "" width="400">
+<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Uber%20Fare%20predictions/Images/RF_regressor.png" width="500">
