@@ -6,7 +6,7 @@
 - We use one of the most popular classification type data set: [IRIS Dataset](https://www.kaggle.com/arshid/iris-flower-dataset)
 
 ### How to run:
-- Driect to the Models Folder and navigate to [IRIS Flower Classification.ipynb]()
+- Driect to the Models Folder and navigate to [IRIS Flower Classification.ipynb](https://github.com/Sidhved/ML-ProjectKart/blob/main/IRIS%20Flower%20Classification/Model/iris_flower_classification.ipynb)
 - Follow the directions present in the markdown cells and run the notebook accordingly
 
 ### Results and Future Advancements
@@ -15,4 +15,4 @@
 - Use more versatile feature selection techniques based on correlation values for dominant results.
 
 ### Cross-Validation Score Comparison
-![Cross-Val Score]()
+![Cross-Val Score](https://github.com/Sidhved/ML-ProjectKart/blob/main/IRIS%20Flower%20Classification/Images/Cross%20Validation%20Score%20Graph.JPG)
