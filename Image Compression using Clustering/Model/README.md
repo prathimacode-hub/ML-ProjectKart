@@ -25,8 +25,10 @@
 
 **MODELS USED**
 - K-Means Clustering - This algorithm group similar colors together into ‘k’ clusters of different colors (RGB values). Therefore, each cluster centroid is the representative of the three dimensional color vector in RGB color space of its respective cluster. You might have guessed by now how smoothly K-means can be applied on the pixel values to get the resultant compressed image. Now, these ‘k’ cluster centroids will replace all the color vectors in their respective clusters.
+ 
+ **The working of this algorithm can be understood from the animation given below**
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Image%20Compression%20using%20Clustering/Images/project_amim1.png" width="200">
+<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Image%20Compression%20using%20Clustering/Images/project_amim1.png" width="300">
 
 
 **LIBRARIES NEEDED**
