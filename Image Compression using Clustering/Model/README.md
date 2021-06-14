@@ -39,7 +39,6 @@
 - scikit-learn
 - ipywidgets
 
-
 **ScreenShots of Compressed Image in Interactive control**
 
 <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Image%20Compression%20using%20Clustering/Images/Interactive%20Control%20Displays/interact_1.png" width="500">
