@@ -1,4 +1,4 @@
-**Colour Identification using Machine Learning**
+# Colour Identification using Machine Learning
 
 **GOAL**
 A very common task in Computer Vision is based on identifying colours.
@@ -16,7 +16,9 @@ I have used OpenCV and Pandas library to choose a point on any particular image 
 OpenCV and Pandas
 
 Original Pic:
+
 ![pic1](https://user-images.githubusercontent.com/58680590/122101277-ba584b00-ce31-11eb-9a98-36e83a1a4e45.jpg)
 
 Result:
+
 ![result3](https://user-images.githubusercontent.com/58680590/122101306-c17f5900-ce31-11eb-8fd9-780ee00f764a.png)
