@@ -163,8 +163,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!ðŸš
     <td align="center"><a href="https://github.com/ayushi424"><img src="https://avatars.githubusercontent.com/u/68391974?v=4" width="100px;" alt=""/><br /><sub><b>Ayushi Shrivastava</b></sub></a></td>
     <td align="center"><a href="https://github.com/Anshal55"><img src="https://avatars.githubusercontent.com/u/54211313?v=4" width="100px;" alt=""/><br /><sub><b>Anshal Singh</b></sub></a></td>
     <td align="center"><a href="https://github.com/Sidhved"><img src="https://avatars.githubusercontent.com/u/66831453?v=4" width="100px;" alt=""/><br /><sub><b>Sidhved</b></sub></a></td>
-   
-   
+    <td align="center"><a href="https://github.com/Jagannath8"><img src="https://avatars.githubusercontent.com/u/64650848?v=4" width="100px;" alt=""/><br /><sub><b>Jagannath</b></sub></a></td>
    </tr>
 </table>
 
