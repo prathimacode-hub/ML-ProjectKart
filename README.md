@@ -122,6 +122,16 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 |     12.    |  [Dog Breed Identifiction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Dog%20Breed%20Identification)  |   Dog Breed Identification helps in predicting the breed of the dogs using an image model   |
 |     13.    |  [Churn Risk Score Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Churn%20Risk%20Score%20Prediction)  |   This project is used to predict the churn score for a website based on the related features   |
 |     14.    |  [Animate Me](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Animate%20Me!)  |   It is a simple OpenCV project that converts input image to a cartoon equivalent   |
+|     15.    |  [Breast Cancer Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Breast%20Cancer%20Prediction)  |   The breast cancer prediction project helps in predicting whether the patient suffering from breast cancer is benign or malignant.   |
+|     16.    |  [Car Prices Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Car%20Prices%20Prediction)  |   The main goal is to predict the price of cars with the available independent variables   |
+|     17.    |  [Iris Flower Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/IRIS%20Flower%20Classification)  |   The project is to classify the flowers among three 3 different types.   |
+|     18.    |  [Image Compression Using Clustering](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Image%20Compression%20using%20Clustering)  |   This project helps in compressing the image using K-Means Clustering.   |
+|     19.    |  [Loan Eligibility Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Loan%20Eligibility%20Prediction)  |   The main goal of the project is to predict the eligibility of a customer for getting a loan from the company   |
+|     20.    |  [NASA Asteroids Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/NASA%20Asteroids%20Classification)  |   This project helps in classifying the NASA Asteroids and checks for features responsible for claiming whether the asteroid is hazardous.   |
+|     21.    |  [Sign Language Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Sign%20Language%20Prediction)  |   The sign language prediction project helps in identifying the sign language from an image.   |
+|     22.    |  [Twitter Sentiment Analysis](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Twitter%20Sentiment%20Analysis)  |   This project helps in analyzing the sentiment using the text data put on twitter to check it by classifying the statements as positive, negative or neutral.   |
+|     23.    |  [Uber Fare Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Uber%20Fare%20predictions)  |   The intention of this project is to predicts the fare to be charged for an uber passenger.   |
+
 
 
 <h2>üëçOpenSource Program</h2>
@@ -153,8 +163,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!üö
     <td align="center"><a href="https://github.com/ayushi424"><img src="https://avatars.githubusercontent.com/u/68391974?v=4" width="100px;" alt=""/><br /><sub><b>Ayushi Shrivastava</b></sub></a></td>
     <td align="center"><a href="https://github.com/Anshal55"><img src="https://avatars.githubusercontent.com/u/54211313?v=4" width="100px;" alt=""/><br /><sub><b>Anshal Singh</b></sub></a></td>
     <td align="center"><a href="https://github.com/Sidhved"><img src="https://avatars.githubusercontent.com/u/66831453?v=4" width="100px;" alt=""/><br /><sub><b>Sidhved</b></sub></a></td>
-   
-   
+    <td align="center"><a href="https://github.com/Jagannath8"><img src="https://avatars.githubusercontent.com/u/64650848?v=4" width="100px;" alt=""/><br /><sub><b>Jagannath</b></sub></a></td>
    </tr>
 </table>
 
