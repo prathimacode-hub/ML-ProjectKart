@@ -1,7 +1,7 @@
 ---
 title: Project Title
 about: Suggest an idea for this project
-name: YourName
+name: Your Name
 label: Feature Request
 Assignee: ''
 
