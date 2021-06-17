@@ -17,11 +17,11 @@ The main goal of the project is to analyse the Bike Share Count in case of diffe
 * Random Forest Regression
 
 # LIBRARIES NEEDED 
-* pandas (Version:1.2.4)
-* NumPy (Version: 1.20.0)
-* seaborn (Version: 0.11.1)
-* Matplotlib (Version: 3.4.2) 
-* scikit-learn (Version: 0.24.2)
+* pandas 
+* NumPy 
+* seaborn 
+* Matplotlib  
+* scikit-learn
 
 # CONCLUSION 
 From the models used, Random Forest Regression Turned out to be the more accurate
