@@ -1,4 +1,4 @@
-**Spam mail detection -#24**
+**Spam mail detection - #24**
 
 **Goal:** This project predicts whether the received message is spam or ham.
 
