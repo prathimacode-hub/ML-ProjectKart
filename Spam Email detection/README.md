@@ -45,3 +45,22 @@ confuion matrix:
 [ 20 207]]
 
 Accuracy score: 0.9730861244019139
+
+Performance of logistic regression:
+
+classification report:
+               precision    recall  f1-score   support
+
+         ham       0.97      0.99      0.98      1445
+        spam       0.95      0.81      0.87       227
+
+    accuracy                           0.97      1672
+    macro avg          0.96    0.90    0.93      1672
+    weighted avg       0.97    0.97    0.97      1672
+
+
+confuion matrix:
+ [[1436    9]
+ [  44  183]]
+
+Accuracy score: 0.9683014354066986
