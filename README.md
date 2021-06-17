@@ -140,6 +140,34 @@ This project is a part of this open source progam.
 
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
 
+## Levels & Points
+
+<table>
+  <tr>
+    <th>Level</th>
+    <th>Points</th> 
+  </tr>
+  <tr>
+    <td>Level 0</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Level 1</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Level 2</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>Level 3</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Level 4</td>
+    <td>45</td>
+  </tr>
+</table>
  
 <h2>✨Hall Of Fame</h2>   
 
