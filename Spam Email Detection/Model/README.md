@@ -26,7 +26,7 @@
 
 **Conclusion:** This project helps you predict the message is spam/ ham . From the two algorithms I have used the Naive bayes classifier is more accurate than Logistic regression.
 
-Performance of Naive bayes:
+Performance of Naive bayes :
 
 classification report: 
 
