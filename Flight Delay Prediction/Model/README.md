@@ -29,4 +29,4 @@
 **CONCLUSION**
 - Ensemble Modeling approach is best possible way to get higher performing model.
 - Delays in departure of flights affects mostly to delay in flights.
-- Logistic Regression model can predict 99.8% accurate results of flight delays..
+- Logistic Regression model can predict 99.8% accurate results of flight delays.
