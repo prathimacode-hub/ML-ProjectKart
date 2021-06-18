@@ -32,13 +32,15 @@ The dataset can be found in the link: https://www.kaggle.com/c/titanic/data
 # *MODELS USED*
 The model I used to predict was initially Naive Bayes but since the accuracy score was less, other models used are:
 
-1. Decision Tree Classifier
+1. Naive Bayes
 
-2. KNeighborsClassifier
+2. Decision Tree Classifier
 
-3. Random Forest Classifier
+3. KNeighborsClassifier
 
-4. Support Vector Machine
+4. Random Forest Classifier
+
+5. Support Vector Machine
 
 
 # *LIBRARIES NEEDED*
@@ -60,6 +62,7 @@ Accuracies of the models:
 2. Decision Tree Classifier: 80.67%
 3. K Neighbors Classifier : 81.13%
 4. Random Forest Classifier: 81.48%
+5. Support Vector Machine: 81.48%
 
 Then I was able to predict by myself from the test dataset that whether a person would survive or not.
 
