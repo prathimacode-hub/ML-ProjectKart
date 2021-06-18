@@ -1,10 +1,10 @@
 **FLIGHT DELAY PREDICTION**
 
-**GOAL**
-The main purpose of this project is to predict future delays in flights.
+**GOAL** 
+- The main purpose of this project is to predict future delays in flights.
 
 **DATASET**
-The data used in this project can be downloaded from [here](https://www.kaggle.com/usdot/flight-delays?select=flights.csv)
+- The data used in this project can be downloaded from [here](https://www.kaggle.com/usdot/flight-delays?select=flights.csv)
 
 **WHAT I HAD DONE**
 - Performed Exploratory Data Analysis.
