@@ -54,10 +54,17 @@ The libraries I used were:
 # *CONCLUSION* 
 The classifier which predicted that a particular person would survive or not with the highest accuracy was *Random Forest Classifier*
 
-![lgm1](https://user-images.githubusercontent.com/64091188/122525945-63bc5e00-d037-11eb-96a0-774107cb7b59.jpg)
+Accuracies of the models:
+
+1. Naive Bayes: 81.04%
+2. Decision Tree Classifier: 80.67%
+3. K Neighbors Classifier : 81.13%
+4. Random Forest Classifier: 81.48%
 
 Then I was able to predict by myself from the test dataset that whether a person would survive or not.
 
-![lgm2](https://user-images.githubusercontent.com/64091188/122526145-9d8d6480-d037-11eb-9cc0-8470f01aa393.jpg)
+Link to the results:
+
+
 
 
