@@ -64,7 +64,7 @@ Accuracies of the models:
 Then I was able to predict by myself from the test dataset that whether a person would survive or not.
 
 Link to the results:
-
+https://github.com/RHEA211/ML-ProjectKart/tree/main/Titanic%20Survival%20Prediction/Images
 
 
 
