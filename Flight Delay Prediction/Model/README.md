@@ -1,4 +1,4 @@
-**FLIGHT DELAY PREDICTION**
+:-: **FLIGHT DELAY PREDICTION** :-:
 
 **GOAL** 
 - The main purpose of this project is to predict future delays in flights.
