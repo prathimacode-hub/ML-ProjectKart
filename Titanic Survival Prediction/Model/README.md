@@ -35,7 +35,7 @@ The libraries I used were:
 3.Sklearn
 
 
-#*CONCLUSION* 
+# *CONCLUSION* 
 The classifier which predicted that a particular person would survive or not with the highest accuracy was *Random Forest Classifier*
 
 ![lgm1](https://user-images.githubusercontent.com/64091188/122525945-63bc5e00-d037-11eb-96a0-774107cb7b59.jpg)
