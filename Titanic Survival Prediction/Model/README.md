@@ -12,26 +12,42 @@ The dataset can be found in the link: https://www.kaggle.com/c/titanic/data
 # *WHAT HAVE I DONE*
 
 1.Imported the dataset and studied it carefully
-2.Checked for the null values and filled them up by taking the mean in case of numerical values and by filling up the null spaces using the data   that was most likely to survive in case of non numerical values.
+
+2.Checked for the null values and filled them up by taking the mean in case of numerical values and by filling up the null spaces using the data   that was most 
+ likely to survive in case of non numerical values.
+ 
 3.Used bar graphs for data visualisation to see the difference between survived and dead passengers with respect to various parameters.
+
 4.Carried out Mapping to convert textual data to numerical data.
+
 5.Dropped of some unnecessary data from the data set which was not required.
+
 6.Trained my model using train dataset 
+
 7.Based on vrious classifiers , figured out which one dives highest accuracy score.
+
 8.Finally ,tested my model using the test dataset.
+
 
 # *MODELS USED*
 The model I used to predict was initially Naive Bayes but since the accuracy score was less, other models used are:
+
 1.Decision Tree Classifier
+
 2.KNeighborsClassifier
+
 3.Random Forest Classifier
+
 4.Support Vector Machine
 
 
 # *LIBRARIES NEEDED*
 The libraries I used were:
+
 1.Pandas
+
 2.Numpy
+
 3.Sklearn
 
 
