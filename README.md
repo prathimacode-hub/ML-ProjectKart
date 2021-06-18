@@ -1,21 +1,24 @@
 # ML-ProjectKart
+<div align="center">
 
 ![Alt text of image](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/ML-ProjectKart.png)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/prathimacode-hub/ML-ProjectKart) ![Maintenance](https://img.shields.io/maintenance/yes/2021) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) 
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
+[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/prathimacode-hub)
+[![Maintenance](https://img.shields.io/maintenance/yes/2021)](https://github.com/prathimacode-hub)
 
+[![GitHub contributors](https://img.shields.io/github/contributors-anon/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/graphs/contributors)
+[![](https://badgen.net/github/stars/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/stargazers)
+[![](https://badgen.net/github/forks/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/network/members)
+[![](https://badgen.net/github/open-issues/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/issues)
+[![](https://badgen.net/github/closed-issues/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/issues?q=is%3Aissue+is%3Aclosed)
+[![](https://badgen.net/github/prs/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls)
+[![](https://badgen.net/github/open-prs/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls)
+[![](https://badgen.net/github/closed-prs/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls?q=is%3Apr+is%3Aclosed)
 
-<center>
-
-![](https://badgen.net/github/stars/prathimacode-hub/ML-ProjectKart)
-![](https://badgen.net/github/forks/prathimacode-hub/ML-ProjectKart)
-![](https://badgen.net/github/open-issues/prathimacode-hub/ML-ProjectKart)
-![](https://badgen.net/github/closed-issues/prathimacode-hub/ML-ProjectKart)
-![](https://badgen.net/github/prs/prathimacode-hub/ML-ProjectKart)
-![](https://badgen.net/github/open-prs/prathimacode-hub/ML-ProjectKart)
-![](https://badgen.net/github/closed-prs/prathimacode-hub/ML-ProjectKart)
-
-</center>
+</div>
 
 
 <h2>📌Repository</h2>
