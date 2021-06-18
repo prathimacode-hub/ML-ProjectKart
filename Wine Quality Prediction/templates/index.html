@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Wine quality Predictor</title>
+        
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+        <script src="https://kit.fontawesome.com/5f3f547070.js" crossorigin="anonymous"></script>
+        <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+
+        <!-- Website Title -->
+    	<div class="container">
+            <h2 class='container-heading'><span class="heading_font">Wine quality Predictor</span></h2>
+            <div class='description'>
+    			<p>A Machine Learning Web App</p>
+    		</div>
+    	</div>
+
+        <!-- Text Area -->
+    	<div class="ml-container">
+    		<form action="{{ url_for('predict') }}" method="POST">
+                <input class="form-input" type="text" name="fixed_acidity" placeholder="Fixed Acidity eg. 5.5"><br>
+                <input class="form-input" type="text" name="volatile_acidity" placeholder="Volatile eg.0.5"><br>
+                <input class="form-input" type="text" name="citric_acid" placeholder="Citric acid eg.0.05"><br>
+                <input class="form-input" type="text" name="residual_sugar" placeholder="residual_sugar eg.2.5"><br>
+                <input class="form-input" type="text" name="chlorides" placeholder="chlorides eg. 0.08"><br>
+                <input class="form-input" type="text" name="free_sulphur_dioxide" placeholder="free_sulphur_dioxide eg. 10"><br>
+                <input class="form-input" type="text" name="total_sulphur_dioxide" placeholder="total_sulphur_dioxide eg. 35"><br>
+                <input class="form-input" type="text" name="density" placeholder="density eg. 0.99"><br>
+                <input class="form-input" type="text" name="pH" placeholder="ph eg. 3.15"><br>
+                <input class="form-input" type="text" name="sulphates" placeholder="sulphates eg. 0.5"><br>
+                <input class="form-input" type="text" name="alcohol" placeholder="alcohol eg. 6"><br>
+
+        		<input type="submit" class="my-cta-button" value="Predict">
+        	</form>
+    	</div>
+
+        
+
+    </body>
+</html>
