@@ -57,6 +57,7 @@ There are 42 classification of the dataset and have following labels:
  <tr><th> 40 </th><th> Roundabout mandatory </th> </tr>
  <tr><th> 41 </th><th> End of no passing </th> </tr>
  <tr><th> 42 </th><th> End of no passing by vechiles over 3.5 metric tons  </th></tr>
+  </table>
   
  ![](https://github.com/Isha307/ML-ProjectKart/blob/main/Traffic%20Sign%20Classification/Model/Image/Class.png)
   
@@ -85,7 +86,7 @@ There are 42 classification of the dataset and have following labels:
 
  * tensorflow 
  
- *sklearn
+ * sklearn
  
  * pickle
  
