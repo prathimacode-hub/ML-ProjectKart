@@ -2,7 +2,7 @@
         
 <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Fake%20News%20Detection/Images/project_viz1.png" width="400">
 
-**GOAL** - The aim of the project is to detect wheter the news is Real or Fake using different text extraction NLP techniques to understand the data, use different classifiers approaches and RNN framework on this training data to train various models and use them to make detections.   
+**GOAL** - The aim of the project is to detect whether the news is Real or Fake using different text extraction NLP techniques to understand the data, use different classifiers approaches and RNN framework on this training data to train various models and use them to make detections.   
 
 **WHAT HAVE I DONE**
 - Loading datasets
