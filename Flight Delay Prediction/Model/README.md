@@ -15,8 +15,13 @@
 - Compared various models and used best performance model to make predictions.
 
 **MODELS USED**
-- Classification model : Logistic Regression
-- It produced 99.8% accuracy score - highest among other models.
+| Model | Accuracy Score |
+| :--------: | :----------: |
+| Logistic Regression | 0.99800 |
+| Naive Bayes | 0.95586 |
+| KNN | 0.96753 |
+| Support Vector Machine | 0.99146 |
+
 
 **LIBRARIES NEEDED**
 - pandas
@@ -29,4 +34,4 @@
 **CONCLUSION**
 - Ensemble Modeling approach is best possible way to get higher performing model.
 - Delays in departure of flights affects mostly to delay in flights.
-- Logistic Regression model can predict 99.8% accurate results of flight delays.
+- Here, Logistic Regression model can predict 99.8% accurate results of flight delays which is highest model performance in comparison with other Models.
