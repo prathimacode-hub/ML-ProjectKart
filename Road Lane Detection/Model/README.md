@@ -29,9 +29,9 @@ The following libraries are being used in this project -
 
 ## Output
 - Image before detecting the lanes 
-<img src = "https://i.imgur.com/ltDBBjX.png">
+<img src = "https://github.com/abhisheks008/ML-ProjectKart/blob/patch-2/Road%20Lane%20Detection/Images/Test_image.png">
 - Image after detecting the lanes
-<img src = "https://i.imgur.com/R97AZkG.png">
+<img src = "https://github.com/abhisheks008/ML-ProjectKart/blob/patch-2/Road%20Lane%20Detection/Images/Hough_lines_original.png">
 
 ## Conclusion
 This project is one of the modern days project. The road lane detection is used in the automatic cars or in the self driving car, through this type of project the car can detect the wiithout the drivers.
