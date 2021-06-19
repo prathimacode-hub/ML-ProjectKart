@@ -5,6 +5,9 @@
 To make human readable traffic sign class.
 
 # What Have I Done
+
+There are 42 classification of the dataset and have following labels:
+
 <table>
   <tr>
     <th> Class Id </th>
@@ -54,3 +57,43 @@ To make human readable traffic sign class.
  <tr><th> 40 </th><th> Roundabout mandatory </th> </tr>
  <tr><th> 41 </th><th> End of no passing </th> </tr>
  <tr><th> 42 </th><th> End of no passing by vechiles over 3.5 metric tons  </th></tr>
+  
+ ![](https://github.com/Isha307/ML-ProjectKart/blob/main/Traffic%20Sign%20Classification/Model/Image/Class.png)
+  
+ I created a model that will label the pictures on the basis of above labels and you can check the demo in output file.
+ 
+  * [MODEL](https://github.com/Isha307/ML-ProjectKart/blob/main/Traffic%20Sign%20Classification/Model/model.ipynb)
+  * [OUTPUT](https://github.com/Isha307/ML-ProjectKart/blob/main/Traffic%20Sign%20Classification/Model/output.ipynb)
+  
+ ## Output will be like:
+ 
+ ![](https://github.com/Isha307/ML-ProjectKart/blob/main/Traffic%20Sign%20Classification/Model/Image/imgOriginal.png)
+  
+# Model Used
+  
+  ## CNN
+  
+# Libraries Needed
+  
+ * pandas 
+  
+ * numpy 
+  
+ * matplotlib
+
+ * cv2
+
+ * tensorflow 
+ 
+ *sklearn
+ 
+ * pickle
+ 
+ * PIL 
+
+# CONCLUSION
+  
+  ```
+  Test Score: 0.07600177079439163
+  Test Accuracy: 0.9776217341423035
+  ```
