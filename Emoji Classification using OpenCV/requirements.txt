@@ -1,0 +1,8 @@
+pip install pandas
+pip install numpy
+pip install cv2
+pip install seaborn
+pip install matplotlib.pyplot
+pip install tensorflow
+pip install keras
+pip install os
