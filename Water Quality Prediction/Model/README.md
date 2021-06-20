@@ -63,7 +63,7 @@ By using Logistic Regression I got
  ``` 
 
 ## Output
-<img align="center" src="Images/download.png" />
+<img align="center" src="Images/download.png">
 
 ##
 <a href="https://github.com/Jagannath8">Jagannath Pal</a>
