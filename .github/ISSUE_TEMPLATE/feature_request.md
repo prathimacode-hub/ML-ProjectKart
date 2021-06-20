@@ -1,8 +1,8 @@
 ---
-Title: Project Title
-About: Suggest an idea for this project
-Name: YourName
-Label: Feature Request
+title: Project Title
+about: Suggest an idea for this project
+name: Your Name
+label: Feature Request
 Assignee: ''
 
 ---

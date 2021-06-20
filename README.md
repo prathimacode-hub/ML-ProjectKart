@@ -1,21 +1,24 @@
 # ML-ProjectKart
+<div align="center">
 
 ![Alt text of image](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/ML-ProjectKart.png)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/prathimacode-hub/ML-ProjectKart) ![Maintenance](https://img.shields.io/maintenance/yes/2021) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) 
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
+[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/prathimacode-hub)
+[![Maintenance](https://img.shields.io/maintenance/yes/2021)](https://github.com/prathimacode-hub)
 
+[![GitHub contributors](https://img.shields.io/github/contributors-anon/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/graphs/contributors)
+[![](https://badgen.net/github/stars/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/stargazers)
+[![](https://badgen.net/github/forks/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/network/members)
+[![](https://badgen.net/github/open-issues/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/issues)
+[![](https://badgen.net/github/closed-issues/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/issues?q=is%3Aissue+is%3Aclosed)
+[![](https://badgen.net/github/prs/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls)
+[![](https://badgen.net/github/open-prs/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls)
+[![](https://badgen.net/github/closed-prs/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls?q=is%3Apr+is%3Aclosed)
 
-<center>
-
-![](https://badgen.net/github/stars/prathimacode-hub/ML-ProjectKart)
-![](https://badgen.net/github/forks/prathimacode-hub/ML-ProjectKart)
-![](https://badgen.net/github/open-issues/prathimacode-hub/ML-ProjectKart)
-![](https://badgen.net/github/closed-issues/prathimacode-hub/ML-ProjectKart)
-![](https://badgen.net/github/prs/prathimacode-hub/ML-ProjectKart)
-![](https://badgen.net/github/open-prs/prathimacode-hub/ML-ProjectKart)
-![](https://badgen.net/github/closed-prs/prathimacode-hub/ML-ProjectKart)
-
-</center>
+</div>
 
 
 <h2>📌Repository</h2>
@@ -140,6 +143,34 @@ This project is a part of this open source progam.
 
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
 
+## Levels & Points
+
+<table>
+  <tr>
+    <th>Level</th>
+    <th>Points</th> 
+  </tr>
+  <tr>
+    <td>Level 0</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Level 1</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Level 2</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>Level 3</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Level 4</td>
+    <td>45</td>
+  </tr>
+</table>
  
 <h2>✨Hall Of Fame</h2>   
 
@@ -164,6 +195,15 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
     <td align="center"><a href="https://github.com/Anshal55"><img src="https://avatars.githubusercontent.com/u/54211313?v=4" width="100px;" alt=""/><br /><sub><b>Anshal Singh</b></sub></a></td>
     <td align="center"><a href="https://github.com/Sidhved"><img src="https://avatars.githubusercontent.com/u/66831453?v=4" width="100px;" alt=""/><br /><sub><b>Sidhved</b></sub></a></td>
     <td align="center"><a href="https://github.com/Jagannath8"><img src="https://avatars.githubusercontent.com/u/64650848?v=4" width="100px;" alt=""/><br /><sub><b>Jagannath</b></sub></a></td>
+    <td align="center"><a href="https://github.com/abhisheks008"><img src="https://avatars.githubusercontent.com/u/68724349?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Sharma</b></sub></a></td>
+    <td align="center"><a href="https://github.com/RHEA211"><img src="https://avatars.githubusercontent.com/u/64091188?v=4" width="100px;" alt=""/><br /><sub><b>Rhea Parida</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Subhangini"><img src="https://avatars.githubusercontent.com/u/68437435?v=4" width="100px;" alt=""/><br /><sub><b>Subhangini</b></sub></a></td>
+    <td align="center"><a href="https://github.com/ishitakapoor26"><img src="https://avatars.githubusercontent.com/u/78542333?v=4" width="100px;" alt=""/><br /><sub><b>Ishita Kapoor</b></sub></a></td>
+    <td align="center"><a href="https://github.com/queenish001"><img src="https://avatars.githubusercontent.com/u/77614377?v=4" width="100px;" alt=""/><br /><sub><b>Nishi</b></sub></a></td>
+    <td align="center"><a href="https://github.com/sai-keerthi"><img src="https://avatars.githubusercontent.com/u/65596711?v=4" width="100px;" alt=""/><br /><sub><b>Sai Keerthi</b></sub></a></td>
+    <td align="center"><a href="https://github.com/sy07"><img src="https://avatars.githubusercontent.com/u/38417399?v=4" width="100px;" alt=""/><br /><sub><b>Yash Soni</b></sub></a></td>   
    </tr>
 </table>
 
