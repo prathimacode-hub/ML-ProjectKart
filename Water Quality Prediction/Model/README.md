@@ -63,7 +63,7 @@ By using Logistic Regression I got
  ``` 
 
 ## Output
-<img align="center" alt="output" src="ML-ProjectKart/Water Quality Prediction/Images/download.png">
+<img align="center" alt="output" src="\Images\download.png">
 
 ##
 <a href="https://github.com/Jagannath8">Jagannath Pal</a>
