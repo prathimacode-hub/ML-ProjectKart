@@ -1,12 +1,12 @@
 **GOAL**
 
-The goal is to predict Water Quality.
+The goal is to predict  Quality.
 
-Dataset can be downloaded from [here]( https://www.kaggle.com/adityakadiwal/water-potability)
+Dataset can be downloaded from [here]( https://www.kaggle.com/adityakadiwal/-potability)
 
 **WHAT I HAD DONE**
-- Discussed some major columns on which water quality depends.
-- Handling outliers of diagnosis columns. As, it is very important because at last we're predicting water quality.
+- Discussed some major columns on which  quality depends.
+- Handling outliers of diagnosis columns. As, it is very important because at last we're predicting  quality.
 - Then I used different classification models present in sklearn to train the model.
 - Use Correlation coefficients to measure how strong a relationship is between two variables.
 
@@ -16,7 +16,7 @@ Dataset can be downloaded from [here]( https://www.kaggle.com/adityakadiwal/wate
 -  Decission Tree
 -  K Nearest Neighbour
 -  Naive Bayes
--  Random Forest Classifier
+-  Random  Classifier
 
 **LIBRARIES NEEDED**
 - numpy
@@ -56,9 +56,12 @@ By using Logistic Regression I got
     Accuracy of testing data: 61.74698795180723
  ``` 
  
- By using Random Forest Classifier I got 
+ By using Random  Classifier I got 
  ```
     Accuracy of training data: 100.0
     Accuracy of testing data: 69.12650602409639
  ``` 
 
+<img align="center" alt="output"  src="Images/download.png" />
+
+<a href="https://github.com/Jagannath8">Jagannath Pal</a>
