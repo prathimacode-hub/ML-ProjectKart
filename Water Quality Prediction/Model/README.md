@@ -62,8 +62,3 @@ By using Logistic Regression I got
     Accuracy of testing data: 69.12650602409639
  ``` 
 
-## Output
-<img align="center" alt="output" src="\\Images\download.png">
-
-##
-<a href="https://github.com/Jagannath8">Jagannath Pal</a>
