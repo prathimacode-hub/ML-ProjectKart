@@ -59,11 +59,11 @@
   
   ## "Naive Bayes"
     
-   ## "Decisiontree"
+  ## "Decisiontree"
    
-   ## "RandomForest"
+  ## "RandomForest"
    
-   ## "LogisticRegression"
+  ## "LogisticRegression"
 
 # Libraries Needed
   
@@ -99,4 +99,7 @@ RandomForest
 Score:  0.8866666666666667
 
 LogisticRegression
-Score:  0.6533333333333333```
+Score:  0.6533333333333333
+```
+
+>>We used SVM because it has the highest score among all other algorithm. 
