@@ -5,12 +5,12 @@ Dataset can be downloaded from [here](https://www.kaggle.com/shivamb/ideal-stude
 - **Career**: Career
 - **Citizenship**: Citizenship
 - **Nationality**: Nationality
-- **Year since Matriculation**:Year since Matriculation
-- **Year of Study**:Year of Study
-- **Primary Programme**:Primary Programme
-- **Gender**:Gender
-- **Department**:Department
-- **Housing Type**:Housing Type
+- **Year since Matriculation**: Year since Matriculation
+- **Year of Study**: Year of Study
+- **Primary Programme**: Primary Programme
+- **Gender**: Gender
+- **Department**: Department
+- **Housing Type**: Housing Type
 - **Q1-How many events have you Volunteered in ?**: Survey Question.
 - **Q2-How many events have you Participated in ?**: Survey Question.
 - **Q3-How many activities are you Interested in ?**: Survey Question.
