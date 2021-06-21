@@ -1,1 +1,1 @@
-
+The app is developed that continuously monitors the drowsiness of a driver by recognizing the driver eyes. The app is useful for the drivers to avoid night time drowsiness while driving which cause the accident.
