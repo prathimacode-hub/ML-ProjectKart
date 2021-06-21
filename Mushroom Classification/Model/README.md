@@ -10,7 +10,7 @@ This project is all about deploying classification algorithms and comparing the 
 The dataset is collected from Kaggle. Here is the link of the dataset : https://www.kaggle.com/uciml/mushroom-classification. Or, you can access the dataset from the `Dataset` folder itself, I have uploaded the same.
 
 ## What have I done
-1. Loading and importing all the libraries, check `requirements.txt`.
+1. Loading and importing all the libraries, check [`requirements.txt`](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-6/Mushroom%20Classification/requirements.txt).
 2. Importing the dataset in the Jupyter Notebook
 3. Then I have divided my project into two halves.
     - **Part A :: Exploratory Data Analysis**
