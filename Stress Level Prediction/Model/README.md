@@ -25,8 +25,8 @@ Dataset can be downloaded from [here](https://www.kaggle.com/shivamb/ideal-stude
 **WHAT I HAD DONE**
 - Step 1: Data Exploration
 - Step 2: Data Cleaning
-- Step 3: Data visualization
-- Step 4: Data training
+- Step 3: Data Visualization
+- Step 4: Data Training
 - Step 5: Model Creation
 - Step 6: Performance Evaluation
 
@@ -34,6 +34,7 @@ Dataset can be downloaded from [here](https://www.kaggle.com/shivamb/ideal-stude
 **MODELS USED**
 -  Decision Tree Regressor
 -  Random Forest Regressor
+-  Ridge Regression
 
 
 
@@ -54,6 +55,10 @@ Dataset can be downloaded from [here](https://www.kaggle.com/shivamb/ideal-stude
  ``` 
  - By using Random Forest Regressor model 
  ```python
-    Accuracy achieved :  64.64
+    Accuracy achieved :  64.63
  ``` 
-* Decision Tree Regressor has more accuracy and least error when compared to random forest regressor.
+  - By using Ridge Regression model 
+ ```python
+    Accuracy achieved :  14.09
+ ``` 
+* Decision Tree Regressor has more accuracy  when compared to random forest regressor and ridge regression.
