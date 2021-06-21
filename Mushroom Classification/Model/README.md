@@ -7,7 +7,7 @@ Mushroom is one of the fungi types food that has the most potent nutrients on th
 This project is all about deploying classification algorithms and comparing the models.
 
 ## Dataset
-The dataset is collected from Kaggle. Here is the link of the dataset : https://www.kaggle.com/uciml/mushroom-classification. Or, you can access the dataset from the `Dataset` folder itself, I have uploaded the same.
+The dataset is collected from Kaggle. Here is the link of the dataset : https://www.kaggle.com/uciml/mushroom-classification. Or, you can access the dataset from the [`Dataset`](https://github.com/abhisheks008/ML-ProjectKart/tree/patch-6/Mushroom%20Classification/Dataset) folder itself, I have uploaded the same.
 
 ## What have I done
 1. Loading and importing all the libraries, check [`requirements.txt`](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-6/Mushroom%20Classification/requirements.txt).
