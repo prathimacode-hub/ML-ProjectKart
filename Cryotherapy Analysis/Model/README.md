@@ -11,10 +11,10 @@ This treatment can also be called cryoablation.
 Here in this project we are going to analyze the cryotherapy dataset and will deploy several machine learning algorithm models, such as, Random Forest Classifier, Decision Tree Classifier, KNN Algorithm, Gausian NB, Logistic Regression, Support Vector Machine, Gradient Boosting, Adaboost and ANN. After deploying all the models we will do a comparative analysis among them to determine the accurate model.
 
 ## Dataset
-The dataset is available in the Kaggle website. Here's the link : https://www.kaggle.com/mmkvarma/cryotherapy-analysis. Also I have stored the dataset in the `Dataset` folder, you can access from there too.
+The dataset is available in the Kaggle website. Here's the link : https://www.kaggle.com/mmkvarma/cryotherapy-analysis. Also I have stored the dataset in the [`Dataset`](https://github.com/abhisheks008/ML-ProjectKart/tree/patch-7/Cryotherapy%20Analysis/Dataset) folder, you can access from there too.
 
 ## What have I done
-1. Loading and importing all the libraries, check `requirements.txt`.
+1. Loading and importing all the libraries, check [`requirements.txt`](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-7/Cryotherapy%20Analysis/requirements.txt).
 2. Importing the dataset in the Jupyter Notebook.
 3. After that I have a few data analysis and then created the models -
     - Classification Models
