@@ -1,6 +1,8 @@
 # Restaurant Recommendation System ---- using the Yelp User Reviews Dataset
 I wanted to build something that would be meaningful for people in their everyday lives. This ultimately led me to build a recommendation system model that could recommend people restaurants near their location based on restaurant reviews from other people, drawing on sentiment analysis that could potentially improve the recommendation suggestions that you see on common food delivery apps like Deliveroo, GrabFood, and FoodPanda.
 
+![ScreenShot](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-4/Restaurant%20Recommendation%20System/Images/front.jpeg)
+
 ## Goal
 The goal of this project is to make a Recommendation System which will recommend the users the best restaurant that they are looking for.
 
@@ -39,6 +41,9 @@ The dataset which is being used here is easily accesible at Kaggle. The link is 
 5. KNN
 6. sklearn
 7. Tensorflow
+
+## Model output
+![ScreenShot](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-4/Restaurant%20Recommendation%20System/Images/rating.png)
 
 ## Conclusion
 Using the user reviews dataset this recommendation model is built and being successfully deployed using the proper libraries. The accuracy has been checked using the Cosine accuracy score and it turned out to be well enough to be a recommendation system. Hence, from all those factors we can conclude that the model is deployed successfully.
