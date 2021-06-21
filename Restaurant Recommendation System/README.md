@@ -10,7 +10,7 @@ The goal of this project is to make a Recommendation System which will recommend
 The dataset which is being used here is easily accesible at Kaggle. The link is given here, https://www.kaggle.com/yelp-dataset/yelp-dataset
 
 ## What Have I done
-1. Loading the required libraries, check the `requirements.txt` folder for the libraries.
+1. Loading the required libraries, check the [`requirements.txt`](requirements.txt) folder for the libraries.
 2. Processing and cleaning the data using the dummies from the attributes.
 3. Classifying the data using K-Nearest Neighbouring.
 4. Model Filtering using Collaborative model filtering
