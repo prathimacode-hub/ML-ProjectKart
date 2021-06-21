@@ -1,8 +1,8 @@
 Required Python libraries need to be installed before deploying this model.
 
-pip install Tensorflow
-pip install keras
-pip install seaborn
-pip install numpy
-pip install pandas
-pip install matplotlib.pyplot
+Tensorflow==2.5.0
+keras==2.4.0
+seaborn
+Numpy==1.19.2
+pandas==1.2.4
+matplotlib==3.4.2
