@@ -16,3 +16,8 @@ The project includes direct working with the 68 facial landmark detector and als
 
 ## Demo
 
+![open eyes](https://user-images.githubusercontent.com/73739820/122946868-5b498780-d397-11eb-80ed-a9177d10e93a.jpg)
+![Drowsy eyes](https://user-images.githubusercontent.com/73739820/122946898-5edd0e80-d397-11eb-809a-09885de0653d.jpg)
+![speepy eyes](https://user-images.githubusercontent.com/73739820/122946925-643a5900-d397-11eb-861d-869dce2d77bd.jpg)
+
+
