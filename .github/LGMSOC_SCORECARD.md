@@ -140,7 +140,7 @@ Number of PR's : 1 <br>
 Projects Done : Traffic Sign Classification (Level 3) | Mobile Range Price Classification (Level 3) | <br>
 Points : 60 <br>
 
-Name : Ritik Kumar <br> <br>
+Name : Ritik Kumar <br>
 Github : https://github.com/ritikkumar55 <br>
 Number of PR's : 1 <br>
 Projects Done : Income Prediction (Level 4) | <br>
