@@ -112,4 +112,32 @@ Number of PR's : 1
 Projects Done : License Plate Detection and Recognition (Level 3) | 
 Points : 30
 
+Name : Abhishek Sharma
+Github : https://github.com/abhisheks008
+Number of PR's : 9
+Projects Done : Medical Cost Analysis for Smokers and Non-Smokers (Level 4) | Raod Lane Detection (Level 2) | Emoji Classification Using OpenCV (Level 3) | Restaurant Recommendation System (Level 4) | Football Match Prediction (Level 4) | Mushroom Classification (Level 4) | Crypotherapy Analysis (Level 4) | Hotel Rating Prediction (Level 4) | Resume Categorizing (Level 4) |
+Points : 360
 
+Name : Umesh Singh
+Github : https://github.com/Umesh-01
+Number of PR's : 1
+Projects Done : Add Links to the Badges (Level 0) |
+Points : 5
+
+Name : Shivani Rana
+Github : https://github.com/shivani6320
+Number of PR's : 1
+Projects Done : Flight Delay Prediction (Level 3) |
+Points : 30
+
+Name : Isha Shaw
+Github : https://github.com/Isha307
+Number of PR's : 1
+Projects Done : Traffic Sign Classification (Level 3) | Mobile Range Price Classification (Level 3) |
+Points : 60
+
+Name : Ritik Kumar
+Github : https://github.com/ritikkumar55
+Number of PR's : 1
+Projects Done : Income Prediction (Level 4) | 
+Points : 45
