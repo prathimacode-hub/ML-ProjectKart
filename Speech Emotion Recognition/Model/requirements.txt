@@ -1,0 +1,19 @@
+-----------------Libraries imported for the project--------------------
+- librosa
+- soundfile
+- os
+- glob
+- numpy
+- pandas
+- matlplotlib
+- sklearn
+- seaborn
+- train_test_split
+- MLPClassifier
+- accuracy_score
+- classification_report
+- confusion_matrix
+- StandardScaler
+- pipeline
+- SVC
+- seaborn
