@@ -15,13 +15,13 @@ The dataset which is used in this project, is collected from Kaggle. Here is the
 1. Loading and importing all the libraries, check [`requirements.txt`](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-9/Resume%20Categorizing/requirements.txt).
 2. Importing the dataset in the Jupyter Notebook.
 3. After that I have divided the project into two halves -
-    - Part A :: Exploratory Data Analysis
+    - **Part A :: Exploratory Data Analysis**
         - Distinct Values of the dataset
         - Graphical representation of job categories
         - Category-wise Distribution
         - Data Cleaning
         - Label Encoder
-    - Part B :: Classification Algorithms
+    - **Part B :: Classification Algorithms**
         - K-Nearest Neighbour Algorithm
         - Decision Tree Classifier
         - Random Forest Classifier
