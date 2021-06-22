@@ -1,7 +1,7 @@
-<h1> LGMSOC - SCORE CARD 2021 </h1> ✨✨✨
+<h1> LGMSOC - SCORE CARD 2021 ✨✨✨ </h1> <br>
+<h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-<h2> Welcome to the Repo Officially!!..🙌👏
-
+  
 Name : Raunak <br>
 Github : https://github.com/raunak51299 <br>
 Number of PR's : 3 <br>
