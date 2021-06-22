@@ -1,8 +1,10 @@
 # Rain Prediction
 
-# Contextm
+# Context
  
 Predict next-day rain by training classification models on the target variable RainTomorrow.
+
+You can download dataset [here](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package?select=weatherAUS.csv)
 
 ## Dataset:
 
@@ -34,7 +36,7 @@ The speed (km/h) of the strongest wind gust in the 24 hours to midnight</th></tr
 WindDir9am</th><th>
 Direction of the wind at 9am</th></tr>
 <tr><th>WindDir3pm
- </th></th> Direction of the wind at 3pm 
+ </th><th> Direction of the wind at 3pm 
   </th></tr>
 <tr><th>  Humidity9am </th><th> Humidity at 9am</th></tr>
  <tr><th> Humidity3pm </th><th>  Humidity at 3pm</th></tr>
