@@ -7,7 +7,7 @@ Predict next-day rain by training classification models on the target variable R
 ## Dataset:
 
 <table><tr><th>
-Location<th>
+Location
  </th><th>The common name of the location of the weather station</th></tr>
 <tr><th>
 MinTemp</th><th>
@@ -34,7 +34,7 @@ The speed (km/h) of the strongest wind gust in the 24 hours to midnight</th></tr
 WindDir9am</th><th>
 Direction of the wind at 9am</th></tr>
 <tr><th>WindDir3pm
-  Direction of the wind at 3pm </th></th>
+ </th></th> Direction of the wind at 3pm 
   </th></tr>
 <tr><th>  Humidity9am </th><th> Humidity at 9am</th></tr>
  <tr><th> Humidity3pm </th><th>  Humidity at 3pm</th></tr>
