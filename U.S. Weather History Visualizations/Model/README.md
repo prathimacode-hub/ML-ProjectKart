@@ -1,6 +1,22 @@
 ### U.S. weather history visualization
 
-The raw data and code behind the story [What 12 Months Of Record-Setting Temperatures Looks Like Across The U.S.](http://fivethirtyeight.com/features/what-12-months-of-record-setting-temperatures-looks-like-across-the-u-s/)
+**GOAL**
+The goal is to analyse the 12 months data of US industry and find th conclusion and display them via graphs.
+
+
+**WHAT I HAD DONE**
+- I have analysed the U.S. weather history
+- I have represented my observation/results via visualization
+
+**MODELS USED**
+-  Linear Regression
+-  K-Nearest Neighbors
+-  Random Forest Regressor
+-  Decision Tree Regressor
+
+**LIBRARIES NEEDED**
+- matplotlib.pyplot
+- pandas
 
 #### Code
 
@@ -10,8 +26,9 @@ Code file | Description
 `wunderground_parser.py` | Parses the weather data from Weather Underground into a flat CSV file
 `visualize_weather.py` | Creates the visualization of the weather data
 
-#### Data
+#### Data/Dataset
 
+The raw data and code behind the story [Dataset](http://fivethirtyeight.com/features/what-12-months-of-record-setting-temperatures-looks-like-across-the-u-s/)
 Column | Description
 ---|---------
 `date` | The date of the weather record, formatted YYYY-M-D
