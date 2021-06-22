@@ -179,33 +179,10 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!ðŸš
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/theanshulcode"><img src="https://avatars.githubusercontent.com/u/77589822?v=4" width="100px;" alt=""/><br /><sub><b>Anshul Srivastava</b></sub></a></td>
-    <td align="center"><a href="https://github.com/raunak51299"><img src="https://avatars.githubusercontent.com/u/27999592?v=4" width="100px;" alt=""/><br /><sub><b>Raunak</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Soumayan-pal01"><img src="https://avatars.githubusercontent.com/u/66107748?v=4" width="100px;" alt=""/><br /><sub><b>Soumayan Pal</b></sub></a></td>
-    <td align="center"><a href="https://github.com/NEERAJAP2001"><img src="https://avatars.githubusercontent.com/u/65017645?v=4" width="100px;" alt=""/><br /><sub><b>Neeraj Ap</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Rutikab12"><img src="https://avatars.githubusercontent.com/u/71027989?v=4" width="100px;" alt=""/><br /><sub><b>Rutik Bhoyar</b></sub></a></td>
-    <td align="center"><a href="https://github.com/PriyankaHotchandani"><img src="https://avatars.githubusercontent.com/u/68430517?v=4" width="100px;" alt=""/><br /><sub><b>Priyanka Hotchandani</b></sub></a></td>
-    <td align="center"><a href="https://github.com/harshita9621"><img src="https://avatars.githubusercontent.com/u/57454733?v=4" width="100px;" alt=""/><br /><sub><b>Harshita Nayak</b></sub></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Sumit11081996"><img src="https://avatars.githubusercontent.com/u/68699320?v=4" width="100px;" alt=""/><br /><sub><b>Sumit</b></sub></a></td>
-    <td align="center"><a href="https://github.com/ayushi424"><img src="https://avatars.githubusercontent.com/u/68391974?v=4" width="100px;" alt=""/><br /><sub><b>Ayushi Shrivastava</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Anshal55"><img src="https://avatars.githubusercontent.com/u/54211313?v=4" width="100px;" alt=""/><br /><sub><b>Anshal Singh</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Sidhved"><img src="https://avatars.githubusercontent.com/u/66831453?v=4" width="100px;" alt=""/><br /><sub><b>Sidhved</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Jagannath8"><img src="https://avatars.githubusercontent.com/u/64650848?v=4" width="100px;" alt=""/><br /><sub><b>Jagannath</b></sub></a></td>
-    <td align="center"><a href="https://github.com/abhisheks008"><img src="https://avatars.githubusercontent.com/u/68724349?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Sharma</b></sub></a></td>
-    <td align="center"><a href="https://github.com/RHEA211"><img src="https://avatars.githubusercontent.com/u/64091188?v=4" width="100px;" alt=""/><br /><sub><b>Rhea Parida</b></sub></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Subhangini"><img src="https://avatars.githubusercontent.com/u/68437435?v=4" width="100px;" alt=""/><br /><sub><b>Subhangini</b></sub></a></td>
-    <td align="center"><a href="https://github.com/ishitakapoor26"><img src="https://avatars.githubusercontent.com/u/78542333?v=4" width="100px;" alt=""/><br /><sub><b>Ishita Kapoor</b></sub></a></td>
-    <td align="center"><a href="https://github.com/queenish001"><img src="https://avatars.githubusercontent.com/u/77614377?v=4" width="100px;" alt=""/><br /><sub><b>Nishi</b></sub></a></td>
-    <td align="center"><a href="https://github.com/sai-keerthi"><img src="https://avatars.githubusercontent.com/u/65596711?v=4" width="100px;" alt=""/><br /><sub><b>Sai Keerthi</b></sub></a></td>
-    <td align="center"><a href="https://github.com/sy07"><img src="https://avatars.githubusercontent.com/u/38417399?v=4" width="100px;" alt=""/><br /><sub><b>Yash Soni</b></sub></a></td>   
-   </tr>
-</table>
+
+<a href="https://github.com/prathimacode-hub/ML-ProjectKart/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=prathimacode-hub/ML-ProjectKart" />
+</a>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
