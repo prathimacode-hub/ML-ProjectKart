@@ -172,6 +172,9 @@ This project is a part of this open source progam.
   </tr>
 </table>
  
+You can check out your points scored here : [LGMSOC_SCORECARD](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/LGMSOC_SCORECARD.md)
+
+
 <h2>✨Hall Of Fame</h2>   
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
