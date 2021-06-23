@@ -11,8 +11,8 @@ Points : 90 <br>
 Name : Soumayan Pal <br>
 Github : https://github.com/Soumayan-pal01 <br>
 Number of PR's : 5 <br>
-Projects Done : Face Mask Detection Using OpenCV (Level 4) | Uber Fare Prediction (Level 4) | Image Compression Using Clustering (Level 4) | Credit Card Fraud Detection (Level 4) | Fake News Detection (Level 4) | <br>
-Points : 225 <br>
+Projects Done : Face Mask Detection Using OpenCV (Level 4) | Uber Fare Prediction (Level 4) | Image Compression Using Clustering (Level 4) | Credit Card Fraud Detection (Level 4) | Fake News Detection (Level 4) | Solar Eclipse Classification (Level 4) | <br>
+Points : 270 <br>
 
 Name : Neeraj Ap <br>
 Github : https://github.com/NEERAJAP2001 <br>
@@ -71,8 +71,8 @@ Points : 30 <br>
 Name : Jagannath Pal <br>
 Github : https://github.com/Jagannath8 <br>
 Number of PR's : 3 <br>
-Projects Done : Breast Cancer Prediction (Level 2) | Water Quality Prediction (Level 3) | Diabetes Prediction (Level 3) | <br>
-Points : 75 <br>
+Projects Done : Breast Cancer Prediction (Level 2) | Water Quality Prediction (Level 3) | Diabetes Prediction (Level 3) | Stroke Prediction (Level 4) | <br>
+Points : 120 <br>
 
 Name : Subhangini <br>
 Github : https://github.com/Subhangini <br>
@@ -101,8 +101,8 @@ Points : 5 <br>
 Name : Yash Soni <br>
 Github : https://github.com/sy07 <br>
 Number of PR's : 2 <br>
-Projects Done : Stock Price Prediction (Level 3) | Speech Emotion Recognition () | <br>
-Points : 30 <br>
+Projects Done : Stock Price Prediction (Level 3) | Speech Emotion Recognition (Level 3) | <br>
+Points : 60 <br>
 
 Name : Rhea Parida <br>
 Github : https://github.com/RHEA211 <br>
@@ -119,8 +119,8 @@ Points : 30 <br>
 Name : Abhishek Sharma <br>
 Github : https://github.com/abhisheks008 <br> <br>
 Number of PR's : 9 <br>
-Projects Done : Medical Cost Analysis for Smokers and Non-Smokers (Level 4) | Raod Lane Detection (Level 2) | Emoji Classification Using OpenCV (Level 3) | Restaurant Recommendation System (Level 4) | Football Match Prediction (Level 4) | Mushroom Classification (Level 4) | Crypotherapy Analysis (Level 4) | Hotel Rating Prediction (Level 4) | Resume Categorizing (Level 4) | <br>
-Points : 360  <br>
+Projects Done : Medical Cost Analysis for Smokers and Non-Smokers (Level 4) | Raod Lane Detection (Level 2) | Emoji Classification Using OpenCV (Level 3) | Restaurant Recommendation System (Level 4) | Football Match Prediction (Level 4) | Mushroom Classification (Level 4) | Crypotherapy Analysis (Level 4) | Hotel Rating Prediction (Level 4) | Resume Categorizing (Level 4) | Natural Images Classification (Level 4) | Sarcasm Detection (Level 4) | Crop Recommendation Systems (Level 4) | <br>
+Points : 495  <br>
 
 Name : Umesh Singh <br>
 Github : https://github.com/Umesh-01 <br> <br>
@@ -136,12 +136,26 @@ Points : 30 <br>
 
 Name : Isha Shaw <br>
 Github : https://github.com/Isha307 <br>
-Number of PR's : 1 <br>
-Projects Done : Traffic Sign Classification (Level 3) | Mobile Range Price Classification (Level 3) | <br>
-Points : 60 <br>
+Number of PR's : 2 <br>
+Projects Done : Traffic Sign Classification (Level 3) | Mobile Range Price Classification (Level 3) | Rain Prediction (Level 3) | <br>
+Points : 90 <br>
 
 Name : Ritik Kumar <br>
 Github : https://github.com/ritikkumar55 <br>
 Number of PR's : 1 <br>
 Projects Done : Income Prediction (Level 4) | <br>
 Points : 45 <br>
+
+Name : Hitain kakkar <br>
+Github : https://github.com/HitainKakkar <br>
+Number of PR's : 1 <br>
+Projects Done : US Weather History Visualization (Level 4) | <br>
+Points : 45 <br>
+
+Name : Rammya Dharshini K <br>
+Github :https://github.com/rammya29 <br>
+Number of PR's : 1 <br>
+Projects Done : Fish Weight Prediction (Level 2) | <br>
+Points : 15 <br>
+
+
