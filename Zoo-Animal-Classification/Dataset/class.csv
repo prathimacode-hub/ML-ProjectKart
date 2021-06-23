@@ -1,0 +1,8 @@
+Class_Number,Number_Of_Animal_Species_In_Class,Class_Type,Animal_Names
+1,41,Mammal,"aardvark, antelope, bear, boar, buffalo, calf, cavy, cheetah, deer, dolphin, elephant, fruitbat, giraffe, girl, goat, gorilla, hamster, hare, leopard, lion, lynx, mink, mole, mongoose, opossum, oryx, platypus, polecat, pony, porpoise, puma, pussycat, raccoon, reindeer, seal, sealion, squirrel, vampire, vole, wallaby, wolf"
+2,20,Bird,"chicken, crow, dove, duck, flamingo, gull, hawk, kiwi, lark, ostrich, parakeet, penguin, pheasant, rhea, skimmer, skua, sparrow, swan, vulture, wren"
+3,5,Reptile,"pitviper, seasnake, slowworm, tortoise, tuatara"
+4,13,Fish,"bass, carp, catfish, chub, dogfish, haddock, herring, pike, piranha, seahorse, sole, stingray, tuna"
+5,4,Amphibian,"frog, frog, newt, toad"
+6,8,Bug,"flea, gnat, honeybee, housefly, ladybird, moth, termite, wasp"
+7,10,Invertebrate,"clam, crab, crayfish, lobster, octopus, scorpion, seawasp, slug, starfish, worm"
