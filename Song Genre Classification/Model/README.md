@@ -31,3 +31,53 @@ Here to build this model we are going to use, two datasets so that we have a lar
 
 I have also uploaded these two datasets in the [`Dataset`](https://github.com/abhisheks008/ML-ProjectKart/tree/patch-13/Song%20Genre%20Classification/Dataset) folder, you can access from there too.
 
+## What have I done
+1. Loading and importing all the libraries, check [`requirements.txt`](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-13/Song%20Genre%20Classification/requirements.txt).
+2. Importing the dataset in the Jupyter Notebook.
+3. After I have done the following things -
+    - Data Preparation for Classifier Model
+    - Spliting the Genres in the dataset
+        - Method 1
+        - Method 2
+    - Classifier Model Creation
+        - Spliting the dataset
+        - Deploying the Classifier Models
+        - Cross Validation Score
+        - Accuracy Metrices
+4. Conclusion
+
+## Libraries used
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. sklearn
+5. seaborn
+
+
+## Model Comparison
+We have deployed four machine learning algorithms and every algorithm is deployed successfully without any hesitation. We have checked the accuracy of the models based on the accuracy score of each of the models. Now let's take a look at the scores of each models.
+
+|Name of the Model|Cross Validation Score|Precision Score|Recall Score|F-Measure Score|
+|:---:|:---:|:---:|:---:|:---:|
+|Logistic Regression|0.56|0.56|0.56|0.56|
+|Random Forest Classifier|0.37|0.71|0.37|0.49|
+|Gradient Descent Algorithm|0.49|0.52|0.51|0.51|
+|Gaussian Naive Bayes Algorithm|0.41|0.41|0.41|0.41|
+
+## Conclusion
+**Comparing all those scores scored by the machine learning algorithms, it is clear that Logistic Regression is having the upper hand in case of this dataset and after this, we can use Gradient Descent Classifier which are also having good score as compared to the other deployed algorithms**
+
+Best Fitted Models ranking - 
+1. Logistic Regression
+2. Gradient Descent Algorithm
+3. Random Forest Classifier
+4. Gaussian Naive Bayes Classifier
+
+Hooray!! The models are deployed successfully!
+
+********************************************************************
+
+## Author
+Code Contributed by, Abhishek Sharma, 2021 @abhisheks008 #LGMSOC21
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
