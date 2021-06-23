@@ -146,7 +146,7 @@ Number of PR's : 1 <br>
 Projects Done : Income Prediction (Level 4) | <br>
 Points : 45 <br>
 
-Name : Hitain kakkar <br>
+Name : Hitain Kakkar <br>
 Github : https://github.com/HitainKakkar <br>
 Number of PR's : 1 <br>
 Projects Done : US Weather History Visualization (Level 4) | <br>
