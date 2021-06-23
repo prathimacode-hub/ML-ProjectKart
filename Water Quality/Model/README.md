@@ -10,8 +10,6 @@ You can download dataset from [here](https://www.kaggle.com/adityakadiwal/water-
 
 ## What I had Done
 
-![](https://github.com/Isha307/ML-ProjectKart/blob/main/Rain%20Prediction/Images/Info.png)
-
 * Firstly we Clear the data and handled the missing Values:
 
 ![Before](https://github.com/Isha307/ML-ProjectKart/blob/main/Water%20Quality/Images/missing%20values.png)
