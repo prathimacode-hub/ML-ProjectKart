@@ -1,0 +1,16 @@
+The required libraries to deploy this project
+
+Tensorflow==2.5.0
+OpenCV==4.5.2
+Keras==2.4.0
+Numpy==1.19.2
+Pandas==1.2.4
+Matplotlib==3.4.2
+Sklearn
+Seaborn
+torch==10.0
+copy
+time 
+date
+shutil
+itertools
