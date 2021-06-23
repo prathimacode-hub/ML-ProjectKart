@@ -143,7 +143,7 @@ This project is a part of this open source progam.
 
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
 
-## Levels & Points (LGMSOC)
+<h2>🙌Levels & Points (LGMSOC)</h2>
 
 <table>
   <tr>
