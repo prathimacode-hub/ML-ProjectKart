@@ -1,16 +1,30 @@
 # Rain Prediction
 
-## Info about Feature:
+## GOAL
+
+RainTomorrow is the target variable to predict on the basis of some given Features.
+
+## Dataset
+
+You can download dataset from [here](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package?select=weatherAUS.csv)
+
+## What I had Done
 
 ![](https://github.com/Isha307/ML-ProjectKart/blob/main/Rain%20Prediction/Images/Info.png)
 
-## Firstly we Clear the data and handled the missing Values:
+* Firstly we Clear the data and handled the missing Values:
 
 ![Before](https://github.com/Isha307/ML-ProjectKart/blob/main/Rain%20Prediction/Images/Missing%20Values.png)
 
 ![After](https://github.com/Isha307/ML-ProjectKart/blob/main/Rain%20Prediction/Images/Change%20Values.png)
 
-# Algorithm Used
+* I did some feature scaling and feature Engineering.
+
+* Checked the accuracy using different classification algorithm.
+
+* Created Model using Random Forest.
+
+# Model 
 
 ## "Linear Regression"
 
