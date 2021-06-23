@@ -7,7 +7,7 @@
 ### DATASET
   The data set is taken from the Kagle [here](https://www.kaggle.com/aungpyaeap/fish-market)
 
-### WHAT I HAD DONE Write down the step by step procedure of how project works using points.
+### WHAT I HAD DONE Listed down the step by step procedure of how project works using points.
 - Importing the required modules
 - Loading the dataset using pandas module
 - Analysing and cleaning the dataset
