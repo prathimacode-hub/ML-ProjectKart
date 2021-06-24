@@ -32,5 +32,10 @@ imutils==0.5.4
 
 Here is one of the input image
 ![image](https://github.com/TusharAMD/ML-ProjectKart/blob/issue50/Tetris%20Object%20Counter/Dataset/5.png)
+
 And this is the Result
 ![image](https://github.com/TusharAMD/ML-ProjectKart/blob/issue50/Tetris%20Object%20Counter/Images/Screenshots/Updated.png)
+
+### Created By
+This project was made by Tushar Amdoskar - Prefinal Year student of Computer Engineering, University of Mumbai
+You can connect me on linkedin https://www.linkedin.com/in/tushar-amdoskar/
