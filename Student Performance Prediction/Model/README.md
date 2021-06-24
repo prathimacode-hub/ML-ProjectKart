@@ -2,11 +2,11 @@
 
 **GOAL**
 
-The goal of this project is to predict final grade of the student from features  etc.
+The goal of this project is to predict final grade of the student from features as study time, failures, free time, absenses, health status, going out,first period grade, second period grade  etc.
 
 **DATASET**
 
-Dataset can be downloaded from [here]().
+Dataset can be downloaded from [here](https://www.kaggle.com/larsen0966/student-performance-data-set).
 
 **WHAT I HAD DONE**
 - Step 1: Data Exploration
@@ -17,10 +17,10 @@ Dataset can be downloaded from [here]().
 
 
 **MODELS USED**
--  Multi Linear Regression
+-  Linear Regression
 -  Lasso Regression
--  Ridge Regression
 -  Decision Tree Regressor
+-  Random Forest Regressor
 
 
 
@@ -35,22 +35,18 @@ Dataset can be downloaded from [here]().
 **CONCLUSION**
 - By using Linear Regression model 
  ```python
-    Accuracy achieved :  78.81
+    Accuracy achieved :  84.94
  ``` 
  - By using Lasso Regression model 
  ```python
-    Accuracy achieved :  78.81
- ``` 
- - By using Ridge Regression model 
- ```python
-    Accuracy achieved :  78.81
+    Accuracy achieved :  83.16
  ``` 
  - By using Decision Tree Regressor model 
  ```python
-    Accuracy achieved :  99.91
+    Accuracy achieved :  99.94
  ``` 
-* Accuracy of Regression models- Linear regression, lasso regression and rigde regression is almost same. 
-
-* Whereas accuracy of decision tree regressor is higher and root mean sqaure error is least.
-
-* Decision tree regressor is more efficient model.
+  - By using Random Forest Regressor model 
+ ```python
+    Accuracy achieved :  97.51
+ ```
+* Accuracy of Decision tree regressor is higher than that of linear regression, lasso regression and random forest regressor.
