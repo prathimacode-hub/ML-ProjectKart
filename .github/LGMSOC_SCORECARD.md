@@ -11,7 +11,7 @@ Points : 90 <br>
 Name : Soumayan Pal <br>
 Github : https://github.com/Soumayan-pal01 <br>
 Number of PR's : 5 <br>
-Projects Done : Face Mask Detection Using OpenCV (Level 4) | Uber Fare Prediction (Level 4) | Image Compression Using Clustering (Level 4) | Credit Card Fraud Detection (Level 4) | Fake News Detection (Level 4) | Solar Eclipse Classification (Level 4) | Disneyland Review Analysis (Level 4) <br>
+Projects Done : Face Mask Detection Using OpenCV (Level 4) | Uber Fare Prediction (Level 4) | Image Compression Using Clustering (Level 4) | Credit Card Fraud Detection (Level 4) | Fake News Detection (Level 4) | Solar Eclipse Classification (Level 4) | Disneyland Review Analysis (Level 4) | <br>
 Points : 315 <br>
 
 Name : Neeraj Ap <br>
@@ -119,8 +119,8 @@ Points : 30 <br>
 Name : Abhishek Sharma <br>
 Github : https://github.com/abhisheks008 <br> 
 Number of PR's : 9 <br>
-Projects Done : Medical Cost Analysis for Smokers and Non-Smokers (Level 4) | Raod Lane Detection (Level 2) | Emoji Classification Using OpenCV (Level 3) | Restaurant Recommendation System (Level 4) | Football Match Prediction (Level 4) | Mushroom Classification (Level 4) | Crypotherapy Analysis (Level 4) | Hotel Rating Prediction (Level 4) | Resume Categorizing (Level 4) | Natural Images Classification (Level 4) | Sarcasm Detection (Level 4) | Crop Recommendation Systems (Level 4) | Song Gngre Classification (Level 4) | Dance Form Classification (Level 4) | Plant Seedlings Classification (Level 4) | <br>
-Points : 630  <br>
+Projects Done : Medical Cost Analysis for Smokers and Non-Smokers (Level 4) | Raod Lane Detection (Level 2) | Emoji Classification Using OpenCV (Level 3) | Restaurant Recommendation System (Level 4) | Football Match Prediction (Level 4) | Mushroom Classification (Level 4) | Crypotherapy Analysis (Level 4) | Hotel Rating Prediction (Level 4) | Resume Categorizing (Level 4) | Natural Images Classification (Level 4) | Sarcasm Detection (Level 4) | Crop Recommendation Systems (Level 4) | Song Gngre Classification (Level 4) | Dance Form Classification (Level 4) | Plant Seedlings Classification (Level 4) | Productivity Prediction (Level 4) | <br>
+Points : 675  <br>
 
 Name : Umesh Singh <br>
 Github : https://github.com/Umesh-01 <br>
@@ -158,9 +158,14 @@ Number of PR's : 1 <br>
 Projects Done : Fish Weight Prediction (Level 2) | <br>
 Points : 15 <br>
 
-  Name : Anisha Murmu <br>
+Name : Anisha Murmu <br>
 Github : https://github.com/anishamurmu13 <br>
 Number of PR's : 1 <br>
 Projects Done : Zoo Animal Classification (Level 3) | <br>
 Points : 30 <br>
 
+Name : Arushi <br>
+Github : https://github.com/arushi09207 <br>
+Number of PR's : 1 <br>
+Projects Done : Employee Retention Prediction (Level 4) | <br>
+Points : 45 <br>
