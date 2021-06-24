@@ -119,8 +119,8 @@ Points : 30 <br>
 Name : Abhishek Sharma <br>
 Github : https://github.com/abhisheks008 <br> 
 Number of PR's : 9 <br>
-Projects Done : Medical Cost Analysis for Smokers and Non-Smokers (Level 4) | Raod Lane Detection (Level 2) | Emoji Classification Using OpenCV (Level 3) | Restaurant Recommendation System (Level 4) | Football Match Prediction (Level 4) | Mushroom Classification (Level 4) | Crypotherapy Analysis (Level 4) | Hotel Rating Prediction (Level 4) | Resume Categorizing (Level 4) | Natural Images Classification (Level 4) | Sarcasm Detection (Level 4) | Crop Recommendation Systems (Level 4) | Song Gngre Classification (Level 4) | Dance Form Classification (Level 4) | Plant Seedlings Classification (Level 4) | Productivity Prediction (Level 4) | <br>
-Points : 675  <br>
+Projects Done : Medical Cost Analysis for Smokers and Non-Smokers (Level 4) | Raod Lane Detection (Level 2) | Emoji Classification Using OpenCV (Level 3) | Restaurant Recommendation System (Level 4) | Football Match Prediction (Level 4) | Mushroom Classification (Level 4) | Crypotherapy Analysis (Level 4) | Hotel Rating Prediction (Level 4) | Resume Categorizing (Level 4) | Natural Images Classification (Level 4) | Sarcasm Detection (Level 4) | Crop Recommendation Systems (Level 4) | Song Gngre Classification (Level 4) | Dance Form Classification (Level 4) | Plant Seedlings Classification (Level 4) | Productivity Prediction (Level 4) | Heights and Weights Prediction (Level 4) | Movie Oscar Win Prediction (Level 4) | <br>
+Points : 765  <br>
 
 Name : Umesh Singh <br>
 Github : https://github.com/Umesh-01 <br>
@@ -169,3 +169,22 @@ Github : https://github.com/arushi09207 <br>
 Number of PR's : 1 <br>
 Projects Done : Employee Retention Prediction (Level 4) | <br>
 Points : 45 <br>
+
+Name : Ayushi Shrivastava <br>
+Github : https://github.com/ayushi424 <br>
+Number of PR's : 1 <br>
+Projects Done : Student Performance Prediction (Level 4) | <br>
+Points : 45 <br>
+
+Name : Isha Shaw <br>
+Github : https://github.com/Isha307 <br>
+Number of PR's : 1 <br>
+Projects Done : Water Quality Analysis-2 (Level 3) | <br>
+Points : 30 <br>
+
+Name : Neeraj Ap <br>
+Github : https://github.com/NEERAJAP2001 <br>
+Number of PR's : 1 <br>
+Projects Done : Cotton Deisease Prediction (Level 4) | <br>
+Points : 45 <br>
+
