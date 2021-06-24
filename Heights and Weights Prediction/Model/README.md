@@ -8,10 +8,10 @@ The goal of this project is to build the prediction model using the regression a
 
 ## Dataset
 The dataset is collected from Kaggle website. Here is the link : https://www.kaggle.com/tmcketterick/heights-and-weights
-*I have uploaded the same in this folder, you can access that too!*
+*I have uploaded the same in the [`Dataset`](https://github.com/abhisheks008/ML-ProjectKart/tree/patch-17/Heights%20and%20Weights%20Prediction/Dataset) folder, you can access that too!*
 
 ## What Have I done
-1. Firstly import all the required libraries.
+1. Firstly import all the required libraries. Check [`requiremnts.txt`](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-17/Heights%20and%20Weights%20Prediction/requirements.txt).
 2. Import the dataset and open the Jupyter Notebook file.
 3. Process the data and visualize it.
 4. Deploying various models for the prediction model -
