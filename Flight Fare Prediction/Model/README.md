@@ -1,6 +1,6 @@
 **PROJECT TITLE - Flight Fare Prediction**
         
-<img src = "" width="400">
+<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Flight%20Fare%20Prediction/Images/project_viz.png" width="400">
 
 >
 
