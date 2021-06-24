@@ -53,8 +53,14 @@ Points : 165 <br>
 Name : Ayushi Shrivastava <br>
 Github : https://github.com/ayushi424 <br>
 Number of PR's : 3 <br>
-Projects Done : Concrete Strength Prediction (Level 3) | Air Quality Prediction (Level 3) | Stress Level Prediction (Level 3) | <br>
-Points : 90 <br>
+Projects Done : Concrete Strength Prediction (Level 3) | Air Quality Prediction (Level 3) | Stress Level Prediction (Level 3) | Student Performance Prediction (Level 4) | <br>
+Points : 135 <br>
+
+Name : Ayushi Shrivastava <br>
+Github : https://github.com/ayushi424 <br>
+Number of PR's : 1 <br>
+Projects Done : Student Performance Prediction (Level 4) | <br>
+Points : 45 <br>
 
 Name : Sumit <br>
 Github : https://github.com/Sumit11081996 <br>
@@ -137,8 +143,8 @@ Points : 30 <br>
 Name : Isha Shaw <br>
 Github : https://github.com/Isha307 <br>
 Number of PR's : 2 <br>
-Projects Done : Traffic Sign Classification (Level 3) | Mobile Range Price Classification (Level 3) | Rain Prediction (Level 3) | <br>
-Points : 90 <br>
+Projects Done : Traffic Sign Classification (Level 3) | Mobile Range Price Classification (Level 3) | Rain Prediction (Level 3) | Water Quality Analysis-2 (Level 3) |<br>
+Points : 120 <br>
 
 Name : Ritik Kumar <br>
 Github : https://github.com/ritikkumar55 <br>
@@ -169,18 +175,6 @@ Github : https://github.com/arushi09207 <br>
 Number of PR's : 1 <br>
 Projects Done : Employee Retention Prediction (Level 4) | <br>
 Points : 45 <br>
-
-Name : Ayushi Shrivastava <br>
-Github : https://github.com/ayushi424 <br>
-Number of PR's : 1 <br>
-Projects Done : Student Performance Prediction (Level 4) | <br>
-Points : 45 <br>
-
-Name : Isha Shaw <br>
-Github : https://github.com/Isha307 <br>
-Number of PR's : 1 <br>
-Projects Done : Water Quality Analysis-2 (Level 3) | <br>
-Points : 30 <br>
 
 Name : Neeraj Ap <br>
 Github : https://github.com/NEERAJAP2001 <br>
