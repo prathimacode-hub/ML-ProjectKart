@@ -11,7 +11,7 @@ Points : 90 <br>
 Name : Soumayan Pal <br>
 Github : https://github.com/Soumayan-pal01 <br>
 Number of PR's : 5 <br>
-Projects Done : Face Mask Detection Using OpenCV (Level 4) | Uber Fare Prediction (Level 4) | Image Compression Using Clustering (Level 4) | Credit Card Fraud Detection (Level 4) | Fake News Detection (Level 4) | Solar Eclipse Classification (Level 4) | Disneyland Review Analysis (Level 4) <br>
+Projects Done : Face Mask Detection Using OpenCV (Level 4) | Uber Fare Prediction (Level 4) | Image Compression Using Clustering (Level 4) | Credit Card Fraud Detection (Level 4) | Fake News Detection (Level 4) | Solar Eclipse Classification (Level 4) | Disneyland Review Analysis (Level 4) | <br>
 Points : 315 <br>
 
 Name : Neeraj Ap <br>
