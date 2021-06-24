@@ -15,7 +15,7 @@ Dataset can be downloaded from [here](https://www.kaggle.com/fayomi/advertising)
 -  Support Vector Machine (SVM)
 -  Decission Tree
 -  K Nearest Neighbour
--  Random Forest Classifier
+-  Random  Classifier
 
 **LIBRARIES NEEDED**
 - numpy
@@ -37,18 +37,17 @@ By using Logistic Regression I got
     Accuracy of testing data: 70.0
  ``` 
  
- By using Decission Tree I got 
+ By using K Nearest Neighbour I got 
  ```
     Accuracy of training data: 100.0
-    Accuracy of testing data: 58.13253012048193
+    Accuracy of testing data: 76.4
  ``` 
  
- By using K Nearest Neighbour I got 
+  By using Decission Tree I got 
  ```
     Accuracy of training data: 100.0
     Accuracy of testing data: 93.60000000000001
  ``` 
- 
  
  By using Random Forest Classifier I got 
  ```
