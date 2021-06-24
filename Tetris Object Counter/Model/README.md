@@ -1,5 +1,5 @@
 # Tetris Object counter
-![image](https://imagebee.org/games/tetris/tetris-1-1920x1080.jpg)
+![image](https://github.com/TusharAMD/ML-ProjectKart/blob/issue50/Tetris%20Object%20Counter/Images/Screenshots/illustration%20for%20readme.jpg)
 
 ### Goal
 The goal of the project is to identify all the tetris objects (tetrominoes) in the given tetris input image and return the count. It is seen that during gameplay the tetris blocks are broken and this program should be able to identify such blocks too.
@@ -21,13 +21,16 @@ Dataset used in the project is screenshots from the https://tetris.com/play-tetr
 
 ### Libraries Needed
 opencv_python==4.4.0.42
+
 numpy==1.19.
+
 pandas==1.1.1
+
 imutils==0.5.4
 
 ### Results
 
 Here is one of the input image
-![image](https://i.ibb.co/g7Pfk3y/4.png)
+![image](https://github.com/TusharAMD/ML-ProjectKart/blob/issue50/Tetris%20Object%20Counter/Dataset/5.png)
 And this is the Result
-![image](https://i.ibb.co/7XKScZv/Updated.png)
+![image](https://github.com/TusharAMD/ML-ProjectKart/blob/issue50/Tetris%20Object%20Counter/Images/Screenshots/Updated.png)
