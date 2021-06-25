@@ -32,7 +32,7 @@
 - Using Decision Tree
 - HyperParameter Tuning
 - Saving the hypertuned model
-- Using the sved model to perform predictions on the test set
+- Using the saved model to perform predictions on the test set
 
 
 
@@ -53,6 +53,16 @@
 - datetime
 - pickle
 
+**Comparing the models**
+
+- Random Forest Regressor accuracy - 81%
+- Linear Regressor accuracy - 63%
+- KNN Regressor accuracy - 68%
+- Decision Tree Regressor accuracy - 69%
+
+*Here we can see that the Random Forest Regressor model gives the highest accuracy of 81%. Now we try to improve this accuracy by hypertuning the base model.*
+
+Accuracy of Random Forest Regressor after Hyperparameter tuning - 84%
 
 **Conclusion**
 
