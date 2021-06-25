@@ -1,3 +1,8 @@
+#Advertisement Success Prediction
+
+In this project we will be working with an advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. 
+We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
+
 **GOAL**
 
 The goal is to predict Advertisement Success.
@@ -49,7 +54,7 @@ By using Logistic Regression I got
     Accuracy of testing data: 93.60000000000001
  ``` 
  
- By using Random Forest Classifier I got 
+ By using Random  Classifier I got 
  ```
     Accuracy of training data: 100.0
     Accuracy of testing data: 94.8
