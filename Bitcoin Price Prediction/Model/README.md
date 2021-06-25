@@ -18,7 +18,7 @@
 
 **MODELS USED**
 - 
- Model | #Mean Absolute Error| #R2 Score |
+ Model | Mean Absolute Error| R2 Score |
   -------- | ---------- | ---------- |
  Deep Neural Network | 9.028034 | 0.999931 |
  Ridge Regression | 12.459064 | 0.999936 |
