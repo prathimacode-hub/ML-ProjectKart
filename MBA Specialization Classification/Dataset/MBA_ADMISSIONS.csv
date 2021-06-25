@@ -1,0 +1,474 @@
+pre_score,Age_in_years,Percentage_in_10_Class,Percentage_in_12_Class,Percentage_in_Under_Graduate,percentage_MBA,post_score,Gender,STATE,Previous_Degree,Marital_status,Place_you_belong_to,perceived#Job#Skill,Specialization
+75,22,71,74.8,72,61,83.33333333,Male,Central Zone,Engineering,Single,Urban,prefered skills,Marketing
+71.66666667,25,77.6,82.6,76.9,66.85,76.66666667,Male,Central Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+76.66666667,26,93.2,83.8,77,74.97,75,Female,Central Zone,Engineering,Single,Urban,desired skills,Finance
+66.66666667,22,91.2,80,67,68.3,60,Male,Central Zone,Commerce,Single,Semi Urban,prefered skills,Finance
+71.66666667,24,79.8,61.6,60.33,69.28,76.66666667,Female,Central Zone,Engineering,Single,Urban,prefered skills,Finance
+83.33333333,23,67,62,67,63,80,Female,Central Zone,Commerce,Single,Urban,desired skills,Marketing
+73.33333333,22,82,70,76.5,67,81.66666667,Male,Central Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+85,26,86.4,80.4,70.22,70.48,76.66666667,Male,Central Zone,Engineering,Single,Semi Urban,desired skills,LOS
+71.66666667,22,95,78.6,75.43,68.54,88.33333333,Male,Central Zone,Engineering,Single,Urban,prefered skills,Marketing
+75,22,71,74.8,72,61,83.33333333,Male,Central Zone,Engineering,Single,Urban,prefered skills,Marketing
+71.66666667,25,77.6,82.6,76.9,66.85,76.66666667,Male,Central Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+76.66666667,26,93.2,83.8,77,74.97,75,Female,Central Zone,Engineering,Single,Urban,desired skills,Finance
+66.66666667,22,91.2,80,67,68.3,60,Male,Central Zone,Commerce,Single,Semi Urban,prefered skills,Finance
+71.66666667,24,79.8,61.6,60.33,69.28,76.66666667,Female,Central Zone,Engineering,Single,Urban,prefered skills,Finance
+83.33333333,23,67,62,67,63,80,Female,Central Zone,Commerce,Single,Urban,desired skills,Marketing
+73.33333333,22,82,70,76.5,67,81.66666667,Male,Central Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+85,26,86.4,80.4,70.22,70.48,76.66666667,Male,Central Zone,Engineering,Single,Semi Urban,desired skills,LOS
+71.66666667,22,95,78.6,75.43,68.54,88.33333333,Male,Central Zone,Engineering,Single,Urban,prefered skills,Marketing
+71.66666667,25,77.6,82.6,76.9,66.85,76.66666667,Male,Central Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+76.66666667,26,93.2,83.8,77,74.97,75,Female,Central Zone,Engineering,Single,Urban,desired skills,Finance
+71.66666667,24,79.8,61.6,60.33,69.28,76.66666667,Female,Central Zone,Engineering,Single,Urban,prefered skills,Finance
+73.33333333,22,82,70,76.5,67,81.66666667,Male,Central Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+85,26,86.4,80.4,70.22,70.48,76.66666667,Male,Central Zone,Engineering,Single,Semi Urban,desired skills,LOS
+71.66666667,22,95,78.6,75.43,68.54,88.33333333,Male,Central Zone,Engineering,Single,Urban,prefered skills,Marketing
+71.66666667,25,77.6,82.6,76.9,66.85,76.66666667,Male,Central Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+76.66666667,26,93.2,83.8,77,74.97,75,Female,Central Zone,Engineering,Single,Urban,desired skills,Finance
+66.66666667,22,91.2,80,67,68.3,60,Male,Central Zone,Commerce,Single,Semi Urban,prefered skills,Finance
+71.66666667,24,79.8,61.6,60.33,69.28,76.66666667,Female,Central Zone,Engineering,Single,Urban,prefered skills,Finance
+75,21,85,88,79,70.6,75,Female,East Zone,Commerce,Single,Urban,prefered skills,HR
+43,22,78,80,87,67.27,100,Male,East Zone,Engineering,Single,Urban,prefered skills,Finance
+90,22,78,80,87,67.27,100,Male,East Zone,Engineering,Single,Urban,desired skills,Finance
+100,22,78,80,87,67.27,100,Male,East Zone,Engineering,Single,Urban,desired skills,Finance
+50,20,72,66,60,60.7,71.66666667,Male,East Zone,Management,Single,Urban,desired skills,Marketing
+43,23,79,70,81.6,64,7,Male,East Zone,Commerce,Single,Urban,prefered skills,Finance
+40,22,85,89,63,70,78.33333333,Female,East Zone,Commerce,Single,Urban,required skills,Finance
+75,22,69.6,65.25,62,62,86.66666667,Male,East Zone,Management,Single,Semi Urban,prefered skills,Marketing
+63.33333333,21,84.66,79.66,70,67.08,88.33333333,Male,East Zone,Science,Single,Semi Urban,prefered skills,Marketing
+86.66666667,26,84,91.5,71.44,68,73.33333333,Female,East Zone,Commerce,Single,Urban,desired skills,Marketing
+60,23,88.67,85.29,75.5,68.1,80,Female,East Zone,Engineering,Single,Urban,prefered skills,Marketing
+65,24,79,61,70,68,71.66666667,Male,East Zone,Science,Single,Urban,prefered skills,Marketing
+75,23,80.6,68.3,73,67.4,50,Male,East Zone,Engineering,Single,Urban,prefered skills,Marketing
+55,21,76,75.2,61,65,71.66666667,Male,East Zone,Commerce,Single,Urban,prefered skills,Finance
+91.66666667,26,75.75,61.86,67.88,68.38,95,Male,East Zone,Engineering,Single,Rural,desired skills,LOS
+60,21,92.4,89,77,75,71.66666667,Female,East Zone,Commerce,Single,Urban,prefered skills,Finance
+70,24,82.2,71.4,64.25,70.19,76.66666667,Female,East Zone,Science,Single,Urban,prefered skills,Finance
+73.33333333,23,80.67,60.29,70.58,62.06,93.33333333,Male,East Zone,Management,Single,Urban,prefered skills,HR
+30,21,79.8,65.5,81.75,68.88,48.33333333,Female,East Zone,Science,Single,Urban,required skills,Finance
+60,22,89.8,82.5,62.375,71,75,Male,East Zone,Science,Single,Semi Urban,prefered skills,Finance
+88.33333333,23,77,87,65,65,35,Female,East Zone,Commerce,Single,Urban,desired skills,Marketing
+75,21,85,88,79,70.6,75,Female,East Zone,Commerce,Single,Urban,prefered skills,HR
+43,22,78,80,87,67.27,100,Male,East Zone,Engineering,Single,Urban,prefered skills,Finance
+90,22,78,80,87,67.27,100,Male,East Zone,Engineering,Single,Urban,desired skills,Finance
+100,22,78,80,87,67.27,100,Male,East Zone,Engineering,Single,Urban,desired skills,Finance
+50,20,72,66,60,60.7,71.66666667,Male,East Zone,Management,Single,Urban,desired skills,Marketing
+43,23,79,70,81.6,64,7,Male,East Zone,Commerce,Single,Urban,prefered skills,Finance
+40,22,85,89,63,70,78.33333333,Female,East Zone,Commerce,Single,Urban,required skills,Finance
+75,22,69.6,65.25,62,62,86.66666667,Male,East Zone,Management,Single,Semi Urban,prefered skills,Marketing
+63.33333333,21,84.66,79.66,70,67.08,88.33333333,Male,East Zone,Science,Single,Semi Urban,prefered skills,Marketing
+86.66666667,26,84,91.5,71.44,68,73.33333333,Female,East Zone,Commerce,Single,Urban,desired skills,Marketing
+60,23,88.67,85.29,75.5,68.1,80,Female,East Zone,Engineering,Single,Urban,prefered skills,Marketing
+65,24,79,61,70,68,71.66666667,Male,East Zone,Science,Single,Urban,prefered skills,Marketing
+75,23,80.6,68.3,73,67.4,50,Male,East Zone,Engineering,Single,Urban,prefered skills,Marketing
+55,21,76,75.2,61,65,71.66666667,Male,East Zone,Commerce,Single,Urban,prefered skills,Finance
+91.66666667,26,75.75,61.86,67.88,68.38,95,Male,East Zone,Engineering,Single,Rural,desired skills,LOS
+60,21,92.4,89,77,75,71.66666667,Female,East Zone,Commerce,Single,Urban,prefered skills,Finance
+70,24,82.2,71.4,64.25,70.19,76.66666667,Female,East Zone,Science,Single,Urban,prefered skills,Finance
+73.33333333,23,80.67,60.29,70.58,62.06,93.33333333,Male,East Zone,Management,Single,Urban,prefered skills,HR
+30,21,79.8,65.5,81.75,68.88,48.33333333,Female,East Zone,Science,Single,Urban,required skills,Finance
+60,22,89.8,82.5,62.375,71,75,Male,East Zone,Science,Single,Semi Urban,prefered skills,Finance
+88.33333333,23,77,87,65,65,35,Female,East Zone,Commerce,Single,Urban,desired skills,Marketing
+50,20,72,66,60,60.7,71.66666667,Male,East Zone,Management,Single,Urban,desired skills,Marketing
+40,22,85,89,63,70,78.33333333,Female,East Zone,Commerce,Single,Urban,required skills,Finance
+86.66666667,26,84,91.5,71.44,68,73.33333333,Female,East Zone,Commerce,Single,Urban,desired skills,Marketing
+65,24,79,61,70,68,71.66666667,Male,East Zone,Science,Single,Urban,prefered skills,Marketing
+88.33333333,23,77,87,65,65,35,Female,East Zone,Commerce,Single,Urban,desired skills,Marketing
+100,22,78,80,87,67.27,100,Male,East Zone,Engineering,Single,Urban,desired skills,Finance
+40,22,85,89,63,70,78.33333333,Female,East Zone,Commerce,Single,Urban,required skills,Finance
+55,21,76,75.2,61,65,71.66666667,Male,East Zone,Commerce,Single,Urban,prefered skills,Finance
+91.66666667,26,75.75,61.86,67.88,68.38,95,Male,East Zone,Engineering,Single,Rural,desired skills,LOS
+30,21,79.8,65.5,81.75,68.88,48.33333333,Female,East Zone,Science,Single,Urban,required skills,Finance
+78.33333333,25,71.67,89.98,73,67.19,88.33333333,Female,North East,Commerce,Single,Urban,desired skills,Finance
+71.66666667,23,89.33,84.6,66.4,63.08,100,Male,North East,Engineering,Single,Semi Urban,prefered skills,Finance
+78.33333333,25,71.67,89.98,73,67.19,88.33333333,Female,North East,Commerce,Single,Urban,desired skills,Finance
+71.66666667,23,89.33,84.6,66.4,63.08,100,Male,North East,Engineering,Single,Semi Urban,prefered skills,Finance
+71.66666667,23,89.33,84.6,66.4,63.08,100,Male,North East,Engineering,Single,Semi Urban,prefered skills,Finance
+60,20,88,87.8,65,70.25,81.66666667,Male,North Zone,Commerce,Single,Urban,prefered skills,Marketing
+63.33333333,23,75,72,70,67,80,Male,North Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+63.33333333,22,72,83,69,63,73.33333333,Male,North Zone,Commerce,Single,Urban,prefered skills,Finance
+68.33333333,22,91.2,78,69.8,70.51,73.33333333,Female,North Zone,Science,Single,Urban,prefered skills,Marketing
+46.66666667,20,80,93.25,75,63.3,78.33333333,Female,North Zone,Commerce,Single,Urban,prefered skills,Marketing
+60,20,93,85,66,65,86.66666667,Female,North Zone,Commerce,Single,Urban,prefered skills,HR
+76.66666667,25,83.4,79,66.8,66.1,80,Male,North Zone,Engineering,Single,Urban,desired skills,Marketing
+80,25,77.8,62.2,60.1,68.48,73.33333333,Male,North Zone,Engineering,Single,Urban,desired skills,LOS
+76.66666667,25,77.8,62.2,60.1,68.48,73.33333333,Male,North Zone,Engineering,Single,Urban,desired skills,LOS
+50,22,87.5,72.4,64,66,51.66666667,Female,North Zone,Science,Single,Urban,prefered skills,HR
+86.66666667,22,89.9,83.4,84.1,73.91,83.33333333,Female,North Zone,Science,Single,Urban,desired skills,HR
+53.33333333,21,70.4,80.3,60.15,65.84,70,Male,North Zone,Commerce,Single,Urban,prefered skills,Marketing
+90,25,83,64,77,71.25,86.66666667,Male,North Zone,Management,Single,Urban,desired skills,Marketing
+90,25,83,64,77,71.25,86.66666667,Male,North Zone,Management,Single,Urban,desired skills,Marketing
+83.33333333,21,74.1,86.8,70.63,68.5,80,Female,North Zone,Management,Single,Urban,desired skills,Finance
+81.66666667,23,87,89,80,67.14,83.33333333,Female,North Zone,Science,Single,Urban,desired skills,HR
+75,21,89.4,70,81.58,72,70,Female,North Zone,Management,Single,Rural,prefered skills,Finance
+61.66666667,25,83.6,80.6,62,73.55,66.66666667,Male,North Zone,Engineering,Single,Urban,prefered skills,LOS
+55,23,89.3,79.2,72.56,70.32,78.33333333,Male,North Zone,Engineering,Single,Urban,prefered skills,LOS
+55,23,89.3,79.2,72.56,70.32,78.33333333,Male,North Zone,Engineering,Single,Urban,prefered skills,LOS
+75,20,58.9,76,68.57,63.77,75,Male,North Zone,Management,Single,Urban,prefered skills,Marketing
+86.66666667,24,68,63,64,60,80,Female,North Zone,Management,Single,Urban,desired skills,Finance
+68.33333333,20,85.5,84.2,74,62,71.66666667,Female,North Zone,Management,Single,Urban,prefered skills,Marketing
+68.33333333,22,91.25,92,75.5,63.5,56.66666667,Male,North Zone,Management,Single,Semi Urban,prefered skills,Marketing
+61.66666667,24,83.3,77,67.1,67.27,66.66666667,Female,North Zone,Engineering,Single,Urban,prefered skills,Marketing
+70,21,91.2,90.2,86,74.225,68.33333333,Female,North Zone,Commerce,Single,Semi Urban,prefered skills,Finance
+68.33333333,22,89.3,89,70.53,71.94,75,Female,North Zone,Arts,Single,Urban,prefered skills,Finance
+76.66666667,23,88.6,76.4,74.6,71.43,88.33333333,Female,North Zone,Science,Single,Urban,desired skills,HR
+65,22,83.85,86.2,87.45,71.22,56.66666667,Female,North Zone,Commerce,Single,Rural,prefered skills,Finance
+81.66666667,21,70,67,65,59.16,95,Male,North Zone,Commerce,Single,Semi Urban,desired skills,LOS
+63.33333333,25,87,84.2,78.13,69.22,78.33333333,Male,North Zone,Engineering,Single,Urban,prefered skills,Finance
+60,20,88,87.8,65,70.25,81.66666667,Male,North Zone,Commerce,Single,Urban,prefered skills,Marketing
+63.33333333,23,75,72,70,67,80,Male,North Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+63.33333333,22,72,83,69,63,73.33333333,Male,North Zone,Commerce,Single,Urban,prefered skills,Finance
+68.33333333,22,91.2,78,69.8,70.51,73.33333333,Female,North Zone,Science,Single,Urban,prefered skills,Marketing
+46.66666667,20,80,93.25,75,63.3,78.33333333,Female,North Zone,Commerce,Single,Urban,prefered skills,Marketing
+60,20,93,85,66,65,86.66666667,Female,North Zone,Commerce,Single,Urban,prefered skills,HR
+76.66666667,25,83.4,79,66.8,66.1,80,Male,North Zone,Engineering,Single,Urban,desired skills,Marketing
+80,25,77.8,62.2,60.1,68.48,73.33333333,Male,North Zone,Engineering,Single,Urban,desired skills,LOS
+76.66666667,25,77.8,62.2,60.1,68.48,73.33333333,Male,North Zone,Engineering,Single,Urban,desired skills,LOS
+50,22,87.5,72.4,64,66,51.66666667,Female,North Zone,Science,Single,Urban,prefered skills,HR
+86.66666667,22,89.9,83.4,84.1,73.91,83.33333333,Female,North Zone,Science,Single,Urban,desired skills,HR
+53.33333333,21,70.4,80.3,60.15,65.84,70,Male,North Zone,Commerce,Single,Urban,prefered skills,Marketing
+90,25,83,64,77,71.25,86.66666667,Male,North Zone,Management,Single,Urban,desired skills,Marketing
+90,25,83,64,77,71.25,86.66666667,Male,North Zone,Management,Single,Urban,desired skills,Marketing
+83.33333333,21,74.1,86.8,70.63,68.5,80,Female,North Zone,Management,Single,Urban,desired skills,Finance
+81.66666667,23,87,89,80,67.14,83.33333333,Female,North Zone,Science,Single,Urban,desired skills,HR
+75,21,89.4,70,81.58,72,70,Female,North Zone,Management,Single,Rural,prefered skills,Finance
+61.66666667,25,83.6,80.6,62,73.55,66.66666667,Male,North Zone,Engineering,Single,Urban,prefered skills,LOS
+55,23,89.3,79.2,72.56,70.32,78.33333333,Male,North Zone,Engineering,Single,Urban,prefered skills,LOS
+55,23,89.3,79.2,72.56,70.32,78.33333333,Male,North Zone,Engineering,Single,Urban,prefered skills,LOS
+75,20,58.9,76,68.57,63.77,75,Male,North Zone,Management,Single,Urban,prefered skills,Marketing
+86.66666667,24,68,63,64,60,80,Female,North Zone,Management,Single,Urban,desired skills,Finance
+68.33333333,20,85.5,84.2,74,62,71.66666667,Female,North Zone,Management,Single,Urban,prefered skills,Marketing
+68.33333333,22,91.25,92,75.5,63.5,56.66666667,Male,North Zone,Management,Single,Semi Urban,prefered skills,Marketing
+61.66666667,24,83.3,77,67.1,67.27,66.66666667,Female,North Zone,Engineering,Single,Urban,prefered skills,Marketing
+70,21,91.2,90.2,86,74.225,68.33333333,Female,North Zone,Commerce,Single,Semi Urban,prefered skills,Finance
+68.33333333,22,89.3,89,70.53,71.94,75,Female,North Zone,Arts,Single,Urban,prefered skills,Finance
+76.66666667,23,88.6,76.4,74.6,71.43,88.33333333,Female,North Zone,Science,Single,Urban,desired skills,HR
+65,22,83.85,86.2,87.45,71.22,56.66666667,Female,North Zone,Commerce,Single,Rural,prefered skills,Finance
+81.66666667,21,70,67,65,59.16,95,Male,North Zone,Commerce,Single,Semi Urban,desired skills,LOS
+63.33333333,25,87,84.2,78.13,69.22,78.33333333,Male,North Zone,Engineering,Single,Urban,prefered skills,Finance
+63.33333333,23,75,72,70,67,80,Male,North Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+76.66666667,25,77.8,62.2,60.1,68.48,73.33333333,Male,North Zone,Engineering,Single,Urban,desired skills,LOS
+50,22,87.5,72.4,64,66,51.66666667,Female,North Zone,Science,Single,Urban,prefered skills,HR
+90,25,83,64,77,71.25,86.66666667,Male,North Zone,Management,Single,Urban,desired skills,Marketing
+90,25,83,64,77,71.25,86.66666667,Male,North Zone,Management,Single,Urban,desired skills,Marketing
+83.33333333,21,74.1,86.8,70.63,68.5,80,Female,North Zone,Management,Single,Urban,desired skills,Finance
+75,21,89.4,70,81.58,72,70,Female,North Zone,Management,Single,Rural,prefered skills,Finance
+55,23,89.3,79.2,72.56,70.32,78.33333333,Male,North Zone,Engineering,Single,Urban,prefered skills,LOS
+75,20,58.9,76,68.57,63.77,75,Male,North Zone,Management,Single,Urban,prefered skills,Marketing
+86.66666667,24,68,63,64,60,80,Female,North Zone,Management,Single,Urban,desired skills,Finance
+68.33333333,20,85.5,84.2,74,62,71.66666667,Female,North Zone,Management,Single,Urban,prefered skills,Marketing
+76.66666667,23,88.6,76.4,74.6,71.43,88.33333333,Female,North Zone,Science,Single,Urban,desired skills,HR
+81.66666667,21,70,67,65,59.16,95,Male,North Zone,Commerce,Single,Semi Urban,desired skills,LOS
+60,20,88,87.8,65,70.25,81.66666667,Male,North Zone,Commerce,Single,Urban,prefered skills,Marketing
+63.33333333,23,75,72,70,67,80,Male,North Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+80,25,77.8,62.2,60.1,68.48,73.33333333,Male,North Zone,Engineering,Single,Urban,desired skills,LOS
+50,22,87.5,72.4,64,66,51.66666667,Female,North Zone,Science,Single,Urban,prefered skills,HR
+53.33333333,21,70.4,80.3,60.15,65.84,70,Male,North Zone,Commerce,Single,Urban,prefered skills,Marketing
+90,25,83,64,77,71.25,86.66666667,Male,North Zone,Management,Single,Urban,desired skills,Marketing
+75,21,89.4,70,81.58,72,70,Female,North Zone,Management,Single,Rural,prefered skills,Finance
+75,20,58.9,76,68.57,63.77,75,Male,North Zone,Management,Single,Urban,prefered skills,Marketing
+61.66666667,24,83.3,77,67.1,67.27,66.66666667,Female,North Zone,Engineering,Single,Urban,prefered skills,Marketing
+68.33333333,22,89.3,89,70.53,71.94,75,Female,North Zone,Arts,Single,Urban,prefered skills,Finance
+76.66666667,23,88.6,76.4,74.6,71.43,88.33333333,Female,North Zone,Science,Single,Urban,desired skills,HR
+86.66666667,23,79,90,71,66,91.66666667,Male,South Zone,Commerce,Single,Semi Urban,desired skills,Finance
+90,23,79,90,71,66,91.66666667,Male,South Zone,Commerce,Single,Semi Urban,desired skills,Finance
+70,19,86.8,72.6,78.9,69.62,78.33333333,Male,South Zone,Management,Single,Semi Urban,prefered skills,Marketing
+81.66666667,25,86,75,65,66.4,81.66666667,Male,South Zone,Engineering,Single,Semi Urban,desired skills,Marketing
+81.66666667,21,85,81,78,66.54,86.66666667,Male,South Zone,Management,Single,Urban,desired skills,Marketing
+68.33333333,24,90,96,75,72.44,76.66666667,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+81.66666667,21,84,85,83,66.6,93.33333333,Female,South Zone,Commerce,Married,Urban,desired skills,HR
+60,25,85,79,68,65,61.66666667,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+36.66666667,22,96,80,65,64,60,Male,South Zone,Engineering,Single,Urban,required skills,Marketing
+61.66666667,20,93,94.8,84.55,69.4,58.33333333,Female,South Zone,Commerce,Single,Urban,prefered skills,Finance
+61.66666667,21,80,92,75,60,65,Female,South Zone,Commerce,Single,Rural,prefered skills,Marketing
+46,24,72,85,72,66.09,95,Male,South Zone,Commerce,Single,Urban,desired skills,Finance
+40,26,88.16,84.3,74.2,66,66.66666667,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+61.66666667,26,88,84,74,66,66.66666667,Male,South Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+46,24,82.3,65.5,69,66,66.66666667,Male,South Zone,Engineering,Single,Urban,desired skills,Marketing
+40,21,68,88,76,65,75,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+75,22,68,88,76,65,75,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+44,21,97.2,91,68,62,66.66666667,Male,South Zone,Engineering,Single,Urban,prefered skills,LOS
+76.66666667,24,89.4,90.75,76.7,77.41,85,Male,South Zone,Engineering,Single,Urban,desired skills,LOS
+52,23,94.4,92.75,74.4,72.6,75,Male,South Zone,Engineering,Single,Rural,desired skills,Marketing
+76.66666667,23,94.4,92.75,74,72.6,75,Male,South Zone,Engineering,Single,Rural,desired skills,Marketing
+46,23,85.8,84.6,89,69.4,100,Male,South Zone,Engineering,Single,Urban,desired skills,HR
+91.66666667,23,86,85,85,69.4,100,Male,South Zone,Engineering,Single,Semi Urban,desired skills,HR
+65,22,88.16,79.8,78.8,67,91.66666667,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+80,24,83.4,79.6,81,73.05,88.33333333,Female,South Zone,Engineering,Single,Semi Urban,desired skills,LOS
+73.33333333,25,84.5,95,75.44,75.23,80,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+65,23,84,85,74,71.3,70,Female,South Zone,Commerce,Single,Urban,prefered skills,HR
+91.66666667,20,94.4,97.17,94,73.41,88.33333333,Female,South Zone,Commerce,Single,Semi Urban,desired skills,Finance
+54,20,94,97,94,73.41,88.33333333,Female,South Zone,Commerce,Single,Semi Urban,desired skills,Finance
+73.33333333,25,96.32,93.83,90.4,76.83,76.66666667,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+55,22,93.1,88.4,80.01,69.17,55,Male,South Zone,Commerce,Single,Rural,prefered skills,Finance
+42,21,89.4,95.6,77,65.11,86.66666667,Male,South Zone,Commerce,Single,Urban,prefered skills,Marketing
+60,21,89.4,95.6,77,65.11,86.66666667,Male,South Zone,Commerce,Single,Urban,prefered skills,Marketing
+73.33333333,20,75.36,83.5,84.5,66,80,Male,South Zone,Commerce,Single,Urban,prefered skills,Finance
+66.66666667,22,82,78.83,65,69.3,63.33333333,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+83.33333333,20,93.2,94.75,74,65.6,73.33333333,Male,South Zone,Commerce,Single,Urban,desired skills,Finance
+61.66666667,20,70,83,63,62,66.66666667,Female,South Zone,Commerce,Single,Urban,prefered skills,Finance
+93.33333333,22,92,94,78.71,66.29,73.33333333,Female,South Zone,Engineering,Single,Urban,desired skills,LOS
+76.66666667,21,66.5,87.5,69.17,70.5,88.33333333,Female,South Zone,Commerce,Single,Urban,desired skills,Finance
+81.66666667,22,92.8,84.8,78,69.87,83.33333333,Female,South Zone,Science,Single,Urban,desired skills,HR
+76.66666667,22,86,76,77,65.9,63.33333333,Female,South Zone,Engineering,Single,Urban,desired skills,Marketing
+63.33333333,23,95,85,85,70.64,78.33333333,Female,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+76.66666667,24,93.4,96.58,91.7,73.17,85,Male,South Zone,Engineering,Single,Semi Urban,desired skills,HR
+63.33333333,24,87,83,63,72.7,68.33333333,Male,South Zone,Commerce,Single,Urban,prefered skills,Finance
+73.33333333,22,76,79,68,63.8,95,Male,South Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+90,25,79.4,64,71.2,66.8,85,Male,South Zone,Engineering,Single,Urban,desired skills,LOS
+68.33333333,22,90,88.8,67,69.84,73.33333333,Male,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+70,23,85,92,64,72,76.66666667,Male,South Zone,Commerce,Single,Semi Urban,prefered skills,Finance
+81.66666667,20,70.3,88,65,64.38,95,Female,South Zone,Commerce,Single,Urban,desired skills,Marketing
+51.66666667,22,91.2,94.4,73.15,70.67,71.66666667,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+40,23,93.4,96,83.4,67,90,Female,South Zone,Engineering,Single,Urban,prefered skills,Finance
+66.66666667,21,81.28,89.33,78,63.2,70,Female,South Zone,Commerce,Single,Urban,prefered skills,Finance
+58.33333333,21,95,92.4,79.8,69,75,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,Finance
+40,21,93.3,91.5,72.5,65,75,Male,South Zone,Engineering,Single,Urban,prefered skills,LOS
+81.66666667,22,89.6,68.6,72,65.6,96.66666667,Male,South Zone,Science,Single,Semi Urban,desired skills,Marketing
+88.33333333,23,84,74,66,63.26,90,Male,South Zone,Engineering,Single,Rural,desired skills,Marketing
+70,26,89.12,84,69.34,68.38,71.66666667,Male,South Zone,Engineering,Married,Urban,prefered skills,LOS
+71.66666667,20,79,81,76,63,100,Male,South Zone,Commerce,Single,Urban,prefered skills,Marketing
+85,24,81.8,85.16,63.5,68,78.33333333,Male,South Zone,Engineering,Single,Rural,desired skills,LOS
+60,22,74.1,78,65,61.59,58.33333333,Male,South Zone,Commerce,Single,Rural,prefered skills,Finance
+78.33333333,23,95,93,83,71.5,83.33333333,Female,South Zone,Commerce,Single,Urban,desired skills,Finance
+60,20,93,92,77,69,85,Female,South Zone,Science,Single,Rural,prefered skills,LOS
+60,20,93,92,77,69,85,Female,South Zone,Science,Single,Rural,prefered skills,LOS
+75,22,81,84.5,86,64,81.66666667,Female,South Zone,Commerce,Single,Urban,prefered skills,Marketing
+65,21,88.89,72.44,93,67.6,73.33333333,Female,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+51.66666667,22,95,84.8,79.09,67.71,61.66666667,Female,South Zone,Commerce,Single,Urban,prefered skills,Finance
+42,22,95.52,92.67,79.5,73.3,86.66666667,Male,South Zone,Engineering,Single,Urban,prefered skills,Finance
+76.66666667,22,95.52,92.66,79.5,73.3,86.66666667,Male,South Zone,Engineering,Single,Urban,desired skills,Finance
+60,23,90,92,79,72.54,75,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+68.33333333,20,80,81.2,76,69.65,76.66666667,Female,South Zone,Commerce,Single,Urban,prefered skills,HR
+65,21,87.4,91.2,69.8,67.46,68.33333333,Female,South Zone,Commerce,Married,Urban,prefered skills,HR
+71.66666667,25,87,94.8,78,73,73.33333333,Female,South Zone,Engineering,Married,Urban,prefered skills,LOS
+46.66666667,21,84.33,88.7,74.19,71.11,83.33333333,Female,South Zone,Commerce,Single,Urban,prefered skills,HR
+71.66666667,22,85.5,91.16,69,69.69,80,Female,South Zone,Commerce,Single,Urban,prefered skills,Finance
+78.33333333,23,87.4,79.8,74.92,71.84,68.33333333,Male,South Zone,Engineering,Single,Semi Urban,desired skills,Marketing
+75,20,88,79,69,57,55,Male,South Zone,Management,Single,Rural,prefered skills,Marketing
+68.33333333,24,80,72,64,60.57,68.33333333,Male,South Zone,Commerce,Single,Urban,prefered skills,Marketing
+55,24,75.8,75.6,63.86,64.95,63.33333333,Male,South Zone,Engineering,Single,Urban,prefered skills,LOS
+75,23,89.76,85.6,83,69.3,86.66666667,Male,South Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+76.66666667,24,86,69,73,68,8,Male,South Zone,Science,Single,Urban,desired skills,Finance
+76.66666667,25,88.8,90,78.6,70.64,85,Male,South Zone,Engineering,Single,Urban,desired skills,LOS
+83.33333333,21,83.6,73.4,82.22,68.22,76.66666667,Female,South Zone,Commerce,Single,Urban,desired skills,Finance
+76.66666667,21,95,67,70,66.22,86.66666667,Female,South Zone,Science,Single,Urban,desired skills,HR
+71.66666667,21,79.8,93.8,79.04,66,71.66666667,Female,South Zone,Management,Single,Urban,prefered skills,Marketing
+63.33333333,23,92,87.5,77.7,61,65,Female,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+33.33333333,21,91,93,89.5,75.6,63.33333333,Female,South Zone,Commerce,Single,Urban,required skills,Finance
+76.66666667,23,91.2,90,75.8,67.19,35,Female,South Zone,Engineering,Single,Semi Urban,desired skills,LOS
+86.66666667,23,79,90,71,66,91.66666667,Male,South Zone,Commerce,Single,Semi Urban,desired skills,Finance
+90,23,79,90,71,66,91.66666667,Male,South Zone,Commerce,Single,Semi Urban,desired skills,Finance
+70,19,86.8,72.6,78.9,69.62,78.33333333,Male,South Zone,Management,Single,Semi Urban,prefered skills,Marketing
+81.66666667,25,86,75,65,66.4,81.66666667,Male,South Zone,Engineering,Single,Semi Urban,desired skills,Marketing
+81.66666667,21,85,81,78,66.54,86.66666667,Male,South Zone,Management,Single,Urban,desired skills,Marketing
+68.33333333,24,90,96,75,72.44,76.66666667,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+81.66666667,21,84,85,83,66.6,93.33333333,Female,South Zone,Commerce,Married,Urban,desired skills,HR
+60,25,85,79,68,65,61.66666667,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+36.66666667,22,96,80,65,64,60,Male,South Zone,Engineering,Single,Urban,required skills,Marketing
+61.66666667,20,93,94.8,84.55,69.4,58.33333333,Female,South Zone,Commerce,Single,Urban,prefered skills,Finance
+61.66666667,21,80,92,75,60,65,Female,South Zone,Commerce,Single,Rural,prefered skills,Marketing
+46,24,72,85,72,66.09,95,Male,South Zone,Commerce,Single,Urban,desired skills,Finance
+40,26,88.16,84.3,74.2,66,66.66666667,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+61.66666667,26,88,84,74,66,66.66666667,Male,South Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+46,24,82.3,65.5,69,66,66.66666667,Male,South Zone,Engineering,Single,Urban,desired skills,Marketing
+40,21,68,88,76,65,75,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+75,22,68,88,76,65,75,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+44,21,97.2,91,68,62,66.66666667,Male,South Zone,Engineering,Single,Urban,prefered skills,LOS
+76.66666667,24,89.4,90.75,76.7,77.41,85,Male,South Zone,Engineering,Single,Urban,desired skills,LOS
+52,23,94.4,92.75,74.4,72.6,75,Male,South Zone,Engineering,Single,Rural,desired skills,Marketing
+76.66666667,23,94.4,92.75,74,72.6,75,Male,South Zone,Engineering,Single,Rural,desired skills,Marketing
+46,23,85.8,84.6,89,69.4,100,Male,South Zone,Engineering,Single,Urban,desired skills,HR
+91.66666667,23,86,85,85,69.4,100,Male,South Zone,Engineering,Single,Semi Urban,desired skills,HR
+65,22,88.16,79.8,78.8,67,91.66666667,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+80,24,83.4,79.6,81,73.05,88.33333333,Female,South Zone,Engineering,Single,Semi Urban,desired skills,LOS
+73.33333333,25,84.5,95,75.44,75.23,80,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+65,23,84,85,74,71.3,70,Female,South Zone,Commerce,Single,Urban,prefered skills,HR
+91.66666667,20,94.4,97.17,94,73.41,88.33333333,Female,South Zone,Commerce,Single,Semi Urban,desired skills,Finance
+54,20,94,97,94,73.41,88.33333333,Female,South Zone,Commerce,Single,Semi Urban,desired skills,Finance
+73.33333333,25,96.32,93.83,90.4,76.83,76.66666667,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+55,22,93.1,88.4,80.01,69.17,55,Male,South Zone,Commerce,Single,Rural,prefered skills,Finance
+42,21,89.4,95.6,77,65.11,86.66666667,Male,South Zone,Commerce,Single,Urban,prefered skills,Marketing
+60,21,89.4,95.6,77,65.11,86.66666667,Male,South Zone,Commerce,Single,Urban,prefered skills,Marketing
+73.33333333,20,75.36,83.5,84.5,66,80,Male,South Zone,Commerce,Single,Urban,prefered skills,Finance
+66.66666667,22,82,78.83,65,69.3,63.33333333,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+83.33333333,20,93.2,94.75,74,65.6,73.33333333,Male,South Zone,Commerce,Single,Urban,desired skills,Finance
+61.66666667,20,70,83,63,62,66.66666667,Female,South Zone,Commerce,Single,Urban,prefered skills,Finance
+93.33333333,22,92,94,78.71,66.29,73.33333333,Female,South Zone,Engineering,Single,Urban,desired skills,LOS
+76.66666667,21,66.5,87.5,69.17,70.5,88.33333333,Female,South Zone,Commerce,Single,Urban,desired skills,Finance
+81.66666667,22,92.8,84.8,78,69.87,83.33333333,Female,South Zone,Science,Single,Urban,desired skills,HR
+76.66666667,22,86,76,77,65.9,63.33333333,Female,South Zone,Engineering,Single,Urban,desired skills,Marketing
+63.33333333,23,95,85,85,70.64,78.33333333,Female,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+76.66666667,24,93.4,96.58,91.7,73.17,85,Male,South Zone,Engineering,Single,Semi Urban,desired skills,HR
+63.33333333,24,87,83,63,72.7,68.33333333,Male,South Zone,Commerce,Single,Urban,prefered skills,Finance
+73.33333333,22,76,79,68,63.8,95,Male,South Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+90,25,79.4,64,71.2,66.8,85,Male,South Zone,Engineering,Single,Urban,desired skills,LOS
+68.33333333,22,90,88.8,67,69.84,73.33333333,Male,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+70,23,85,92,64,72,76.66666667,Male,South Zone,Commerce,Single,Semi Urban,prefered skills,Finance
+81.66666667,20,70.3,88,65,64.38,95,Female,South Zone,Commerce,Single,Urban,desired skills,Marketing
+51.66666667,22,91.2,94.4,73.15,70.67,71.66666667,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+40,23,93.4,96,83.4,67,90,Female,South Zone,Engineering,Single,Urban,prefered skills,Finance
+66.66666667,21,81.28,89.33,78,63.2,70,Female,South Zone,Commerce,Single,Urban,prefered skills,Finance
+58.33333333,21,95,92.4,79.8,69,75,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,Finance
+40,21,93.3,91.5,72.5,65,75,Male,South Zone,Engineering,Single,Urban,prefered skills,LOS
+81.66666667,22,89.6,68.6,72,65.6,96.66666667,Male,South Zone,Science,Single,Semi Urban,desired skills,Marketing
+88.33333333,23,84,74,66,63.26,90,Male,South Zone,Engineering,Single,Rural,desired skills,Marketing
+70,26,89.12,84,69.34,68.38,71.66666667,Male,South Zone,Engineering,Married,Urban,prefered skills,LOS
+71.66666667,20,79,81,76,63,100,Male,South Zone,Commerce,Single,Urban,prefered skills,Marketing
+85,24,81.8,85.16,63.5,68,78.33333333,Male,South Zone,Engineering,Single,Rural,desired skills,LOS
+60,22,74.1,78,65,61.59,58.33333333,Male,South Zone,Commerce,Single,Rural,prefered skills,Finance
+78.33333333,23,95,93,83,71.5,83.33333333,Female,South Zone,Commerce,Single,Urban,desired skills,Finance
+60,20,93,92,77,69,85,Female,South Zone,Science,Single,Rural,prefered skills,LOS
+60,20,93,92,77,69,85,Female,South Zone,Science,Single,Rural,prefered skills,LOS
+75,22,81,84.5,86,64,81.66666667,Female,South Zone,Commerce,Single,Urban,prefered skills,Marketing
+65,21,88.89,72.44,93,67.6,73.33333333,Female,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+51.66666667,22,95,84.8,79.09,67.71,61.66666667,Female,South Zone,Commerce,Single,Urban,prefered skills,Finance
+42,22,95.52,92.67,79.5,73.3,86.66666667,Male,South Zone,Engineering,Single,Urban,prefered skills,Finance
+76.66666667,22,95.52,92.66,79.5,73.3,86.66666667,Male,South Zone,Engineering,Single,Urban,desired skills,Finance
+60,23,90,92,79,72.54,75,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+68.33333333,20,80,81.2,76,69.65,76.66666667,Female,South Zone,Commerce,Single,Urban,prefered skills,HR
+65,21,87.4,91.2,69.8,67.46,68.33333333,Female,South Zone,Commerce,Married,Urban,prefered skills,HR
+71.66666667,25,87,94.8,78,73,73.33333333,Female,South Zone,Engineering,Married,Urban,prefered skills,LOS
+46.66666667,21,84.33,88.7,74.19,71.11,83.33333333,Female,South Zone,Commerce,Single,Urban,prefered skills,HR
+71.66666667,22,85.5,91.16,69,69.69,80,Female,South Zone,Commerce,Single,Urban,prefered skills,Finance
+78.33333333,23,87.4,79.8,74.92,71.84,68.33333333,Male,South Zone,Engineering,Single,Semi Urban,desired skills,Marketing
+75,20,88,79,69,57,55,Male,South Zone,Management,Single,Rural,prefered skills,Marketing
+68.33333333,24,80,72,64,60.57,68.33333333,Male,South Zone,Commerce,Single,Urban,prefered skills,Marketing
+55,24,75.8,75.6,63.86,64.95,63.33333333,Male,South Zone,Engineering,Single,Urban,prefered skills,LOS
+75,23,89.76,85.6,83,69.3,86.66666667,Male,South Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+76.66666667,24,86,69,73,68,8,Male,South Zone,Science,Single,Urban,desired skills,Finance
+76.66666667,25,88.8,90,78.6,70.64,85,Male,South Zone,Engineering,Single,Urban,desired skills,LOS
+83.33333333,21,83.6,73.4,82.22,68.22,76.66666667,Female,South Zone,Commerce,Single,Urban,desired skills,Finance
+76.66666667,21,95,67,70,66.22,86.66666667,Female,South Zone,Science,Single,Urban,desired skills,HR
+71.66666667,21,79.8,93.8,79.04,66,71.66666667,Female,South Zone,Management,Single,Urban,prefered skills,Marketing
+63.33333333,23,92,87.5,77.7,61,65,Female,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+33.33333333,21,91,93,89.5,75.6,63.33333333,Female,South Zone,Commerce,Single,Urban,required skills,Finance
+76.66666667,23,91.2,90,75.8,67.19,35,Female,South Zone,Engineering,Single,Semi Urban,desired skills,LOS
+81.66666667,25,86,75,65,66.4,81.66666667,Male,South Zone,Engineering,Single,Semi Urban,desired skills,Marketing
+81.66666667,21,85,81,78,66.54,86.66666667,Male,South Zone,Management,Single,Urban,desired skills,Marketing
+81.66666667,21,84,85,83,66.6,93.33333333,Female,South Zone,Commerce,Married,Urban,desired skills,HR
+61.66666667,21,80,92,75,60,65,Female,South Zone,Commerce,Single,Rural,prefered skills,Marketing
+46,24,72,85,72,66.09,95,Male,South Zone,Commerce,Single,Urban,desired skills,Finance
+46,24,82.3,65.5,69,66,66.66666667,Male,South Zone,Engineering,Single,Urban,desired skills,Marketing
+40,21,68,88,76,65,75,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+75,22,68,88,76,65,75,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+44,21,97.2,91,68,62,66.66666667,Male,South Zone,Engineering,Single,Urban,prefered skills,LOS
+76.66666667,23,94.4,92.75,74,72.6,75,Male,South Zone,Engineering,Single,Rural,desired skills,Marketing
+65,22,88.16,79.8,78.8,67,91.66666667,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+73.33333333,25,84.5,95,75.44,75.23,80,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+65,23,84,85,74,71.3,70,Female,South Zone,Commerce,Single,Urban,prefered skills,HR
+73.33333333,25,96.32,93.83,90.4,76.83,76.66666667,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+55,22,93.1,88.4,80.01,69.17,55,Male,South Zone,Commerce,Single,Rural,prefered skills,Finance
+42,21,89.4,95.6,77,65.11,86.66666667,Male,South Zone,Commerce,Single,Urban,prefered skills,Marketing
+73.33333333,20,75.36,83.5,84.5,66,80,Male,South Zone,Commerce,Single,Urban,prefered skills,Finance
+66.66666667,22,82,78.83,65,69.3,63.33333333,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+83.33333333,20,93.2,94.75,74,65.6,73.33333333,Male,South Zone,Commerce,Single,Urban,desired skills,Finance
+61.66666667,20,70,83,63,62,66.66666667,Female,South Zone,Commerce,Single,Urban,prefered skills,Finance
+76.66666667,21,66.5,87.5,69.17,70.5,88.33333333,Female,South Zone,Commerce,Single,Urban,desired skills,Finance
+81.66666667,22,92.8,84.8,78,69.87,83.33333333,Female,South Zone,Science,Single,Urban,desired skills,HR
+76.66666667,22,86,76,77,65.9,63.33333333,Female,South Zone,Engineering,Single,Urban,desired skills,Marketing
+63.33333333,23,95,85,85,70.64,78.33333333,Female,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+63.33333333,24,87,83,63,72.7,68.33333333,Male,South Zone,Commerce,Single,Urban,prefered skills,Finance
+73.33333333,22,76,79,68,63.8,95,Male,South Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+81.66666667,20,70.3,88,65,64.38,95,Female,South Zone,Commerce,Single,Urban,desired skills,Marketing
+51.66666667,22,91.2,94.4,73.15,70.67,71.66666667,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+40,23,93.4,96,83.4,67,90,Female,South Zone,Engineering,Single,Urban,prefered skills,Finance
+58.33333333,21,95,92.4,79.8,69,75,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,Finance
+88.33333333,23,84,74,66,63.26,90,Male,South Zone,Engineering,Single,Rural,desired skills,Marketing
+85,24,81.8,85.16,63.5,68,78.33333333,Male,South Zone,Engineering,Single,Rural,desired skills,LOS
+78.33333333,23,95,93,83,71.5,83.33333333,Female,South Zone,Commerce,Single,Urban,desired skills,Finance
+60,20,93,92,77,69,85,Female,South Zone,Science,Single,Rural,prefered skills,LOS
+65,21,88.89,72.44,93,67.6,73.33333333,Female,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+76.66666667,22,95.52,92.66,79.5,73.3,86.66666667,Male,South Zone,Engineering,Single,Urban,desired skills,Finance
+60,23,90,92,79,72.54,75,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+68.33333333,20,80,81.2,76,69.65,76.66666667,Female,South Zone,Commerce,Single,Urban,prefered skills,HR
+71.66666667,25,87,94.8,78,73,73.33333333,Female,South Zone,Engineering,Married,Urban,prefered skills,LOS
+78.33333333,23,87.4,79.8,74.92,71.84,68.33333333,Male,South Zone,Engineering,Single,Semi Urban,desired skills,Marketing
+76.66666667,25,88.8,90,78.6,70.64,85,Male,South Zone,Engineering,Single,Urban,desired skills,LOS
+76.66666667,21,95,67,70,66.22,86.66666667,Female,South Zone,Science,Single,Urban,desired skills,HR
+71.66666667,21,79.8,93.8,79.04,66,71.66666667,Female,South Zone,Management,Single,Urban,prefered skills,Marketing
+76.66666667,23,91.2,90,75.8,67.19,35,Female,South Zone,Engineering,Single,Semi Urban,desired skills,LOS
+86.66666667,23,79,90,71,66,91.66666667,Male,South Zone,Commerce,Single,Semi Urban,desired skills,Finance
+70,19,86.8,72.6,78.9,69.62,78.33333333,Male,South Zone,Management,Single,Semi Urban,prefered skills,Marketing
+60,25,85,79,68,65,61.66666667,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+61.66666667,20,93,94.8,84.55,69.4,58.33333333,Female,South Zone,Commerce,Single,Urban,prefered skills,Finance
+61.66666667,21,80,92,75,60,65,Female,South Zone,Commerce,Single,Rural,prefered skills,Marketing
+46,24,72,85,72,66.09,95,Male,South Zone,Commerce,Single,Urban,desired skills,Finance
+46,24,82.3,65.5,69,66,66.66666667,Male,South Zone,Engineering,Single,Urban,desired skills,Marketing
+40,21,68,88,76,65,75,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+75,22,68,88,76,65,75,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+44,21,97.2,91,68,62,66.66666667,Male,South Zone,Engineering,Single,Urban,prefered skills,LOS
+76.66666667,24,89.4,90.75,76.7,77.41,85,Male,South Zone,Engineering,Single,Urban,desired skills,LOS
+46,23,85.8,84.6,89,69.4,100,Male,South Zone,Engineering,Single,Urban,desired skills,HR
+65,22,88.16,79.8,78.8,67,91.66666667,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+80,24,83.4,79.6,81,73.05,88.33333333,Female,South Zone,Engineering,Single,Semi Urban,desired skills,LOS
+73.33333333,25,84.5,95,75.44,75.23,80,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+55,22,93.1,88.4,80.01,69.17,55,Male,South Zone,Commerce,Single,Rural,prefered skills,Finance
+42,21,89.4,95.6,77,65.11,86.66666667,Male,South Zone,Commerce,Single,Urban,prefered skills,Marketing
+66.66666667,22,82,78.83,65,69.3,63.33333333,Male,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+83.33333333,20,93.2,94.75,74,65.6,73.33333333,Male,South Zone,Commerce,Single,Urban,desired skills,Finance
+61.66666667,20,70,83,63,62,66.66666667,Female,South Zone,Commerce,Single,Urban,prefered skills,Finance
+76.66666667,21,66.5,87.5,69.17,70.5,88.33333333,Female,South Zone,Commerce,Single,Urban,desired skills,Finance
+81.66666667,22,92.8,84.8,78,69.87,83.33333333,Female,South Zone,Science,Single,Urban,desired skills,HR
+63.33333333,23,95,85,85,70.64,78.33333333,Female,South Zone,Engineering,Single,Urban,prefered skills,Marketing
+70,23,85,92,64,72,76.66666667,Male,South Zone,Commerce,Single,Semi Urban,prefered skills,Finance
+51.66666667,22,91.2,94.4,73.15,70.67,71.66666667,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+40,23,93.4,96,83.4,67,90,Female,South Zone,Engineering,Single,Urban,prefered skills,Finance
+40,21,93.3,91.5,72.5,65,75,Male,South Zone,Engineering,Single,Urban,prefered skills,LOS
+88.33333333,23,84,74,66,63.26,90,Male,South Zone,Engineering,Single,Rural,desired skills,Marketing
+70,26,89.12,84,69.34,68.38,71.66666667,Male,South Zone,Engineering,Married,Urban,prefered skills,LOS
+85,24,81.8,85.16,63.5,68,78.33333333,Male,South Zone,Engineering,Single,Rural,desired skills,LOS
+60,22,74.1,78,65,61.59,58.33333333,Male,South Zone,Commerce,Single,Rural,prefered skills,Finance
+60,20,93,92,77,69,85,Female,South Zone,Science,Single,Rural,prefered skills,LOS
+75,22,81,84.5,86,64,81.66666667,Female,South Zone,Commerce,Single,Urban,prefered skills,Marketing
+51.66666667,22,95,84.8,79.09,67.71,61.66666667,Female,South Zone,Commerce,Single,Urban,prefered skills,Finance
+42,22,95.52,92.67,79.5,73.3,86.66666667,Male,South Zone,Engineering,Single,Urban,prefered skills,Finance
+60,23,90,92,79,72.54,75,Female,South Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+68.33333333,20,80,81.2,76,69.65,76.66666667,Female,South Zone,Commerce,Single,Urban,prefered skills,HR
+46.66666667,21,84.33,88.7,74.19,71.11,83.33333333,Female,South Zone,Commerce,Single,Urban,prefered skills,HR
+71.66666667,22,85.5,91.16,69,69.69,80,Female,South Zone,Commerce,Single,Urban,prefered skills,Finance
+75,23,89.76,85.6,83,69.3,86.66666667,Male,South Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+65,22,61,62,58,62.49,80,Male,West Zone,Commerce,Single,Urban,prefered skills,Marketing
+65,25,85.6,74.8,63.9,67.11,45,Male,West Zone,Engineering,Single,Rural,prefered skills,LOS
+65,24,77.85,72.08,69.25,68.1,70,Male,West Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+58.33333333,22,79.17,80.4,72.51,67.62,65,Male,West Zone,Engineering,Single,Urban,prefered skills,LOS
+60,22,78,70,72,66.57,75,Male,West Zone,Engineering,Single,Urban,prefered skills,Marketing
+65,22,61,62,58,62.49,80,Male,West Zone,Commerce,Single,Urban,prefered skills,Marketing
+65,25,85.6,74.8,63.9,67.11,45,Male,West Zone,Engineering,Single,Rural,prefered skills,LOS
+65,24,77.85,72.08,69.25,68.1,70,Male,West Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+58.33333333,22,79.17,80.4,72.51,67.62,65,Male,West Zone,Engineering,Single,Urban,prefered skills,LOS
+60,22,78,70,72,66.57,75,Male,West Zone,Engineering,Single,Urban,prefered skills,Marketing
+65,22,61,62,58,62.49,80,Male,West Zone,Commerce,Single,Urban,prefered skills,Marketing
+65,24,77.85,72.08,69.25,68.1,70,Male,West Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+65,22,61,62,58,62.49,80,Male,West Zone,Commerce,Single,Urban,prefered skills,Marketing
+65,25,85.6,74.8,63.9,67.11,45,Male,West Zone,Engineering,Single,Rural,prefered skills,LOS
+65,24,77.85,72.08,69.25,68.1,70,Male,West Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+58.33333333,22,79.17,80.4,72.51,67.62,65,Male,West Zone,Engineering,Single,Urban,prefered skills,LOS
+75,22,71,74.8,72,61,83.33333333,Male,Central Zone,Engineering,Single,Urban,prefered skills,Marketing
+71.66666667,25,77.6,82.6,76.9,66.85,76.66666667,Male,Central Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+76.66666667,26,93.2,83.8,77,74.97,75,Female,Central Zone,Engineering,Single,Urban,desired skills,Finance
+66.66666667,22,91.2,80,67,68.3,60,Male,Central Zone,Commerce,Single,Semi Urban,prefered skills,Finance
+71.66666667,24,79.8,61.6,60.33,69.28,76.66666667,Female,Central Zone,Engineering,Single,Urban,prefered skills,Finance
+83.33333333,23,67,62,67,63,80,Female,Central Zone,Commerce,Single,Urban,desired skills,Marketing
+73.33333333,22,82,70,76.5,67,81.66666667,Male,Central Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+85,26,86.4,80.4,70.22,70.48,76.66666667,Male,Central Zone,Engineering,Single,Semi Urban,desired skills,LOS
+71.66666667,22,95,78.6,75.43,68.54,88.33333333,Male,Central Zone,Engineering,Single,Urban,prefered skills,Marketing
+75,22,71,74.8,72,61,83.33333333,Male,Central Zone,Engineering,Single,Urban,prefered skills,Marketing
+71.66666667,25,77.6,82.6,76.9,66.85,76.66666667,Male,Central Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+76.66666667,26,93.2,83.8,77,74.97,75,Female,Central Zone,Engineering,Single,Urban,desired skills,Finance
+66.66666667,22,91.2,80,67,68.3,60,Male,Central Zone,Commerce,Single,Semi Urban,prefered skills,Finance
+71.66666667,24,79.8,61.6,60.33,69.28,76.66666667,Female,Central Zone,Engineering,Single,Urban,prefered skills,Finance
+83.33333333,23,67,62,67,63,80,Female,Central Zone,Commerce,Single,Urban,desired skills,Marketing
+73.33333333,22,82,70,76.5,67,81.66666667,Male,Central Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+85,26,86.4,80.4,70.22,70.48,76.66666667,Male,Central Zone,Engineering,Single,Semi Urban,desired skills,LOS
+71.66666667,22,95,78.6,75.43,68.54,88.33333333,Male,Central Zone,Engineering,Single,Urban,prefered skills,Marketing
+71.66666667,25,77.6,82.6,76.9,66.85,76.66666667,Male,Central Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+76.66666667,26,93.2,83.8,77,74.97,75,Female,Central Zone,Engineering,Single,Urban,desired skills,Finance
+71.66666667,24,79.8,61.6,60.33,69.28,76.66666667,Female,Central Zone,Engineering,Single,Urban,prefered skills,Finance
+73.33333333,22,82,70,76.5,67,81.66666667,Male,Central Zone,Engineering,Single,Semi Urban,prefered skills,Marketing
+85,26,86.4,80.4,70.22,70.48,76.66666667,Male,Central Zone,Engineering,Single,Semi Urban,desired skills,LOS
+71.66666667,22,95,78.6,75.43,68.54,88.33333333,Male,Central Zone,Engineering,Single,Urban,prefered skills,Marketing
+71.66666667,25,77.6,82.6,76.9,66.85,76.66666667,Male,Central Zone,Engineering,Single,Semi Urban,prefered skills,LOS
+76.66666667,26,93.2,83.8,77,74.97,75,Female,Central Zone,Engineering,Single,Urban,desired skills,Finance
+66.66666667,22,91.2,80,67,68.3,60,Male,Central Zone,Commerce,Single,Semi Urban,prefered skills,Finance
+71.66666667,24,79.8,61.6,60.33,69.28,76.66666667,Female,Central Zone,Engineering,Single,Urban,prefered skills,Finance
