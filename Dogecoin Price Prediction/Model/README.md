@@ -86,7 +86,7 @@ We have deployed nine machine learning algorithms and every algorithm is deploye
 |Support Vector Regressor|-8.85%|
 
 
-### Conclusion
+## Conclusion
 
 **Comparing all those scores scored by the machine learning algorithms, it is clear that Linear Regression is having the upper hand in case of this dataset and after this, we can use  XgBoosting Regressor, which is also having good score as compared to the other deployed algorithms**
 
