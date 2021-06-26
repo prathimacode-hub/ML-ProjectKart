@@ -2,7 +2,8 @@
 
 ![Demo](https://raw.githubusercontent.com/Anshal55/ML-ProjectKart/Salary_prediction/Salary%20Prediction/Images/demo_sal_pred.png)
 
-### To run, run the app.py script
+### To run
+Run the app.py script and got the link achieved after doing so.
 
 ### Goal
 The goal of this project is to predict the salary based on some parameters.
@@ -23,3 +24,6 @@ The goal of this project is to predict the salary based on some parameters.
 - Flask
 - Gunicorn
 - Plotly
+
+## Results
+
