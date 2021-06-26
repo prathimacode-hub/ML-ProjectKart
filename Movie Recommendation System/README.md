@@ -1,5 +1,7 @@
 # Movie Recommendation System
 
+*Note: I have added zip file in the dataset folder as csv file was large in size.*
+
 This model will recommend movies with the help of movies_metadata dataset from kaggle.
 
 **About Dataset**
