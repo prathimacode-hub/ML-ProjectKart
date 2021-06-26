@@ -1,6 +1,6 @@
 # Salary Prediction
 
-![Demo](https://raw.githubusercontent.com/Anshal55/ML-ProjectKart/Salary_prediction/Salary%20Prediction/Images/salpred.png)
+![Demo](https://raw.githubusercontent.com/Anshal55/ML-ProjectKart/Salary_prediction/Salary%20Prediction/Images/demo_sal_pred.png)
 
 ### To run, run the app.py script
 
