@@ -27,3 +27,9 @@ The goal of this project is to predict the salary based on some parameters.
 
 ## Results
 ![Results](https://raw.githubusercontent.com/Anshal55/ML-ProjectKart/Salary_prediction/Salary%20Prediction/Images/res_sal_pred.png)
+KNN gives the best score of mae : 2860
+
+## Conclusion
+Given enough data the scores can be further improved.
+
+### By Anshal Singh
