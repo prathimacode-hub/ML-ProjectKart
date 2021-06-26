@@ -26,4 +26,4 @@ The goal of this project is to predict the salary based on some parameters.
 - Plotly
 
 ## Results
-
+![Results](https://raw.githubusercontent.com/Anshal55/ML-ProjectKart/Salary_prediction/Salary%20Prediction/Images/res_sal_pred.png)
