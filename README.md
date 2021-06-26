@@ -141,7 +141,7 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 
 This project is a part of this open source progam.
 
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
 
 <h2>🙌Levels & Points (LGMSOC)</h2>
 
