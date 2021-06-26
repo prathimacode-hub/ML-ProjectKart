@@ -11,8 +11,8 @@ Points : 90 <br>
 Name : Soumayan Pal <br>
 Github : https://github.com/Soumayan-pal01 <br>
 Number of PR's : 5 <br>
-Projects Done : Face Mask Detection Using OpenCV (Level 4) | Uber Fare Prediction (Level 4) | Image Compression Using Clustering (Level 4) | Credit Card Fraud Detection (Level 4) | Fake News Detection (Level 4) | Solar Eclipse Classification (Level 4) | Disneyland Review Analysis (Level 4) | <br>
-Points : 315 <br>
+Projects Done : Face Mask Detection Using OpenCV (Level 4) | Uber Fare Prediction (Level 4) | Image Compression Using Clustering (Level 4) | Credit Card Fraud Detection (Level 4) | Fake News Detection (Level 4) | Solar Eclipse Classification (Level 4) | Disneyland Review Analysis (Level 4) | Flight Fare Prediction (Level 4) | <br>
+Points : 360 <br>
 
 Name : Neeraj Ap <br>
 Github : https://github.com/NEERAJAP2001 <br>
@@ -53,14 +53,8 @@ Points : 165 <br>
 Name : Ayushi Shrivastava <br>
 Github : https://github.com/ayushi424 <br>
 Number of PR's : 3 <br>
-Projects Done : Concrete Strength Prediction (Level 3) | Air Quality Prediction (Level 3) | Stress Level Prediction (Level 3) | Student Performance Prediction (Level 4) | <br>
-Points : 135 <br>
-
-Name : Ayushi Shrivastava <br>
-Github : https://github.com/ayushi424 <br>
-Number of PR's : 1 <br>
-Projects Done : Student Performance Prediction (Level 4) | <br>
-Points : 45 <br>
+Projects Done : Concrete Strength Prediction (Level 3) | Air Quality Prediction (Level 3) | Stress Level Prediction (Level 3) | Student Performance Prediction (Level 4) | Salary Range Classification (Level 3) | <br>
+Points : 165 <br>
 
 Name : Sumit <br>
 Github : https://github.com/Sumit11081996 <br>
@@ -77,8 +71,8 @@ Points : 30 <br>
 Name : Jagannath Pal <br>
 Github : https://github.com/Jagannath8 <br>
 Number of PR's : 3 <br>
-Projects Done : Breast Cancer Prediction (Level 2) | Water Quality Prediction (Level 3) | Diabetes Prediction (Level 3) | Stroke Prediction (Level 4) | <br>
-Points : 120 <br>
+Projects Done : Breast Cancer Prediction (Level 2) | Water Quality Prediction (Level 3) | Diabetes Prediction (Level 3) | Stroke Prediction (Level 4) | Advertisement Success Prediction (Level 4) | <br>
+Points : 165 <br>
 
 Name : Subhangini <br>
 Github : https://github.com/Subhangini <br>
@@ -125,8 +119,8 @@ Points : 30 <br>
 Name : Abhishek Sharma <br>
 Github : https://github.com/abhisheks008 <br> 
 Number of PR's : 9 <br>
-Projects Done : Medical Cost Analysis for Smokers and Non-Smokers (Level 4) | Raod Lane Detection (Level 2) | Emoji Classification Using OpenCV (Level 3) | Restaurant Recommendation System (Level 4) | Football Match Prediction (Level 4) | Mushroom Classification (Level 4) | Crypotherapy Analysis (Level 4) | Hotel Rating Prediction (Level 4) | Resume Categorizing (Level 4) | Natural Images Classification (Level 4) | Sarcasm Detection (Level 4) | Crop Recommendation Systems (Level 4) | Song Gngre Classification (Level 4) | Dance Form Classification (Level 4) | Plant Seedlings Classification (Level 4) | Productivity Prediction (Level 4) | Heights and Weights Prediction (Level 4) | Movie Oscar Win Prediction (Level 4) | Exports Classification (Level 4) | USA House Pricing Prediction (Level 4) | <br>
-Points : 855  <br>
+Projects Done : Medical Cost Analysis for Smokers and Non-Smokers (Level 4) | Raod Lane Detection (Level 2) | Emoji Classification Using OpenCV (Level 3) | Restaurant Recommendation System (Level 4) | Football Match Prediction (Level 4) | Mushroom Classification (Level 4) | Crypotherapy Analysis (Level 4) | Hotel Rating Prediction (Level 4) | Resume Categorizing (Level 4) | Natural Images Classification (Level 4) | Sarcasm Detection (Level 4) | Crop Recommendation Systems (Level 4) | Song Gngre Classification (Level 4) | Dance Form Classification (Level 4) | Plant Seedlings Classification (Level 4) | Productivity Prediction (Level 4) | Heights and Weights Prediction (Level 4) | Movie Oscar Win Prediction (Level 4) | Exports Classification (Level 4) | USA House Pricing Prediction (Level 4) | MBA Specialization Classification | DNA Sequencing Classification (Level 4) | <br>
+Points : 945  <br>
 
 Name : Umesh Singh <br>
 Github : https://github.com/Umesh-01 <br>
@@ -137,8 +131,8 @@ Points : 5 <br>
 Name : Shivani Rana <br>
 Github : https://github.com/shivani6320 <br>
 Number of PR's : 1 <br>
-Projects Done : Flight Delay Prediction (Level 3) | <br>
-Points : 30 <br>
+Projects Done : Flight Delay Prediction (Level 3) | Bitcoin Price Prediction (Level 4) | <br>
+Points : 75 <br>
 
 Name : Isha Shaw <br>
 Github : https://github.com/Isha307 <br>
@@ -182,3 +176,8 @@ Number of PR's : 1 <br>
 Projects Done : Cotton Deisease Prediction (Level 4) | <br>
 Points : 45 <br>
 
+Name : Tushar Amdoskar <br>
+Github : https://github.com/TusharAMD <br>
+Number of PR's : 1 <br>
+Projects Done : Tetris Object Counter (Level 3) | <br>
+Points : 30 <br>
