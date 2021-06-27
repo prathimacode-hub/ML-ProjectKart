@@ -1,0 +1,3 @@
+Since the dataset is very large I am providing the kaggle link to download it
+
+Dataset link  - https://www.kaggle.com/grassknoted/asl-alphabet
