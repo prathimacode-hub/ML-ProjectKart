@@ -47,8 +47,8 @@ Points : 45 <br>
 Name : Anshal Singh <br>
 Github : https://github.com/Anshal55 <br>
 Number of PR's : 3 <br>
-Projects Done : Dog Breed Identification (Level 4) | Sign Language Prediction (Level 3) | Age, Gender and Ethnicity Prediction (Level 4) | Flower Identification (Level 4) | <br>
-Points : 165 <br>
+Projects Done : Dog Breed Identification (Level 4) | Sign Language Prediction (Level 3) | Age, Gender and Ethnicity Prediction (Level 4) | Flower Identification (Level 4) | Salary Prediction (Level 4) | <br>
+Points : 210 <br>
 
 Name : Ayushi Shrivastava <br>
 Github : https://github.com/ayushi424 <br>
@@ -155,8 +155,8 @@ Points : 45 <br>
 Name : Rammya Dharshini K <br>
 Github : https://github.com/rammya29 <br>
 Number of PR's : 1 <br>
-Projects Done : Fish Weight Prediction (Level 2) | <br>
-Points : 15 <br>
+Projects Done : Fish Weight Prediction (Level 2) | Forest Cover Type Classification (Level 3) | <br>
+Points : 45 <br>
 
 Name : Anisha Murmu <br>
 Github : https://github.com/anishamurmu13 <br>
