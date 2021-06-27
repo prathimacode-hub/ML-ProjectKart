@@ -2,6 +2,11 @@
 
 ## GOAL
   The aim of this project is to create a model, able to classify the horses and humans. 
+  
+## DESCRIPTION 
+  This project has done with Transfer Learning and implemented the three models, Exception, VGG16, Inception.
+  In both the three models we have created a model and trained, also mapped and tested with the validation dataset. 
+  By comparing the three models Inception has the best accuracy for classifing the humans or horses.
 
 ## DATASET
  The dataset is taken from the Kaggle. [Click Here](https://www.kaggle.com/sanikamal/horses-or-humans-dataset)
