@@ -1,0 +1,17 @@
+FOR DATA EXPLORE : 
+
+  - Pandas
+  - Numpy
+  - Matplotlib
+
+FOR MODEL CREATION :
+
+  - Tensorflow
+  - Keras
+  
+OTHER REQUIREMENTS : 
+  
+   - OS
+   - CV2
+   - zipfile ( # Incase of using zipfile dataset)
+   
