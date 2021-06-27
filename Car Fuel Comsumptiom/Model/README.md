@@ -4,9 +4,33 @@
 
 Predict the consumption depending on the gas type.
 
+They can be used to determine the effect of weather, speed or gas type on the car consumption.
+
 ## Dataset
 
 You can download dataset [here](https://www.kaggle.com/anderas/car-consume)
+
+# Dataset have following features:
+
+* distance - Distance to travel
+
+* consume - fuel consumed
+
+* speed - speed of the car
+
+* temp_inside - inside temp of car
+
+* temp_outside - outside temp of car
+
+* specials - Rain/Sun/half sun half rain/snow
+
+* gas_type - SP98 or E10
+
+* AC - AC on or not
+
+* rain - rain or not
+
+* sun - sun or not
 
 ## What I had done
 
