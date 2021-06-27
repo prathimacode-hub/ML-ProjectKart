@@ -2,7 +2,7 @@
 
 **GOAL**
 
-The goal of this project is to classify salary range from features as company, job, degree  etc.
+The goal of this project is to classify insurance claim as 0 or 1 (if the policy holder will claim insurance or not) from features as age, number of children, BMI, residential region  etc.
 
 **DATASET**
 
@@ -20,6 +20,7 @@ Dataset can be downloaded from [here](https://www.kaggle.com/easonlai/sample-ins
 -  Logistic Regression
 -  Decision Tree Classifier
 -  Naive Bayes
+-  KNN
 -  Random Forest Classifier
 
 
@@ -35,7 +36,7 @@ Dataset can be downloaded from [here](https://www.kaggle.com/easonlai/sample-ins
 **CONCLUSION**
 - By using Logistic Regression model 
  ```python
-    Accuracy achieved :  83.33
+    Accuracy achieved :  79.07
  ``` 
  - By using Decision Tree Classifier model 
  ```python
@@ -43,10 +44,14 @@ Dataset can be downloaded from [here](https://www.kaggle.com/easonlai/sample-ins
  ``` 
  - By using Naive Bayes model 
  ```python
-    Accuracy achieved :  91.67
+    Accuracy achieved :  78.22
+ ``` 
+  - By using KNN  model 
+ ```python
+    Accuracy achieved :  68.22
  ``` 
   - By using Random Forest Classifier model 
  ```python
     Accuracy achieved :  1.00
  ```
-* Accuracy of Decision tree classifier and random forest classifier is higher than that of logistic regression and naive bayes.
+* After performance evaluation of classification algorithms used in this project, we can conclude that decision tree classifier and random forest classifier works best as compared to logistic regression, naive bayes and KNN.
