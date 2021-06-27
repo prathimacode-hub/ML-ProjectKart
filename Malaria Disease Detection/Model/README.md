@@ -60,5 +60,5 @@
 
 **Conclusion**
 
-In this project we have used Convolutional neural Network approach to train a model on the provided images of uninfected and prasitized human cell. This model gives a validation aacuracy of 94.89% and also detects all the images of the evaluation set with correct labels.
+In this project we have used Convolutional neural Network approach to train a model on the provided images of uninfected and parasitized human cell. This model gives a validation accuracy of 94.89% and also detects all the images of the evaluation set with correct labels.
 
