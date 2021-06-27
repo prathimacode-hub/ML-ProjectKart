@@ -50,6 +50,10 @@ The dataset is collected from Kaggle website. Here is the link : https://www.kag
 
 ![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-26/Bike%20Crash%20Analysis/Images/bike6.png)
 
+:yellow_circle: For more Data Visualization on 20 more different factors, check out the [`Images`](https://github.com/abhisheks008/ML-ProjectKart/tree/patch-26/Bike%20Crash%20Analysis/Images) folder!
+
+************************************************************
+
 ## Model Comparison
 We have deployed nine machine learning algorithms and every algorithm is deployed successfully without any hesitation. We have checked the accuracy of the models based on the accuracy score of each of the models. Now let's take a look at the scores of each models.
 
