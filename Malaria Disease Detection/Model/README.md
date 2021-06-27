@@ -9,7 +9,7 @@
 
 **WHAT HAVE I DONE**
 
- **Multi Layer Perceptron(MLP) approach**
+ **Convolutional Neural Network(CNN)  approach**
 
 - Loading datasets
 - Finding out the total number of Uninfected and Parasitized images in the train and test sets
