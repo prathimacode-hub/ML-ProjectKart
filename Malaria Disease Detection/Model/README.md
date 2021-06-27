@@ -6,6 +6,8 @@
 
 **GOAL** - The aim of this project is to recognize whether the image of the human cell is infected with Malaria disease or not.
 
+**DATASET - https://www.kaggle.com/miracle9to9/files1**
+
 
 **WHAT HAVE I DONE**
 
