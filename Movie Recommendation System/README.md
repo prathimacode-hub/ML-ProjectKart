@@ -1,39 +1,17 @@
 # Movie Recommendation System
 
-*Note: I have added zip file in the dataset folder as csv file was large in size.*
+**GOAL**: This model will recommend the movies , provided the movies name.
 
-This model will recommend movies with the help of movies_metadata dataset from kaggle.
+**DATASET** : https://www.kaggle.com/rounakbanik/the-movies-dataset/code
 
-**About Dataset**
+**LIBRARIES NEEDED** : 
 
-movies_metadata.csv: The main Movies Metadata file. Contains information on 45,000 movies featured in the Full MovieLens dataset. 
-Features include posters, backdrops, budget, revenue, release dates, languages, production countries and companies.
+- Pandas
+- Numpy
+- Seaborn
+- sklearn
 
-*DataColumns in Dataset*
-
-- adult	
-- belongs_to_collection	
-- budget	
-- genres	
-- homepage	
-- id	
-- imdb_id	
-- original_language	
-- original_title	
-- overview	...	
-- release_date	
-- revenue	
-- runtime	
-- spoken_languages	
-- status	
-- tagline	
-- title	
-- video	
-- vote_average	
-- vote_count
-
-
-**Techniques Used**
+**WHAT I HAD DONE**:
 
 I have used two techniques to recommend movies
 
@@ -52,6 +30,6 @@ I have used two techniques to recommend movies
   and each row represents a movie.
   
   
-With the help of TFIDF and cosine similarity we get better recommendations.
+**Conclusion** : With the help of TFIDF and cosine similarity we get better recommendations.
   
   
