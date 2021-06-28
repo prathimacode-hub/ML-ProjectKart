@@ -34,6 +34,7 @@ The goal is to predict whether a given note is fake or not.
 **MODELS USED**
 -  Logistic Regression
 -  Random Forest Classifier
+-  Decision Tree Classifier
 
 
 
@@ -59,12 +60,16 @@ By using Random Forest Classifier I got
  ```
     Accuracy : 0.9878640776699029
  ``` 
+By using Decision tree Classifier I got 
+ ```
+    Accuracy : 0.9854368932038835
+ ``` 
 
 
 
 **Selection Of Model**
 
-- we applied two models Logistic Regression and Random Forest Classifier.
+- We applied three models Logistic Regression, Random Forest Classifier and Decision tree Classifier.
 - As we can see random forest classifier have higher accuracy therefore we dump this model to make (.pickle) file which will be used in flask to deploy the model.
 
 
@@ -78,7 +83,44 @@ By using Random Forest Classifier I got
 - When user will give features data and press (Predict) button it will render to (/predict) page.
 - Predict page will give us the result about whether the note is fake or not. 
 
+
+
+
+
+**Description**
+
+- Fake Currency Detection is a task of binary classification in machine learning because bank notes can be either real or fake.
+- If we have enough data on real and fake banknotes, we can use that data to train a model that can classify the new banknotes as real or fake.
+- After training the model if we want to deploy it for real life purpose we can use FLASK.
+
+
+
+
+**Conclusion**
+
+- Fake Currency Detection is a real problem for both individuals and businesses.
+- So by training this script in machine learning will help many individuals.
+- Users will have a webpage content related to model in which they have to give value to the features required.
+- After giving value to the features they can get to know the results that whether the given note is real or fake.
+
  
+
+# Author :
+- ### Medhir Manoj
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
