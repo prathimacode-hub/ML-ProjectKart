@@ -1,11 +1,16 @@
 
-# Generating Faces using GANs
+# Generating Faces using DCGANs 
 
 DataSet: [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) to train the adversarial networks.
 
 ### Some samples of generated faces:
+![generated_faces](https://user-images.githubusercontent.com/65017645/123641859-56298400-d840-11eb-9a5f-cdf1a5fd8cd3.png)
 
-<img src="assets/generated_faces.png" width=640 height=160> 
+
+### Processed faces
+<img width="697" alt="processed_face_data" src="https://user-images.githubusercontent.com/65017645/123641912-60e41900-d840-11eb-8679-d22e7a02624a.png">
+
+
 
 
 ## Face Generation
