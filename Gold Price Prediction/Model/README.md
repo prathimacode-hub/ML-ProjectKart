@@ -2,6 +2,8 @@
         
 <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Gold%20Price%20Prediction/Images/project_viz.png">
 
+**Dataset**  -   https://www.kaggle.com/shikhnu/gold-price
+
 
 **GOAL** - The aim of this project is to perform analysis the gold price using different EDA techniques, and eventually train different model to predict the price of gold.
 
