@@ -1,0 +1,1 @@
+The Dataset is collected from Kaggle website. Here is the link : https://www.kaggle.com/marcelopesse/cartier-jewelry-catalog?select=cartier_catalog.csv. Also I have uploaded the same here, you can access that too!
