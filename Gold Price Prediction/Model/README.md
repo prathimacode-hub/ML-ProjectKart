@@ -1,4 +1,4 @@
-**PROJECT TITLE - Bike Rental Demand Analysis**
+**PROJECT TITLE - Gold Price Prediction**
         
 <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Gold%20Price%20Prediction/Images/project_viz.png">
 
