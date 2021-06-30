@@ -112,7 +112,7 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 | S.no | Project Name | Description |
 | --------------- | --------------- | --------------- |
 
-|     01.    |  [Advertisement Success Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Advertisement%20Success%20Prediction)  |   In this project we will be working with an advertising data set, indicating whether or not a particular internet user clicked on an Advertisement.  
+|     01.    |  [Advertisement Success Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Advertisement%20Success%20Prediction)  |   In this project we will be working with an advertising data set, indicating whether or not a particular internet user clicked on an Advertisement.  |
 |     02.    |  [Age, Gender and Ethnicity Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Age%2C%20Gender%20and%20Ethnicity%20Prediction)  |   The goal of this project is to be able to predict the age , gender and ethnicity of a person just by looking at an image of a person.   |
 |     03.    |  [Air Quality Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Air%20Quality%20Prediction)  |   The goal of this project is to predict Air Quality Index (AQI ) form features as particulate matter (PM2.5 and PM10), Nitrogen Oxide (NO), Nitric Dioxide (NO2), Carbon Monoxide (CO), Sulphur Dioxide (SO2), Ozone (O3) etc.   |
 |     04.    |  [Animate Me](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Animate%20Me!)  |   It is a simple OpenCV project that converts input image to a cartoon equivalent   |
