@@ -9,7 +9,8 @@ Assignee: ''
 
 Define You:
 
-- [ ] LGM-SOC'21 Participant 
+- [ ] LGM-SOC'21 Participant
+- [ ] DevIncept Participant 
 - [ ] Contributor
 
 
