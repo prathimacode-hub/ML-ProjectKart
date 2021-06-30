@@ -58,7 +58,8 @@ Score:  0.9999997816674735
 SVM
 Score:  0.6710844770804237
 ```
-Loss for DNN:
+**Loss for DNN:**
+
 ![](https://github.com/Isha307/ML-ProjectKart/blob/main/World%20Happiness%20report%20Analysis/Images/accuracy.png)
 
 ## Author
