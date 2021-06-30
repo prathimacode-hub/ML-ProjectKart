@@ -31,11 +31,9 @@ It is collected to create a "Ladder Score" and then it is eventually changed to 
 
 ## MODELS USED
 
- Linear Regression 
- 
- Support Vector Regression
- 
- Deep Neural Network
+ - Linear Regression 
+ - Support Vector Regression
+ - Deep Neural Network
  
 ## LIBRARIES NEEDED
 
