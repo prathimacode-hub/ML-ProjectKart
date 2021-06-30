@@ -3,6 +3,7 @@
 - Info about the related issue 
 
 - [ ] LGM-SOC'21 Participant 
+- [ ] DevIncept Participant
 - [ ] Contributor
 
 Closes: #[issue number that will be closed through this PR]
