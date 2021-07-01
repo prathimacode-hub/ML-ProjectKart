@@ -1,0 +1,125 @@
+
+<!DOCTYPE html>
+<html>
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+
+<head>
+    <meta charset="UTF-8">
+    <title>Diamond Price Prediction</title>
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+
+    <style>
+        ::placeholder { 
+            color: white; 
+        }
+        
+        .login {
+            width: 500px;
+            position: absolute;
+            top: 75%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+        }
+        
+        .textbox {
+            width: 100%;
+            overflow: hidden;
+            font-size: 25px;
+            padding: 8px;
+            margin: 8px;
+            border-bottom: 1px solid ;
+        }
+        
+        .textbox input {
+            color: white;
+            border: none;
+            outline: none;
+            font-size: 20px;
+            background: none;
+            width: 100%;
+            float: left;
+            margin: 0 20px;
+        }
+        
+        .btn {
+            width: 100%;
+            border: 2px solid #4caf50;
+            color: white;
+            background: blue;
+            padding: 5px;
+            font-size: 18px;
+            cursor: pointer;
+            margin: 12px 0;
+        }
+
+        .pred{
+            font-size: 25px;
+        }
+    </style>
+</head>
+
+<body style="background-image: url('https://media.giphy.com/media/j78oOWCoCbNFYUJmSK/giphy.gif');"; >
+    <div class="login">
+        <h1>Diamond Price Prediction</h1>
+
+        <!-- Main Input For Receiving Query to our ML -->
+        <form action="{{ url_for('predict')}}" method="post">
+
+            <div class="textbox">
+            <label for="Carat">Enter Carat</label><br><br>
+            <input type="text" name="Carat" placeholder="Weight of the diamond (0.2-5.01)" required="required" /> 
+            </div>
+            <br>
+
+            <div class="textbox">
+            <label for="Carat">Enter Table</label><br><br>
+                <input type="text" name="Table" placeholder="width of top of diamond relative to widest point (43-95)" required="required" />
+            </div>
+
+            <br>
+            <div class="textbox">
+            <label for="Carat">Enter Depth</label><br><br>
+                <input type="text" name="Depth" placeholder="Total Depth Percentage (43-79)" required="required" />
+            </div>
+
+            <br>
+            <div class="textbox">
+            <label for="Carat">Enter X</label><br><br>
+                <input type="text" name="X" placeholder="length in mm (0-10.74)" required="required" />
+            </div>
+
+            <br>
+            <div class="textbox">
+            <label for="Carat">Enter Y</label><br><br>
+                <input type="text" name="Y" placeholder="width in mm (0-58.9)" required="required" />
+            </div>
+
+            <br>
+            <div class="textbox">
+            <label for="Carat">Enter Z</label><br><br>
+                <input type="text" name="Z" placeholder="depth in mm (0-31.8)" required="required" />
+            </div>
+            <br>
+
+
+            <button type="submit" class="btn">Predict</button>
+
+        </form>
+
+        <br>
+        <br> 
+        
+
+        <label class="pred" for="pred" align="center">{{ prediction_text }}</label>
+        <br><br><br><br><br>
+
+    </div>
+
+
+</body>
+
+</html> 
