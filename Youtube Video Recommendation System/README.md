@@ -2,7 +2,7 @@
 
 **GOAL**: This model will recommend the video titles on proving the search query by user.
 
-**DATASET** : https://github.com/Akash20x/ML-ProjectKart/tree/main/Youtube%20Video%20Recommendation%20System/Dataset
+**DATASET** : https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Youtube%20Video%20Recommendation%20System/Dataset
 
 **LIBRARIES NEEDED** : 
 
