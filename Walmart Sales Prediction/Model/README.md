@@ -31,7 +31,8 @@
  Holt Winter's Model | 11637.95 |
  ARIMA | 23660.23
  
- ** TIME SERIES ANALYSIS METHODS USED  **
+ 
+ **TIME SERIES ANALYSIS METHODS USED**
  - Stationarity of time series
  - Rolling Mean & Standard deviation
  - Auto Correlation & Partial Correlation
@@ -47,7 +48,7 @@
 - matplotlib
 - seaborn
 - scikit-learn
-- tensorflow-keras
+- statsmodels
 
 
 **CONCLUSION**
