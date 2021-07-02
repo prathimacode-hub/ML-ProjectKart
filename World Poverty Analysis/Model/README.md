@@ -42,6 +42,7 @@ The goal of this project is to find out these following problem statements -
 2. Pandas
 3. Seaborn
 4. Sklearn
+5. Matplotlib
 *******************************************
 ## Conclusion
 We have analyzed the dataset and depending on the problem statements we have concluded these following points - 
