@@ -4,7 +4,7 @@
 - The main purpose of this project is to predict the future sales at walmart.
 
 **DATASET**
-- The data used in this project can be downloaded from [here](https://www.kaggle.com/divyajeetthakur/walmart-sales-prediction)
+- The data used in this project can be downloaded from [here](https://www.kaggle.com/divyajeetthakur/walmart-sales-prediction).
 
 **WHAT I HAD DONE**
 - I have used TIME SERIES FORECASTING approach for this project.
@@ -47,7 +47,6 @@
 - NumPy
 - matplotlib
 - seaborn
-- scikit-learn
 - statsmodels
 
 
