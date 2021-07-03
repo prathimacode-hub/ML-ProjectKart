@@ -7,6 +7,7 @@ The aim of the project is to analysis the dataset , prediction the project and
 perform a detailed analysis and visualization of the training dataset and create a model. 
 
 
+
 ## WHAT I HAD DONE
 
 ### Data Extraction
