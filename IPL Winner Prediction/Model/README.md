@@ -139,5 +139,5 @@
 
 **Conclusion**
 
-In this project we have performed a detailed analysis and visualization of the training dataset with different Exploratory Data Analysis techniques. Then a comaparative analysis of different ML Classifiers have been done to predict the winners of the IPL matches. After performing the model comparative analysis we can conclude that only the Random Forest Classifier and XGBoost Classifier have performed well. Hypertuning using RandomisedSearchCV anD GridSearchCV have also been done to prevent overfitting and the best accuracy achieved is 66.4% 
+In this project we have performed a detailed analysis and visualization of the training dataset with different Exploratory Data Analysis techniques. Then a comaparative analysis of different ML Classifiers have been done to predict the winners of the IPL matches. After performing the model comparative analysis we can conclude that only the Random Forest Classifier and XGBoost Classifier have performed well. Hypertuning using RandomisedSearchCV anD GridSearchCV have also been done to prevent overfitting and the best testing accuracy achieved is 66.4% 
 
