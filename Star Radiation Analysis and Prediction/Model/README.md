@@ -49,4 +49,5 @@ analysis we can conclude that Linear Regressor gave the best Result out of all.
 ## Author
 
 This model is created by [rajnish-488](https://github.com/rajnish-488)
+<br>
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
