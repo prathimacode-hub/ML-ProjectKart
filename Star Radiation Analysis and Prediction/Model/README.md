@@ -6,7 +6,8 @@
 The aim of the project is to analysis the dataset , prediction the project and
 perform a detailed analysis and visualization of the training dataset and create a model. 
 
-
+## Dataset
+The dataset which is used here, is collected from Kaggle website. Here is the link of the dataset : https://www.kaggle.com/eswarchandt/phishing-website-detector. I have uploaded the same in [`Dataset`](https://www.kaggle.com/dronio/SolarEnergy) folder too, you can access that!
 
 ## WHAT I HAD DONE
 
@@ -48,3 +49,4 @@ analysis we can conclude that Linear Regressor gave the best Result out of all.
 ## Author
 
 This model is created by [rajnish-488](https://github.com/rajnish-488)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
