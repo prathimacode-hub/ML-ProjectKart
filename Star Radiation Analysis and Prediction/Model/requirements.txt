@@ -1,4 +1,4 @@
-## LIBRARIES NEEDED
+LIBRARIES NEEDED to run the code:-
 
 - numpy
 - pandas
@@ -10,6 +10,4 @@
 
 
 
-## Author
 
-This model is created by [Isha307](https://github.com/rajnish-488)
