@@ -28,6 +28,12 @@ The dataset which is used here, is collected from Kaggle website. Here is the li
  - Linear Regression 
  - Polynimial Regression
  - Random Forest Regression
+
+|Name of the Model|Accuracy Score|
+|:---:|:---:|
+|Logistic Regression|87|
+|Polynimial Regression|90|
+|Random Forest Regression|94|
  
 ## LIBRARIES NEEDED
 
@@ -45,6 +51,10 @@ In this project we have performed  analysis and visualization of the training da
 Then we used different Regressors to predict the Ladder score. After performing the model comparative 
 analysis we can conclude that Linear Regressor gave the best Result out of all.
 
+Best Fitted Models ranking - 
+1. Random forest classifier
+2. Polynomial Regression
+3. Linear Regression
 
 ## Author
 
