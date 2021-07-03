@@ -31,9 +31,9 @@ The dataset which is used here, is collected from Kaggle website. Here is the li
 
 |Name of the Model|Accuracy Score|
 |:---:|:---:|
-|Logistic Regression|87|
-|Polynimial Regression|90|
-|Random Forest Regression|94|
+|Logistic Regression|59|
+|Polynimial Regression|67|
+|Random Forest Regression|84|
  
 ## LIBRARIES NEEDED
 
