@@ -1,0 +1,99 @@
+Team,Tournament,Goals,Shots pg,yellow_cards,red_cards,Possession%,Pass%,AerialsWon,Rating
+Manchester City,Premier League,83,15.8,46,2,60.8,89.4,12.8,7.01
+Bayern Munich,Bundesliga,99,17.1,44,3,58.1,85.5,12.9,6.95
+Paris Saint-Germain,Ligue 1,86,15,73,7,60.1,89.5,9.5,6.88
+Barcelona,LaLiga,85,15.3,68,2,62.4,89.7,10.6,6.87
+Real Madrid,LaLiga,67,14.4,57,2,57.7,87.7,11.8,6.86
+Manchester United,Premier League,73,13.8,64,1,54.5,84.8,14.5,6.85
+Juventus,Serie A,77,15.7,76,6,55.4,88.3,11.4,6.85
+Aston Villa,Premier League,55,13.7,63,4,49.1,78.6,19.4,6.84
+Borussia Dortmund,Bundesliga,75,14.6,43,1,57.5,85.5,12.8,6.84
+Atletico Madrid,LaLiga,67,12.1,100,0,51.8,83.1,14.4,6.84
+Atalanta,Serie A,90,16.3,66,3,53.5,83.5,16.8,6.84
+Chelsea,Premier League,58,14.6,49,3,58.6,87,15.2,6.83
+Liverpool,Premier League,68,16,40,0,59,85.7,14.3,6.82
+AC Milan,Serie A,74,14.7,80,4,51.4,84,15.2,6.82
+Lille,Ligue 1,64,12.8,67,2,52.6,83.5,15.8,6.82
+Tottenham,Premier League,68,11.7,53,2,51.3,81.8,16.4,6.81
+Napoli,Serie A,86,17,71,3,54.1,87,11.1,6.81
+Leicester,Premier League,68,12.8,61,0,53.2,82.1,16.2,6.8
+Wolfsburg,Bundesliga,61,14.1,56,3,51,78,16.9,6.8
+Inter,Serie A,89,14.5,59,2,52,87,11.8,6.8
+Lyon,Ligue 1,81,16.1,60,10,53.6,84.7,14.3,6.8
+RB Leipzig,Bundesliga,60,16,57,0,57.3,83.2,18.6,6.78
+Leeds,Premier League,62,13.7,61,1,55.1,80.8,14.5,6.77
+West Ham,Premier League,62,12.3,48,3,44.5,77.8,19.9,6.77
+Everton,Premier League,47,10.5,59,2,47.3,81.4,17.7,6.73
+Bayer Leverkusen,Bundesliga,53,13,58,0,57.3,84.4,13.1,6.73
+Eintracht Frankfurt,Bundesliga,69,13.2,80,1,52.4,79.6,17.9,6.73
+Monaco,Ligue 1,76,12.8,74,7,54.2,82.7,16.5,6.73
+Roma,Serie A,68,14.3,84,3,51.5,84.5,12.1,6.71
+Sevilla,LaLiga,53,12.1,75,2,58.7,86.2,16.6,6.7
+Borussia M.Gladbach,Bundesliga,64,13.4,61,2,51.5,82,15.3,6.7
+Arsenal,Premier League,55,12.1,47,5,52.7,85,13.5,6.69
+Rennes,Ligue 1,52,13.5,80,5,56.8,85.6,16.9,6.69
+VfB Stuttgart,Bundesliga,56,13.4,63,2,51.5,81.1,16.3,6.68
+Wolverhampton Wanderers,Premier League,36,12.2,53,1,49.7,83.2,15.3,6.67
+Sassuolo,Serie A,64,13.9,74,4,58.2,87.8,10.9,6.67
+Metz,Ligue 1,44,11.5,82,4,46.9,79.8,16.1,6.66
+Villarreal,LaLiga,60,10.7,65,5,54.3,84.4,13,6.66
+Real Sociedad,LaLiga,59,11.3,81,1,53.7,80.8,17.9,6.65
+Brighton,Premier League,40,12.8,45,6,50.7,81.3,14.2,6.65
+Real Betis,LaLiga,50,11.7,87,8,52.9,82,16.4,6.64
+Burnley,Premier League,33,10.1,48,0,43.5,71.6,23.4,6.64
+Lens,Ligue 1,55,11.7,84,7,51.1,81.8,17.4,6.64
+Brest,Ligue 1,50,11.8,60,4,49.4,81.3,18.6,6.64
+Fulham,Premier League,27,11.6,67,3,50,81.2,17.2,6.63
+Marseille,Ligue 1,54,10,94,9,52.4,82,14.9,6.63
+Sampdoria,Serie A,52,11.3,81,3,46.1,78.5,16.8,6.63
+Montpellier,Ligue 1,60,12.2,65,7,46.4,78.8,17.9,6.63
+Nice,Ligue 1,50,10.8,69,4,53.4,85.6,10.5,6.63
+Hoffenheim,Bundesliga,52,12.6,65,4,50.8,80.7,15.7,6.63
+Southampton,Premier League,47,11.2,52,3,51.4,79.3,14.1,6.62
+Newcastle United,Premier League,46,10.4,61,3,41.6,76,17.1,6.62
+Lazio,Serie A,61,13.8,100,5,52.2,83.8,14.6,6.62
+Nantes,Ligue 1,47,10.8,68,4,45.2,77,18.1,6.62
+Union Berlin,Bundesliga,50,11.7,55,2,45.9,76.2,17.6,6.62
+Strasbourg,Ligue 1,49,11.3,56,3,46.5,78.3,18.3,6.61
+Crystal Palace,Premier League,41,9.2,54,2,42.9,76.1,18.3,6.61
+Freiburg,Bundesliga,52,11.4,63,0,47.5,78.1,17.5,6.6
+Valencia,LaLiga,50,10.3,77,5,47.9,79.4,16.3,6.6
+Celta Vigo,LaLiga,55,9.4,104,5,52,79.9,16.5,6.6
+Reims,Ligue 1,42,9.6,75,8,46.3,80.7,13.4,6.6
+Torino,Serie A,50,12.2,72,4,48,80.5,16.1,6.59
+Verona,Serie A,43,10.6,91,1,49.6,76.3,20.6,6.59
+Saint-Etienne,Ligue 1,42,11.6,76,2,49,79.3,16.4,6.59
+Bordeaux,Ligue 1,42,11.1,74,4,50.2,83.3,15.4,6.59
+Hertha Berlin,Bundesliga,41,11.3,63,3,49.8,79.5,15.8,6.58
+Cagliari,Serie A,43,11.4,73,3,45.8,79.8,17.2,6.58
+Mainz 05,Bundesliga,39,11.1,61,1,42.7,71.3,18.3,6.57
+Bologna,Serie A,51,13.1,78,4,50.7,81.5,15.1,6.56
+Augsburg,Bundesliga,36,9.9,65,4,44,73.6,16.8,6.56
+Udinese,Serie A,42,10.9,63,2,47.2,82.5,13.1,6.55
+SD Huesca,LaLiga,34,10.7,68,2,48.7,79.8,15.7,6.55
+Athletic Bilbao,LaLiga,46,10.6,81,3,49.4,78.5,17.9,6.54
+Osasuna,LaLiga,37,9.8,74,5,44.6,70.2,26.8,6.54
+Lorient,Ligue 1,50,11.2,67,3,45.9,78.8,13.7,6.54
+Genoa,Serie A,47,9,85,2,46.1,79.7,13.7,6.54
+Arminia Bielefeld,Bundesliga,26,9.8,52,1,44.1,74.6,22.2,6.53
+Angers,Ligue 1,40,10.7,63,2,47.1,81.3,13.2,6.53
+Eibar,LaLiga,29,11.9,67,3,49.2,72.6,24.4,6.53
+Werder Bremen,Bundesliga,36,10.6,63,3,45.2,76.2,18.3,6.52
+Fiorentina,Serie A,47,9.8,86,5,46.8,81,14.2,6.52
+Nimes,Ligue 1,40,10.3,57,5,45.8,77.5,14,6.52
+West Bromwich Albion,Premier League,35,8.9,51,4,41,72.2,19.1,6.51
+FC Koln,Bundesliga,34,10.6,62,1,47.1,77.3,18.5,6.51
+Deportivo Alaves,LaLiga,36,9.1,87,8,44.6,72.9,22.6,6.5
+Levante,LaLiga,46,10.1,70,1,51.5,80.1,12.2,6.5
+Spezia,Serie A,52,10.2,92,5,51.6,81.1,14.4,6.5
+Getafe,LaLiga,28,9.5,117,7,44.4,66.5,22.8,6.49
+Parma Calcio 1913,Serie A,39,10.4,91,1,48.4,82.5,16.9,6.49
+Elche,LaLiga,34,7.1,95,3,48.1,81.5,13.2,6.48
+Granada,LaLiga,47,9.4,96,6,43.4,70,18.3,6.47
+Cadiz,LaLiga,36,8,77,3,38.5,68.8,18.5,6.47
+Real Valladolid,LaLiga,34,9.7,93,4,46.2,74.8,17.1,6.46
+Sheffield United,Premier League,20,8.5,73,3,43,76.9,19.1,6.46
+Crotone,Serie A,45,9.5,85,4,47.2,80.4,12.7,6.43
+Benevento,Serie A,40,11,90,5,44.2,77.7,13.4,6.43
+Dijon,Ligue 1,25,9.2,75,5,46.9,80,14.3,6.42
+Schalke 04,Bundesliga,25,8.9,70,2,46.2,76.5,15.6,6.41
