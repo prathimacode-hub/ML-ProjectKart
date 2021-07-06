@@ -1,4 +1,8 @@
 # TITLE : IPL SCORE PREDICTION
+
+### A glimpse of the web app:
+ ![GIF](readme_resources/j.gif)
+
 # How to run the project
 Just download the project and expand the frontend, backend, dataset and Model folder and run the app.py file in the jupyter notebook.
 
