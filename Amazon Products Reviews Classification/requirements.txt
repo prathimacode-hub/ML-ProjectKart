@@ -1,0 +1,17 @@
+The required libraries for this project work
+
+sklearn
+seaborn
+Numpy==1.19.2
+pandas==1.2.4
+matplotlib==3.4.2
+collections==2019C1.1
+nltk==3.6.2
+spacy==3.0.6
+langid==1.1.6
+plotly==5.1.0
+cufflinks==2.2.1
+fastbook==0.0.16
+fastai==2.4
+transformers==4.6.1
+fsspec==2021.6.0
