@@ -56,7 +56,7 @@ Following are the steps to guide you:
 1. Welcome to this repository, if you are here as open source program participant/contributor.
 2. Participants / contributors have to **comment** on issues they would like to work on, and mentors or the PA will assign you.
 3. Issues will be assigned on a **first-come, first-serve basis.**
-4. Participants / contributors can also **open their issues** using [issue_template](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/.github/issue_template), but it needs to be verified and labelled by a mentor or PA. Please discuss with the team once before opening your issues. We respect all your contributions, whether it is an Issue or a Pull Request.
+4. Participants / contributors can also **open their issues** using [issue_template](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/ISSUE_TEMPLATE/feature_request.md), but it needs to be verified and labelled by a mentor or PA. Please discuss with the team once before opening your issues. We respect all your contributions, whether it is an Issue or a Pull Request.
 5. When you raise a issue, make sure you get it assigned to you, before you start working on that project.
 6. Each participant / contributor will be **assigned 1 issue (max)** at a time to work.
 7. Participants are expected to follow **project guidelines** and [**coding style**](https://pep8.org/"). **Structured code** is one of our top priority.
@@ -76,7 +76,7 @@ Following are the steps to guide you:
 
 ### 🧲Pull Requests Review Criteria
 
-1. Please fill the **[PR Template](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/pullrequest_template.md)** properly while making a Pull Request.
+1. Please fill the **[PR Template](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/PULL_REQUEST_TEMPLATE.md)** properly while making a Pull Request.
 2. You must add your code .ipynb file into the respective **folders**.
 3. Your work must be original, written by you not copied from other resources.
 4. You must comment on your code where necessary.

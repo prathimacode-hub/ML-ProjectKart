@@ -1,0 +1,6 @@
+**Libraries required** 
+- pandas
+- numpy
+- seaborn
+- matplotlib
+- sklearn
