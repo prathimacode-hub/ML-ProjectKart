@@ -1,0 +1,117 @@
+  
+.about{
+    height: 95%;
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(to right, rgba($col-white,0.92),rgba($col-white,0.92)),url("../src/image/covid-sm.jpg");
+    background-size: cover;
+    @media screen and (max-width: 56.25em){
+            width: 100%;
+            background-image: linear-gradient(to right, rgba($col-white,0.92),rgba($col-white,0.92));
+            padding-top: 9rem;
+        }
+
+    &--nav{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 3rem 0 0 0;
+        position: fixed;
+        bottom: 0;
+        background-color: $col-white;
+
+        @media screen and (max-width: 50em){
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-bottom: 2rem;
+        }
+        div:not(:last-child){
+            margin-bottom: 3rem;
+        }
+        a:link,
+        a:visited{
+            text-decoration: none;
+            font-size: 2rem;
+            font-weight: 600;
+            margin-right: 2rem;
+            color: $col-white;
+            background-color: $col-prim;
+            padding: 1rem 1rem;
+            border-radius: 3px;
+            transition: all .2s;
+            @media screen and (max-width: 31.25em){
+                font-size: 1.5rem;
+                margin-right: 0.8rem;
+            }
+        }
+        a:hover{
+            background-color: transparent;
+            color: $col-prim;
+        }
+    }
+    &--content{
+        padding-top: 4rem;
+        padding-left: 4rem;
+        padding-bottom: 16rem;
+
+        .heading-1{
+            margin-bottom: 0;
+            padding-bottom: 0;
+            text-align: center;
+        }
+        .heading-2{
+            font-size: 2rem;
+            margin-bottom: 0;
+            padding-bottom: 0;
+            text-align: center;
+        }
+        &--item{
+            &:not(:first-child){
+                margin: 10rem auto;
+            }
+            &-heading{
+                color: $col-sec;
+                font-size: 3rem;
+                margin-bottom: 4rem;
+            }
+            &-text{
+                color: black;
+                font-size: 2.25rem;
+                margin-bottom: 2rem;
+            }
+            &-text_sec{
+                font-family: 'Courgette', cursive;
+                color: $col-prim-light;
+                font-size: 2.25rem;
+                margin: 4rem 4rem;
+                font-weight: 800;
+            }
+            ul{ 
+                li{
+                    list-style: square;
+                    color: black;
+                    font-size: 2.25rem;
+                    margin-bottom: 2rem;
+                    margin-left: 8rem;
+                }
+            }
+        }
+        &-conclusion{
+            font-family: 'Courgette', cursive;
+            color: $col-prim-light;
+            font-size: 4rem;
+            text-align: center;
+            @media screen and (max-width: 56.25em){
+                font-size: 3.5rem;
+            }
+
+            .p2{
+                color: $col-prim;
+                font-style: 6rem;
+                font-weight: 800;
+                margin-top: 2rem;
+            }
+        }
+    }
+}

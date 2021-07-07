@@ -1,0 +1,20 @@
+.global-info{
+    text-align: center;
+    width: 100%;
+    padding: 8rem 0 6rem 0;
+    background-image: linear-gradient(to right bottom, rgba($col-sec,0.8), rgba($col-prim,0.8)), url("../src/image/bg-back-lg.jpg");
+    background-size: cover;
+    h1{
+        margin-bottom: 4rem;
+    }
+    div{
+        font-size: 3rem;
+        margin: 5rem auto;
+        @media screen and (max-width: 43.75em){
+            &{
+                font-size: 2rem;
+                margin-bottom: 2rem;
+            }
+        }
+    }
+}

@@ -1,0 +1,254 @@
+  
+.header{
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    grid-template-rows: repeat(2,1fr);
+
+    &-main{
+        width: 100%;
+        height: 90vh;
+        background-image: linear-gradient(rgba($col-prim-dark,0.8), rgba($col-prim-dark,0.9)), url("../src/image/covid-bg-lg.jpg");
+        background-size: cover;
+        display: grid;
+        grid-template-columns: repeat(2,47.5%);
+        justify-content: flex-end;
+        @media screen and (max-width: 56.25em){
+            &{
+                grid-template-columns: repeat(2,50%);
+            }
+        }
+        @media screen and (max-width: 43.75em){
+            &{
+                grid-template-columns: repeat(1,100%);
+                background-image: linear-gradient(rgba($col-prim-dark,0.8), rgba($col-prim-dark,0.9)), url("../src/image/covid-bg-sm.jpg");
+            }
+        }
+        @media screen and (min-height: 52em){
+            &{
+                grid-template-columns: repeat(1,100%);
+            }
+        }
+        &--content{
+            padding: 2.5rem 5rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            @media screen and (min-height: 52em){
+                &{
+                    padding-top: 8rem;
+                }
+            }
+
+            &-icon{
+                display: flex;
+                margin-bottom: 6rem;
+                @media screen and (max-width: 56.25em){
+                    &{
+                        margin-bottom: 4rem;
+                    }
+                }
+                @media screen and (max-width: 43.75em){
+                    &{
+                        font-size: 6rem;
+                    }
+                }
+                @media screen and (max-width: 28.25em){
+                    &{
+                        padding-top: 8rem;
+                    }
+                }
+                @media screen and (min-height: 52em){
+                    &{
+                        margin-bottom: 2rem;
+                    }
+                }
+                .logo{
+                    width: 10rem;
+                    @media screen and (max-width: 43.75em){
+                        &{
+                            width: 13rem;
+                        }
+                    }
+                    @media screen and (min-height: 52em){
+                        &{
+                            width: 15rem;
+                        }
+                    }
+                    @media screen and (min-height: 75em){
+                        &{
+                            width: 22rem;
+                            margin-bottom: 4rem;
+                        }
+                    }
+                }
+                .logo-name{
+                    display: flex;
+                    align-items: center;
+                    font-size: 3.5rem;
+                    background-image: linear-gradient(to right bottom, rgb(235, 16, 16),rgb(129, 24, 24));
+                    background-clip: text;
+                    color: transparent;
+                    @media screen and (max-width: 43.75em){
+                        &{
+                            font-size: 4rem;
+                        }
+                    }
+                    @media screen and (min-height: 75em){
+                        &{
+                            font-size: 5rem;
+                        }
+                    }
+                }
+            }
+            &-text{
+                text-align: start;
+                font-size: 4.5rem;
+                color: $col-white;
+                margin-bottom: 6rem;
+                @media screen and (max-width: 56.25em){
+                    &{
+                        margin-bottom: 4rem;
+                        font-size: 4rem;
+                    }
+                }
+                @media screen and (max-width: 43.75em){
+                    &{
+                        font-size: 4.5rem;
+                        margin-bottom: 6rem;
+                    }
+                }
+                @media screen and (max-width: 28.25em){
+                        &{
+                            font-size: 4rem;
+                            margin-bottom: 4rem;
+                        }
+                    }
+                @media screen and (max-height: 39em){
+                    &{
+                        font-size: 2rem;
+                        margin-bottom: 4rem;
+                    }
+                }
+                @media screen and (min-height: 52em){
+                        &{
+                            font-size: 5rem;
+                            margin-bottom: 6rem;
+                        }
+                    }
+                @media screen and (min-height: 75em){
+                    &{
+                    font-size: 8rem;
+                    margin-bottom: 8rem;
+                    }
+                }
+            }
+            &-form{
+                h2{
+                    color: $col-white;
+                    margin-bottom: 1.5rem;
+                    font-weight: 400;
+                    margin-left: 1rem;
+                    @media screen and (max-width: 43.75em){
+                        &{
+                            font-size: 2rem;
+                            margin-bottom: 2rem;
+                        }
+                    }
+                    @media screen and (min-height: 75em){
+                        &{
+                            font-size: 3rem;
+                        }
+                    }
+                }
+            }
+        }
+        &--card_deck{
+            padding-left: 3rem;
+            display: flex;
+            align-items: flex-end;
+            justify-content: start;
+            @media screen and (max-width: 81.25em){
+                &{
+                    padding-left: 0rem;
+                }
+            }
+            @media screen and (max-width: 70em){
+                &{
+                   padding-bottom: 12.5rem;
+                }
+            }
+            @media screen and (max-width: 56.25em){
+                &{
+                   padding-left: 5rem;
+                }
+            }
+            @media screen and (max-width: 47em){
+                &{
+                   padding-left: 3rem;
+                }
+            }
+            @media screen and (max-width: 43.75em){
+                &{
+                    display: none;
+                }
+            }
+            @media screen and (min-height: 52em){
+                &{
+                    padding: 0;
+                    margin: 0;
+                    display: flex;
+                    align-items: center;
+                    text-align: center;
+                }
+            }
+        }
+    }
+    .gd{
+        width: 32.5%;
+        align-self: flex-end;
+        background-color: $col-sec;
+        border-radius: 1000px;
+        padding: 1.5rem 1rem;
+        margin-bottom: 1rem;
+        margin-left: 9%;
+        animation: blink 1s infinite;
+        @media screen and (max-width: 70em){
+                &{
+                   width: 80%;
+                }
+            }
+        @media screen and (max-width: 56.25em){
+            &{
+                text-align: center;
+            }
+        }
+        &:hover{
+            animation: none;
+        }
+        a:link,
+        a:visited{
+            text-decoration: none;
+            display: flex;
+            justify-content: center;
+            font-size: 2rem;
+            font-weight: 400;
+            color: $col-white;
+            @media screen and (max-width: 43.75em){
+                &{
+                    font-size: 2.5rem;
+                }
+            }
+            @media screen and (max-width: 25em){
+                &{
+                   font-size: 2rem;
+                }
+            }
+            @media screen and (min-height: 75em){
+                &{
+                   font-size: 6rem;
+                }
+            }
+        }
+    }
+}

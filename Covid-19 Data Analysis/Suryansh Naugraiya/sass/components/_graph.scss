@@ -1,0 +1,59 @@
+  
+.graph{
+    width: 75%;
+    position: relative;
+    @media screen and (max-width: 56.25em){
+            width: 50%;
+            margin-top: 8rem;
+        }
+    @media screen and (max-width: 28.25em){
+            width: 100%;
+        }
+    &-items{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        @media screen and (max-width: 28.25em){
+            margin: 0 !important;
+        }
+    }
+    &-item{
+         display: flex;
+        align-items: center;
+        font-size: 1.5rem;
+        margin-bottom: 0.5rem;
+        @media screen and (max-width: 28.25em){
+            margin: 0 0 2px 0 !important;
+        }
+        div{
+            width: 2rem;
+            height: 2rem;
+            margin-right: 1rem;
+            @media screen and (max-width: 28.25em){
+                margin: 0 !important;
+                width: 1.5rem;
+                height: 1.5rem;
+                margin-right: 1rem;
+            }
+        }
+    }
+    &-deaths{
+        color:  rgb(160, 39, 39);
+        div{
+            background-color: rgb(160, 39, 39);
+        }
+    }
+    &-recovered{
+        color:  rgb(53, 158, 40);
+        div{
+            background-color: rgb(53, 158, 40);
+        }
+    }
+    &-active{
+        color:  rgb(28, 115, 255);
+        div{
+            background-color: rgb(28, 115, 255);
+        }
+    }
+}

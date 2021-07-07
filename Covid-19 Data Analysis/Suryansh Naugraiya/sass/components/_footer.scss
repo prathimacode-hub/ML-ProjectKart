@@ -1,0 +1,97 @@
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: $col-footer;
+    padding: 1rem;
+    @media screen and (max-width: 43.75em){
+        &{
+            grid-template-columns: 100%;
+        }
+    }
+
+    &--icon{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-right: 3px solid $col-white;
+        @media screen and (max-width: 62.5em){
+            &{
+                border-right: none;
+                border-bottom: 3px solid $col-white;
+                margin-bottom: 4rem;
+                padding: 2rem;
+            }
+        }
+        
+        img{
+            width: 50%;
+        }
+        h1{
+            font-size: 4rem;
+            font-weight: 600;
+            background-image: linear-gradient(to right bottom, rgb(235, 16, 16),rgb(129, 24, 24));
+            background-clip: text;
+            color: transparent;
+        }
+    }
+    &--content{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding: 1rem;
+        &-links{
+            display: flex;
+            justify-content: start;
+            align-items: center;
+            padding: 2rem;
+            @media screen and (max-width: 62.5em){
+                &{
+                    display: grid;
+                    grid-template-columns: repeat(2,50%);
+                    grid-gap: 2rem;
+                }
+            }
+            a:not(:last-child){
+                margin-right: 2rem;
+            }
+            a:link,
+            a:visited{
+                font-size: 2rem;
+                font-weight: 600;
+                text-decoration: none;
+                padding: 1rem 2rem;
+                color: orangered;
+                background-color: $col-white;
+                border-radius: 1000px;
+                transition: all .2s;
+                outline: none;
+                @media screen and (max-width: 62.5em){
+                    &{
+                        width: 90%;
+                        text-align: center;
+                        font-size: 2.25rem;
+                    }
+                }
+            }
+            a:hover{
+                transform: translateY(-5px);
+                background-color: $col-footer;
+            }
+        }
+        &-text{
+            padding: 3rem 2rem;
+            font-size: 2.5rem;
+            text-align: start;
+            color: $col-white;
+            a:link,
+            a:visited{
+                text-decoration: none;
+                color: orangered;
+                transition: all .2s;
+                outline: none;
+            }
+            a:hover{
+                transform: translateY(-4rem);
+            }
+        }
+    }
+}

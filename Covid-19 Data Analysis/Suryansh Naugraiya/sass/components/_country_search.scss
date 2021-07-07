@@ -1,0 +1,56 @@
+.country-search{
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    @media screen and (max-width: 56.25em){
+        grid-template-columns: 1fr;
+    }
+    &--intro{
+        padding: 5rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        @media screen and (max-width: 28.25em){
+            display: grid;
+            grid-template-columns: repeat(2,50%);
+            align-items: center;
+        }
+        div{
+            @media screen and (max-width: 28.25em){
+                margin-top: 8rem;
+            }
+        }
+        .history-search{
+                margin-top: 10rem;
+        }
+        h1{
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 2rem;
+            color: $col-prim;
+            span{
+                   font-weight: 400;
+            }
+        }
+    }
+    #history-search-main{
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+    &--info{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        .wrapper{
+            width: 100%;
+            margin-bottom: 3rem;
+        }
+    }
+}
