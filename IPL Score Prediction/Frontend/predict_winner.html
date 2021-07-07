@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="../static/ipl-favicon.ico">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    <title>IPL</title>
+    <style>
+        .bg {
+
+            background: url(../static/background.jpg);
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            background-attachment: fixed;
+        }
+    </style>
+</head>
+
+<body class='bg'>
+    <center>
+        <div class="w-50 mt-5">
+            <form action="{{url_for('winner')}}" method='GET'>
+
+                <div class='row my-5'>
+
+                    <div class="form-group col">
+                        <label for="exampleFormControlSelect1" class="text-white font-weight-bold lead">Select
+                            Team1</label>
+                        <select class="form-control" id="exampleFormControlSelect1" name='list1' required>
+                            <option value="Sunrisers Hyderabad">Sunrisers Hyderabad</option>
+                            <option value="Mumbai Indians">Mumbai Indians</option>
+                            <option value="Royal Challengers Bangalore">Royal Challengers Bangalore</option>
+                            <option value="Kolkata Knight Riders">Kolkata Knight Riders</option>
+                            <option value="Kings XI Punjab">Kings XI Punjab</option>
+                            <option value="Chennai Super Kings">Chennai Super Kings</option>
+                            <option value="Rajasthan Royals">Rajasthan Royals</option>
+                            <option value="Delhi Capitals">Delhi Capitals</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group col">
+                        <label for="exampleFormControlSelect2" class="text-white font-weight-bold lead">Select
+                            Team2</label>
+                        <select class="form-control" id="exampleFormControlSelect2" name='list2' required>
+                            <option value="Sunrisers Hyderabad">Sunrisers Hyderabad</option>
+                            <option value="Mumbai Indians">Mumbai Indians</option>
+                            <option value="Royal Challengers Bangalore">Royal Challengers Bangalore</option>
+                            <option value="Kolkata Knight Riders">Kolkata Knight Riders</option>
+                            <option value="Kings XI Punjab">Kings XI Punjab</option>
+                            <option value="Chennai Super Kings">Chennai Super Kings</option>
+                            <option value="Rajasthan Royals">Rajasthan Royals</option>
+                            <option value="Delhi Capitals">Delhi Capitals</option>
+                        </select>
+                    </div>
+
+                </div>
+
+                <div class="form-group col">
+                    <label for="exampleFormControlSelect4" class="text-white font-weight-bold lead">Select Venue</label>
+                    <select class="form-control" id="exampleFormControlSelect4" name='list3' required>
+                        <option value="M Chinnaswamy Stadium">M Chinnaswamy Stadium</option>
+                        <option value="Punjab Cricket Association Stadium, Mohali">Punjab Cricket Association Stadium,Mohali</option>
+                        <option value="Feroz Shah Kotla">Feroz Shah Kotla</option>
+                        <option value="Wankhede Stadium">Wankhede Stadium</option>
+                        <option value="Sawai Mansingh Stadium">Sawai Mansingh Stadium</option>
+                        <option value="MA Chidambaram Stadium, Chepauk">MA Chidambaram Stadium, Chepauk</option>
+                        <option value="Eden Gardens">Eden Gardens</option>
+                        <option value="Dr DY Patil Sports Academy">Dr DY Patil Sports Academy</option>
+                        <option value="Brabourne Stadium">Brabourne Stadium</option>
+                        <option value="Sardar Patel Stadium, Motera">Sardar Patel Stadium, Motera</option>
+                        <option value="Himachal Pradesh Cricket Association Stadium">Himachal Pradesh Cricket Association Stadium</option>
+                        <option value="Subrata Roy Sahara Stadium">Subrata Roy Sahara Stadium</option>
+                        <option value="Rajiv Gandhi International Stadium, Uppal">Rajiv Gandhi International Stadium, Uppal</option>
+                        <option value="Shaheed Veer Narayan Singh International Stadium">Shaheed Veer Narayan Singh International Stadium</option>
+                        <option value="JSCA International Stadium Complex">JSCA International Stadium Complex</option>
+                        <option value="Barabati Stadium">Barabati Stadium</option>
+                        <option value="Maharashtra Cricket Association Stadium">Maharashtra Cricket Association Stadium</option>
+                        <option value="Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium">Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium</option>
+                        <option value="Holkar Cricket Stadium">Holkar Cricket Stadium</option>
+                    </select>
+                </div>
+
+                <div class="form-group my-5">
+                    <label for="exampleFormControlSelect4" class="text-white font-weight-bold lead">Toss Winner</label>
+                    <select class="form-control" id="exampleFormControlSelect4" name='toss_winner' required>
+                        <option value="0">Team 1</option>
+                        <option value="1">Team 2</option>
+                    </select>
+                </div>
+
+                <div class="form-check form-check-inline my-5">
+                    <input class="form-check-input" type="radio" name="fb" id="inlineRadio1" value="0" required>
+                    <label class="form-check-label" for="inlineRadio1"
+                        class="text-white font-weight-bold lead">field</label>
+                </div>
+
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="fb" id="inlineRadio2" value="1">
+                    <label class="form-check-label" for="inlineRadio2"
+                        class="text-white font-weight-bold lead">bat</label>
+                </div>
+
+                <br>
+
+                <input type="submit" name='btn' class='btn btn-primary btn-lg' winner>
+            </form>
+        </div>
+    </center>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
