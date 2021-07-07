@@ -20,3 +20,13 @@ I have used transfer learning technique to train the model and have used Mobilen
 - Make predictions and visualize results.
 
 ### Results
+![image](https://user-images.githubusercontent.com/54211313/124753869-23ba0e00-df47-11eb-9ea3-7b78ff112ebb.png)
+
+
+### Dependencies
+- Flask
+- Keras
+- Matplotlib/seaborn
+- os
+- Numpy
+- Scikit-Learn
