@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>Plant disease prediction!!</title>
+
+  </head>
+<center>
+  <body class="text-center">
+    <form class="form-upload" action="predict" method="POST" enctype="multipart/form-data">
+      <h2 class="h3 mb-3 font-weight-normal">Please Upload the Image!!</h1>
+      <input type="file" name="img" class="form-control" required autofocus>
+      <button class="btn btn-lg btn-primary btn-block" type="submit">Predict</button><br><br>
+      {% if image_loc %}
+      <img class="mb-4" src="static/{{image_loc}}" alt="" width="300" height="300">
+      <h2 class="h3 mb-3 font-weight-normal">Prediction is : {{data}}</h3>
+      {%endif%}
+      
+    </form>
+  </body>
+</center>
+</html>
