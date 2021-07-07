@@ -55,7 +55,7 @@
 
 **Comparing the models**
 
-- **Multi Layer Perceptron**
+- ### **Multi Layer Perceptron**
 
     -  *After training the MLP model we get a Training Accuracy of 87.71% and a Validation Accuracy of 74.29%*
     -  Inference -  Since the validation accuracy is a bit more less with respect the training accuracy than normal cases, we can say that the model might have been a little overfitted on the training set.. 
@@ -67,7 +67,7 @@
     
 #### Multi layer perceptron network is not considered to be very efficient over image data. Convolutional neural networks are considered to be more efficient since they also take into consideration, the pixels with their spatial structure and hence perform better than MLP networks. Therefore now we will try this project with CNN approach.
 
--  **Convolutional Neural network**
+- ### **Convolutional Neural network**
 
     - *After training the CNN model we get a Training Accuracy of 95.00% and a Validation Accuracy of 87.12%, which shows that the CNN model has gained a much higher precision both in training and validation cases than the MLP model.*
 
