@@ -1,0 +1,30 @@
+.input-text{
+    display: flex;
+    align-items: center;
+    transition: all .2s;
+    &:hover{
+            transform: scale(1.05);
+        }
+    input{
+        width: 80%;
+        padding: 1.5rem 3rem;
+        font-size: 2rem;
+        border-radius: 1000px;
+        border: none;
+        outline: none;
+        box-shadow: 0 1rem 2rem $col-black;
+    }
+    button{
+        background-color: transparent;
+        font-size: 3rem;
+        color: $col-prim-dark;
+        border: none;
+        margin-left: -5rem;
+        cursor: pointer;
+        // margin-top: 1rem;
+        transition: all .2s;
+        &:hover{
+            color: $col-sec;
+        }
+    }
+}

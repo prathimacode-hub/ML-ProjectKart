@@ -1,0 +1,97 @@
+$body-bg: $col-white;
+$square-color: $col-sec;
+$square-width: 32px;
+$square-height: 32px;
+$square-radius: 10px;
+$animation-duration: 1s;
+
+@mixin animate($delay) {
+  animation-delay: $delay;
+  animation-duration: $animation-duration;
+  animation-timing-function: ease-in;
+  animation-iteration-count: infinite;
+  animation-name: upAndDown;
+}
+
+@mixin square {
+  width: $square-width;
+  height: $square-height;
+  border-radius: $square-radius;
+  background-color: $square-color;
+  margin: 3px;
+}
+
+.wrapper-loader {
+    display: flex;
+    width: 100%;
+    background-color: transparent;
+    height: 72x;
+    justify-content: center;
+    align-items: center;
+}
+
+.square1 {
+  @include square;
+  @include animate(0);
+}
+.square2 {
+  @include square;
+  @include animate(200ms);
+}
+.square3 {
+  @include square;
+  @include animate(400ms);
+}
+
+.square4 {
+  @include square;
+  @include animate(600ms);
+}
+
+@keyframes upAndDown {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@-moz-keyframes upAndDown {
+  0% {
+    -moz-transform: translateY(0);
+  }
+  50% {
+    -moz-transform: translateY(-20px);
+  }
+  100% {
+    -moz-transform: translateY(0);
+  }
+}
+
+@-ms-keyframes upAndDown {
+  0% {
+    -ms-transform: translateY(0);
+  }
+  50% {
+    -ms-transform: translateY(-20px);
+  }
+  100% {
+    -ms-transform: translateY(0);
+  }
+}
+
+@-webkit-keyframes upAndDown {
+  0% {
+    -webkit-transform: translateY(0);
+  }
+  50% {
+    -webkit-transform: translateY(-20px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+  }
+}

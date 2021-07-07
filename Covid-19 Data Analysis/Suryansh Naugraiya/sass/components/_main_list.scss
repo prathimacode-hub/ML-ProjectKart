@@ -1,0 +1,20 @@
+.main-list{
+    width: 90%;
+    border: none;
+    border-radius: 1rem;
+    font-size: 1.75rem;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    padding: 2rem 5rem;
+    margin: 1rem auto 0 auto;
+    color: $col-white;
+    @media screen and (max-width: 56.25em){
+        font-size: 2rem;
+    }
+    &-name{
+        justify-self: flex-start;
+    }
+    &-value{
+        justify-self: flex-end;
+    }
+}

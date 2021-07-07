@@ -1,0 +1,56 @@
+  
+.history{
+    height: 60rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    @media screen and (max-width: 43.75em){
+        &{
+            height: 60rem;
+        }
+    }
+    h1{
+        margin-bottom: 5rem;
+    }
+    &-form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        input{
+            width: 200%;
+            margin-bottom: 4rem;
+            padding: 1.5rem 3rem;
+            font-size: 2rem;
+            border-radius: 1000px;
+            border: none;
+            outline: none;
+            box-shadow: 0 2px 5px $col-black;
+            transition: all .2s;
+            @media screen and (max-width: 43.75em){
+                &{
+                    width: 100%;
+                }
+            }
+            &:hover{
+                transform: scale(1.05);
+                box-shadow: 0 4px 10px rgba($col-black,0.7);
+            }
+        }
+        button{
+            background-color: transparent;
+            font-size: 5rem;
+            font-weight: 600;
+            border: none;
+            color: $col-sec-dark;
+            cursor: pointer;
+            &:hover{
+                transform: scale(1.05);
+                
+            }
+        }
+
+    }
+}

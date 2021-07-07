@@ -1,0 +1,123 @@
+.Nav{
+    width: 8rem;
+    height: 100vh;
+    padding: 4rem 1.5rem;
+    background-image: linear-gradient(to bottom, $col-prim, $col-prim-dark);
+    text-align: center;
+    position: fixed;
+    z-index: 200;
+    @media screen and (max-width: 56.25em){
+        &{
+            width: 100%;
+            height: 9rem;
+            padding: 2.5rem 3rem;
+        }
+    }
+
+    &-link{
+        font-size: 2.5rem;
+        display: inline-block;
+        color: $col-white;
+        margin-bottom: 3.5rem;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+    &-link-active{
+        background-color: $col-white;
+        padding: .5rem;
+        color: $col-prim-dark;
+        font-weight: 600;
+    }
+    .cbox{
+        display: none;
+        position: absolute;
+        top: 5rem;
+    }
+    
+    &--label{
+        cursor: pointer;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+            @media screen and (max-width: 56.25em){
+                &{
+                    width: 5%;
+                    height: auto;
+                }
+            }
+            @media screen and (max-width: 43.75em){
+                &{
+                    width: 6%;
+                    height: auto;
+                }
+            }
+            @media screen and (max-width: 37.5em){
+                &{
+                    width: 8%;
+                }
+            }
+    }
+    &--cross{
+        display: none;
+        font-size: 7rem;
+        text-align: center;
+        width: 100%;
+        height: 4rem;
+        color: $col-white;
+        position: absolute;
+        top: -3.25rem;
+        left: 0;
+        animation: moveFromLeft 1s;
+        z-index: 250;
+    }
+    &--icon{
+        width: 100%;
+        height: 4rem;
+        padding: 3px;
+        display: grid;
+        grid-template-columns: repeat(3,33.333%);
+        grid-gap: 1.5px;
+        justify-content: center;
+        transition: all .1s ease-out;
+
+        &:hover{
+            grid-gap: 3px;
+        }
+
+        &--line{
+            background-color: $col-white;
+            z-index: 250;
+        }
+    }
+    .cbox:checked ~ &-extd{
+        display: flex;
+        flex-direction: column;
+    } 
+    .cbox:checked ~ label &--icon{
+        display: none;
+    } 
+    .cbox:checked ~ label &--cross{
+        display: block;
+    } 
+
+    &-extd{
+        display: none;
+        width: 18rem;
+        height: 100vh;
+        position: fixed;
+        text-align: start;
+        left: 5%;
+        top: 0;
+        padding: 4rem 2rem 0 2rem;
+        background-image: linear-gradient(to bottom, $col-prim, $col-prim-dark);
+        animation: moveFromLeft 1s;
+        @media screen and (max-width: 56.25em){
+        &{
+            left: 0;
+            top: 9rem;
+            width: 22rem;
+        }
+    }
+    }
+}
