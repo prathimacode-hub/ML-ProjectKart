@@ -1,0 +1,10 @@
+.about-page{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 5% 95%;
+    position: relative;
+    @media screen and (max-width: 56.25em){
+            display: flex;
+            flex-direction: column;
+        }
+}

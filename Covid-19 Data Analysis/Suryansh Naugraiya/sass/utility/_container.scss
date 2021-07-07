@@ -1,0 +1,13 @@
+.container{
+    width: 85%;
+    margin: 15rem auto 0 auto;
+    @media screen and (max-width: 28.25em){
+        &{
+            margin: 10rem auto 0 auto;
+        }
+    }
+}
+.container2{
+    width: 100%;
+    margin: 15rem auto 0 auto;
+}

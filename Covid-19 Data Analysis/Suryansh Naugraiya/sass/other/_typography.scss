@@ -1,0 +1,24 @@
+.heading-sec{
+    font-size: 3.5rem;
+    font-weight: 600;
+    background-image: linear-gradient(to right bottom, $col-sec, $col-sec-dark);
+    background-clip: text;
+    color: transparent;
+    text-transform: uppercase;
+    transition: all .2s;
+    &:hover{
+        letter-spacing: 2px;
+    }
+}
+.heading-white{
+    font-size: 3.5rem;
+    font-weight: 600;
+    background-image: linear-gradient(to right bottom, $col-white, white);
+    background-clip: text;
+    color: transparent;
+    text-transform: uppercase;
+    transition: all .2s;
+    &:hover{
+            letter-spacing: 2px;
+        }
+}
