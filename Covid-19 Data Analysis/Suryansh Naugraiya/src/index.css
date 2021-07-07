@@ -1,0 +1,42 @@
+*,
+*::after,
+*::before{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html{
+  font-size: 62.5%; 
+}
+
+@media screen and (max-width: 81.2em){
+      html{
+        font-size: 56.25%;
+      }
+  }
+@media screen and (max-width: 70em){
+    html{
+      font-size: 50%;
+    }
+}
+/* @media screen and (max-width: 56.25em){
+      html{
+        font-size: 43.75%;
+      }
+  } */
+/* @media screen and (max-width: 50em){
+      html{
+        font-size: 40.75%;
+      }
+  }
+@media screen and (max-width: 37.5em){
+    html{
+      font-size: 37.5%;
+    }
+} */
+
+body{
+  font-family: 'Encode Sans', sans-serif;
+  position: relative;
+  background-color: rgb(232, 235, 243);
+}
