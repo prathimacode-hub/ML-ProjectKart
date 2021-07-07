@@ -7,3 +7,5 @@
 4. Go to the link generated and uplaod your image to make predictions.
 
 ![image](https://user-images.githubusercontent.com/54211313/124752695-ce313180-df45-11eb-9126-78b1f6760030.png)
+
+## Goal of this project is to identify the condition of a plant by looking at the image provided.
