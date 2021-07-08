@@ -29,14 +29,14 @@ Procedure:
 12.additional models like decision tree and random forest classifier were used.
 
 imported libraries:
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from matplotlib import style
-%matplotlib inline
-from sklearn.preprocessing import LabelEncoder
-from sklearn import linear_model
-from sklearn.linear_model import LogisticRegression
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.tree import DecisionTreeClassifier
+1.import numpy as np
+2.import pandas as pd
+3.import matplotlib.pyplot as plt
+4.import seaborn as sns
+5.from matplotlib import style
+6.%matplotlib inline
+7.from sklearn.preprocessing import LabelEncoder
+8.from sklearn import linear_model
+9.from sklearn.linear_model import LogisticRegression
+10.from sklearn.ensemble import RandomForestClassifier
+11.from sklearn.tree import DecisionTreeClassifier
