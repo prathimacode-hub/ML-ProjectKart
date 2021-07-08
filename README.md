@@ -5,11 +5,11 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) 
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/prathimacode-hub)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GitHub contributors](https://img.shields.io/github/contributors-anon/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/graphs/contributors)
 [![Maintenance](https://img.shields.io/maintenance/yes/2021)](https://github.com/prathimacode-hub)
 
-[![GitHub contributors](https://img.shields.io/github/contributors-anon/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/graphs/contributors)
 [![](https://badgen.net/github/stars/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/stargazers)
 [![](https://badgen.net/github/forks/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/network/members)
 [![](https://badgen.net/github/open-issues/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/issues)
@@ -58,9 +58,9 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 - [Pull Request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 - [README](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md)
 
-**Note** : One should follow these templates while creating a new issue or pull request. Else, 'LGM-SOC' label won't be assigned neither your contributions would count.
-This is to ensure that we know you as a 'LGM-SOC' participant.
-If you had taken up the issue, that's already in the "Issues" tab. You should mention yourself as 'LGM-SOC' participant. 
+**Note** : One should follow these templates while creating a new issue or pull request. Else, 'Program' label won't be assigned neither your contributions would count.
+This is to ensure that we know you as a 'LGM-SOC' or 'DevIncept' participant.
+If you had taken up the issue, that's already in the "Issues" tab. You should mention yourself as 'LGM-SOC' or 'DevIncept' participant. 
 
 
 <h2>📝Project Structure</h2>
@@ -315,6 +315,11 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
 
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=120px height=120px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+
+<h2>🌟 Stargazers Over Time 🌟</h2>
+
+[![Stargazers over time](https://starchart.cc/prathimacode-hub/ML-ProjectKart.svg)](https://starchart.cc/prathimacode-hub/ML-ProjectKart)
 
 
 <h2>⭐Give this Project a Star</h2>
