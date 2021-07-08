@@ -52,5 +52,10 @@ Dataset can be downloaded from [here](https://www.kaggle.com/shivamb/real-or-fak
  ```python
     Accuracy achieved :  96.92
  ``` 
+**Conclusion:**
+- Accuracy of Regression models- Linear regression, rigde regression is almost same.
+- Whereas accuracy of Random Forest is higher and root mean square error is least.
+- Random Forest is more efficient model.
 
-* Random Forest is more efficient model.
+**Name :**
+- Akash Ramanand Rajak
