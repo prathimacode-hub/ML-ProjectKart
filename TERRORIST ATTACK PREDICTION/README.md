@@ -1,4 +1,4 @@
-                                                                        TERRORIST ATTACK PREDICTION
+                                                                 TERRORIST ATTACK PREDICTION
 
 Goal: Analysis of given dataset and prediction of Terrorist attack using regression modal
 Dataset:[https://www.kaggle.com/START-UMD/gtd]
