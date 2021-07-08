@@ -74,11 +74,11 @@
     - accuracy - 0.936432	
     - precission - 0.922373
 
-- **Random Forest Regression()**
+- **Random Forest Classifier()**
     - accuracy - 1.000000	
     - precission - 0.970488
 
-- **Hypertuned Random Forest Regression()**
+- **Hypertuned Random Forest Classifier()**
     - accuracy - 0.995865	
     - precission - 0.971519
 
