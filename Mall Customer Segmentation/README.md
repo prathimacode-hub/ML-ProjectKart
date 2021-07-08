@@ -8,6 +8,9 @@
 
 **MODELS USED**: I have used K-Means Clustering Algorithm and then used sklearn silhoutte_score to ge better clusters.
 
-**LIBRARIES NEEDED**: 1.Sklearn KMeans  2.Sklearn Silhoutte_score
+**LIBRARIES NEEDED**: 
+
+- Sklearn KMeans  
+- Sklearn Silhoutte_score
 
 **CONCLUSION**: Optimal number of clusters for this dataset would be 5.
