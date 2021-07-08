@@ -16,17 +16,17 @@
   },
   {
     "name": "🟧 Level3 ",
-    "description": "This issue will be considered as level 3 issue for LGM-SOC 21.Points will be 25.",
+    "description": "This issue will be considered as level 3 issue for LGM-SOC 21.Points will be 30.",
     "color": "ff9f1c"
   },
   {
     "name": "🟨 Level2 ",
-    "description": "This issue will be considered as level 2 issue for LGM-SOC 21.Points will be 10",
+    "description": "This issue will be considered as level 2 issue for LGM-SOC 21.Points will be 15",
     "color": "ffcc00"
   },
   {
     "name": "🟩 Level1 ",
-    "description": "This issue will be considered as level 1 issue for LGM-SOC 21.Points will be 5",
+    "description": "This issue will be considered as level 1 issue for LGM-SOC 21.Points will be 10",
     "color": "cfda2c"
   },
     {
