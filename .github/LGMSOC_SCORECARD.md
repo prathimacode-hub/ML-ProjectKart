@@ -1,8 +1,8 @@
 <h1> LGMSOC - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number of PR's : 156
-## Total Number of Contributors : 34
+## Total Number of PR's : 157
+## Total Number of Contributors : 35
 
 Name : Raunak <br>
 Github : https://github.com/raunak51299 <br>
@@ -207,3 +207,11 @@ Github : https://github.com/akash435 <br>
 Number of PR's : 2 <br>
 Projects Done : Amazon Data Analysis (Level 4) | Password Strength Classifier (Level 3 ) | <br>
 Points : 75 <br>
+
+Name : Shady <br>
+Github : https://github.com/Shady2320 <br>
+Number of PR's : 1 <br>
+Projects Done : Fake Currency Prediction (Level 4) | <br>
+Points : 45 <br>
+
+
