@@ -6,7 +6,7 @@
 - [ ] DevIncept Participant
 - [ ] Contributor
 
-Closes: #[issue number that will be closed through this PR]
+Closes: #issue number that will be closed through this PR
 
 ### Describe the add-ons or changes you've made
 
