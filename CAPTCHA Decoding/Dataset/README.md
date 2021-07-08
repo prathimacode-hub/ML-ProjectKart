@@ -1,0 +1,1 @@
+The dataset which is used here, is collected from Kaggle website. Here is the link of the dataset : https://www.kaggle.com/fournierp/captcha-version-2-images. The dataset contains CAPTCHA images. The images are 5 letter words, and have noise applied (blur and a line). They are of size 200 x 50. The file name is same as the image letters.
