@@ -53,9 +53,9 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 <h2>🛠Templates to Follow</h2>
 
-- [Feature request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/issue_template/feature_request.md)
-- [Bug Report](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/issue_template/bug_report.md)
-- [Pull Request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/pullrequest_template.md)
+- [Feature request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
+- [Bug Report](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
+- [Pull Request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 - [README](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md)
 
 **Note** : One should follow these templates while creating a new issue or pull request. Else, 'LGM-SOC' label won't be assigned neither your contributions would count.
