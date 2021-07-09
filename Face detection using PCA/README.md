@@ -1,5 +1,3 @@
-# Unsupervised Learning
-## Project: Principal component analysis (PCA)
 
 ### Install
 
@@ -17,15 +15,8 @@ You will also need to have software installed to run and execute an [iPython Not
 In a terminal or command window, navigate to the top-level project directory (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook PCA Mini-Project.ipynb
+Model.ipynb
 ```
-
-or
-
-```bash
-jupyter notebook PCA Mini-Project.ipynb
-```
-This will open the iPython Notebook software and project file in your browser.
 
 ### Dataset
 
