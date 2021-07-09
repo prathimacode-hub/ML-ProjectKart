@@ -1,9 +1,16 @@
-                                     TERRORIST ATTACK PREDICTION
+ ## TERRORIST ATTACK PREDICTION
+ ![is-it-going-to-end-soon](https://user-images.githubusercontent.com/72660504/124961744-783eb580-e03b-11eb-9eac-cc9d08b13708.jpg)
 
-Goal: Analysis of given dataset and prediction of Terrorist attack using regression modal
-Dataset:[https://www.kaggle.com/START-UMD/gtd]
 
-Procedure:
+## Goal
+ **Analysis of given dataset and prediction of Terrorist attack using regression modal**
+
+## Dataset
+**[https://www.kaggle.com/START-UMD/gtd]**
+
+
+
+## PROCEDURE
 1.for this project first of all the given dataset was imported and preprocessed using Data preprocessing techniques
 
 2.The given data contains different missing values which were first preprocessed and a plot of these missing values were made
@@ -26,9 +33,12 @@ Procedure:
 10.Logistic regression model was used to predict the city which is highly prone to terrorist attack
 
 11.the model obtained have an accuracy about 0.09513395297977037(95%)
+
 12.additional models like decision tree and random forest classifier were used.
 
-imported libraries:
+
+
+## IMPORTED LIBRARIES :
  numpy 
  
  pandas
@@ -39,7 +49,7 @@ imported libraries:
 
  sklearn
  
- model
+## MODELS USED
  
  LogisticRegression
  
