@@ -354,7 +354,7 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/vaibhavgupta2499"><img src="https://github.com/vaibhavgupta2499" width="100px;" alt=""/><br /><sub><b>Vaibhav Gupta</b></sub></a></td>
+<td align="center"><a href="https://github.com/vaibhavgupta2499"><img src="https://avatars.githubusercontent.com/u/51874705?v=4" width="100px;" alt=""/><br /><sub><b>Vaibhav Gupta</b></sub></a></td>
   </tr>
 </table>
 
