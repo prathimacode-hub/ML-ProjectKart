@@ -354,6 +354,15 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
 
 <table>
   <tr>
+<td align="center"><a href="https://github.com/vaibhavgupta2499"><img src="https://github.com/vaibhavgupta2499" width="100px;" alt=""/><br /><sub><b>Vaibhav Gupta</b></sub></a></td>
+  </tr>
+</table>
+
+
+<h2>✔Mentors(LGM-SOC)</h2>
+
+<table>
+  <tr>
 <td align="center"><a href="https://github.com/Manasi2001"><img src="https://avatars.githubusercontent.com/u/68627617?v=4" width="100px;" alt=""/><br /><sub><b>Manasi Chhibber</b></sub></a></td>
 <td align="center"><a href="https://github.com/TanweerulHaque"><img src="https://avatars.githubusercontent.com/u/50830237?v=4" width="100px;" alt=""/><br /><sub><b>Tanweerul Haque</b></sub></a></td>
 <td align="center"><a href="https://github.com/SinghShreya05"><img src="https://avatars.githubusercontent.com/u/50830709?v=4" width="100px;" alt=""/><br /><sub><b>Shreya Singh</b></sub></a></td>
