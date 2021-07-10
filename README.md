@@ -323,6 +323,32 @@ You can check out your points scored here : **[LGMSOC_SCORECARD](https://github.
 **Point to Note** : It will be updated once in 2 days. 
 
 
+<h2>🙌Levels & Points (DCP)</h2>
+
+<table>
+  <tr>
+    <th>Level</th>
+    <th>Points</th> 
+  </tr>
+  <tr>
+    <td>Level 0</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Level 1</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Level 2</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>Level 3</td>
+    <td>40</td>
+  </tr>
+</table>
+
+
 <h2>✨Hall Of Fame</h2>   
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
@@ -339,7 +365,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-    
+
 <h2>📜Code Of Conduct</h2>
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/CODE_OF_CONDUCT.md).
@@ -350,7 +376,7 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/ML-P
 This project follows the [Mozilla Public License 2.0](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/LICENSE).
 
 
-<h2>✔Mentors(LGM-SOC)</h2>
+<h2>✔Mentors(DCP)</h2>
 
 <table>
   <tr>
