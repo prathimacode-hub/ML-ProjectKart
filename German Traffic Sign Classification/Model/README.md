@@ -37,4 +37,23 @@ Training Set has 34799 Images , Test set has 12630 images and the validation set
 3.Build the architecture of the model
 4.Test the model
 5.Iterate the same process until you achieve the optimal results
-![image](https://user-images.githubusercontent.com/79377502/125164971-8b27c600-e1b2-11eb-8821-a7f500c32065.png)
+
+#Data Visualization
+<b>Data to Tensors</b>
+![image](https://user-images.githubusercontent.com/79377502/125165054-e063d780-e1b2-11eb-8c05-119563fff272.png)
+
+<b>Training data</b>
+![image](https://user-images.githubusercontent.com/79377502/125165211-a8a95f80-e1b3-11eb-8337-913a9208b6be.png)
+
+<b>Data Loss</b>
+![image](https://user-images.githubusercontent.com/79377502/125165235-c1197a00-e1b3-11eb-8290-1c0e2c77dffb.png)
+
+<b>Data Accuracy</b>
+![image](https://user-images.githubusercontent.com/79377502/125165246-d098c300-e1b3-11eb-9646-a9266abbc928.png)
+
+<b>Conclusion</b>
+I have made the training accuracy to 60%. It can be increased if we train our model more!
+
+#Author
+Aamir P
+<a ="https://github.com/Best-forever-003 </a>
