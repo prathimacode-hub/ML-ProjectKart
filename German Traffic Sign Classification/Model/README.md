@@ -56,15 +56,15 @@ Training Set has 34799 Images , Test set has 12630 images and the validation set
 
 <b>Training data</b>
 
-https://github.com/Best-forever-003/ML-ProjectKart/blob/main/German%20Traffic%20Sign%20Classification/Images/training.png
+![](https://github.com/Best-forever-003/ML-ProjectKart/blob/main/German%20Traffic%20Sign%20Classification/Images/training.png)
 
 <b>Data Loss</b>
 
-https://github.com/Best-forever-003/ML-ProjectKart/blob/main/German%20Traffic%20Sign%20Classification/Images/Data%20loss.png
+![](https://github.com/Best-forever-003/ML-ProjectKart/blob/main/German%20Traffic%20Sign%20Classification/Images/Data%20loss.png)
 
 <b>Data Accuracy</b>
 
-https://github.com/Best-forever-003/ML-ProjectKart/blob/main/German%20Traffic%20Sign%20Classification/Images/training.png
+![](https://github.com/Best-forever-003/ML-ProjectKart/blob/main/German%20Traffic%20Sign%20Classification/Images/training.png)
 
 <b>Conclusion</b>
 
