@@ -3,6 +3,8 @@ In this project, I used Python and TensorFlow to classify traffic signs.
 
 Dataset used: German Traffic Sign Dataset. This dataset has more than 50,000 images of 43 classes. 
 
+<a ="https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-signhttps://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign" </a>
+
 <b>Pipeline architecture:</b>
 Load The Data.
 Dataset Summary & Exploration
@@ -33,9 +35,13 @@ Training Set has 34799 Images , Test set has 12630 images and the validation set
 <b>Our Algorithm:</b>
 
 1.Understand the data
+
 2.Preprocess the data
+
 3.Build the architecture of the model
+
 4.Test the model
+
 5.Iterate the same process until you achieve the optimal results
 
 # Data Visualization
@@ -58,4 +64,4 @@ I have made the training accuracy to 60%. It can be increased if we train our mo
 # Author
 
 <b>Aamir P</b>
-<a ="https://github.com/Best-forever-003 </a>
+<a ="https://github.com/Best-forever-003" </a>
