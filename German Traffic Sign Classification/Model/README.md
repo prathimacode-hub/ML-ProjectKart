@@ -5,6 +5,10 @@ Dataset used: German Traffic Sign Dataset. This dataset has more than 50,000 ima
 
 <a ="https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-signhttps://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign" </a>
 
+<b>Libraries and requirements</b>
+
+<a>https://github.com/Best-forever-003/ML-ProjectKart/blob/main/German%20Traffic%20Sign%20Classification/requirements.txt</a>
+
 <b>Pipeline architecture:</b>
 Load The Data.
 Dataset Summary & Exploration
@@ -47,21 +51,42 @@ Training Set has 34799 Images , Test set has 12630 images and the validation set
 # Data Visualization
 
 <b>Data to Tensors</b>
-![image](https://user-images.githubusercontent.com/79377502/125165054-e063d780-e1b2-11eb-8c05-119563fff272.png)
+
+https://github.com/Best-forever-003/ML-ProjectKart/blob/main/German%20Traffic%20Sign%20Classification/Images/Data%20to%20Tensors.png
 
 <b>Training data</b>
-![image](https://user-images.githubusercontent.com/79377502/125165211-a8a95f80-e1b3-11eb-8337-913a9208b6be.png)
+
+https://github.com/Best-forever-003/ML-ProjectKart/blob/main/German%20Traffic%20Sign%20Classification/Images/training.png
 
 <b>Data Loss</b>
-![image](https://user-images.githubusercontent.com/79377502/125165235-c1197a00-e1b3-11eb-8290-1c0e2c77dffb.png)
+
+https://github.com/Best-forever-003/ML-ProjectKart/blob/main/German%20Traffic%20Sign%20Classification/Images/Data%20loss.png
 
 <b>Data Accuracy</b>
-![image](https://user-images.githubusercontent.com/79377502/125165246-d098c300-e1b3-11eb-9646-a9266abbc928.png)
+
+https://github.com/Best-forever-003/ML-ProjectKart/blob/main/German%20Traffic%20Sign%20Classification/Images/training.png
 
 <b>Conclusion</b>
+
 I have made the training accuracy to 60%. It can be increased if we train our model more!
+
+Faster RCNN can be used but as we are doing it in a classification based problem, we are avoiding that.
+
+By having such a model, people will follow the rules.
+
+Accidents and all kinds of indiscipline drib=ving can be reduced.
+
+Compared with previous traffic sign benchmarks, images in this benchmark are more variable, and signs in these images are much smaller.
+
+Data Augmentation has also been done for better generalization.
+
+It contains more images than previous benchmarks, and the images have a higher resolution.
+
+In future, we plan to seek out more traffic signs of the classes that rarely appear in this benchmark.
+
 
 # Author
 
 <b>Aamir P</b>
-<a ="https://github.com/Best-forever-003" </a>
+
+"https://github.com/Best-forever-003"
