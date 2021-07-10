@@ -38,7 +38,8 @@ Training Set has 34799 Images , Test set has 12630 images and the validation set
 4.Test the model
 5.Iterate the same process until you achieve the optimal results
 
-#Data Visualization
+# Data Visualization
+
 <b>Data to Tensors</b>
 ![image](https://user-images.githubusercontent.com/79377502/125165054-e063d780-e1b2-11eb-8c05-119563fff272.png)
 
@@ -54,6 +55,7 @@ Training Set has 34799 Images , Test set has 12630 images and the validation set
 <b>Conclusion</b>
 I have made the training accuracy to 60%. It can be increased if we train our model more!
 
-#Author
-Aamir P
+# Author
+
+<b>Aamir P</b>
 <a ="https://github.com/Best-forever-003 </a>
