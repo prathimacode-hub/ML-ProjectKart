@@ -52,7 +52,7 @@ Training Set has 34799 Images , Test set has 12630 images and the validation set
 
 <b>Data to Tensors</b>
 
-![]https://github.com/Best-forever-003/ML-ProjectKart/blob/main/German%20Traffic%20Sign%20Classification/Images/Data%20to%20Tensors.png
+![](https://github.com/Best-forever-003/ML-ProjectKart/blob/main/German%20Traffic%20Sign%20Classification/Images/Data%20to%20Tensors.png)
 
 <b>Training data</b>
 
