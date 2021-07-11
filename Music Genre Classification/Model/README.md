@@ -118,6 +118,12 @@
 </tr>
 </tbody>
 </table>
+<h2> FrontEnd/UI </h2>
+<a href="#"><img src="https://github.com/Raghavi20/ML-ProjectKart/blob/main/Music%20Genre%20Classification/Images/PIC1.jpeg" class="pic1"></a>
+
+<a href="#"><img src="https://github.com/Raghavi20/ML-ProjectKart/blob/main/Music%20Genre%20Classification/Images/PIC2.JPG" class="pic2"></a>
+
+<a href="#"><img src="https://github.com/Raghavi20/ML-ProjectKart/blob/main/Music%20Genre%20Classification/Images/PIC3.JPG" class="pic3"></a>
 
 <h2> Conclusion </h2>
 <b> Comparing the metrics the models have achieved by the Machine Learning Algorithms,majority of them have achieved good accuracy.
@@ -132,7 +138,8 @@
   <li>Convolutional Network</li>
   <li>Logistic Regression</li>
   </ol>
-
+<h2> Author </h2>
+<p>Code Contributed by, D.Lakshmi Raghavi, 2021 @Raghavi20 #LGMSOC21 </p>
   
       
     
