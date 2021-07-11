@@ -14,9 +14,9 @@ same in [`Dataset`](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main
 - Sklearn
 - NLTK
 - Keras
-- 
+
 ## WHAT I HAD DONE
-1. Importing all the required libraries. Check [`requirements.txt`](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-33/Advertisement%20Click%20Prediction/requirements.txt).
+1. Importing all the required libraries. Check [`requirements.txt`](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/Automated%20Essay%20Grading/Model/requirements.txt).
 2. Upload the dataset and the Jupyter Notebook file.
 3. Loading Test and Train from Dataset
 4. Apply K Fold Cross Validation and extract sentences from essays from training data.
@@ -53,7 +53,6 @@ We have deployed 9 machine learning algorithms and every algorithm is deployed s
 
 ## Conclusion
 
-**Comparing all those scores scored by the machine learning algorithms, it is clear that Gradient Boosting regressor Algorithm gives highest cohen kappa score(0.95) and will provide 
-best prediction for scores for our essay data.
+**Comparing all those scores scored by the machine learning algorithms, it is clear that Gradient Boosting regressor Algorithm gives highest cohen kappa score(0.95) and will provide best prediction for scores for our essay data.**
 
 Code Contributed by Akash Jain(@Akash20x)
