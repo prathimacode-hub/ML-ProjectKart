@@ -55,4 +55,4 @@ We have deployed 9 machine learning algorithms and every algorithm is deployed s
 
 **Comparing all those scores scored by the machine learning algorithms, it is clear that Gradient Boosting regressor Algorithm gives highest cohen kappa score(0.95) and will provide best prediction for scores for our essay data.**
 
-Code Contributed by Akash Jain(@Akash20x)
+Code Contributed by Akash Jain **(@Akash20x)**
