@@ -1,0 +1,8 @@
+pandas
+numpy
+sklearn
+pickle
+matplotlib
+warnings
+nltk
+tqdm 
