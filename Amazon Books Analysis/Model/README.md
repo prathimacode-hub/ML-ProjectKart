@@ -1,6 +1,10 @@
 
 # Amazon Books Analysis
 
+# Goal:
+
+Prediction on book to be fiction and non-fiction using Goodreads
+
 ## Dataset
  
 You can download Dataset [here](https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
@@ -9,19 +13,62 @@ You can download Dataset [here](https://www.kaggle.com/sootersaalu/amazon-top-50
 
 ![](https://github.com/Isha307/ML-ProjectKart/blob/main/Amazon%20Books%20Analysis/Images/info.png)
 
-# About Dataset
+# What I had done:
 
-- Name: Name of the Book
+- Load the Dataset
+- EDA
+- Checked for missing data
+- Created different model using different algo
+- Created model which give best accuracy among them.
 
-- Author: The author of the Book
+## MODELS USED
 
-- User Rating: Amazon User Rating
+- Linear Regression
+- KNN
+- XGbr
+- SGD
+- Decisiontree
+- RandomForest
+- LogisticRegression
 
-- Reviews: Number of written reviews on amazon
 
-- Price: The price of the book (As at 13/10/2020)
+## LIBRARIES
+- pandas
+- numpy
+- seaborn
+- matplotlib
+- sklearn
+- xgboost
 
-- Year: The Year(s) it ranked on the bestseller
+## CONCLUSION 
 
-- Genre: Whether fiction or non-fiction
+I used different algorithms to predict the accuracy and create the model. The best Algorithm that fits this dataset was Xgbr and RandomForest with 0.7818181818181819 accuarcy. Every algorithm gave the good accuracy except Linear Regression with 0.04689495748663619 accuracy.
+```
+Linear Regression
+Score:  0.04689495748663619
 
+KNN
+Score:  0.7272727272727273
+
+SVC
+Score:  0.6363636363636364
+
+XGbr
+Score:  0.7818181818181819
+
+SGD
+Score:  0.6272727272727273
+
+Decisiontree
+Score:  0.7181818181818181
+
+RandomForest
+Score:  0.7818181818181819
+
+LogisticRegression
+Score:  0.6
+```
+
+## Author 
+
+This model is created by [@Isha307](https://github.com/Isha307)
