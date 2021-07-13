@@ -63,7 +63,19 @@ By using Random Forest Classifier I got
     Accuracy of training data: 1.00
     Accuracy of testing data:  0.8181818181818182
  ``` 
- It is seen that the logistic regression and Random Forest predicts better on this dataset.
+ 
+ Comparing all those scores scored by the machine learning algorithms, it is clear that Random Forest Classifier and Logistic Regression Algorithm are having the upper hand in case of this dataset and after this, we can also SVM algorithm, which is also having good score as compared to the Decision Tree Classifier.
+ 
+ Best Fitted Model as per ranking(Accuracy):
+ 
+ 1. Random Forest Classifier
+ 2. Logistic Regression
+ 3. Decision Tree Classifier
+ 4. Support Vector Machine(SVM)
+ 
+ Finally!!! The models are deployed successfully!
+ 
+ 
  
  Arihant Rode @arihantrode89
  
