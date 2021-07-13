@@ -65,3 +65,5 @@ By using Random Forest Classifier I got
  ``` 
  It is seen that the logistic regression and Random Forest predicts better on this dataset.
  
+ Arihant Rode @arihantrode89
+ 
