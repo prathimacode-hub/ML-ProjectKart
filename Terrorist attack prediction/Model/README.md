@@ -1,6 +1,6 @@
  ## Terrorist Attack Prediction
  
- ![is-it-going-to-end-soon](https://user-images.githubusercontent.com/72660504/124961744-783eb580-e03b-11eb-9eac-cc9d08b13708.jpg)
+ ![is-it-going-to-end-soon](https://github.com/23-24/ML-ProjectKart/blob/23-24-patch-1/Terrorist%20attack%20prediction/Images/is-it-going-to-end-soon.jpg)
 
 This modal analyses terrorist attack dataset to findout cities ,regions that are prone to attacks . Earlier prediction on Increased rate of  attack at a region provides sufficient time and efficiency in taking measurements against them.
 
