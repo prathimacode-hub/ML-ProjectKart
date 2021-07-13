@@ -42,10 +42,10 @@ You can download Dataset [here](https://www.kaggle.com/sootersaalu/amazon-top-50
 
 ## CONCLUSION 
 
-I used different algorithms to predict the accuracy and create the model. The best Algorithm that fits this dataset was Xgbr and RandomForest with 0.7818181818181819 accuarcy. Every algorithm gave the good accuracy except Linear Regression with 0.04689495748663619 accuracy.
+I used different algorithms to predict the accuracy and create the model. The best Algorithm that fits this dataset was RandomForest with 0.8 accuarcy. Every algorithm gave the good accuracy except Linear Regression with 0.04689495748663619 and k-means with -2347875940.807313 accuracy.
 ```
 Linear Regression
-Score:  0.04689495748663619
+Score:  0.04689495748663475
 
 KNN
 Score:  0.7272727272727273
@@ -53,17 +53,20 @@ Score:  0.7272727272727273
 SVC
 Score:  0.6363636363636364
 
+kmeans
+Score:  -2347875940.807313
+
 XGbr
 Score:  0.7818181818181819
 
 SGD
-Score:  0.6272727272727273
+Score:  0.6727272727272727
 
 Decisiontree
-Score:  0.7181818181818181
+Score:  0.7090909090909091
 
-RandomForest
-Score:  0.7818181818181819
+RandomF
+Score:  0.8
 
 LogisticRegression
 Score:  0.6
