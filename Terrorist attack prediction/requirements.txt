@@ -2,3 +2,4 @@ required libraries
 sklearn
 numpy
 matplotlib
+pandas
