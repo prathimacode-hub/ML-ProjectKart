@@ -1,0 +1,86 @@
+{
+  "2010": {
+    "Player": "SR Tendulkar",
+    "Total Runs": 617,
+    "Zeros": 184,
+    "Ones": 177,
+    "Twos": 36,
+    "Threes": 2,
+    "Fours": 86,
+    "Sixes": 3,
+    "Boundary Runs": 362,
+    "Team": "Mumbai Indians"
+  },
+  "2011": {
+    "Player": "CH Gayle",
+    "Total Runs": 604,
+    "Zeros": 134,
+    "Ones": 98,
+    "Twos": 9,
+    "Threes": 0,
+    "Fours": 56,
+    "Sixes": 44,
+    "Boundary Runs": 488,
+    "Team": "Royal Challengers Bangalore"
+  },
+  "2012": {
+    "Player": "CH Gayle",
+    "Total Runs": 733,
+    "Zeros": 189,
+    "Ones": 162,
+    "Twos": 15,
+    "Threes": 1,
+    "Fours": 46,
+    "Sixes": 59,
+    "Boundary Runs": 538,
+    "Team": "Royal Challengers Bangalore"
+  },
+  "2013": {
+    "Player": "MEK Hussey",
+    "Total Runs": 733,
+    "Zeros": 217,
+    "Ones": 225,
+    "Twos": 38,
+    "Threes": 2,
+    "Fours": 81,
+    "Sixes": 17,
+    "Boundary Runs": 426,
+    "Team": "Chennai Super Kings"
+  },
+  "2014": {
+    "Player": "RV Uthappa",
+    "Total Runs": 660,
+    "Zeros": 170,
+    "Ones": 191,
+    "Twos": 30,
+    "Threes": 0,
+    "Fours": 74,
+    "Sixes": 18,
+    "Boundary Runs": 404,
+    "Team": "Kolkata Knight Riders"
+  },
+  "2015": {
+    "Player": "DA Warner",
+    "Total Runs": 562,
+    "Zeros": 139,
+    "Ones": 112,
+    "Twos": 29,
+    "Threes": 2,
+    "Fours": 65,
+    "Sixes": 21,
+    "Boundary Runs": 386,
+    "Team": "Sunrisers Hyderabad"
+  },
+  "2016": {
+    "Player": "V Kohli",
+    "Total Runs": 969,
+    "Zeros": 184,
+    "Ones": 291,
+    "Twos": 56,
+    "Threes": 2,
+    "Fours": 83,
+    "Sixes": 38,
+    "Boundary Runs": 560,
+    "Team": "Royal Challengers Bangalore"
+  }
+}

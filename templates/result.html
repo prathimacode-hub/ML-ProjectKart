@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+    <title>Score Predictor | Result</title>
+
+
+
+</head>
+
+<body>
+
+
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">Score Predictor</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/predict">Predict Score</a>
+                    </li>
+                    <ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+
+    <!-- all inside a background! -->
+
+
+
+
+
+    <div class="container my-4">
+        <div class="alert alert-success glow" role="alert">
+            <h2 class="alert-heading text-center">Estimated Score</h2>
+            <hr>
+            <ul>
+                <h4 class="text-center mt-3"><b>Based on the details filled in the form,the Estimated Score may be Predicted in a range of
+            <h4><b style = "color:salmon;font-weight: bold; font-size:2rem;">{{value+10}}-{{value+25}}</b> </h4>
+                </h4>
+                </p>
+
+            </ul>
+            <hr>
+        </div>
+
+        <!-- Alert -->
+
+        <div class="container my-4">
+            <div class="alert alert-info" role="alert">
+                <h4 class="alert-heading" style="text-align: center;">Orange Cap Dashboard</h4>
+                <p>Welcome to the IPL dashboard,here we showcase the stats of the bestperforming players as per the last 6 seasons,By clicking on the "OrangeCapDashboard",user will be redirected to the Orangecapdashboard,where i have shown the visuals of
+                    scores of top performing players,Like number of Fours,Sixes,Favorite Bowlers of orange cap players,all the visuals have been shown in the dashboard,click on the below button and user will be redirected to the Orangecapdashboard</p>
+                <hr>
+
+                <div class="col-md-12 text-center my-3">
+                    <a href="/Orangecapdashboard"><button id="singlebutton" name="singlebutton" class="btn btn-primary">Orangecapdashboard</button></a>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="container my-4">
+            <div class="alert alert-info" role="alert">
+                <h4 class="alert-heading" style="text-align: center;">Purple Cap Dashboard</h4>
+                <p>Welcome to the IPL dashboard,here we showcase the stats of the bestperforming players as per the last 6 seasons,By clicking on the "Purple Cap Dashboard",the linke would be redirected to the Purplecapdashboard,where i have present visuals
+                    of Wickets taken by all top performing Bowlers from the season 2010-2016,hit the "Purple Cap Dashboard" for analysing the Visuals</p>
+                <hr>
+
+                <div class="col-md-12 text-center my-3">
+                    <a href="/Purplecapdashboard"><button id="singlebutton" name="singlebutton" class="btn btn-primary">Purplecapdashboard</button></a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <!-- <div class="container glow">
+        <p class="text-center mt-3"><b>After knowing the best crop which is grown,here are Suggestions on which the Farmers can work upon</b></p>
+    </div>
+
+
+    <div class="alert alert-success glow" role="alert">
+        <h2 class="alert-heading text-center">Suggestions</h2>
+        <hr>
+        <ul>
+            <p class="text-center mt-3"><b>{{inf}}</b></p>
+
+        </ul>
+        <hr>
+    </div> -->
+
+
+
+
+    <!-- <div class="alert alert-success" role="alert">
+            <h2 class="alert-heading text-center">Suggestions</h2>
+            <hr>
+            <ul class="glow">
+                {{inf}}
+            </ul>
+            <hr>
+        </div> -->
+
+    <div class="col-md-12 text-center">
+        <a href="/">
+            <button id="singlebutton" name="singlebutton" class="btn btn-outline-success my-2 my-sm-0">Go Back</button>
+        </a>
+    </div>
+
+
+
+
+
+
+
+
+    <!-- <div class="container">
+        <a href="/">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Go Back</button>
+        </a>
+    </div> -->
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js " integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj " crossorigin="anonymous "></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js " integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo " crossorigin="anonymous "></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js " integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI " crossorigin="anonymous "></script>
+</body>
+
+</html>

@@ -1,0 +1,386 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>PurpleCap | Dashboard</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.1.0/chart.min.js" integrity="sha512-RGbSeD/jDcZBWNsI1VCvdjcDULuSfWTtIva2ek5FtteXeSjLfXac4kqkDRHVGf1TwsXCAqPTF7/EYITD0/CTqw==" crossorigin="anonymous"></script>
+
+    <!-- datasource -->
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datasource@0.1.0"></script>
+
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+
+
+
+</head>
+
+<body>
+
+    <!-- nav bar -->
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">Score Predictor</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/predict">Predict Score</a>
+                    </li>
+                    <ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <div class="container my-3">
+
+        <!-- Alert -->
+        <div class="alert alert-success glow" role="alert">
+            <h2 class="alert-heading text-center">PurpleCap Data Visuals</h2>
+            <div class="my-2">
+                <p>Data plotted in the graph is regarding all the PurpleCap players,the name of the players have been mentioned in the legend,all these players were the Purple cap holders during the season from 2010-2016,<b style="color:salmon;">Pragyan Ojha</b>                    from Deccan Chargers was the Purple Cap owner for the season 2010,for season 2011<b style="color:salmon;">Lasith Malinga</b> from Mumbai Indians was the Purple Cap Lead,for season 2012<b style="color:salmon;">Morne Morkel</b> from
+                    Delhi DareDevils had the cap,for 2013 season,
+                    <b style="color:salmon;">Dwayne Bravo</b> from Chennai Super Kings made the cap on his name and for 2014,<b style="color:salmon;">Mohit Sharma</b> from Chennai Super Kings was the lead of the Purple Cap,and for the 2015 season again
+                    <b style="color:salmon;">Dwyane Bravo</b> from Chennai Super Kings,made the cap on his name, for the season 2016 <b style="color:salmon;">Bhuvneshwar Kumar</b>from Sunrises Hyderabad,was the owner of the Purple Cap,all these bowlers
+                    had capability of changing the match in the Dead Overs and redirect the match in their favor even if their team was in mode of loss,Below Graphs display the wickets by their types,like caught,bowled,caught and bowled</p>
+            </div>
+
+            <hr>
+
+        </div>
+
+        <!-- All the charts are displayed in this row!! -->
+
+
+        <!-- Basic Stats -->
+        <div class="row">
+
+            <!-- Fours -->
+
+            <div class="col-md-4 col-sm-6">
+
+                <div class="card-body">
+                    <label for="banana" style="text-align:center;font-size:1.5rem;font-weight: bold;">Total Wickets taken by Purple Cap Bowlers</label>
+                    <div class="chart-container my-3" style="position: relative;">
+                        <canvas height="400" width="400" id="chart"></canvas>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Sixes -->
+            <div class="col-md-4 col-sm-6">
+
+                <div class="card-body">
+
+                    <label for="banana" style="text-align:center;font-size:1.5rem;font-weight: bold;">Wickets taken which are of "Bowled" type by Purplecap Bowlers</label>
+                    <div class="chart-container my-3" style="position: relative;">
+                        <canvas height="400" width="400" id="chart1"></canvas>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <!-- Total Runs -->
+            <div class="col-md-4 col-sm-6">
+
+                <div class="card-body">
+
+                    <label for="banana" style="text-align:center;font-size:1.5rem;font-weight: bold;">Wickets taken which are of "Caught Out" type by Purplecap Bowlers</label>
+                    <div class="chart-container my-3" style="position: relative;">
+                        <canvas height="400" width="400" id="chart2"></canvas>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Chart 4 -->
+
+            <div class="col-md-4 col-sm-6">
+                <div class="card-body">
+                    <label for="banana" style="text-align:center;font-size:1.5rem;font-weight: bold;">Wickets taken which are of "Stumped" type by Purplecap Bowlers</label>
+                    <div class="chart-container my-3" style="position: relative;">
+                        <canvas height="400" width="400" id="chart3"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Chart5 -->
+
+            <div class="col-md-4 col-sm-6">
+                <div class="card-body">
+                    <label for="banana" style="text-align:center;font-size:1.5rem;font-weight: bold;">Wickets taken which are of "LBW" type by Purplecap Bowlers</label>
+                    <div class="chart-container my-3" style="position: relative;">
+                        <canvas height="400" width="400" id="chart4"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Chart 6 -->
+
+            <div class="col-md-4 col-sm-6">
+                <div class="card-body">
+                    <label for="banana" style="text-align:center;font-size:1.5rem;font-weight: bold;">Wickets taken which are of "Caught and Bowled" type by Purplecap Bowlers</label>
+                    <div class="chart-container my-3" style="position: relative;">
+                        <canvas height="400" width="400" id="chart5"></canvas>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+
+
+    <!-- Goback button -->
+
+    <div class="col-md-12 text-center">
+        <a href="/">
+            <button id="singlebutton" name="singlebutton" class="btn btn-outline-success my-2 my-sm-0">Go Back</button>
+        </a>
+    </div>
+
+
+
+
+
+
+    <!-- Second try tha ye vala!! -->
+
+
+
+
+
+
+
+
+    <!--phele bootstrap ki starter template mention karro,then as we know that we want to min the size of the chart,so we have created a seperate div for it as shown ↑,and note the "canvas id = "income_vs_outcome" vala part that is the one which
+    we are going to be using the most!!,inorder to scale our charts!" -->
+
+    {% block javascript %}
+    <script>
+        // var season = '{{season}}';
+        // var cap = '{{cap}}'
+        // var seasons = season.toString()
+        // var season_int = parseInt(season, 10)
+        // console.log(season);
+        // console.log(cap);
+        // console.log(Math.abs(2010 - season_int))
+
+        Year = [2010, 2011, 2012, 2013, 2014, 2015, 2016];
+        PlayerName = ['PP Ojha', 'SL Malinga', 'M Morkel', 'DJ Bravo_2014', 'MM Sharma', 'DJ Bravo_2016', 'B Kumar'];
+        TotalWickets = [21, 28, 25, 22, 23, 26, 23];
+        bowled = [4, 16, 6, 4, 8, 2, 6];
+        caught = [12, 10, 11, 15, 14, 23, 15];
+        stumped = [4, 0, 0, 0, 0, 0, 0];
+        lbw = [1, 0, 8, 1, 1, 0, 1];
+        caught_and_bowled = [0, 2, 0, 2, 0, 1, 1];
+
+
+
+        // JSON DATA
+
+        // console.log(TotalRu[0])
+
+
+        // Chart 1
+
+        var ctx = document.getElementById('chart').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: PlayerName,
+                datasets: [{
+                    label: 'Total Wickets',
+                    data: TotalWickets,
+                    backgroundColor: [
+                        'rgb(255, 99, 132)',
+                        'rgb(75, 192, 192)',
+                        'rgb(255, 205, 86)',
+                        'rgb(201, 203, 207)',
+                        'rgb(54, 162, 235)',
+                        'rgba(153, 102, 255)',
+                        'rgba(255, 159, 64)',
+                        'rgba(250, 157, 60)'
+                    ],
+                    hoverOffset: 4
+
+                }]
+            }
+        })
+
+
+        // Chart 2
+
+        var ctx = document.getElementById('chart1').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: PlayerName,
+                datasets: [{
+                    label: 'Bowled Wickets',
+                    data: bowled,
+                    backgroundColor: [
+                        'rgb(255, 99, 132)',
+                        'rgb(75, 192, 192)',
+                        'rgb(255, 205, 86)',
+                        'rgb(201, 203, 207)',
+                        'rgb(54, 162, 235)',
+                        'rgba(153, 102, 255)',
+                        'rgba(255, 159, 64)',
+                        'rgba(250, 157, 60)'
+                    ],
+                    hoverOffset: 4
+
+                }]
+            }
+        })
+
+
+        // Chart3
+
+        var ctx = document.getElementById('chart2').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: PlayerName,
+                datasets: [{
+                    label: 'Caught Outs',
+                    data: caught,
+                    backgroundColor: [
+                        'rgb(255, 99, 132)',
+                        'rgb(75, 192, 192)',
+                        'rgb(255, 205, 86)',
+                        'rgb(201, 203, 207)',
+                        'rgb(54, 162, 235)',
+                        'rgba(153, 102, 255)',
+                        'rgba(255, 159, 64)',
+                        'rgba(250, 157, 60)'
+                    ],
+                    hoverOffset: 4
+
+                }]
+            }
+        })
+
+
+        // Chart4
+
+        var ctx = document.getElementById('chart3').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: PlayerName,
+                datasets: [{
+                    label: 'Stump Outs',
+                    data: bowled,
+                    backgroundColor: [
+                        'rgb(255, 99, 132)',
+                        'rgb(75, 192, 192)',
+                        'rgb(255, 205, 86)',
+                        'rgb(201, 203, 207)',
+                        'rgb(54, 162, 235)',
+                        'rgba(153, 102, 255)',
+                        'rgba(255, 159, 64)',
+                        'rgba(250, 157, 60)'
+                    ],
+                    hoverOffset: 4
+
+                }]
+            }
+        })
+
+
+
+        // Chart5
+
+        var ctx = document.getElementById('chart4').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: PlayerName,
+                datasets: [{
+                    label: 'Lbws',
+                    data: lbw,
+                    backgroundColor: [
+                        'rgb(255, 99, 132)',
+                        'rgb(75, 192, 192)',
+                        'rgb(255, 205, 86)',
+                        'rgb(201, 203, 207)',
+                        'rgb(54, 162, 235)',
+                        'rgba(153, 102, 255)',
+                        'rgba(255, 159, 64)',
+                        'rgba(250, 157, 60)'
+                    ],
+                    hoverOffset: 4
+
+                }]
+            }
+        })
+
+
+        // Chart 6
+
+        var ctx = document.getElementById('chart5').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: PlayerName,
+                datasets: [{
+                    label: 'Caught and Bowled',
+                    data: caught_and_bowled,
+                    backgroundColor: [
+                        'rgb(255, 99, 132)',
+                        'rgb(75, 192, 192)',
+                        'rgb(255, 205, 86)',
+                        'rgb(201, 203, 207)',
+                        'rgb(54, 162, 235)',
+                        'rgba(153, 102, 255)',
+                        'rgba(255, 159, 64)',
+                        'rgba(250, 157, 60)'
+                    ],
+                    hoverOffset: 4
+
+                }]
+            }
+        })
+    </script>
+
+
+    {%endblock%}
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js" integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js" integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc" crossorigin="anonymous"></script>
+    -->
+</body>
+
+</html>

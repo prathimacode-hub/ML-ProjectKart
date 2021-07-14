@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+    <!-- <link rel="stylesheet" href="static/styles.css"> -->
+
+    <title>Score Predictor</title>
+</head>
+
+<body>
+    <!-- navbar -->
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">Score Predictor</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/predict">Predict Score</a>
+                    </li>
+                    <ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+    <div class="container my-4">
+        <div class="alert alert-info" role="alert">
+            <h4 class="alert-heading" style="text-align: center;">Selection Rules</h4>
+            <p>Welcome to the First Innings Score Predictor,tab,before filling in the form,here are few insights which one must go through before filling the form,the user can select the batting team and the bowling team,if both are same,then an error template
+                will be poped,for predicting the Score of an innings,it is assumed that the user should provide the data starting from the fifth over,and can provide uptil the 15th over,coz for the model to predict,it needs some previous data,so in the
+                overs dropdown,we have overs from 5 uptil 15,that's it from the few suggestions,one can now fill in the form and get the predicted score.</p>
+            <hr>
+        </div>
+    </div>
+
+
+
+    <!-- consistent_teams = ['Kolkata Knight Riders', 'Chennai Super Kings', 'Rajasthan Royals',
+                    'Mumbai Indians', 'Kings XI Punjab', 'Royal Challengers Bangalore',
+                    'Delhi Daredevils', 'Sunrisers Hyderabad'] -->
+
+
+
+    <div class="container my-3">
+
+        <h2 class="text-center mt-3"></h2>
+
+        <form action="/predict" method="POST">
+
+            <!-- Selecting batting team -->
+
+            <div class="form-group my-3">
+                <h5 for="batting" style="text-align: center;">Select Batting Team</h5>
+                <select class="form-control custom-select" name="batting" id="batting">
+                        <option value="None">Select Batting Team</option>
+                        <option value="Kolkata Knight Riders">Kolkata Knight Riders</option>
+                        <option value="Chennai Super Kings">Chennai Super Kings</option>
+                        <option value="Rajasthan Royals">Rajasthan Royals</option>
+                        <option value="Mumbai Indians">Mumbai Indians</option>
+                        <option value="Kings XI Punjab">Kings XI Punjab</option>
+                        <option value="Royal Challengers Bangalore">Royal Challengers Bangalore</option>
+                        <option value="Delhi Daredevils">Delhi Daredevils</option>
+                        <option value="Sunrisers Hyderabad">Sunrisers Hyderabad</option>
+                    </select>
+            </div>
+
+            <!-- Selecting bowling team -->
+
+            <div class="form-group my-3">
+                <h5 for="bowling" style="text-align: center;">Select Bowling Team</h5>
+                <select class="form-control custom-select" name="bowling" id="bowling">
+                        <option value="None">Select The Bowling Team</option>
+                        <option value="Kolkata Knight Riders">Kolkata Knight Riders</option>
+                        <option value="Chennai Super Kings">Chennai Super Kings</option>
+                        <option value="Rajasthan Royals">Rajasthan Royals</option>
+                        <option value="Mumbai Indians">Mumbai Indians</option>
+                        <option value="Kings XI Punjab">Kings XI Punjab</option>
+                        <option value="Royal Challengers Bangalore">Royal Challengers Bangalore</option>
+                        <option value="Delhi Daredevils">Delhi Daredevils</option>
+                        <option value="Sunrisers Hyderabad">Sunrisers Hyderabad</option>
+                    </select>
+            </div>
+
+
+            <!-- Current Wickets-->
+
+            <div class="form-group my-3">
+                <h5 for="currentwickets" style="text-align: center;">Select the current wickets fallen</h5>
+                <select class="form-control custom-select" name="currentwickets" id="currentwickets">
+                        <option value="None">Select the current wickets fallen</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                    </select>
+            </div>
+
+            <!-- Current overs -->
+
+            <div class="form-group my-3">
+                <h5 for="currentovers" style="text-align: center;">Select the Current Over</h5>
+                <select class="form-control custom-select" name="currentovers" id="currentovers">
+                        <option value="None">Select the Current Over</option>
+                        <option value="1">5</option>
+                        <option value="2">6</option>
+                        <option value="3">7</option>
+                        <option value="4">8</option>
+                        <option value="5">9</option>
+                        <option value="6">10</option>
+                        <option value="7">11</option>
+                        <option value="8">12</option>
+                        <option value="9">13</option>
+                        <option value="10">14</option>
+                    </select>
+            </div>
+
+
+            <!-- Current Runs -->
+
+
+            <div class="form-group my-3">
+                <h5 for="currentruns" style="text-align: center;">Enter the Current Score</h5>
+                <input type="text" class="form-control" id="currentruns" name="currentruns" placeholder="Enter the Current Score">
+            </div>
+
+            <div class="col-md-12 text-center my-3">
+                <button class="btn btn-primary btn-lg" type="submit">Predict Score</button>
+            </div>
+
+
+
+        </form>
+    </div>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous">
+    </script>
+</body>
+
+</html>

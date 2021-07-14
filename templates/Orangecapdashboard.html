@@ -1,0 +1,584 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>OrangeCap |Dashboard</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.1.0/chart.min.js" integrity="sha512-RGbSeD/jDcZBWNsI1VCvdjcDULuSfWTtIva2ek5FtteXeSjLfXac4kqkDRHVGf1TwsXCAqPTF7/EYITD0/CTqw==" crossorigin="anonymous"></script>
+
+    <!-- datasource -->
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datasource@0.1.0"></script>
+
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+
+
+
+</head>
+
+<body>
+
+    <!-- nav bar -->
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">Score Predictor</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/predict">Predict Score</a>
+                    </li>
+                    <ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <div class="container my-3">
+
+        <!-- Alert -->
+        <div class="alert alert-success glow" role="alert">
+            <h2 class="alert-heading text-center">{{cap}} Data Visuals</h2>
+            <div class="my-2">
+                <p>Data plotted in the graph is regarding all the OrangeCap players,the name of the players have been mentioned in the legend,all these players were the orange cap holders during the season from 2010-2016,<b style="color:salmon;">Sachin Tendulkar</b> from Mumbai Indians,was the Orange Cap owner for the season 2010,for season 2011,2012 <b style="color:salmon;">Chris Gayle</b> from Royal Challengers Banglore was the Orange Cap Lead,for season 2013 <b style="color:salmon;">Mike Hussey</b> from Chennai Super Kings,had the cap,for 2014 season,<b style="color:salmon;">Robin Uthappa</b>   from Kolkata Night Riders made
+                    the cap on his name and for 2016,the superstar,<b style="color:salmon;">Virat Kohli</b> from Royal Challengers Banglore was the lead of the Orange Cap</p>
+            </div>
+
+            <hr>
+
+        </div>
+
+        <!-- All the charts are displayed in this row!! -->
+
+
+        <!-- Basic Stats -->
+        <div class="row">
+
+            <!-- Fours -->
+
+            <div class="col-md-4 col-sm-6">
+
+                <div class="card-body">
+                    <label for="banana" style="text-align:center;font-size:1.5rem;font-weight: bold;">Number of Fours Scored by OrangeCap Batsmen</label>
+                    <div class="chart-container my-3" style="position: relative;">
+                        <canvas height="400" width="400" id="chart"></canvas>
+                    </div>
+                </div>
+
+
+            </div>
+
+
+            <!-- Sixes -->
+            <div class="col-md-4 col-sm-6">
+
+                <div class="card-body">
+
+                    <label for="banana" style="text-align:center;font-size:1.5rem;font-weight: bold;">Number of Sixes scored by OrangeCap Batsmen</label>
+                    <div class="chart-container my-3" style="position: relative;">
+                        <canvas height="400" width="400" id="chart2"></canvas>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <!-- Total Runs -->
+            <div class="col-md-4 col-sm-6">
+
+                <div class="card-body">
+
+                    <label for="banana" style="text-align:center;font-size:1.5rem;font-weight: bold;">Total Runs Scored by OrangeCap Batsmen in the particular Season</label>
+                    <div class="chart-container my-3" style="position: relative;">
+                        <canvas height="400" width="400" id="chart3"></canvas>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!--Alert2 -->
+
+    <div class="container my-3">
+
+
+        <div class="alert alert-success glow" role="alert">
+            <h2 class="alert-heading text-center">Favorite Bowlers of Orange Cap Batsmans</h2>
+            <p>Here are few graphs which display the favorite bowlers of orange cap batsmans,by favorite bowlers i mean,those bowlers against whom the batsmen have scored most runs,OrangeCap batsmen love to score against these bowlers.</p>
+            <hr>
+        </div>
+
+
+
+        <!-- Fav bowlers!! -->
+
+
+        <div class="row">
+
+            <!-- Sachin-->
+
+            <div class="col-md-4 col-sm-6">
+                <div class="card-body">
+                    <label for="banana" style="text-align:center;font-size:1.5rem;font-weight: bold;"><p style = "color:salmon;">Sachin Tendulkars'</p> Favorite Bowlers against whom he enjoyed scoring during the 2010 season</label>
+                    <div class="chart-container my-3" style="position: relative;">
+                        <canvas height="400" width="400" id="chart4"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- gayle-->
+
+            <div class="col-md-4 col-sm-6">
+                <div class="card-body">
+                    <label for="banana" style="text-align:center;font-size:1.5rem;font-weight: bold;"><p style = "color:salmon">ChrisGayles'</p> Favorite Bowlers against whom he enjoyed scoring,during the 2011,2012 season</label>
+                    <div class="chart-container my-3" style="position: relative;">
+                        <canvas height="400" width="400" id="chart5"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Hussey -->
+            <div class="col-md-4 col-sm-6">
+
+                <div class="card-body">
+
+                    <label for="banana" style="text-align:center;font-size:1.5rem;font-weight: bold;"><p style = "color:salmon;">Mike Hussey's</p> Favorite Bowlers,against whom he enjoyed scoring during the 2013 Season</label>
+                    <div class="chart-container my-3" style="position: relative;">
+                        <canvas height="400" width="400" id="chart6"></canvas>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <!-- Uthappa -->
+            <div class="col-md-4 col-sm-6">
+
+                <div class="card-body">
+
+                    <label for="banana" style="text-align:center;font-size:1.5rem;font-weight: bold;"><p style = "color:salmon;">Robin Uthappa's</p> Favorite Bowlers,against whom he enjoyed scoring during the 2014 Season</label>
+                    <div class="chart-container my-3" style="position: relative;">
+                        <canvas height="400" width="400" id="chart7"></canvas>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Warner -->
+
+            <div class="col-md-4 col-sm-6">
+
+                <div class="card-body">
+
+                    <label for="banana" style="text-align:center;font-size:1.5rem;font-weight: bold;"><p style = "color:salmon;">David Warner's</p> Favorite Bowlers,against whom he enjoyed scoring during the 2015 Season</label>
+                    <div class="chart-container my-3" style="position: relative;">
+                        <canvas height="400" width="400" id="chart8"></canvas>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Kohli -->
+            <div class="col-md-4 col-sm-6">
+
+                <div class="card-body">
+
+                    <label for="banana" style="text-align:center;font-size:1.5rem;font-weight: bold;"><p style = "color:salmon;">Virat Kohli's</p> Favorite Bowlers,against whom he enjoyed scoring during the 2016 Season</label>
+                    <div class="chart-container my-3" style="position: relative;">
+                        <canvas height="400" width="400" id="chart9"></canvas>
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+    <!-- Goback button -->
+
+    <div class="col-md-12 text-center">
+        <a href="/">
+            <button id="singlebutton" name="singlebutton" class="btn btn-outline-success my-2 my-sm-0">Go Back</button>
+        </a>
+    </div>
+
+
+
+
+
+
+    <!-- Second try tha ye vala!! -->
+
+
+
+
+
+
+
+
+    <!--phele bootstrap ki starter template mention karro,then as we know that we want to min the size of the chart,so we have created a seperate div for it as shown ↑,and note the "canvas id = "income_vs_outcome" vala part that is the one which
+    we are going to be using the most!!,inorder to scale our charts!" -->
+
+    {% block javascript %}
+    <script>
+        var season = '{{season}}';
+        var cap = '{{cap}}'
+        var seasons = season.toString()
+        var season_int = parseInt(season, 10)
+            // console.log(season);
+            // console.log(cap);
+            // console.log(Math.abs(2010 - season_int))
+
+        Year = [2010, 2011, 2012, 2013, 2014, 2015, 2016];
+        PlayerName = ['SR Tendulkar', 'CH Gayle', 'CH Gayle', 'MEK Hussey', 'RV Uthappa', 'DA Warner', 'V Kohli'];
+        TotalRuns = [617, 604, 733, 733, 660, 562, 969];
+        Zeros = [184, 134, 189, 217, 170, 139, 184]
+        Ones = [177, 98, 162, 225, 191, 112, 291]
+        Twos = [36, 9, 15, 38, 30, 29, 56]
+        Threes = [2, 0, 1, 2, 0, 2, 2]
+        Fours = [86, 56, 46, 81, 74, 65, 83]
+        Sixes = [3, 44, 59, 17, 18, 21, 38]
+        BoundaryRuns = [362, 488, 538, 426, 404, 386, 560];
+        Team = ['Mumbai Indians', 'Royal Challengers Bangalore', 'Royal Challengers Bangalore', 'Chennai Super Kings', 'Kolkata Knight Riders', 'Sunrisers Hyderabad', 'Royal Challengers Bangalore'];
+
+        ten_name = ['M Kartik', 'SK Raina', 'T Thushara', 'Joginder Sharma', 'DW Steyn'];
+
+        ten_runs = [36, 34, 26, 25, 24];
+
+        gayle = ['SK Warne', 'PP Chawla', 'P Kumar', 'SL Malinga', 'J Botha',
+            'R Ashwin', 'DJ Bravo', 'SK Raina', 'JH Kallis', 'J Botha'
+        ];
+        gayle_runs = [36, 36, 34, 28, 27, 43, 37, 31, 31, 28];
+
+
+        hus = ['A Chandila', 'IK Pathan', 'I Sharma', 'UT Yadav', 'STR Binny'];
+        hus_run = [34, 30, 28, 28, 28];
+
+        uthappa = ['Mohammed Shami', 'R Bhatia', 'A Mishra', 'SR Watson', 'JP Duminy']
+
+        ut_run = [36, 30, 27, 26, 25];
+
+        warner = ['YK Pathan', 'UT Yadav', 'M Vijay', 'DJ Bravo', 'M Morkel']
+        warner_run = [39, 26, 26, 25, 24];
+
+        kohli = ['Harbhajan Singh', 'AD Russell', 'JJ Bumrah', 'R Bhatia', 'RA Jadeja'];
+        kohli_run = [51, 43, 38, 37, 37]
+
+        // JSON DATA
+
+        console.log(TotalRuns[0])
+
+
+        // Chart 1
+
+        var ctx = document.getElementById('chart').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: PlayerName,
+                datasets: [{
+                    label: PlayerName,
+                    data: Fours,
+                    backgroundColor: [
+                        'rgb(255, 99, 132)',
+                        'rgb(75, 192, 192)',
+                        'rgb(255, 205, 86)',
+                        'rgb(201, 203, 207)',
+                        'rgb(54, 162, 235)',
+                        'rgba(153, 102, 255)',
+                        'rgba(255, 159, 64)',
+                        'rgba(250, 157, 60)'
+                    ],
+                    hoverOffset: 4
+
+                }]
+            }
+        })
+
+        // Chart  2
+
+        var ctx = document.getElementById('chart2').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'polarArea',
+            data: {
+                labels: PlayerName,
+                datasets: [{
+                    label: PlayerName,
+                    data: Sixes,
+                    fill: true,
+                    backgroundColor: [
+                        'rgb(255, 99, 132)',
+                        'rgb(75, 192, 192)',
+                        'rgb(255, 205, 86)',
+                        'rgb(201, 203, 207)',
+                        'rgb(54, 162, 235)',
+                        'rgba(153, 102, 255)',
+                        'rgba(255, 159, 64)',
+                        'rgba(250, 157, 60)'
+                    ],
+                    // backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                    borderColor: 'rgb(255, 99, 132)',
+                    pointBackgroundColor: 'rgb(255, 99, 132)',
+                    pointBorderColor: '#fff',
+                    pointHoverBackgroundColor: '#fff',
+                    pointHoverBorderColor: 'rgb(255, 99, 132)'
+
+                }]
+            }
+        })
+
+
+        // Chart 3
+
+        var ctx = document.getElementById('chart3').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: PlayerName,
+                datasets: [{
+                    label: "Total Runs Scored",
+                    data: TotalRuns,
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                        'rgba(54, 162, 235, 0.2)',
+                        'rgba(255, 206, 86, 0.2)',
+                        'rgba(75, 192, 192, 0.2)',
+                        'rgba(153, 102, 255, 0.2)',
+                        'rgba(255, 159, 64, 0.2)',
+                        'rgba(250, 157, 60, 0.1)'
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(255, 159, 64, 1)',
+                        'rgba(250, 157, 60, 0.1)'
+                    ],
+                    borderWidth: 2.5
+                }]
+            }
+        })
+
+
+        // Chart 4
+
+        var ctx = document.getElementById('chart4').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ten_name,
+                datasets: [{
+                    label: "Sachin Tendulkars' Favorite Scoring Bowlers",
+                    data: ten_runs,
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                        'rgba(54, 162, 235, 0.2)',
+                        'rgba(255, 206, 86, 0.2)',
+                        'rgba(75, 192, 192, 0.2)',
+                        'rgba(153, 102, 255, 0.2)',
+                        'rgba(255, 159, 64, 0.2)',
+                        'rgba(250, 157, 60, 0.1)'
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(255, 159, 64, 1)',
+                        'rgba(250, 157, 60, 0.1)'
+                    ],
+                    borderWidth: 2.5
+                }]
+            }
+        })
+
+
+
+
+        // Chart 5
+        var ctx = document.getElementById('chart5').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: gayle,
+                datasets: [{
+                    label: 'runs scored',
+                    data: gayle_runs,
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                        'rgba(54, 162, 235, 0.2)',
+                        'rgba(255, 206, 86, 0.2)',
+                        'rgba(75, 192, 192, 0.2)',
+                        'rgba(153, 102, 255, 0.2)',
+                        'rgba(255, 159, 64, 0.2)',
+                        'rgba(250, 157, 60, 0.1)'
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(255, 159, 64, 1)',
+                        'rgba(250, 157, 60, 0.1)'
+                    ],
+                    borderWidth: 2.5
+                }]
+            }
+        })
+
+
+        // Chart 6
+
+
+        var ctx = document.getElementById('chart6').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: hus,
+                datasets: [{
+                    label: "Mike Hussey's Favorite Bowlers,against whom he enjoys scoring",
+                    data: hus_run,
+                    backgroundColor: [
+                        'rgb(255, 99, 132)',
+                        'rgb(75, 192, 192)',
+                        'rgb(255, 205, 86)',
+                        'rgb(201, 203, 207)',
+                        'rgb(54, 162, 235)',
+                        'rgba(153, 102, 255)',
+                        'rgba(255, 159, 64)',
+                        'rgba(250, 157, 60)'
+                    ],
+                    hoverOffset: 4
+
+                }]
+            }
+        })
+
+
+
+        // Chart 7
+
+        var ctx = document.getElementById('chart7').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: uthappa,
+                datasets: [{
+                    label: "Robin Uthappa's Favorite Bowlers,against whom he enjoyed scoring",
+                    data: ut_run,
+                    backgroundColor: [
+                        'rgb(255, 99, 132)',
+                        'rgb(75, 192, 192)',
+                        'rgb(255, 205, 86)',
+                        'rgb(201, 203, 207)',
+                        'rgb(54, 162, 235)',
+                        'rgba(153, 102, 255)',
+                        'rgba(255, 159, 64)',
+                        'rgba(250, 157, 60)'
+                    ],
+                    hoverOffset: 4
+
+                }]
+            }
+        })
+
+
+
+
+        // Chart 8
+
+        var ctx = document.getElementById('chart8').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: warner,
+                datasets: [{
+                    label: "David Warner's Favorite Bowlers,against whom he enjoyed scoring",
+                    data: warner_run,
+                    backgroundColor: [
+                        'rgb(255, 99, 132)',
+                        'rgb(75, 192, 192)',
+                        'rgb(255, 205, 86)',
+                        'rgb(201, 203, 207)',
+                        'rgb(54, 162, 235)',
+                        'rgba(153, 102, 255)',
+                        'rgba(255, 159, 64)',
+                        'rgba(250, 157, 60)'
+                    ],
+                    hoverOffset: 4
+
+                }]
+            }
+        })
+
+
+        // Chart 9
+
+        var ctx = document.getElementById('chart9').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: kohli,
+                datasets: [{
+                    label: "Virat Kohli's Favorite Bowlers,against whom he enjoyed scoring",
+                    data: kohli_run,
+                    backgroundColor: [
+                        'rgb(255, 99, 132)',
+                        'rgb(75, 192, 192)',
+                        'rgb(255, 205, 86)',
+                        'rgb(201, 203, 207)',
+                        'rgb(54, 162, 235)',
+                        'rgba(153, 102, 255)',
+                        'rgba(255, 159, 64)',
+                        'rgba(250, 157, 60)'
+                    ],
+                    hoverOffset: 4
+
+                }]
+            }
+        })
+    </script>
+
+
+    {%endblock%}
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js" integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js" integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc" crossorigin="anonymous"></script>
+    -->
+</body>
+
+</html>

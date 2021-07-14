@@ -1,0 +1,72 @@
+{
+  "2010": {
+    "Player": "PP Ojha",
+    "Bowled": 4,
+    "Caught": 12,
+    "Stumped": 4,
+    "LBW": 1,
+    "Caught and Bowled": 0,
+    "Total Wickets": 21,
+    "Team": "Deccan Chargers"
+  },
+  "2011": {
+    "Player": "SL Malinga",
+    "Bowled": 16,
+    "Caught": 10,
+    "Stumped": 0,
+    "LBW": 0,
+    "Caught and Bowled": 2,
+    "Total Wickets": 28,
+    "Team": "Mumbai Indians"
+  },
+  "2012": {
+    "Player": "M Morkel",
+    "Bowled": 6,
+    "Caught": 11,
+    "Stumped": 0,
+    "LBW": 8,
+    "Caught and Bowled": 0,
+    "Total Wickets": 25,
+    "Team": "Delhi Daredevils"
+  },
+  "2013": {
+    "Player": "DJ Bravo_2014",
+    "Bowled": 4,
+    "Caught": 15,
+    "Stumped": 0,
+    "LBW": 1,
+    "Caught and Bowled": 2,
+    "Total Wickets": 22,
+    "Team": "Chennai Super Kings"
+  },
+  "2014": {
+    "Player": "MM Sharma",
+    "Bowled": 8,
+    "Caught": 14,
+    "Stumped": 0,
+    "LBW": 1,
+    "Caught and Bowled": 0,
+    "Total Wickets": 23,
+    "Team": "Chennai Super Kings"
+  },
+  "2015": {
+    "Player": "DJ Bravo_2016",
+    "Bowled": 2,
+    "Caught": 23,
+    "Stumped": 0,
+    "LBW": 0,
+    "Caught and Bowled": 1,
+    "Total Wickets": 26,
+    "Team": "Chennai Super Kings"
+  },
+  "2016": {
+    "Player": "B Kumar",
+    "Bowled": 6,
+    "Caught": 15,
+    "Stumped": 0,
+    "LBW": 1,
+    "Caught and Bowled": 1,
+    "Total Wickets": 23,
+    "Team": "Sunrisers Hyderabad"
+  }
+}

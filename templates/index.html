@@ -7,1023 +7,139 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
 
-    <!-- Bootstrap CSS files -->
-
-    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/bootstrap-extended.min.css">
-    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/fonts/simple-line-icons/style.min.css">
-    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/colors.min.css">
-    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/bootstrap.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-
-    <!-- Chart js -->
-    <!-- datasource -->
-
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datasource@0.1.0"></script>
-
-    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-
-    <script src="http://d3js.org/d3.v3.min.js"></script>
-
-    <!-- Fontawesome -->
-
-    <script src="https://kit.fontawesome.com/043883177b.js" crossorigin="anonymous"></script>
-
-
-
-    <title>CovidTracker 😷</title>
+    <title>Score Predictor</title>
 </head>
 
-<body class = "bg-dark">
+<body>
+
+    <!-- Navbar -->
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">Score Predictor</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/predict">Predict Score</a>
+                    </li>
+                    <ul>
+            </div>
+        </div>
+    </nav>
+
+
+
     <div class="container my-4">
 
-        <!--Cards and Search bar-->
-        <div class="row">
+        <!--Carousel -->
 
-            <div class="col px-4">
-                <h1 style = "text-align:center;font-size:2rem;color:white;font-weight:bold;">Covid Tracker</h1>
+        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
             </div>
-
-
-
-            <div class="col px-3">
-                <!-- Search bar -->
-
-                <form action="/dashboard" method='POST' class="d-flex">
-                    <input class="form-control me-2 state" name="state" type="search" placeholder="Enter the State" aria-label="Search">
-                    <button class="btn btn-outline-success" id="searchstate' type=" submit ">Search</button>
-                </form>
-
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="static/1.jpg" class="d-block w-100" alt="..." width="300px" height="500px">
+                </div>
+                <div class="carousel-item">
+                    <img src="static/4.jpg" class="d-block w-100" alt="..." width="300px" height="500px">
+                </div>
+                <div class="carousel-item">
+                    <img src="static/3.jpg" class="d-block w-100" alt="..." width="300px" height="500px">
+                </div>
             </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+        </div>
 
-
-           
-
-                <!-- Cards -->
-
-            {%if showcards%}
-            <div class=" grey-bg container-fluid my-4 ">
-                    <section id=" minimal-statistics ">
-                        <div class=" row ">
-                            <div class=" col-xl-3 col-sm-6 col-12 ">
-                                <div class=" card ">
-                                    <div class=" card-content ">
-                                        <div class=" card-body ">
-                                            <div class=" media d-flex ">
-                                                <div class=" align-self-center ">
-                                                    <i class=" icon-graph primary font-large-2 float-left "></i>
-                                                </div>
-                                                <div class=" media-body text-right ">
-                                                    <span class='statename'>Total Active Cases</span>
-                                                    <h3 class='active'>{{active}}</h3>
-                                                 </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class=" col-xl-3 col-sm-6 col-12 ">
-                                <div class=" card ">
-                                    <div class=" card-content ">
-                                        <div class=" card-body ">
-                                            <div class=" media d-flex ">
-                                                <div class=" align-self-center ">
-                                                    <i class=" icon-graph success font-large-2 float-left "></i>
-                                                </div>
-                                                <div class=" media-body text-right ">
-                                                    <span class='confirmedstate'>Total Confirmed Cases</span>
-                                                    <h3 class=" confirmed ">{{confirmed}}</h3>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class=" col-xl-3 col-sm-6 col-12 ">
-                                <div class=" card ">
-                                    <div class=" card-content ">
-                                        <div class=" card-body ">
-                                            <div class=" media d-flex ">
-                                                <div class=" align-self-center ">
-                                                    <i class=" icon-graph success font-large-2 float-left "></i>
-                                                </div>
-                                                <div class=" media-body text-right ">
-                                                    <span class='recoveredstate'>Total Recovered Cases</span>
-                                                    <h3 class=" recovered ">{{recovered}}</h3>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class=" col-xl-3 col-sm-6 col-12 ">
-                                <div class=" card ">
-                                    <div class=" card-content ">
-                                        <div class=" card-body ">
-                                            <div class=" media d-flex ">
-                                                <div class=" align-self-center ">
-                                                    <i class=" icon-graph danger font-large-2 float-left "></i>
-                                                </div>
-                                                <div class=" media-body text-right ">
-                                                    <span class='deathstate'>Total Death Cases</span>
-                                                    <h3 class=" deaths ">{{deaths}}</h3>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                    </section>
-               </div>
-            {%else%}
-                <!--Rules and Regulations-->
-                <div class = "row">
-                    <div class = "col-md-12">
-                        <div class="alert alert-success my-4 text-center"role="alert">
-                            <h4 class="alert-heading">Welcome To Covid Dashboard</h4>
-                            <p>Get all the information related to Covid-19 at Covid Tracker,simple rules to check it up,inorder to view the dashboard,one has to ensure that the grammar and the spell of the state is correct,as covid tracker uses sensitive information from other Api's,so a user can type the name of the "State" in the Search menu and hit the search button to get the results,A demo is displayed below ↓</p>
-                            <hr>
-                        </div>
-                    </div>
+        <!-- Alert-1 -->
+        <div class="container my-4">
+            <div class="alert alert-info" role="alert">
+                <h4 class="alert-heading" style="text-align: center;">Predict Score for the First Innings</h4>
+                <p>Welcome to the ScorePredictor,one can get the predicted score for the First Innings here,by clicking the "Predict Score" button,or by clicking the "Predict Score" present in the navigation bar,based on the Current Runs,Current Wickets,Current
+                    Overs,one can get to know the Predicted Score for the First Innings,and get some small insights,This is just a Predictor Model which is trained using Machine Learning Algorithm,For predicting the First Innings score,click on the "Predict
+                    Score"
+                </p>
+                <hr>
+                <div class="col-md-12 text-center my-3">
+                    <a href="/predict"><button id="singlebutton" name="singlebutton" class="btn btn-primary">Predict Score</button></a>
                 </div>
-                <div class="row my-2">
-                     
-                     <div class = "col-md-8">
-                        <div class="alert alert-success text-center"role="alert">
-                                <h4 class="alert-heading">A walkthrough to use Covid Tracker Dashboard</h4>
-                                <p>A demo is illustrated on how we can search for the states using the Search bar,the user has to simply select the state/Union Territory which the user is intrested in and then simply copy and paste the name of the state from the state list to the search bar and then hit search the dashboard regarding the particular state selected will show up and the user can view all the statistics and information about the State,given below are the list of states and union territories which the user can take reference of.</p>
-                                <hr>
-                        </div>
+            </div>
+        </div>
 
-                    </div>
 
-                    <div class = "col-md-4">
-                        <img src = "/static/images/dummy.gif" height = "250px" width = "400px" alt = "dummy">
-                    </div>
+
+        <!-- Alert with a text -->
+
+        <div class="container my-4">
+            <div class="alert alert-info" role="alert">
+                <h4 class="alert-heading" style="text-align: center;">Dashboard</h4>
+                <p>Welcome to the IPL dashboard,here we showcase the stats of the bestperforming players as per the last 6 seasons,Select which kind of Visuals you wanna choose and hit Go to Dashboard,all the visuals will be visible,by selecting Orange Cap,Visuals
+                    of all the Top Performing Batsmen from the season 2010-2016 will be displayed and,if one selects the PurpleCap Visuals,then all the Visuals of the Top Performing bowlers' during the 2010-2016 seasons will be displayed. of that season.</p>
+                <hr>
+                <p class="mb-0" style="text-align:center;">Select the Type of Cap Visualise,heres' the form of selection,after selection,click on view dashboard</p>
+            </div>
+        </div>
+
+
+        <!-- Form -->
+
+        <div class="container my-4">
+
+            <form action="/" method="POST">
+
+                <!-- Purple/Orange -->
+                <div class="form-group my-3">
+                    <h5 for="cap" style="text-align: center;">PurpleCap or OrangeCap</h5>
+                    <select class="form-control custom-select" name="cap" id="cap">
+                        <option value="None">Select Cap</option>
+                        <option value="OrangeCap">OrangeCap</option>
+                        <option value="PurpleCap">PurpleCap</option>
+                    </select>
                 </div>
-                <div class = "row">
-                    <div class = "col-md-12">
-                        <div class="alert alert-success text-center"role="alert">
-                                <h4 class="alert-heading">The List of States and Union Territories</h4>
-                                <p>[Maharashtra, Karnataka, Kerala, Tamil Nadu,Andhra Pradesh,Uttar Pradesh, West Bengal, Delhi, Chhattisgarh,Rajasthan, Odisha, Gujarat, Madhya Pradesh, Haryana, Bihar, Telangana, Punjab, ', Jharkhand, Uttarakhand, Jammu and Kashmir, Himachal Pradesh, Goa, Puducherry, Chandigarh, Tripura, Manipur, Meghalaya, Arunachal Pradesh, Nagaland, Ladakh, Sikkim, Mizoram, Dadra and Nagar Haveli and Daman and Diu, Lakshadweep, Andaman and Nicobar Islands]</p>
-                                <hr>
-                            </div>
-                    </div>
-                </div>
-            {%endif%}
 
-            
+                <!-- Go to dashboard -->
+
+                <div class="col-md-12 text-center my-3">
+                    <button id="singlebutton" name="singlebutton" class="btn btn-primary">Go To Dashboard</button>
+                </div>
 
 
         </div>
-                
-
-
-            
-
-        <!-- Charts -->
-        <div class="row">
-
-            <!-- Rice -->
-
-            {% if showchart %}
-                     
-                    <div class = 'heading my-2'>
-                       <h5 style = "text-align:center;font-size:2rem;color:white;font-weight:bold">Corona Virus Case Details Accross States of India</h5>
-                   </div>
-
-                    <div class="col-md-4 col-sm-6">
-                            <div class="chart-container my-3">
-                             <label for="banana" style="text-align:center;font-size:1.3rem;color:white;font-weight: bold;">Active Cases in {{state[0]}} vs States having most Active Cases</label>
-                                <canvas height="300" width="300" id="chart"></canvas>
-                            </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="chart-container my-3">
-                         <label for="banana" style="text-align:center;font-size:1.3rem;font-weight: bold;color:white;">Confirmed Cases in {{state[0]}} vs States having most Confirmed Cases</label>
-                             <canvas height="300" width="300" id="chartnew"></canvas>
-                        </div>
-                                
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="chart-container my-3">
-                         <label for="banana" style="text-align:center;font-size:1.3rem;font-weight: bold;color:white;">Recovered Cases in {{state[0]}} vs States having most Recovered Cases</label>
-                             <canvas height="300" width="300" id="chartnew1"></canvas>
-                        </div>
-                                
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="chart-container my-3">
-                         <label for="banana" style="text-align:center;font-size:1.3rem;font-weight: bold;color:white;">Death Cases in {{state[0]}} vs States having most Death Cases</label>
-                             <canvas height="300" width="300" id="chartnew2"></canvas>
-                        </div>
-                                
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="chart-container my-3">
-                         <label for="banana" style="text-align:center;font-size:1.3rem;font-weight: bold;color:white;">Comparision of {{state[0]}} with top infected states</label>
-                             <canvas height="300" width="300" id="chartnew3"></canvas>
-                        </div>
-                                
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="chart-container my-3">
-                         <label for="banana" style="text-align:center;font-size:1.3rem;font-weight: bold;color:white;">Comparision of {{state[0]}} with top infected states</label>
-                             <canvas height="300" width="300" id="chartnew4"></canvas>
-                        </div>
-                                
-                    </div>
-
-                <br>
-
-                    
-                            
-            {%endif%}
-            
-            {%if isrecovery%}
-                <div class = 'heading my-3'>
-                    <h5 style = "text-align:center;font-size:2rem;color:white;font-weight:bold">India VS Top Infected Countries from Corona Virus</h5>
-                </div>
-                <div class = "col-md-6">
-                            <div class="chart-container my-3">
-                                <label for="banana" style="text-align:center;font-size:1.3rem;color:white;font-weight: bold;">Recovery Rates of States across India</label>
-                                    <canvas  id="chartnew5"></canvas>
-                            </div> 
-                </div>
-                <div class = "col-md-6">
-                            <div class="chart-container my-3">
-                                <label for="banana" style="text-align:center;font-size:1.3rem;color:white;font-weight: bold;">Recovery Rates of Most Infected Countries</label>
-                                    <canvas id="chartnew6"></canvas>
-                            </div> 
-                </div>
-
-                <div class = "col-md-12">
-                            <div class="chart-container my-3">
-                                <label for="banana" style="text-align:center;font-size:1.3rem;color:white;font-weight: bold;">Trend Of Cases Across the Globe</label>
-                                    <canvas id="chartnew7"></canvas>
-                            </div> 
-                </div>
-
-                
-                
-
-            {%endif%}
-
-            
-            
-
-        
 
 
 
     </div>
 
-    <!--Home page-->
-             <div class="col-sm">
-                            <div class="col-md-12 text-center my-4 mx-2">
-                                <a href="/"><button class="btn btn-outline-success" type="submit">Go Back</button></a>
-                            </div>
-            </div>
 
-     <!-- Footer -->
 
-        <footer class="py-3 text-center text-light bg-dark ">Copyright &copy;CovidTracker😷
-            <div class="cbl-md-4 smed ">
 
-                <!-- Facebook -->
+    <!-- Optional JavaScript; choose one of the two! -->
 
-                <a href="https://www.facebook.com/profile.php?id=100009392247236 " target="_blank "><i
-                            class="fab fa-facebook-square "></i></a>
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
 
-                <!-- Instagram -->
-
-                <a href="https://www.instagram.com/mv_1249/ " target="_blank "><i class="fab fa-instagram "
-                            target="_blank "></i></a>
-
-                <!-- Linkedin -->
-
-                <a href="https://www.linkedin.com/in/meet-vardoriya-9aab711a3/ " target="_blank "><i
-                            class="fab fa-linkedin "></i></a>
-
-                <!-- Github -->
-
-
-                <a href="https://github.com/mv1249 " target="_blank "><i class="fab fa-github "></i></a>
-
-                <!-- Portfolio -->
-                <a href="https://mvsportfolio.herokuapp.com/ " target="_blank "><i class="fab fa-chrome "></i></a>
-
-
-
-            </div>
-        </footer>
-
-
-
-
-    {%block script%}
-    <script type=" text/javascript ">
-            
-            window.onload = ()=>{
-                        var activemap = {{activemap|safe}}
-                        var confirmedmap = {{confirmedmap|safe}}
-                        var recoveredmap = {{recoveredmap|safe}}
-                        var deathsmap = {{deathsmap|safe}}
-                        var stateslist = {{stateslist|safe}}
-                        var datetosend = {{datetosend|safe}}
-                        var state = {{state|safe}}
-                        var particularstateactive = {{active|safe}}
-                        var particularstateconfirmed = {{confirmed|safe}}
-                        var particularstaterecovered = {{recovered|safe}}
-                        var particularstatedeaths = {{deaths|safe}}
-                        var recoveryrate = {{recoveryrate|safe}};
-
-                        var countrylist = {{countrylist|safe}};
-                        var globalconfirmedcases = {{globalconfirmedcases|safe}};
-                        var globalrecoveredcases = {{globalrecoveredcases|safe}};
-                        var globaldeathcases = {{globaldeathcases|safe}};
-                        var globalrecoverylist = {{globalrecoverylist|safe}};
-
-                       
-    
-
-                        
-                        // comparing the current state values with top 5 effected states!
-
-                        activemap1 = activemap.slice(0,5)
-                        confirmedmap1 = confirmedmap.slice(0,5)
-                        recoveredmap1 = recoveredmap.slice(0,5)
-                        deathmap1 = deathsmap.slice(0,5)
-                        stateslist1 = stateslist.slice(0,5)
-                        
-                        // if the state is already in the top 5 list,then why to append?,
-                        // for that reason these are the checks!
-
-
-                        var check = 0
-                        for (var i = 0; i <stateslist1.length; i++){
-                            console.log(stateslist1[i])
-                            if (state[0].toLowerCase()==stateslist1[i]){check = 1;break;}
-                        }
-                        if(!check){
-                            activemap1.push(particularstateactive)
-                            confirmedmap1.push(particularstateconfirmed)
-                            recoveredmap1.push(particularstaterecovered)
-                            deathmap1.push(particularstatedeaths)
-                            stateslist1.push(state)
-                        }else{
-                            activemap1 = activemap.slice(0,5)
-                            confirmedmap1 = confirmedmap.slice(0,5)
-                            recoveredmap1 = recoveredmap.slice(0,5)
-                            deathmap1 = deathsmap.slice(0,5)
-                            stateslist1 = stateslist.slice(0,5)
-                        }
-                        //console.log(check)
-                    
-                        
-
-                        datetosend = new Date(datetosend).toDateString().split(' ');
-                        datetosend = datetosend.slice(1,datetosend.length).join(' ');
-                        //console.log(datetosend)
-
-                        document.querySelector('.statename').innerHTML+=' '+'as of'+' '+datetosend+' '+'in'+' '+state[0];
-                        document.querySelector('.confirmedstate').innerHTML+=' '+'as of'+' '+datetosend+' '+'in'+' '+state[0];
-                        document.querySelector('.recoveredstate').innerHTML+=' '+'as of'+' '+datetosend+' '+'in'+' '+state[0];
-                        document.querySelector('.deathstate').innerHTML+=' '+'as of'+' '+datetosend+' '+'in'+' '+state[0];
-
-
-                        //console.log(confirmedmap.slice(0,5))
-
-                        // Chart1
-
-
-                        var ctx = document.getElementById('chart').getContext('2d');
-                        var myChart = new Chart(ctx, {
-                            type: 'doughnut',
-                            data: {
-                                labels:stateslist1,
-                                datasets: [{
-                                    labels:stateslist1,
-                                    data: activemap1,
-                                    backgroundColor: [
-                                    'rgb(255, 99, 132)',
-                                    'rgb(75, 192, 192)',
-                                    'rgb(255, 205, 86)',
-                                    'rgb(201, 203, 207)',
-                                    'rgb(54, 162, 235)',
-                                    'rgba(153, 102, 255)',
-                                    'rgba(255, 159, 64)',
-                                    'rgba(250, 157, 60)'
-                                    ],
-                                    hoverOffset: 4
-
-                                }]
-                            },
-                             options: { 
-                                    legend: {
-                                        labels: {
-                                            fontColor: "white",
-                                            fontSize: 15
-                                        }
-                                    },
-                            }
-                        })
-
-                        //Chart2
-
-                        var ctx = document.getElementById('chartnew').getContext('2d');
-                        var myChart = new Chart(ctx, {
-                            type: 'doughnut',
-                            data: {
-                                labels: stateslist1,
-                                datasets: [{
-                                    label:stateslist1,
-                                    data: confirmedmap1,
-                                    backgroundColor: [
-                                        'rgb(255, 99, 132)',
-                                        'rgb(75, 192, 192)',
-                                        'rgb(255, 205, 86)',
-                                        'rgb(201, 203, 207)',
-                                        'rgb(54, 162, 235)',
-                                        'rgba(153, 102, 255)',
-                                        'rgba(255, 159, 64)',
-                                        'rgba(250, 157, 60)'
-                                        
-                                    ],
-                                    hoverOffset: 4
-
-                                }]
-                            },
-                            options: { 
-                                    legend: {
-                                        labels: {
-                                            fontColor: "white",
-                                            fontSize: 15
-                                        }
-                                    },
-                            }
-                        })
-
-
-                        //Chart3
-
-                        var ctx = document.getElementById('chartnew1').getContext('2d');
-                        var myChart = new Chart(ctx, {
-                            type: 'doughnut',
-                            data: {
-                                labels: stateslist1,
-                                datasets: [{
-                                    label:stateslist1,
-                                    data: recoveredmap1,
-                                    backgroundColor: [
-                                        'rgb(255, 99, 132)',
-                                        'rgb(75, 192, 192)',
-                                        'rgb(255, 205, 86)',
-                                        'rgb(201, 203, 207)',
-                                        'rgb(54, 162, 235)',
-                                        'rgba(153, 102, 255)',
-                                        'rgba(255, 159, 64)',
-                                        'rgba(250, 157, 60)'
-                                        
-                                    ],
-                                    hoverOffset: 4
-
-                                }]
-                            },
-                            options: { 
-                                    legend: {
-                                        labels: {
-                                            fontColor: "white",
-                                            fontSize: 15
-                                        }
-                                    },
-                            }
-                        })
-
-                        //Chart4
-
-                        var ctx = document.getElementById('chartnew2').getContext('2d');
-                        var myChart = new Chart(ctx, {
-                            type: 'doughnut',
-                            data: {
-                                labels: stateslist1,
-                                datasets: [{
-                                    label:stateslist1,
-                                    data: deathmap1,
-                                    backgroundColor: [
-                                        'rgb(255, 99, 132)',
-                                        'rgb(75, 192, 192)',
-                                        'rgb(255, 205, 86)',
-                                        'rgb(201, 203, 207)',
-                                        'rgb(54, 162, 235)',
-                                        'rgba(153, 102, 255)',
-                                        'rgba(255, 159, 64)',
-                                        'rgba(250, 157, 60)'
-                                        
-                                    ],
-                                    hoverOffset: 4
-
-                                }]
-                            },
-                            options: { 
-                                    legend: {
-                                        labels: {
-                                            fontColor: "white",
-                                            fontSize: 15
-                                        }
-                                    },
-                            }
-                        })
-
-                        // Chart 5
-
-                        var ctx = document.getElementById('chartnew3').getContext('2d');
-                        var myChart = new Chart(ctx, {
-                            type: 'line',
-                            data: {
-                                labels: stateslist1,
-                                datasets: [
-                                    {
-                                        label: 'RecoveredCases',
-                                        data: recoveredmap1,
-                                        backgroundColor: [
-                                            'rgb(255, 99, 132)',
-                                            'rgb(75, 192, 192)',
-                                            'rgb(255, 205, 86)',
-                                            'rgb(201, 203, 207)',
-                                            'rgb(54, 162, 235)',
-                                            'rgba(153, 102, 255)',
-                                            'rgba(255, 159, 64)',
-                                            'rgba(250, 157, 60)'
-                                        
-                                          ],
-                                    },
-                                    {
-                                    label: 'ConfirmedCases',
-                                    data: confirmedmap1,
-                                    backgroundColor: [
-                                            'rgb(255, 99, 132)',
-                                            'rgb(75, 192, 192)',
-                                            'rgb(255, 205, 86)',
-                                            'rgb(201, 203, 207)',
-                                            'rgb(54, 162, 235)',
-                                            'rgba(153, 102, 255)',
-                                            'rgba(255, 159, 64)',
-                                            'rgba(250, 157, 60)'
-                                        
-                                          ],
-                                    },
-
-                                    {
-                                    label: 'DeathCases',
-                                    data: deathmap1,
-                                    backgroundColor: [
-                                             'rgb(255, 59, 182)',
-                                            'rgb(175, 40, 192)',
-                                            'rgb(155, 210, 66)',
-                                            'rgb(101, 200, 127)',
-                                            'rgb(154, 110, 245)',
-                                            'rgba(53, 100, 165)',
-                                            'rgba(55, 153, 84)',
-                                            'rgba(50, 154, 69)'
-                                        
-                                        
-                                          ],
-                                    }
-                                ]
-
-                                
-                            },
-                            options: { 
-                                    legend: {
-                                        labels: {
-                                            fontColor: "white",
-                                            fontSize: 15
-                                        }
-                                    },
-                                    scales: {
-                                            xAxes: [{ 
-                                                gridLines: {
-                                                    display: false,
-                                                },
-                                                ticks: {
-                                                fontColor: "#CCC",
-                                                fontSize:15,
-                                                },
-                                            }],
-                                            yAxes: [{
-                                                gridLines: {
-                                                    display: false,
-                                                },
-                                                ticks: {
-                                                fontColor: "#CCC",
-                                                fontSize:15,
-                                                },
-                                            }],
-                                    }
-                            }
-                            
-                        })
-
-
-                        // Chart 6
-
-                        var ctx = document.getElementById('chartnew4').getContext('2d');
-                        var myChart = new Chart(ctx, {
-                            type: 'bar',
-                            data: {
-                                labels: stateslist1,
-                                datasets: [
-                                    {
-                                        label: 'RecoveredCases',
-                                        data: recoveredmap1,
-                                        backgroundColor: [
-                                            'rgb(7,238,238,1)',
-                                            'rgb(7,238,238,1)',
-                                            'rgb(7,238,238,1)',
-                                            'rgb(7,238,238,1)',
-                                            'rgb(7,238,238,1)',
-                                            'rgb(7,238,238,1)',
-                                          ],
-                                    },
-                                    {
-                                    label: 'ConfirmedCases',
-                                    data: confirmedmap1,
-                                    backgroundColor: [
-                                            'rgb(13,142,256)',
-                                            'rgb(13,142,256)',
-                                            'rgb(13,142,256)',
-                                            'rgb(13,142,256)',
-                                            'rgb(13,142,256)',
-                                            'rgb(13,142,256)',
-                                          ],
-                                    },
-
-                                    {
-                                    label: 'DeathCases',
-                                    data: deathmap1,
-                                    backgroundColor: [
-                                             'rgb(250, 64, 103)',
-                                             'rgb(250, 64, 103)',
-                                             'rgb(250, 64, 103)',
-                                             'rgb(250, 64, 103)',
-                                             'rgb(250, 64, 103)',
-                                             'rgb(250, 64, 103)',
-                                                                
-                                          ],
-                                    }
-                                ]
-
-                                
-                            },
-                            options: {
-                                plugins: {
-                                        title: {
-                                            display: true,
-                                            text: 'Chart.js Bar Chart - Stacked'
-                                                },
-                                        },
-                                        responsive: true,
-                                        scales: {
-                                        x: {
-                                            stacked: true,
-                                            fontColor: "white"
-                                        },
-                                        y: {
-                                            stacked: true,
-                                            fontColor:"white"
-                                        },
-                                        legend: {
-                                            labels: {
-                                                fontColor: "white",
-                                                fontSize: 15
-                                            }
-                                        },
-                            
-                                },
-                                scales: {
-                                            xAxes: [{ 
-                                                gridLines: {
-                                                    display: false,
-                                                },
-                                                ticks: {
-                                                fontColor: "#CCC",
-                                                fontSize:15,
-                                                },
-                                            }],
-                                            yAxes: [{
-                                                gridLines: {
-                                                    display: false,
-                                                },
-                                                ticks: {
-                                                fontColor: "#CCC",
-                                                fontSize:15,
-                                                },
-                                            }],
-                                    }
-                            }
-                    })
-
-
-                        //Chart 7 Recovery Rate == TotalRecoveredCases/TotalConfirmedCases * 100
-
-                        var ctx = document.getElementById('chartnew5').getContext('2d');
-                        var myChart = new Chart(ctx, {
-                            type: 'line',
-                            data: {
-                                labels: stateslist,
-                                datasets: [{
-                                    label: "Recovery Rate",
-                                    data: recoveryrate,
-                                    backgroundColor: [
-                                        'rgba(255, 99, 132, 0.2)',
-                                        'rgba(54, 162, 235, 0.2)',
-                                        'rgba(255, 206, 86, 0.2)',
-                                        'rgba(75, 192, 192, 0.2)',
-                                        'rgba(153, 102, 255, 0.2)',
-                                        'rgba(255, 159, 64, 0.2)',
-                                        'rgba(250, 157, 60, 0.1)',
-                                        'rgba(250, 157, 62, 0.6)',
-                                        'rgba(250, 157, 50, 0.4)',
-                                        'rgba(250, 157, 40, 0.5)',
-                                        'rgba(250, 157, 10, 0.2)',
-                                        'rgba(250, 157, 30, 0.3)',
-                                    ],
-                                    borderColor: [
-                                        'rgba(255, 99, 132, 1)',
-                                        'rgba(54, 162, 235, 1)',
-                                        'rgba(255, 206, 86, 1)',
-                                        'rgba(75, 192, 192, 1)',
-                                        'rgba(153, 102, 255, 1)',
-                                        'rgba(255, 159, 64, 1)',
-                                        'rgba(250, 157, 60, 0.1)'
-                                    ],
-                                    borderWidth: 2.5
-                                }]
-                            },
-                            options: { 
-                                    legend: {
-                                        labels: {
-                                            fontColor: "white",
-                                            fontSize: 15
-                                        }
-                                    },
-                                    scales: {
-                                            xAxes: [{ 
-                                                gridLines: {
-                                                    display: false,
-                                                },
-                                                ticks: {
-                                                fontColor: "#CCC",
-                                                fontSize:15,
-                                                },
-                                            }],
-                                            yAxes: [{
-                                                gridLines: {
-                                                    display: false,
-                                                },
-                                                ticks: {
-                                                fontColor: "#CCC",
-                                                fontSize:15,
-                                                },
-                                            }],
-                                    }
-                            }
-                        })
-
-
-                        // Chart 8 India VS Global on Recovery Rate!
-
-                        var ctx = document.getElementById('chartnew6').getContext('2d');
-                        var myChart = new Chart(ctx, {
-                            type: 'line',
-                            data: {
-                                labels: countrylist,
-                                datasets: [{
-                                    label: "Recovery Rate",
-                                    data: globalrecoverylist,
-                                    backgroundColor: [
-                                        'rgba(255, 99, 132, 0.2)',
-                                        'rgba(54, 162, 235, 0.2)',
-                                        'rgba(255, 206, 86, 0.2)',
-                                        'rgba(75, 192, 192, 0.2)',
-                                        'rgba(153, 102, 255, 0.2)',
-                                        'rgba(255, 159, 64, 0.2)',
-                                        'rgba(250, 157, 60, 0.1)',
-                                        'rgba(250, 157, 62, 0.6)',
-                                        'rgba(250, 157, 50, 0.4)',
-                                        'rgba(250, 157, 40, 0.5)',
-                                        'rgba(250, 157, 10, 0.2)',
-                                        'rgba(250, 157, 30, 0.3)',
-                                    ],
-                                    borderColor: [
-                                        'rgba(255, 99, 132, 1)',
-                                        'rgba(54, 162, 235, 1)',
-                                        'rgba(255, 206, 86, 1)',
-                                        'rgba(75, 192, 192, 1)',
-                                        'rgba(153, 102, 255, 1)',
-                                        'rgba(255, 159, 64, 1)',
-                                        'rgba(250, 157, 60, 0.1)'
-                                    ],
-                                    borderWidth: 2.5
-                                }]
-                            },
-                            options: {
-                                legend: {
-                                        labels: {
-                                            fontColor: "white",
-                                            fontSize: 15
-                                        }
-                                    },
-                                scales: {
-                                            xAxes: [{ 
-                                                gridLines: {
-                                                    display: false,
-                                                },
-                                                ticks: {
-                                                fontColor: "#CCC",
-                                                fontSize:15,
-                                                },
-                                            }],
-                                            yAxes: [{
-                                                gridLines: {
-                                                    display: false,
-                                                },
-                                                ticks: {
-                                                fontColor: "#CCC",
-                                                fontSize:15,
-                                                },
-                                            }],
-                                    }
-                            }
-                        })
-
-                        //Chart 9 Global Trends.
-
-                        var ctx = document.getElementById('chartnew7').getContext('2d');
-                        var myChart = new Chart(ctx, {
-                            type: 'line',
-                            data: {
-                                labels: countrylist,
-                                datasets: [
-                                    {
-                                        label: "Confirmed Cases",
-                                        data: globalconfirmedcases,
-                                        backgroundColor: [
-                                            'rgba(255, 99, 132, 0.2)',
-                                            'rgba(54, 162, 235, 0.2)',
-                                            'rgba(255, 206, 86, 0.2)',
-                                            'rgba(75, 192, 192, 0.2)',
-                                            'rgba(153, 102, 255, 0.2)',
-                                            'rgba(255, 159, 64, 0.2)',
-                                            'rgba(250, 157, 60, 0.1)',
-                                            'rgba(250, 157, 62, 0.6)',
-                                            'rgba(250, 157, 50, 0.4)',
-                                            'rgba(250, 157, 40, 0.5)',
-                                            'rgba(250, 157, 10, 0.2)',
-                                            'rgba(250, 157, 30, 0.3)',
-                                        ],
-                                        borderColor: [
-                                            'rgba(255, 99, 132, 1)',
-                                            'rgba(54, 162, 235, 1)',
-                                            'rgba(255, 206, 86, 1)',
-                                            'rgba(75, 192, 192, 1)',
-                                            'rgba(153, 102, 255, 1)',
-                                            'rgba(255, 159, 64, 1)',
-                                            'rgba(250, 157, 60, 0.1)'
-                                        ],
-                                        borderWidth: 2.5
-                                    },
-                                    {
-                                        label:"Recovered Cases",
-                                        data:globalrecoveredcases,
-                                        backgroundColor: [
-                                            'rgba(250,162,251,0.5)',
-                                            'rgba(194,246,170,0.5)',
-                                            'rgba(140,173,171,0.5)',
-                                            'rgba(124,252,130,0.5)',
-                                            'rgba(175,219,242,0.5)',
-                                            'rgba(168,105,142,0.5)',
-                                            'rgba(171,235,204,0.5)',
-                                            'rgba(158,165,229,0.5)',
-                                            'rgba(226,214,117,0.5)',
-                                            'rgba(157,128,220,0.5)',
-                                        ],
-                                        borderColor: [
-                                            'rgba(250,162,251,0.5)',
-                                            'rgba(194,246,170,0.5)',
-                                            'rgba(140,173,171,0.5)',
-                                            'rgba(124,252,130,0.5)',
-                                            'rgba(175,219,242,0.5)',
-                                            'rgba(168,105,142,0.5)',
-                                            'rgba(171,235,204,0.5)',
-                                            'rgba(158,165,229,0.5)',
-                                            'rgba(226,214,117,0.5)',
-                                            'rgba(157,128,220,0.5)',
-                                        ],
-                                        borderWidth: 2.5
-                                    },
-                                    {
-                                        label:"Death Cases",
-                                        data:globaldeathcases,
-                                        backgroundColor: [
-                                            'rgba(152,132,194,0.5)',
-                                            'rgba(187,148,145,0.5)',
-                                            'rgba(135,117,154,0.5)',
-                                            'rgba(196,219,195,0.5)',
-                                            'rgba(204,107,231,0.5)',
-                                            'rgba(157,124,205,0.5)',
-                                            'rgba(180,148,189,0.5)',
-                                            'rgba(132,232,147,0.5)',
-                                            'rgba(151,178,246,0.5)',
-                                            'rgba(127,146,115,0.5)',
-                                            'rgba(161,216,216,0.5)',
-                                        ],
-                                        borderColor: [
-                                            'rgba(152,132,194,0.5)',
-                                            'rgba(187,148,145,0.5)',
-                                            'rgba(135,117,154,0.5)',
-                                            'rgba(196,219,195,0.5)',
-                                            'rgba(204,107,231,0.5)',
-                                            'rgba(157,124,205,0.5)',
-                                            'rgba(180,148,189,0.5)',
-                                            'rgba(132,232,147,0.5)',
-                                            'rgba(151,178,246,0.5)',
-                                            'rgba(127,146,115,0.5)',
-                                            'rgba(161,216,216,0.5)',
-                                        ],
-                                        borderWidth: 2.5
-                                    }
-
-                                ]
-                            },
-                            options: {
-                                legend: {
-                                        labels: {
-                                            fontColor: "white",
-                                            fontSize: 15
-                                        }
-                                    },
-                                    scales: {
-                                            xAxes: [{ 
-                                                gridLines: {
-                                                    display: false,
-                                                },
-                                                ticks: {
-                                                fontColor: "#CCC",
-                                                fontSize:15,
-                                                },
-                                            }],
-                                            yAxes: [{
-                                                gridLines: {
-                                                    display: false,
-                                                },
-                                                ticks: {
-                                                fontColor: "#CCC",
-                                                fontSize:15,
-                                                },
-                                            }],
-                                    }
-                            }
-                        
-                    })
-
-
-                   
-                  
-
-                                    
-                    
-                
-                
-                }
-
-
-                 
-
-
-
-
-
-
-            </script>
-        {%endblock%}
-
-        <!-- Optional JavaScript; choose one of the two! -->
-
-        <!-- Option 1: Bootstrap Bundle with Popper -->
-        <script src=" https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js "
-            integrity=" sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4 "
-            crossorigin=" anonymous "></script>
-
-        <!-- Option 2: Separate Popper and Bootstrap JS -->
-        <!--
-    <script src=" https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js " integrity=" sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p " crossorigin=" anonymous "></script>
-    <script src=" https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js " integrity=" sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT " crossorigin=" anonymous "></script>
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js" integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js" integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc" crossorigin="anonymous"></script>
     -->
-    </body>
+</body>
 
 </html>
