@@ -1,6 +1,6 @@
  ## Terrorist Attack Prediction
  
- ![is-it-going-to-end-soon](https://github.com/23-24/ML-ProjectKart/blob/23-24-patch-1/Terrorist%20attack%20prediction/Images/is-it-going-to-end-soon.jpg)
+ ![is-it-going-to-end-soon](https://github.com/23-24/ML-ProjectKart/blob/23-24-patch-1/Terrorist%20Attack%20Prediction/Images/is-it-going-to-end-soon.jpg)
 
 This modal analyses terrorist attack dataset to findout cities ,regions that are prone to attacks . Earlier prediction on Increased rate of  attack at a region provides sufficient time and efficiency in taking measurements against them.
 
@@ -57,15 +57,15 @@ This modal analyses terrorist attack dataset to findout cities ,regions that are
  
  ### Region with higher Assassination attack rate
  
- ![im2.png](https://github.com/23-24/ML-ProjectKart/blob/23-24-patch-1/Terrorist%20attack%20prediction/Images/im2.PNG)
+ ![im2.png](https://github.com/23-24/ML-ProjectKart/blob/23-24-patch-1/Terrorist%20Attack%20Prediction/Images/im2.PNG)
  
  ### Country with higher Assassination attack rate
  
- ![im3.png](https://github.com/23-24/ML-ProjectKart/blob/23-24-patch-1/Terrorist%20attack%20prediction/Images/im3.PNG)
+ ![im1.png](https://github.com/23-24/ML-ProjectKart/blob/23-24-patch-1/Terrorist%20Attack%20Prediction/Images/img1.PNG)
  
  ### Month with higher Assassination rate
  
- ![im1.png](https://github.com/23-24/ML-ProjectKart/blob/23-24-patch-1/Terrorist%20attack%20prediction/Images/img1.PNG)
+ ![im3.png](https://github.com/23-24/ML-ProjectKart/blob/23-24-patch-1/Terrorist%20Attack%20Prediction/Images/im3.PNG)
  
  ## ATTRIBUTES FROM DATASET FOR PREDICTION
 - eventid	
