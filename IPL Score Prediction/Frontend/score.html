@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>IPL</title>
+    <link rel="shortcut icon" href="../static/ipl-favicon.ico">
+
+    <script src="https://kit.fontawesome.com/5f3f547070.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+    <style>
+        html {
+            height: 100%;
+            margin: 0;
+        }
+
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            height: 100%;
+            margin: 0;
+            
+            background-position: fixed;
+            background-repeat: no-repeat;
+            background-size: 100% 91%;
+            background-attachment: fixed;
+    background-color:	#2E8B57;
+        }
+
+        /* Website Title */
+        .container {
+            color: #000000;
+            padding: 20px;
+            display: block;
+            text-align: center;
+        }
+
+        .container-heading {
+            margin: 0;
+        }
+
+        .heading_first {
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 100;
+        }
+
+        .heading_second {
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 800;
+            font-style: italic;
+        }
+
+        .description p {
+            font-style: italic;
+            font-size: 12px;
+            font-weight: 100;
+            margin: 0;
+        }
+
+        /* Prediction Area */
+        .prediction-area {
+            position: relative;
+            display: flex;
+            justify-content: space-evenly;
+            padding: 20px 40px;
+        }
+
+        .ipl-banner-left {
+            display: inline-block;
+            position: absolute;
+            left: 40px;
+            top: -5px;
+            width: 284px;
+            height: 429px;
+            border-radius: 15px;
+            -webkit-box-shadow: 7px 6px 18px -2px rgba(94, 94, 94, 0.61);
+            -moz-box-shadow: 7px 6px 18px -2px rgba(94, 94, 94, 0.61);
+            box-shadow: 7px 6px 18px -2px rgba(94, 94, 94, 0.61);
+        }
+
+        .div2,
+        .results {
+            display: inline-block;
+            width: auto;
+            height: 429px;
+            text-align: center;
+        }
+
+        .ipl-banner-right {
+            display: inline-block;
+            width: 284px;
+            height: 429px;
+            position: absolute;
+            right: 40px;
+            top: -5px;
+            border-radius: 15px;
+            -webkit-box-shadow: 7px 6px 18px -2px rgba(94, 94, 94, 0.61);
+            -moz-box-shadow: 7px 6px 18px -2px rgba(94, 94, 94, 0.61);
+            box-shadow: 7px 6px 18px -2px rgba(94, 94, 94, 0.61);
+        }
+
+        .image-width {
+            height: 429px;
+        }
+
+        .slider-frame {
+            width: 100%;
+            height: 100%;
+            border-radius: 15px;
+            overflow: hidden;
+        }
+
+        @keyframes slide-animation-up {
+            0% {
+                top: 0;
+            }
+
+            6% {
+                top: -433px;
+            }
+
+            12% {
+                top: -866px;
+            }
+
+            18% {
+                top: -1299px;
+            }
+
+            24% {
+                top: -1732px;
+            }
+
+            30% {
+                top: -2165px;
+            }
+
+            36% {
+                top: -2598px;
+            }
+
+            42% {
+                top: -3031px;
+            }
+
+            50% {
+                top: -3031px;
+            }
+
+            56% {
+                top: -3031px;
+            }
+
+            62% {
+                top: -2598px;
+            }
+
+            68% {
+                top: -2165px;
+            }
+
+            74% {
+                top: -1732px;
+            }
+
+            80% {
+                top: -1299px;
+            }
+
+            86% {
+                top: -866px;
+            }
+
+            92% {
+                top: -433px;
+            }
+
+            100% {
+                top: 0;
+            }
+        }
+
+        @keyframes slide-animation-down {
+            0% {
+                bottom: 3031px;
+            }
+
+            6% {
+                bottom: 2598px;
+            }
+
+            12% {
+                bottom: 2165px;
+            }
+
+            18% {
+                bottom: 1732px;
+            }
+
+            24% {
+                bottom: 1299px;
+            }
+
+            30% {
+                bottom: 866px;
+            }
+
+            36% {
+                bottom: 433px;
+            }
+
+            42% {
+                bottom: 0;
+            }
+
+            50% {
+                bottom: 0;
+            }
+
+            56% {
+                bottom: 0;
+            }
+
+            62% {
+                bottom: 433px;
+            }
+
+            68% {
+                bottom: 866px;
+            }
+
+            74% {
+                bottom: 1299px;
+            }
+
+            80% {
+                bottom: 1732px;
+            }
+
+            86% {
+                bottom: 2165px;
+            }
+
+            92% {
+                bottom: 2598px;
+            }
+
+            100% {
+                bottom: 3031px;
+            }
+        }
+
+        .slide-images-up {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            animation-name: slide-animation-up;
+            animation-duration: 50s;
+            animation-iteration-count: infinite;
+            animation-direction: alternate;
+            animation-timing-function: ease-out;
+        }
+
+        .slide-images-down {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            animation-name: slide-animation-down;
+            animation-duration: 50s;
+            animation-iteration-count: infinite;
+            animation-direction: alternate;
+            animation-timing-function: ease-out;
+        }
+
+        .image-container {
+            position: relative;
+            float: none;
+        }
+
+        /* Form */
+        .form-input {
+            background-color: #E9E9E9;
+            width: 370px;
+            height: 30px;
+            border-radius: 3px;
+            border: 0;
+            text-align: center;
+            -webkit-box-shadow: inset 7px 3px 16px -10px rgba(0, 0, 0, 0.75);
+            -moz-box-shadow: inset 7px 3px 16px -10px rgba(0, 0, 0, 0.75);
+            box-shadow: inset 7px 3px 16px -10px rgba(0, 0, 0, 0.75);
+            margin-bottom: 15px;
+        }
+
+        .align-center {
+            text-align: center;
+            padding: 0 30px;
+        }
+
+        /* Predict Button */
+        .myButton {
+            background-color: #0c0c0c;
+            border-radius: 5px;
+            display: inline-block;
+            cursor: pointer;
+            color: #ffffff;
+            font-family: Arial;
+            font-size: 15px;
+            font-weight: bold;
+            padding: 7px 30px;
+            margin-top: 10px;
+            text-decoration: none;
+            transition: 0.5s ease-out;
+        }
+
+        .myButton:hover {
+            background-color: #E9E9E9;
+            color: #000000;
+            box-shadow: inset 7px 3px 16px -10px rgba(0, 0, 0, 0.75);
+        }
+
+        .myButton:active {
+            position: relative;
+            top: 1px;
+        }
+
+        /* Footer */
+        .footer {
+            background-color: #000000;
+            color: #ffffff;
+            padding: 12px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+
+        }
+
+        .contact-icon {
+            color: #ffffff;
+            padding: 7px;
+        }
+
+        .contact-icon:hover {
+            color: #a6a19a;
+        }
+
+        .footer-description {
+            margin: 0;
+            font-size: 12px;
+            font-weight: 100;
+        }
+
+        /* Result */
+        .results {
+            display: inline-block;
+            width: auto;
+            height: 429px;
+            line-height: 400px;
+            text-align: center;
+        }
+
+        .danger {
+            color: #ff0000;
+        }
+
+        .safe {
+            color: green;
+        }
+
+        .gif {
+            width: 25%;
+        }
+
+        .gif1 {
+            width: 40%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Website Title -->
+    <div class="container">
+        <h1 style="color: #000000;" class='container-heading'><span class='heading_first'><b>
+                   Score Predictor
+                </b> </span></h1>
+    </div>
+
+    <!-- Prediction Area -->
+    <div class="prediction-area">
+
+        <!-- IPL Banner - 1 -->
+        <div class='ipl-banner-left'>
+
+            <div class="slider-frame">
+                <div class="slide-images-up">
+
+                    <!-- Image-1 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/mi.jpg" alt="Mumbai Indians">
+                    </div>
+                    <!-- Image-2 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/srh.png" alt="Sunrisers Hyderabad">
+                    </div>
+                    <!-- Image-3 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/rcb.png" alt="Royal Challengers Bangalore">
+                    </div>
+                    <!-- Image-4 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/dc.png" alt="Delhi Capitals">
+                    </div>
+                    <!-- Image-5 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/rr.png" alt="Rajasthan Royals">
+                    </div>
+                    <!-- Image-6 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/kkr.png" alt="Kolkata Knight Riders">
+                    </div>
+                    <!-- Image-7 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/kxip.png" alt="Kings XI Punjab">
+                    </div>
+                    <!-- Image-8 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/csk.png" alt="Chennai Super Kings">
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Result -->
+		<div class="results">
+			<p class='result-p'>The final predicted score (range): {{ lower_limit }} to {{ upper_limit }}</p>
+		</div>
+
+        <!-- IPL Banner - 2 -->
+        <div class='ipl-banner-right'>
+
+            <div class="slider-frame">
+                <div class="slide-images-down">
+
+                    <!-- Image-1 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/mi.jpg" alt="Mumbai Indians">
+                    </div>
+                    <!-- Image-2 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/srh.png" alt="Sunrisers Hyderabad">
+                    </div>
+                    <!-- Image-3 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/rcb.png" alt="Royal Challengers Bangalore">
+                    </div>
+                    <!-- Image-4 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/dc.png" alt="Delhi Capitals">
+                    </div>
+                    <!-- Image-5 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/rr.png" alt="Rajasthan Royals">
+                    </div>
+                    <!-- Image-6 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/kkr.png" alt="Kolkata Knight Riders">
+                    </div>
+                    <!-- Image-7 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/kxip.png" alt="Kings XI Punjab">
+                    </div>
+                    <!-- Image-8 -->
+                    <div class="image-container">
+                        <img class="image-width" src="../static/csk.png" alt="Chennai Super Kings">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div class='footer'>
+        <div class="contact">
+            <a target="_blank" href="https://github.com/SuryanshNaugraiya/"><i
+                    class="fab fa-github fa-lg contact-icon"></i></a>
+            <a target="_blank" href="https://www.linkedin.com/in/suryansh-naugraiya-744796194/"><i
+                    class="fab fa-linkedin fa-lg contact-icon"></i></a>
+        </div>
+        <p class='footer-description'>Made with ❤️ by Suryansh Naugraiya.</p>
+    </div>
+
+</body>
+
+</html>

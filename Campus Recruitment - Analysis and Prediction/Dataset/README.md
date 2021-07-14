@@ -1,0 +1,1 @@
+The dataset which is used here, is collected from Kaggle website. Here is the link of the dataset :  https://www.kaggle.com/benroshan/factors-affecting-campus-placement?select=Placement_Data_Full_Class.csv. I have uploaded the same here, you can access that too!

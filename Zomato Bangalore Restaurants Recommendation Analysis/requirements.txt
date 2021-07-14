@@ -1,0 +1,8 @@
+Modules Required
+
+  1. Pandas
+  2. Numpy
+  3. Matplotlib
+  4. Seaborn
+  5. Zip [ if zip file is directly taken for dataset]
+  6. gmaps [ for heatmap ]
