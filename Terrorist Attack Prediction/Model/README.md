@@ -93,7 +93,7 @@ This modal analyses terrorist attack dataset to findout cities ,regions that are
  
  Random Forest Classifier:0.6036085292509568
  
- Decision Tree Classifier:0.5899398578458174
+ Decision Tree Classifier:0.589939857845817
 
 ## Conclusion
 
