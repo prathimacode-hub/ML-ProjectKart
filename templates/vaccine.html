@@ -1,0 +1,787 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+
+    <!-- Bootstrap CSS files -->
+
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/bootstrap-extended.min.css">
+    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/fonts/simple-line-icons/style.min.css">
+    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/colors.min.css">
+    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+    <!-- Chart js -->
+    <!-- datasource -->
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datasource@0.1.0"></script>
+
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+
+    <!-- Fontawesome -->
+
+    <script src="https://kit.fontawesome.com/043883177b.js" crossorigin="anonymous"></script>
+
+
+
+    <title>CovidTracker 😷</title>
+</head>
+
+<body class = "bg-dark">
+    <div class="container my-4">
+
+        <!--Cards and Search bar-->
+        <div class="row">
+
+            <div class="col px-4">
+                <h1 style = "text-align:center;font-size:2rem;color:white;font-weight:bold;">Covid Tracker</h1>
+            </div>
+
+
+            <!--Search button and list-->
+
+            <div class="col px-3">
+                <!-- Search bar -->
+
+                <form action="/vaccine" method='POST' class="d-flex">
+                    <input class="form-control me-2 state" name="state" type="search" placeholder="Enter the State" aria-label="Search">
+                    <button class="btn btn-outline-success" id="searchstate' type=" submit ">Search</button>
+                </form>
+
+            </div>
+
+
+           
+
+                <!-- Cards -->
+
+            {%if showcards%}
+            <div class=" grey-bg container-fluid my-4 ">
+                    <section id=" minimal-statistics ">
+                        <div class=" row ">
+                            <div class=" col-xl-3 col-sm-6 col-12 ">
+                                <div class=" card ">
+                                    <div class=" card-content ">
+                                        <div class=" card-body ">
+                                            <div class=" media d-flex ">
+                                                <div class=" align-self-center ">
+                                                    <i class=" icon-graph primary font-large-2 float-left "></i>
+                                                </div>
+                                                <div class=" media-body text-right ">
+                                                    <span class='statename'>Count of Vaccine Dose 1 in {{state[0]}}</span>
+                                                    <h3 class='active'>{{dose1}}</h3>
+                                                 </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=" col-xl-3 col-sm-6 col-12 ">
+                                <div class=" card ">
+                                    <div class=" card-content ">
+                                        <div class=" card-body ">
+                                            <div class=" media d-flex ">
+                                                <div class=" align-self-center ">
+                                                    <i class=" icon-graph success font-large-2 float-left "></i>
+                                                </div>
+                                                <div class=" media-body text-right ">
+                                                    <span class='confirmedstate'>Count of Vaccine Dose 2 in {{state[0]}}</span>
+                                                    <h3 class=" confirmed ">{{dose2}}</h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=" col-xl-3 col-sm-6 col-12 ">
+                                <div class=" card ">
+                                    <div class=" card-content ">
+                                        <div class=" card-body ">
+                                            <div class=" media d-flex ">
+                                                <div class=" align-self-center ">
+                                                    <i class=" icon-graph success font-large-2 float-left "></i>
+                                                </div>
+                                                <div class=" media-body text-right ">
+                                                    <span class='recoveredstate'>Percentage of Atmost one dose taken in {{state[0]}}</span>
+                                                    <h3 class=" recovered ">{{atmostonedose}}%</h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=" col-xl-3 col-sm-6 col-12 ">
+                                <div class=" card ">
+                                    <div class=" card-content ">
+                                        <div class=" card-body ">
+                                            <div class=" media d-flex ">
+                                                <div class=" align-self-center ">
+                                                    <i class=" icon-graph danger font-large-2 float-left "></i>
+                                                </div>
+                                                <div class=" media-body text-right ">
+                                                    <span class='deathstate'>Percentage of Both Doses taken in {{state[0]}}</span>
+                                                    <h3 class=" deaths ">{{fulldose}}%</h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </section>
+               </div>
+            {%else%}
+                <!--Rules and Regulations-->
+                <div class = "row">
+                    <div class = "col-md-12">
+                        <div class="alert alert-success my-4 text-center"role="alert">
+                            <h4 class="alert-heading">Welcome To Covid Vaccination Dashboard</h4>
+                            <p>Get all the information related to Covid-19 Vaccination at Covid Tracker,simple rules to check it up,inorder to view the dashboard,one has to ensure that the grammar and the spell of the state is correct,as covid tracker uses sensitive information from other Api's,so a user can type the name of the "State" in the Search menu and hit the search button to get the results,A demo is displayed below ↓</p>
+                            <hr>
+                        </div>
+                    </div>
+                </div>
+                <div class="row my-2">
+                     
+                     <div class = "col-md-8">
+                        <div class="alert alert-success text-center"role="alert">
+                                <h4 class="alert-heading">A walkthrough to use Covid Tracker Dashboard</h4>
+                                <p>A demo is illustrated on how we can search for the states using the Search bar,the user has to simply select the state/Union Territory which the user is intrested in and then simply copy and paste the name of the state from the state list to the search bar and then hit search the dashboard regarding the particular state selected will show up and the user can view all the statistics and information about the State,given below are the list of states and union territories which the user can take reference of.</p>
+                                <hr>
+                        </div>
+
+                    </div>
+
+                    <div class = "col-md-4">
+                        <img src = "/static/images/dummy.gif" height = "200px" width = "400px" alt = "dummy">
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class = "col-md-12">
+                        <div class="alert alert-success text-center"role="alert">
+                                <h4 class="alert-heading">The List of States and Union Territories</h4>
+                                <p>[Maharashtra, Karnataka, Kerala, Tamil Nadu,Andhra Pradesh,Uttar Pradesh, West Bengal, Delhi, Chhattisgarh,Rajasthan, Odisha, Gujarat, Madhya Pradesh, Haryana, Bihar, Telangana, Punjab, ', Jharkhand, Uttarakhand, Jammu and Kashmir, Himachal Pradesh, Goa, Puducherry, Chandigarh, Tripura, Manipur, Meghalaya, Arunachal Pradesh, Nagaland, Ladakh, Sikkim, Mizoram, Dadra and Nagar Haveli and Daman and Diu, Lakshadweep, Andaman and Nicobar Islands]</p>
+                                <hr>
+                            </div>
+                    </div>
+                </div>
+            {%endif%}
+
+
+        </div>
+                
+
+
+            
+
+        <!-- Charts -->
+        <div class="row">
+
+          
+
+            {% if showchart %}
+                     
+                    <div class = 'heading my-2'>
+                       <h5 style = "text-align:center;font-size:2rem;color:white;font-weight:bold">Corona Virus Vaccination Details Accross States of India</h5>
+                   </div>
+
+                    <div class="col-md-4 col-sm-6">
+                            <div class="chart-container my-3">
+                             <label for="banana" style="text-align:center;font-size:1.3rem;color:white;font-weight: bold;">Count of Dose1 in {{state[0]}} vs States having most Population</label>
+                                <canvas height="300" width="300" id="chart"></canvas>
+                            </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="chart-container my-3">
+                         <label for="banana" style="text-align:center;font-size:1.3rem;font-weight: bold;color:white;">Count of Dose2 in {{state[0]}} vs States having most Population</label>
+                             <canvas height="300" width="300" id="chartnew"></canvas>
+                        </div>
+                                
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="chart-container my-3">
+                         <label for="banana" style="text-align:center;font-size:1.2rem;font-weight: bold;color:white;">% of People taken Atmost one dose in {{state[0]}} vs States having most Population</label>
+                             <canvas height="300" width="300" id="chartnew1"></canvas>
+                        </div>
+
+                                
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="chart-container my-3">
+                         <label for="banana" style="text-align:center;font-size:1.2rem;font-weight: bold;color:white;">% of People fully Vaccinated in {{state[0]}} vs States having most Population</label>
+                             <canvas height="300" width="300" id="chartnew2"></canvas>
+                        </div>
+                                
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="chart-container my-3">
+                         <label for="banana" style="text-align:center;font-size:1.3rem;font-weight: bold;color:white;">Dose1 VS Dose2 Comparision of {{state[0]}} with most populated states</label>
+                             <canvas height="300" width="300" id="chartnew3"></canvas>
+                        </div>
+                                
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="chart-container my-3">
+                         <label for="banana" style="text-align:center;font-size:1.3rem;font-weight: bold;color:white;">At most one dose vs Fully Vacinated,Comparision of {{state[0]}} with most populated states</label>
+                             <canvas height="300" width="300" id="chartnew4"></canvas>
+                        </div>
+                                
+                    </div>
+
+                    <div class="col-md-12">
+                        <div class="chart-container my-3">
+                         <label for="banana" style="text-align:center;font-size:1.3rem;font-weight: bold;color:white;">Atmost one Dose Vs Fully Vaccinated Trend accoross different States in India</label>
+                             <canvas height="300" width="300" id="chartnew5"></canvas>
+                        </div>
+                                
+                    </div>
+
+                  
+
+                <br>
+
+                    
+                            
+            {%endif%}
+            
+            
+            
+        
+
+
+
+    </div>
+
+    <!--Home Page-->
+     <div class="col-sm">
+                            <div class="col-md-12 text-center my-4 mx-2">
+                                <a href="/"><button class="btn btn-outline-success" type="submit">Go Back</button></a>
+                            </div>
+            </div>
+
+     <!-- Footer -->
+
+        <footer class="py-3 text-center text-light bg-dark ">Copyright &copy;CovidTracker😷
+            <div class="cbl-md-4 smed ">
+
+                <!-- Facebook -->
+
+                <a href="https://www.facebook.com/profile.php?id=100009392247236 " target="_blank "><i
+                            class="fab fa-facebook-square "></i></a>
+
+                <!-- Instagram -->
+
+                <a href="https://www.instagram.com/mv_1249/ " target="_blank "><i class="fab fa-instagram "
+                            target="_blank "></i></a>
+
+                <!-- Linkedin -->
+
+                <a href="https://www.linkedin.com/in/meet-vardoriya-9aab711a3/ " target="_blank "><i
+                            class="fab fa-linkedin "></i></a>
+
+                <!-- Github -->
+
+
+                <a href="https://github.com/mv1249 " target="_blank "><i class="fab fa-github "></i></a>
+
+                <!-- Portfolio -->
+                <a href="https://mvsportfolio.herokuapp.com/ " target="_blank "><i class="fab fa-chrome "></i></a>
+
+
+
+            </div>
+        </footer>
+
+
+
+
+    {%block script%}
+    <script type=" text/javascript ">
+            
+            window.onload = ()=>{
+                        
+
+                        var topstates = {{topstates|safe}};
+                        var population = {{population|safe}};
+                        var statedose1 = {{statedose1|safe}};
+                        var statedose2 = {{statedose2|safe}};
+                        var toponedose = {{toponedose|safe}};
+                        var tofulldose = {{tofulldose|safe}};
+                        var dose1 = {{dose1|safe}};
+                        var dose2 = {{dose2|safe}};
+                        var populationstate = {{populationstate|safe}};
+                        var atmostonedose = {{atmostonedose|safe}};
+                        var fulldose = {{fulldose|safe}};
+                        var statename = {{state|safe}}
+
+                        //Complete data visual will be made with line chart!
+
+                        var fullyvaccinatedstate = {{fullyvaccinatedstate|safe}}
+                        var fullyvaccinatedvalues = {{fullyvaccinatedvalues|safe}}
+                        var atmostonedosemapstate = {{atmostonedosemapstate|safe}}
+                        var atmostonedosevalue = {{atmostonedosevalue|safe}}
+
+
+                        var check = 0
+                        for(var i = 0; i <topstates.length; i++){
+                            if (statename[0].toLowerCase()==topstates[i].toLowerCase()){
+                                check = 1;
+                                break;
+                            }
+                        }
+                        if(!check){
+                            topstates.push(statename[0]);
+                            population.push(populationstate);
+                            statedose1.push(dose1);
+                            statedose2.push(dose2);
+                            toponedose.push(atmostonedose);
+                            tofulldose.push(fulldose);
+                        }
+
+                
+
+                        // Chart1
+
+
+                        var ctx = document.getElementById('chart').getContext('2d');
+                        var myChart = new Chart(ctx, {
+                            type: 'doughnut',
+                            data: {
+                                labels:topstates,
+                                datasets: [{
+                                    labels:topstates,
+                                    data: statedose1,
+                                    backgroundColor: [
+                                    'rgb(255, 99, 132)',
+                                    'rgb(75, 192, 192)',
+                                    'rgb(255, 205, 86)',
+                                    'rgb(201, 203, 207)',
+                                    'rgb(54, 162, 235)',
+                                    'rgba(153, 102, 255)',
+                                    'rgba(255, 159, 64)',
+                                    'rgba(250, 157, 60)'
+                                    ],
+                                    hoverOffset: 4
+
+                                }]
+                            },
+                             options: { 
+                                    legend: {
+                                        labels: {
+                                            fontColor: "white",
+                                            fontSize: 15
+                                        }
+                                    },
+                            }
+                        })
+
+                        //Chart2
+
+                        var ctx = document.getElementById('chartnew').getContext('2d');
+                        var myChart = new Chart(ctx, {
+                            type: 'doughnut',
+                            data: {
+                                labels: topstates,
+                                datasets: [{
+                                    label:topstates,
+                                    data: statedose2,
+                                    backgroundColor: [
+                                        'rgb(255, 99, 132)',
+                                        'rgb(75, 192, 192)',
+                                        'rgb(255, 205, 86)',
+                                        'rgb(201, 203, 207)',
+                                        'rgb(54, 162, 235)',
+                                        'rgba(153, 102, 255)',
+                                        'rgba(255, 159, 64)',
+                                        'rgba(250, 157, 60)'
+                                        
+                                    ],
+                                    hoverOffset: 4
+
+                                }]
+                            },
+                            options: { 
+                                    legend: {
+                                        labels: {
+                                            fontColor: "white",
+                                            fontSize: 15
+                                        }
+                                    },
+                            }
+                        })
+
+
+                        //Chart3
+
+                        var ctx = document.getElementById('chartnew1').getContext('2d');
+                        var myChart = new Chart(ctx, {
+                            type: 'doughnut',
+                            data: {
+                                labels: topstates,
+                                datasets: [{
+                                    label:topstates,
+                                    data:  toponedose,
+                                    backgroundColor: [
+                                        'rgb(255, 99, 132)',
+                                        'rgb(75, 192, 192)',
+                                        'rgb(255, 205, 86)',
+                                        'rgb(201, 203, 207)',
+                                        'rgb(54, 162, 235)',
+                                        'rgba(153, 102, 255)',
+                                        'rgba(255, 159, 64)',
+                                        'rgba(250, 157, 60)'
+                                        
+                                    ],
+                                    hoverOffset: 4
+
+                                }]
+                            },
+                            options: { 
+                                    legend: {
+                                        labels: {
+                                            fontColor: "white",
+                                            fontSize: 15
+                                        }
+                                    },
+                            }
+                        })
+
+                        //Chart4
+
+                        var ctx = document.getElementById('chartnew2').getContext('2d');
+                        var myChart = new Chart(ctx, {
+                            type: 'doughnut',
+                            data: {
+                                labels: topstates,
+                                datasets: [{
+                                    label:topstates,
+                                    data: tofulldose,
+                                    backgroundColor: [
+                                        'rgb(255, 99, 132)',
+                                        'rgb(75, 192, 192)',
+                                        'rgb(255, 205, 86)',
+                                        'rgb(201, 203, 207)',
+                                        'rgb(54, 162, 235)',
+                                        'rgba(153, 102, 255)',
+                                        'rgba(255, 159, 64)',
+                                        'rgba(250, 157, 60)'
+                                        
+                                    ],
+                                    hoverOffset: 4
+
+                                }]
+                            },
+                            options: { 
+                                    legend: {
+                                        labels: {
+                                            fontColor: "white",
+                                            fontSize: 15
+                                        }
+                                    },
+                            }
+                        })
+
+                        // Chart 5
+
+                        var ctx = document.getElementById('chartnew3').getContext('2d');
+                        var myChart = new Chart(ctx, {
+                            type: 'line',
+                            data: {
+                                labels:  topstates,
+                                datasets: [
+                                    {
+                                        label: 'Dose1',
+                                        data: statedose1,
+                                        backgroundColor: [
+                                            'rgb(255, 99, 132)',
+                                            'rgb(75, 192, 192)',
+                                            'rgb(255, 205, 86)',
+                                            'rgb(201, 203, 207)',
+                                            'rgb(54, 162, 235)',
+                                            'rgba(153, 102, 255)',
+                                            'rgba(255, 159, 64)',
+                                            'rgba(250, 157, 60)'
+                                        
+                                          ],
+                                    },
+                                    {
+                                        label: 'Dose2',
+                                        data: statedose2,
+                                        backgroundColor: [
+                                            'rgb(255, 99, 132)',
+                                            'rgb(75, 192, 192)',
+                                            'rgb(255, 205, 86)',
+                                            'rgb(201, 203, 207)',
+                                            'rgb(54, 162, 235)',
+                                            'rgba(153, 102, 255)',
+                                            'rgba(255, 159, 64)',
+                                            'rgba(250, 157, 60)'
+                                        
+                                          ],
+                                    },
+
+                                   
+                                ]
+
+                                
+                            },
+                            options: { 
+                                    legend: {
+                                        labels: {
+                                            fontColor: "white",
+                                            fontSize: 15
+                                        }
+                                    },
+                                    scales: {
+                                            xAxes: [{ 
+                                                gridLines: {
+                                                    display: false,
+                                                },
+                                                ticks: {
+                                                fontColor: "#CCC",
+                                                fontSize:15,
+                                                },
+                                            }],
+                                            yAxes: [{
+                                                gridLines: {
+                                                    display: false,
+                                                },
+                                                ticks: {
+                                                fontColor: "#CCC",
+                                                fontSize:15,
+                                                },
+                                            }],
+                                    }
+                            }
+                            
+                        })
+
+
+                        // Chart 6
+
+                        var ctx = document.getElementById('chartnew4').getContext('2d');
+                        var myChart = new Chart(ctx, {
+                            type: 'bar',
+                            data: {
+                                labels: topstates,
+                                datasets: [
+                                    {
+                                        label: 'Atmost one dose',
+                                        data: toponedose,
+                                        backgroundColor: [
+                                            'rgb(7,238,238,1)',
+                                            'rgb(7,238,238,1)',
+                                            'rgb(7,238,238,1)',
+                                            'rgb(7,238,238,1)',
+                                            'rgb(7,238,238,1)',
+                                            'rgb(7,238,238,1)',
+                                          ],
+                                    },
+                                    {
+                                        label: 'Fully Vaccinated',
+                                        data: tofulldose,
+                                        backgroundColor: [
+                                                'rgb(13,142,256)',
+                                                'rgb(13,142,256)',
+                                                'rgb(13,142,256)',
+                                                'rgb(13,142,256)',
+                                                'rgb(13,142,256)',
+                                                'rgb(13,142,256)',
+                                            ],
+                                    },
+
+                                   
+                                ]
+
+                                
+                            },
+                            options: {
+                                plugins: {
+                                        title: {
+                                            display: true,
+                                            text: 'Chart.js Bar Chart - Stacked'
+                                                },
+                                        },
+                                        responsive: true,
+                                        scales: {
+                                        x: {
+                                            stacked: true,
+                                            fontColor: "white"
+                                        },
+                                        y: {
+                                            stacked: true,
+                                            fontColor:"white"
+                                        },
+                                        legend: {
+                                            labels: {
+                                                fontColor: "white",
+                                                fontSize: 15
+                                            }
+                                        },
+                            
+                                },
+                                scales: {
+                                            xAxes: [{ 
+                                                gridLines: {
+                                                    display: false,
+                                                },
+                                                ticks: {
+                                                fontColor: "#CCC",
+                                                fontSize:15,
+                                                },
+                                            }],
+                                            yAxes: [{
+                                                gridLines: {
+                                                    display: false,
+                                                },
+                                                ticks: {
+                                                fontColor: "#CCC",
+                                                fontSize:15,
+                                                },
+                                            }],
+                                    }
+                            }
+                    })
+
+                      
+                        // Chart 7
+
+                        var ctx = document.getElementById('chartnew5').getContext('2d');
+                        var myChart = new Chart(ctx, {
+                            type: 'line',
+                            data: {
+                                labels: fullyvaccinatedstate,
+                                datasets: [
+                                {
+                                    label: "Fully Vaccinated",
+                                    data: fullyvaccinatedvalues,
+                                    backgroundColor: [
+                                        'rgba(255, 99, 132, 0.2)',
+                                        'rgba(54, 162, 235, 0.2)',
+                                        'rgba(255, 206, 86, 0.2)',
+                                        'rgba(75, 192, 192, 0.2)',
+                                        'rgba(153, 102, 255, 0.2)',
+                                        'rgba(255, 159, 64, 0.2)',
+                                        'rgba(250, 157, 60, 0.1)',
+                                        'rgba(250, 157, 62, 0.6)',
+                                        'rgba(250, 157, 50, 0.4)',
+                                        'rgba(250, 157, 40, 0.5)',
+                                        'rgba(250, 157, 10, 0.2)',
+                                        'rgba(250, 157, 30, 0.3)',
+                                    ],
+                                    borderColor: [
+                                        'rgba(255, 99, 132, 1)',
+                                        'rgba(54, 162, 235, 1)',
+                                        'rgba(255, 206, 86, 1)',
+                                        'rgba(75, 192, 192, 1)',
+                                        'rgba(153, 102, 255, 1)',
+                                        'rgba(255, 159, 64, 1)',
+                                        'rgba(250, 157, 60, 0.1)'
+                                    ],
+                                    borderWidth: 2.5
+                                },
+                                {
+                                    label: "Vaccinated atmost one time",
+                                    data: atmostonedosevalue,
+                                    backgroundColor: [
+                                        'rgba(255, 99, 132, 0.2)',
+                                        'rgba(54, 162, 235, 0.2)',
+                                        'rgba(255, 206, 86, 0.2)',
+                                        'rgba(75, 192, 192, 0.2)',
+                                        'rgba(153, 102, 255, 0.2)',
+                                        'rgba(255, 159, 64, 0.2)',
+                                        'rgba(250, 157, 60, 0.1)',
+                                        'rgba(250, 157, 62, 0.6)',
+                                        'rgba(250, 157, 50, 0.4)',
+                                        'rgba(250, 157, 40, 0.5)',
+                                        'rgba(250, 157, 10, 0.2)',
+                                        'rgba(250, 157, 30, 0.3)',
+                                    ],
+                                    borderColor: [
+                                        'rgba(255, 99, 132, 1)',
+                                        'rgba(54, 162, 235, 1)',
+                                        'rgba(255, 206, 86, 1)',
+                                        'rgba(75, 192, 192, 1)',
+                                        'rgba(153, 102, 255, 1)',
+                                        'rgba(255, 159, 64, 1)',
+                                        'rgba(250, 157, 60, 0.1)'
+                                    ],
+                                    borderWidth: 2.5
+                                },
+                                ]
+                            },
+                            options: { 
+                                    legend: {
+                                        labels: {
+                                            fontColor: "white",
+                                            fontSize: 15
+                                        }
+                                    },
+                                    scales: {
+                                            xAxes: [{ 
+                                                gridLines: {
+                                                    display: false,
+                                                },
+                                                ticks: {
+                                                fontColor: "#CCC",
+                                                fontSize:15,
+                                                },
+                                            }],
+                                            yAxes: [{
+                                                gridLines: {
+                                                    display: false,
+                                                },
+                                                ticks: {
+                                                fontColor: "#CCC",
+                                                fontSize:15,
+                                                },
+                                            }],
+                                    }
+                            }
+                        })
+
+
+                
+                
+                }
+
+
+                 
+
+
+
+
+
+
+            </script>
+        {%endblock%}
+
+        <!-- Optional JavaScript; choose one of the two! -->
+
+        <!-- Option 1: Bootstrap Bundle with Popper -->
+        <script src=" https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js "
+            integrity=" sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4 "
+            crossorigin=" anonymous "></script>
+
+        <!-- Option 2: Separate Popper and Bootstrap JS -->
+        <!--
+    <script src=" https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js " integrity=" sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p " crossorigin=" anonymous "></script>
+    <script src=" https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js " integrity=" sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT " crossorigin=" anonymous "></script>
+    -->
+    </body>
+
+</html>

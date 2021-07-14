@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/bootstrap-extended.min.css">
+    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/fonts/simple-line-icons/style.min.css">
+    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/colors.min.css">
+    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+    <!-- Fontawesome -->
+
+    <script src="https://kit.fontawesome.com/043883177b.js" crossorigin="anonymous"></script>
+
+
+    <title>CovidTracker 😷</title>
+</head>
+
+<body class="bg-dark">
+
+    <h3 class="date my-4" style="text-align:center;color:white;font-size:2rem;font-weight:bold">Latest Covid-19 Cases Count as of</h3>
+
+
+    <div class='container my-4'>
+
+        <div class="row">
+            <div class="col">
+                <!--Cards-->
+                <div class=" grey-bg container-fluid my-4 ">
+                    <section id=" minimal-statistics ">
+                        <div class=" row ">
+                            <div class=" col-xl-3 col-sm-6 col-12 ">
+                                <div class=" card ">
+                                    <div class=" card-content ">
+                                        <div class=" card-body ">
+                                            <div class=" media d-flex ">
+                                                <div class=" align-self-center ">
+                                                    <i class=" icon-graph primary font-large-2 float-left "></i>
+                                                </div>
+                                                <div class=" media-body text-right ">
+                                                    <span class='statename'>Total Active Cases</span>
+                                                    <h3 class='active'>{{active}}</h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=" col-xl-3 col-sm-6 col-12 ">
+                                <div class=" card ">
+                                    <div class=" card-content ">
+                                        <div class=" card-body ">
+                                            <div class=" media d-flex ">
+                                                <div class=" align-self-center ">
+                                                    <i class=" icon-graph success font-large-2 float-left "></i>
+                                                </div>
+                                                <div class=" media-body text-right ">
+                                                    <span class='confirmedstate'>Total Confirmed Cases</span>
+                                                    <h3 class=" confirmed ">{{confirmed}}</h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=" col-xl-3 col-sm-6 col-12 ">
+                                <div class=" card ">
+                                    <div class=" card-content ">
+                                        <div class=" card-body ">
+                                            <div class=" media d-flex ">
+                                                <div class=" align-self-center ">
+                                                    <i class=" icon-graph success font-large-2 float-left "></i>
+                                                </div>
+                                                <div class=" media-body text-right ">
+                                                    <span class='recoveredstate'>Total Recovered Cases</span>
+                                                    <h3 class=" recovered ">{{recovered}}</h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=" col-xl-3 col-sm-6 col-12 ">
+                                <div class=" card ">
+                                    <div class=" card-content ">
+                                        <div class=" card-body ">
+                                            <div class=" media d-flex ">
+                                                <div class=" align-self-center ">
+                                                    <i class=" icon-graph danger font-large-2 float-left "></i>
+                                                </div>
+                                                <div class=" media-body text-right ">
+                                                    <span class='deathstate'>Total Death Cases</span>
+                                                    <h3 class=" deaths ">{{deaths}}</h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </section>
+                </div>
+
+                    <!--this will be poupulated using javascript -->
+
+                    <div class="my-4 covidtable">
+                        <table class="table table-dark table-hover table-striped">
+                            <thead>
+                                <tr>
+                                    <th scope="col" style="color:white">Sno</th>
+                                    <th scope="col" style="color:white">State</th>
+                                    <th scope="col" style="color:white">Active</th>
+                                    <th scope="col" style="color:white">Confirmed</th>
+                                    <th scope="col" style="color:white">Recovered</th>
+                                    <th scope="col" style="color:white">Deaths</th>
+                                    <th scope="col" style="color:white">Recovery Rate %</th>
+                                </tr>
+                            </thead>
+                            <tbody class='tabledata'>
+
+
+                            </tbody>
+                        </table>
+
+                            <!--alert regarding vaccine dashboards -->
+                        <div class="alert alert-success text-center" role="alert">
+                                <h4 class="alert-heading">Explored Data?,wanna Explore More?</h4>
+                                <p>If yes,then click on this button below which will redirect you to the Covid-19 Data Dashboard page where the user has to enter the name of state as specified in the rules mentioned in that page and then the user will get state-by-state analysis of the Cases in Covid-19.</p>
+                                <hr>
+                                
+                                <div class="col text-center">
+                                        <a href="/dashboard"><button class="btn btn-outline-dark" type="submit">Covid-19 Dashboard</button></a>
+                                </div>
+                                
+                        </div>
+
+                    </div>
+
+                    <!--Goback-->
+                    <div class=" col-sm">
+                        <div class="col-md-12 text-center my-4 mx-2">
+                            <a href="/"><button class="btn btn-outline-success" type="submit">Go
+                                    Back</button></a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!--Footer-->
+
+            
+        <!-- Footer -->
+
+        <footer class="py-3 text-center text-light bg-dark ">Copyright &copy;CovidTracker😷
+            <div class="cbl-md-4 smed ">
+
+                <!-- Facebook -->
+
+                <a href="https://www.facebook.com/profile.php?id=100009392247236 " target="_blank "><i
+                            class="fab fa-facebook-square "></i></a>
+
+                <!-- Instagram -->
+
+                <a href="https://www.instagram.com/mv_1249/ " target="_blank "><i class="fab fa-instagram "
+                            target="_blank "></i></a>
+
+                <!-- Linkedin -->
+
+                <a href="https://www.linkedin.com/in/meet-vardoriya-9aab711a3/ " target="_blank "><i
+                            class="fab fa-linkedin "></i></a>
+
+                <!-- Github -->
+
+
+                <a href="https://github.com/mv1249 " target="_blank "><i class="fab fa-github "></i></a>
+
+                <!-- Portfolio -->
+                <a href="https://mvsportfolio.herokuapp.com/ " target="_blank "><i class="fab fa-chrome "></i></a>
+
+
+
+            </div>
+        </footer>
+
+
+
+
+
+    </div>
+
+    {%block javascript%}
+
+        <script type="text/javascript">
+            var date = {{date | safe}};
+            var modifieddate = new Date(date).toDateString().split(' ');
+            modifieddate = modifieddate.slice(1, modifieddate.length).join(' ');
+
+            document.querySelector('.date').innerHTML += ' ' + modifieddate + ' '
+
+            console.log(document.querySelector('.tabledata'))
+
+
+
+            var alltogether = {{details | safe}}
+            console.log(alltogether[0])
+            var counter = 1
+            for (var i = 0; i < alltogether.length; i++) {
+
+                console.log(alltogether[i][4])
+                var tr = `<tr>   
+                            <td style = "color:white">${counter}</td>
+                            <td style = "color:white">${alltogether[i][0]}</td>
+                            <td style = "color:white">${alltogether[i][1]}</td>
+                            <td style = "color:white">${alltogether[i][2]}</td>
+                            <td style = "color:white">${alltogether[i][3]}</td>
+                            <td style = "color:white">${alltogether[i][4]}</td>
+                            <td style = "color:white">${alltogether[i][5]}</td>
+                         </tr>`
+                document.querySelector('.tabledata').innerHTML += tr;
+                counter += 1;
+            }
+        </script>
+
+    {%endblock%}
+
+        <!-- Optional JavaScript; choose one of the two! -->
+
+        <!-- Option 1: Bootstrap Bundle with Popper -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+
+        <!-- Option 2: Separate Popper and Bootstrap JS -->
+        <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
+    -->
+</body>
+
+</html>
