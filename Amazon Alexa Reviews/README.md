@@ -14,11 +14,13 @@
 6. Splitted the data into training data and testing data.
 7. Using DecisionTree Classification Algorithm, feedback has been predicted with an accuracy score of 100.
 8. Using Random Forest Classification Algorithm, feedback has been predicted with an accuracy of 99.6%
+9. Using Multinomail Naive Bayes, feedback has been predicted with an accuracy of 94%
 
 ### MODELS USED :
 
 - Decision Tree for categorizing the feedbacks ie. 0 or 1
 - Random Forest for better accuracy.
+- Naive Bayes (MultinomialNB)
 
 ### LIBRARIES NEEDED :
 
