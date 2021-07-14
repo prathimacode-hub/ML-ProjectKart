@@ -24,7 +24,7 @@ same in [`Dataset`](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main
 7. Choose best model for our prediction which has lowest RMSE and high R2 score. 
 
 ## Model Comparison
-We have deployed 9 machine learning algorithms and every algorithm is deployed successfully without any hesitation. We have checked the accuracy of the models based on the Kappa score of each of the models. Now let's take a look at the scores of each models.
+We have deployed 9 machine learning algorithms and every algorithm is deployed successfully without any hesitation. We have checked the efficiency of the models based on the rmse and r2 score of each of the models. Now let's take a look at model with their rmse and r2 score. 
 
 |Name of the Model|RMSE |R2 Score |
 |:---:|:---:|:---:|
