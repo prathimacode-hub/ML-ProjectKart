@@ -6,3 +6,4 @@ matplotlib
 warnings
 nltk
 tqdm 
+sklearn

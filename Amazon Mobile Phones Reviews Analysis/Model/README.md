@@ -16,12 +16,51 @@ it is availbale on kaggle at https://www.kaggle.com/magdawjcicka/amazon-reviews-
 I have load necessary libraries, preprossed data, annoted ratings form 3-5 as positive and 1-2 as negative, applied nlp algorithms like stemming, lemmatize and others to remove stopword, punctuations and othersand after visualization I have build logistic regression model.
 
 ## Model Used
-I have used logistic regression model to classify reviews.
+-  Logistic Regression
+-  Random Forest Classifier
+-  Decission Tree
+-  Support vector machine
+-  Voting Classifier(hard voting)
+-  Voting Classifier(soft voting)
+
 
 ## Libraries Needed
-All the required libraries are mentioned in requirements.txt
+pandas
+numpy
+sklearn
+pickle
+matplotlib
+warnings
+nltk
+tqdm 
+sklearn
 
 ## Conclusion
-The accuracy of model is 0.876 which classifies the reviews into two sets either positive or negative by analysing sentiments.
+- By using Logistic Regression model 
+ ```python
+    Accuracy achieved :  0.86
+ ``` 
+ - By using Decission Tree Classifier 
+ ```python
+    Accuracy achieved :  0.81
+ ``` 
+ - By using Random Forest Classifier
+ ```python
+    Accuracy achieved :  0.86
+ ``` 
+ - By using Support Vector Machine 
+ ```python
+    Accuracy achieved : 0.874
+ ``` 
+ - By using Voting Classifier (hard voting) 
+ ```python
+    Accuracy achieved :  0.86
+ ``` 
+ - By using Voting Classifier (soft voting) 
+ ```python
+    Accuracy achieved :  0.871
 
+Random forest classifier gives the highest accuracy which is almost similar to voting classifer(soft voting).
+
+Here, we will consider random forest classifier to be most efficient.
 And here model is deployed....
