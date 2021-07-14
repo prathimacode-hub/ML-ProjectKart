@@ -26,7 +26,7 @@ We are just going to classify the railway tracks based on images. We are using a
 5.Iterate the same process until you achieve the optimal results
 
 <b>Data Visualization</b>
-
+![](https://github.com/Best-forever-003/ML-ProjectKart/blob/main/Railway%20Track%20Fault%20Detection/Images/Graph.jpeg)
 
 <b>Conclusion</b>
 
@@ -37,6 +37,12 @@ By having such a model, accidents can be reduced.
 Data Augmentation has also been done for better generalization.
 
 It contains more images than previous benchmarks, and the images have a higher resolution.
+
+<b>Output</b>
+
+![](https://github.com/Best-forever-003/ML-ProjectKart/blob/main/Railway%20Track%20Fault%20Detection/Images/output1.jpeg)
+
+![](https://github.com/Best-forever-003/ML-ProjectKart/blob/main/Railway%20Track%20Fault%20Detection/Images/output2.jpeg)
 
 <b>Author</b>
 
