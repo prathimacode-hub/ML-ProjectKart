@@ -67,6 +67,17 @@ This modal analyses terrorist attack dataset to findout cities ,regions that are
  
  ![im1.png](https://github.com/23-24/ML-ProjectKart/blob/23-24-patch-1/Terrorist%20attack%20prediction/Images/img1.PNG)
  
+ ## ATTRIBUTES FROM DATASET FOR PREDICTION
+- eventid	
+- iyear	
+- imonth	
+- iday	
+- extended	
+- country	
+- country_txt	
+- region	
+- region_txt	
+- provstate
  
 ## MODELS USED
  
@@ -87,6 +98,8 @@ This modal analyses terrorist attack dataset to findout cities ,regions that are
 ## Conclusion
 
 from the three models comparison it is clear that logistic regression provided better prediction.
+using different attributes such as month,year,date etc for previous occurances of each attack type ,we could predict upcoming terrorist attacks in different regions
+country and month of future attacks.This modal is able to predict the cities which is highly prone to attacks using the attribute given above.
 
 
 ## Author
