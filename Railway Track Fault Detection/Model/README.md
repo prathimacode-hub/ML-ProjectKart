@@ -1,12 +1,37 @@
 # Railway Track Fault Detection
 
+<b>GOAL</b>
+
+To predict railway track faults.
+
 In this project, I used Python and TensorFlow to classify images.
+
+<b>DATASET</B>
 
 Dataset used: https://www.kaggle.com/salmaneunus/railway-track-fault-detection
 
-<b>Libraries and requirements</b>
+<b>DESCRIPTION</b>
 
-The required libraries for this project work
+We are just going to classify the railway tracks based on images. We are using a CNN model so that we can improve our training percentage to 80%.
+
+
+<b>WHAT I HAD DONE</b>
+
+1.Understand the data
+
+2.Preprocess the data
+
+3.Build the architecture of the model
+
+4.Test the model
+
+5.Iterate the same process until you achieve the optimal results
+
+<b>MODELS USED</b>
+
+CNN
+
+<b>LIBRARIES NEEDED</b>
 
 sklearn
 
@@ -26,24 +51,13 @@ matplotlib==3.4.2
 cv
 
 
+
+
 <b>Environement</b>: Python 3.7 TensorFlow 2.4.1 (GPU support)
 
-<b>Introduction</b>
-We are just going to classify the railway tracks based on images. We are using a CNN model so that we can improve our training percentage to 80%.
 
-<b>Our Algorithm:</b>
 
-1.Understand the data
-
-2.Preprocess the data
-
-3.Build the architecture of the model
-
-4.Test the model
-
-5.Iterate the same process until you achieve the optimal results
-
-<b>Data Visualization</b>
+<b>ACCURACIES</b>
 
 
 
