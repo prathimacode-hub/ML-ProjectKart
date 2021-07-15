@@ -18,9 +18,9 @@
 
 ### MODELS USED :
 
-- Decision Tree for categorizing the feedbacks ie. 0 or 1
-- Random Forest for better accuracy.
-- Naive Bayes (MultinomialNB)
+- Decision Tree for categorizing the feedbacks ie. 0 or 1 ( accuracy = 100% )
+- Random Forest for better accuracy. (accuracy = 99.6% )
+- Naive Bayes (MultinomialNB) (accuracy = 94%)
 
 ### LIBRARIES NEEDED :
 
@@ -29,8 +29,11 @@
 
 ### SCREENSHOT :
 
-<img src="screenshot.PNG">
+<img src="Images/screenshot.PNG">
 
 ### CONCLUSION :
 
-The task of reviewing the overall feedback of the product gets easy as the reviews are classified into two categories.
+This model can be used for the analysis of the product Amazon Alexa based on the valid user reviews and predict the feedback accordingly. Helpful insights such as its place in the market can be analyzed considering the feedback predicted.The task of reviewing the overall feedback of the product gets easy as the reviews are classified into two categories.
+
+### AUTHOR :
+Sonali Bedade
