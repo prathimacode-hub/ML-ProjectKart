@@ -6,7 +6,15 @@ Dataset used: https://www.kaggle.com/salmaneunus/railway-track-fault-detection
 
 <b>Libraries and requirements</b>
 
-https://github.com/Best-forever-003/ML-ProjectKart/blob/main/Railway%20Track%20Fault%20Detection/requirements.txt
+The required libraries for this project work
+
+sklearn
+tensorflow
+Numpy==1.19.2
+pandas==1.2.4
+matplotlib==3.4.2
+cv
+
 
 <b>Environement</b>: Python 3.7 TensorFlow 2.4.1 (GPU support)
 
