@@ -9,10 +9,20 @@ Dataset used: https://www.kaggle.com/salmaneunus/railway-track-fault-detection
 The required libraries for this project work
 
 sklearn
+
+
 tensorflow
+
+
 Numpy==1.19.2
+
+
 pandas==1.2.4
+
+
 matplotlib==3.4.2
+
+
 cv
 
 
@@ -34,7 +44,13 @@ We are just going to classify the railway tracks based on images. We are using a
 5.Iterate the same process until you achieve the optimal results
 
 <b>Data Visualization</b>
+
+
+
 ![](https://github.com/Best-forever-003/ML-ProjectKart/blob/main/Railway%20Track%20Fault%20Detection/Images/Graph.jpeg)
+
+
+
 
 <b>Conclusion</b>
 
