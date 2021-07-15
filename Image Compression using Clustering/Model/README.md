@@ -2,7 +2,7 @@
         
    <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Image%20Compression%20using%20Clustering/Images/project_viz1.png" width="300">
 
-**GOAL** - This a Face Mask Detection project that uses both Haar Cascades and Caffe framework approaches for face detection and a finetuned MobileNetV2 model to detect masks on face taking real time video stream as input.
+**GOAL** - This is a image compression algorithm where clustering approach has been used to redude the color vectors of the image to k colors. 
 
 **DATASET** Just upload an image of any format!
 
