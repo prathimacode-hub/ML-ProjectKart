@@ -59,8 +59,11 @@ sklearn
  - By using Voting Classifier (soft voting) 
  ```python
     Accuracy achieved :  0.871
-
+ ``` 
 Random forest classifier gives the highest accuracy which is almost similar to voting classifer(soft voting).
 
 Here, we will consider random forest classifier to be most efficient.
 And here model is deployed....
+
+## By:
+Drashti Patel
