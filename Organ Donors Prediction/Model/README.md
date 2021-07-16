@@ -25,7 +25,7 @@ Dataset can be downloaded from [here](https://www.kaggle.com/momohmustapha/donor
 - Lasso Regression
 - Random Forest Classifier
 - Decision Tree Classifier
-
+- XGBoost Classifier
 
 
 **LIBRARIES NEEDED**
@@ -61,16 +61,20 @@ Dataset can be downloaded from [here](https://www.kaggle.com/momohmustapha/donor
  ``` 
 - By using Random Forest Classifier model 
  ```python
-    Accuracy achieved :  75.98
+    Accuracy achieved :  76.11
  ``` 
 - By using Decision Tree Classifier model 
  ```python
-    Accuracy achieved :  62.73
+    Accuracy achieved :  63.04
+ ``` 
+ - By using XGBoost Classifier model 
+ ```python
+    Accuracy achieved :  63.71
  ``` 
 **Conclusion:**
 - Accuracy of Regression models- Linear regression, rigde regression, Lasso Regression is very low.
 
-- Whereas accuracy of Logistic Regression, K Neighbors Classifier, Random Forest Classifier, and Decision Tree Classifier is almost same.
+- Whereas accuracy of Logistic Regression, K Neighbors Classifier, Random Forest Classifier, XGBoost Classifier, and Decision Tree Classifier is almost same.
 
 - And the Accuracy of the Random Forest is more, so it is efficient among all.
 
