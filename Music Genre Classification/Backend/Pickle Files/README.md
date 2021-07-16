@@ -1,0 +1,2 @@
+<p>The pickle files used in this project are genrated using code in model.py </p><br>
+<p>Pickle is a module in Python used for serializing and de-serializing Python objects. This converts Python objects like lists, dictionaries, etc. into byte streams (zeroes and ones). You can convert the byte streams back into Python objects through a process called unpickling. Pickling is also known as serialization, flattening, or marshalling.</p>

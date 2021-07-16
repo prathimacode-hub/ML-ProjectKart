@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="../static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../static/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="../static/vendor/aos/aos.css" rel="stylesheet">
+    <link href="../static/vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="../static/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <link href="../static/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="../static/css/style.css" rel="stylesheet">
+
+</head>
+
+<body onload="setup()">
+
+<!-- ======= Header ======= -->
+<header id="header" class="header fixed-top">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+        <nav id="navbar" class="navbar">
+            <ul class="navbar-right">
+                <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+                <li><a class="nav-link scrollto" href="#analysis">Analysis</a></li>
+            </ul>
+            <i class="bi bi-list mobile-nav-toggle"></i>
+        </nav><!-- navbar -->
+
+    </div>
+</header><!-- End Header -->
+
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="hero d-flex align-items-center">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 d-flex flex-column justify-content-center">
+                <h1 data-aos="fade-up">Music Genre Classification</h1>
+                <h2 data-aos="fade-up" data-aos-delay="400"></h2>
+                <div data-aos="fade-up" data-aos-delay="600">
+                    <div class="text-center text-lg-start">
+                        <a href="#analysis" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
+                            <span>Get Started</span>
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
+                <img src="../static/img/guitar.jpg" class="img-fluid" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Hero -->
+
+<section id="analysis" class="hero d-flex align-items-center">
+
+    <div class="container" data-aos="fade-up">
+        <div class="row">
+            <h1 class="text-center p-8">Upload music file for Classification</h1>
+        </div>
+        <div class="analysis">
+
+            <br><br>
+            <div class="box">
+                <form id="formid" method="POST" action="/success" enctype="multipart/form-data">
+                    <label><b style="color:#012970">format : .wav</b></label> <br>
+                    <input type="file" name="file" aria-label="File browser example" required="required" accept=".wav" id = "upload"/>
+                    <!--  <input id='fileid' type='file' name='filename'accept='.wav,.mp3' hidden/>
+                      <input id='buttonid' type='button' value='Upload File'/> -->
+                    <audio id="audio" controls>
+                        <source src="" id="src" />
+                    </audio>
+                    <input type="submit" value="Submit"/>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+</body>
+
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+<!-- Vendor JS Files -->
+<script src="../static/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+<script src="../static/vendor/aos/aos.js"></script>
+<script src="../static/vendor/php-email-form/validate.js"></script>
+<script src="../static/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="../static/vendor/purecounter/purecounter.js"></script>
+<script src="../static/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="../static/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="../static/js/main.js"></script>
+<!-- Template Main JS File -->
+<script>
+    function handleFiles(event) {
+      var files = event.target.files;
+      $("#src").attr("src", URL.createObjectURL(files[0]));
+      document.getElementById("audio").load();
+    }
+
+    document.getElementById("upload").addEventListener("change", handleFiles, false);
+    </script>
+</html>
