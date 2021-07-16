@@ -69,7 +69,7 @@ Dataset can be downloaded from [here](https://www.kaggle.com/momohmustapha/donor
  ``` 
  - By using XGBoost Classifier model 
  ```python
-    Accuracy achieved :  63.71
+    Accuracy achieved :  73.71
  ``` 
 **Conclusion:**
 - Accuracy of Regression models- Linear regression, rigde regression, Lasso Regression is very low.
