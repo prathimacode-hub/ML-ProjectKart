@@ -31,6 +31,15 @@ https://www.kaggle.com/sansuthi/world-population-by-year
 
 * Linear Regression:
 
+## Libraries Needed
+* sklearn==0.0
+* seaborn==0.10.1
+* numpy==1.18.5
+* pandas==1.0.5
+* matplotlib==3.2.2
+* scipy==1.5.0
+* xgboost==1.4.2
+
 ## Accuracy Score of each model
 * Linear Regression:
 * Logistic Regression:
