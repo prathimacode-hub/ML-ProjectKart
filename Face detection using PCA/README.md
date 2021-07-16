@@ -1,4 +1,21 @@
 
+## Intro to face Recognition
+
+A facial recognition system is a technology capable of matching a human face from a digital image or a video frame against a database of faces, typically employed to authenticate users through ID verification services, works by pinpointing and measuring facial features from a given image.
+
+
+
+Faces recognition example using eigenfaces and SVMs
+Our discussion of PCA spent a lot of time on theoretical issues, so in this mini-project we’ll ask you to play around with some sklearn code. The eigenfaces code is interesting and rich enough to serve as the testbed for this entire mini-project.
+
+## Models used 
+Principal Component Analysis, or PCA, is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
+
+
+
+
+
+
 ### Install
 
 This project requires **Python 3.6** and the following Python libraries installed:
