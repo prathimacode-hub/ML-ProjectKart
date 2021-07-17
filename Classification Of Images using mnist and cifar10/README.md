@@ -38,7 +38,7 @@ sklearn-learn
 98 and 79 percent test accuracy for 2 models
 
 
-**CONCLUSION**
+**CONCLUSION** <br>
 Convolution neural network is trained for mnist dataset using 1 convolutional layer and 2 fully connected layers. 
 It is observed that training accuracy is 99.1% and testing accuracy is 98.7% for batch size 128 and epochs 5. And for cifar10 79 tsting set accuracy for batch size 100 and epochs 7.
 Accuracy can be improved with more epochs and tuning hyper parameters. 
