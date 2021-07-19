@@ -1,4 +1,4 @@
-**Classification Of Images using mnist and cifar10**
+**Classification of Images Using MNIST and CIFAR10**
 
 **GOAL**
 
