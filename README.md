@@ -348,6 +348,9 @@ You can check out your points scored here : **[LGMSOC_SCORECARD](https://github.
   </tr>
 </table>
 
+You can check out your points scored here : **[DCP_SCORECARD](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/DCP_SCORECARD.md)** <br>
+**Point to Note** : It will be updated once in 2 days. 
+
 
 <h2>✨Hall Of Fame</h2>   
 
