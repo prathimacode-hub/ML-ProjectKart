@@ -1,0 +1,7 @@
+Libraries Used:-
+- pandas == 1.1.5
+- numpy == 1.19.5
+- matplotlib == 3.3.4
+- tensorflow == 2.5.0
+- opencv == 4.5.2.54
+- flask == 2.0.1
