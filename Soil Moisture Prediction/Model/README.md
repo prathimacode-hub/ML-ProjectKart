@@ -1,4 +1,4 @@
-**PROJECT TITLE - IPL Winner Prediction**
+**PROJECT TITLE - Soil Moisture Prediction**
         
 <img src = https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Soil%20Moisture%20Prediction/Images/project_viz.png width = '500'>
 
