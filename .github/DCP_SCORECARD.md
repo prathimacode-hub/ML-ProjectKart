@@ -1,0 +1,41 @@
+<h1> DCP - SCORE CARD 2021 ✨✨✨ </h1> <br>
+<h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
+
+## Total Number Of PR's : 7
+## Total Number of Contributors : 6
+  
+Name : Aamir P <br>
+Github : https://github.com/Best-forever-003 <br>
+Number of PR's : 2 <br>
+Projects Done : German Traffic Sign Classification (Level 3) | Railway Track Fault detection (Level 3) | <br>
+Points : 80 <br>
+
+Name : Arihant Rode <br>
+Github : https://github.com/arihantrode89 <br>
+Number of PR's : 1 <br>
+Projects Done : Diabetes Prediction (Enhanced) (Level 2) | <br>
+Points : 20 <br>
+
+Name : Akash Jain <br>
+Github : https://github.com/Akash20x <br>
+Number of PR's : 1 <br>
+Projects Done : Coffee Production Prediction (Level 3) | <br>
+Points : 40 <br>
+
+Name : Palak Singh <br>
+Github : https://github.com/palak740 <br>
+Number of PR's : 1 <br>
+Projects Done : Word Population By Year Analysis (Level 3) | <br>
+Points : 40 <br>
+
+Name : Ritika Chand <br>
+Github : https://github.com/RC2208 <br>
+Number of PR's : 1 <br>
+Projects Done : Classification of Images using MNIST and CIFAR10 (Level 3) | <br>
+Points : 40 <br>
+
+Name : Dilrose Reji <br>
+Github : https://github.com/dilroseR <br>
+Number of PR's : 1 <br>
+Projects Done : Driver Drowsiness Detection System (Level 3) | <br>
+Points : 40 <br>
