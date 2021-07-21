@@ -5,16 +5,18 @@ Road traffic accidents claim the lives of about 1.35 million people per year. Fo
 
 ## GOAL
 
-Get the predictions for amount
+It does the car insurance predictions.
 
 ## DATASET
 You can have dataset from Dataset folder also it is availbale on kaggle 
+Link to the dataset=   ../input/fast-furious-and-insured
 
 ## WHAT I HAD DONE-
 I have load necessary libraries, preprossed data and build a model that predicts the insurance claim of the cars that are provided in the dataset.I have build random forest regression model
 1.Loading required packages
 2.Loading training data
 3.Loading testing data
+4.Exploratory Data Analysis
 4.Pre-processing
 5.Label encoding and scaling
 6.Train a random forest regressor
@@ -48,6 +50,8 @@ os
  99
 
 ## CONCLUSION
+It can be concluded from the model that all the preprocessing techniques and the  Random Forest Regression works really well on the data.The data was higly imbalanced and the image of damaged vehicles wer not also good, howsoever transfer learning works well and also  data was label encoded so as to assign a numeric value to a categorical value. Tje data was also normalissed using the standard StandardScaler.Also the Exploratory Data Analysis done on the data gives us various insights about the data which would be greately usfull for the future predictions.
+
 
 
 ## Done by
