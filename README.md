@@ -420,8 +420,7 @@ If you liked working on this project, do ⭐ and share this repository.
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
-<td>
-<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/tree/main/Projects)***</kbd> *to view my other projects.</sup>* <br>
+<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
 </td>
 
 
