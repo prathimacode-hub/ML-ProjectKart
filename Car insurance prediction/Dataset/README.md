@@ -1,7 +1,7 @@
 
 ## DATASET
 You can have dataset from Dataset folder also it is availbale on kaggle 
-Link to the dataset=   ../input/fast-furious-and-insured
+Link to the dataset= https://www.kaggle.com/infernape/fast-furious-and-insured
 
 
 ## ATTRIBUTES
