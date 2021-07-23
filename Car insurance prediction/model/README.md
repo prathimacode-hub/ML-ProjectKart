@@ -9,7 +9,7 @@ It does the car insurance predictions.
 
 ## DATASET
 You can have dataset from Dataset folder also it is availbale on kaggle 
-Link to the dataset=   ../input/fast-furious-and-insured
+Link to the dataset=   https://www.kaggle.com/infernape/fast-furious-and-insured
 
 ## WHAT I HAD DONE-
 I have load necessary libraries, preprossed data and build a model that predicts the insurance claim of the cars that are provided in the dataset.I have build random forest regression model
