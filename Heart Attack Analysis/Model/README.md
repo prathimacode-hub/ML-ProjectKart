@@ -91,4 +91,6 @@ By using Random Forest Classifier I got
 
 - Performance of **Logistic regression** is better in terms of accuracy as compared to other model.
 
+- **By**:https://github.com/harshita9621
+
 
