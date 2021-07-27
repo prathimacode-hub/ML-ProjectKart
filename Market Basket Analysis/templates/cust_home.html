@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="container">
+
+  <div class="jumbotron">
+    {% if name.replace(' ','') == '' %}
+
+      <h3 style="font-weight: bold; color:red;">Invalid Customer Name. Please go to Home page and enter a correct name.</h3>
+
+    {% else %}
+
+      {% if new=='y' %}
+
+        <h2 style="font-weight: bold; color:blue;">Welcome, "{{name}}"</h2>
+        <br>
+        <h3 style="font-weight: bold; color:blue;">Hope you have a great experience</h3>
+
+      {% else %}
+
+        <h2 style="font-weight: bold; color:blue;">Welcome, "{{name}}"</h2>
+        <br>
+        {% include 'custmostpopulartable.html' %}
+        {% include 'custtopselltable.html' %}
+        {% include 'prodrecommendtable.html' %}
+
+      {% endif %}
+
+    {% endif %}
+  </div>
+</div>
+
+<div class="container">
+  {% include 'mostpopulartable.html' %}
+  {% include 'topselltable.html' %}
+</div>
+
+
+{% endblock %}

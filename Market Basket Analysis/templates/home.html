@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<br>
+
+<div class="container">
+  <h2 style="font-weight: bold; color:blue">Welcome to Market Basket Recommend System</h2>
+</div>
+
+<div class="container">
+  <div class="jumbotron">
+
+    <p style="font-weight: bold; color:black">Enter Customer Name</p>
+
+    <form action="{{url_for('login')}}">
+      <input type="text" name="name" class="form-control">
+      <input type="submit" class="btn btn-info" value="LOGIN">
+    </form>
+
+    <br>
+
+    <p style="font-weight: bold; color:black">Enter Product Name</p>
+
+    <form action="{{url_for('view')}}">
+      <input type="text" name="prod" class="form-control">
+      <input type="submit" class="btn btn-info" value="VIEW">
+    </form>
+
+  </div>
+</div>
+
+<div class="container">
+  {% include 'mostpopulartable.html' %}
+  {% include 'topselltable.html' %}
+</div>
+
+
+{% endblock %}
