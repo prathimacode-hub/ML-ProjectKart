@@ -14,7 +14,7 @@ https://www.kaggle.com/abderrahimalakouche/data-analysis-products-dataset
 6. **Region_address**: Regional address of seller
 7. **Local_address**: Local address (City) of seller
 
-### Data Cleaning and Data Visualization 
+### Project Description and Approach
 * **Cleaned** the Product dataset by removing unwanted spaces, quotes and by replacing unwanted strings and empty string with NAN. 
 * Distributed the dataset in test and training set.
 * Dealt with **missing values** and removed **duplicates** from the test and training dataset.
@@ -24,8 +24,9 @@ https://www.kaggle.com/abderrahimalakouche/data-analysis-products-dataset
 * **Bar plot** was plotted between different regions of sellers and total price of all the products sold by the seller in each region to check for the demand of diiferent products.
 * Categorial features were **label encoded** for applying regression models for the prediction of price.
 * Features were **scaled** before applying ML model to it. 
+* Applied multiple regression models on the scaled dataset, then predicted price of test dataset using the best model.
 
-### Models
+### Models Used
 * **Random Forest Regressor**: A random forest is a supervised machine learning algorithm that can be used for both classification and regression tasks. Here, random forest is used for regression task. 
 Random Forest Regression is a supervised learning algorithm that uses ensemble learning method for regression. The model works by sampling the training dataset, building multiple decision trees, and outputting the mean/mode of prediction of the individual trees.
 
