@@ -1,4 +1,4 @@
-**PROJECT TITLE - American Sign Language (ASL) Recognition**
+**PROJECT TITLE - Waste Classification**
         
 <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Waste%20Classification/Images/project_viz.png" width = 800>
 
