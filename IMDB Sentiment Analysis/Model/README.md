@@ -16,9 +16,11 @@
 
 
 **MODELS USED**
-| Model | Train Score | Test Scoe
-| :--------: | :----------: |
-| LSTM | 0.9319 | 0.8766 
+
+
+| Model | #Train Score | #Test Score |
+| :---: | :---: | :---: |
+| LSTM | 0.9319 | 0.8766 |
 
 
 
