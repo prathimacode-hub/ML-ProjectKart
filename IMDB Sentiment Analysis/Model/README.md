@@ -28,7 +28,7 @@
 ## Wordclouds from movie reviews :
 
 ### Positive Reviews
-![](https://github.com/shivani6320/ML-ProjectKart/blob/sentiment_analysis/IMDB%20Sentiment%20Analysis/Images/positive.png?raw=true))
+![](https://github.com/shivani6320/ML-ProjectKart/blob/sentiment_analysis/IMDB%20Sentiment%20Analysis/Images/positive.png?raw=true)
 
 ### Negative Reviews
 ![](https://github.com/shivani6320/ML-ProjectKart/blob/sentiment_analysis/IMDB%20Sentiment%20Analysis/Images/negative.png?raw=true)
@@ -45,8 +45,8 @@
 - re
 - NLTK
 
-**Conclusion**
+**CONCLUSION**
 - Text cleaning performs major role in improvinh model performance to get better results.
-- After comparing multiple models, BERT Model gives the best performance with test accuracy of 90%
+- After comparing multiple models, **BERT** Model gives the best performance with 90% test accuracy.
 
 
