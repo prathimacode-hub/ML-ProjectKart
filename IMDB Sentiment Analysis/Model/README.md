@@ -28,10 +28,10 @@
 ## Wordclouds from movie reviews :
 
 ### Positive Reviews
-![](IMDB sentiment Analysis/Images/positive.png)
+![](https://github.com/shivani6320/ML-ProjectKart/blob/sentiment_analysis/IMDB%20Sentiment%20Analysis/Images/positive.png?raw=true))
 
 ### Negative Reviews
-![](IMDB sentiment Analysis/Images/negative.png)
+![](https://github.com/shivani6320/ML-ProjectKart/blob/sentiment_analysis/IMDB%20Sentiment%20Analysis/Images/negative.png?raw=true)
 
 
 **LIBRARIES NEEDED**
