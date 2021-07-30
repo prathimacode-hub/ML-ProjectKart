@@ -1,8 +1,8 @@
 PROJECT TITLE -
-Used Car Price Prediction using CARDEKHO dataset
+Used Car Price Prediction using  dataset
 
 DATASET
-Car Details using CARDEKHO dataset
+Car Details using  dataset
 
 WHAT HAVE I DONE
 Pre Processing data
