@@ -1,4 +1,5 @@
 # Snapchat Filters
+We can build our own Snapchat Filters with the help of some libraries present with Python programming language.
 
 
 ### Libraries Used
