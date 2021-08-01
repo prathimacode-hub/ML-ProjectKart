@@ -1,8 +1,8 @@
 <h1> DCP - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 7
-## Total Number of Contributors : 6
+## Total Number Of PR's : 10
+## Total Number of Contributors : 7
   
 Name : Aamir P <br>
 Github : https://github.com/Best-forever-003 <br>
@@ -18,15 +18,15 @@ Points : 20 <br>
 
 Name : Akash Jain <br>
 Github : https://github.com/Akash20x <br>
-Number of PR's : 1 <br>
-Projects Done : Coffee Production Prediction (Level 3) | <br>
-Points : 40 <br>
+Number of PR's : 2 <br>
+Projects Done : Coffee Production Prediction (Level 3) | Olympic Medal Prediction (Level 3) | <br>
+Points : 80 <br>
 
 Name : Palak Singh <br>
 Github : https://github.com/palak740 <br>
-Number of PR's : 1 <br>
-Projects Done : Word Population By Year Analysis (Level 3) | <br>
-Points : 40 <br>
+Number of PR's : 2 <br>
+Projects Done : Word Population By Year Analysis (Level 3) | Avito Product Analysis and Price Prediction (Level 3) | <br>
+Points : 80 <br>
 
 Name : Ritika Chand <br>
 Github : https://github.com/RC2208 <br>
@@ -39,3 +39,9 @@ Github : https://github.com/dilroseR <br>
 Number of PR's : 1 <br>
 Projects Done : Driver Drowsiness Detection System (Level 3) | <br>
 Points : 40 <br>
+
+Name : Vaishnavi Patil <br>
+Github : https://github.com/vaishnavipatil4848 <br>
+Number of PR's : 1 <br>
+Projects Done : Object Detection using OpenCV (Level 2) | <br>
+Points : 20 <br>
