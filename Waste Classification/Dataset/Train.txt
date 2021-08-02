@@ -1,0 +1,1 @@
+Training data is available at https://www.kaggle.com/techsash/waste-classification-data
