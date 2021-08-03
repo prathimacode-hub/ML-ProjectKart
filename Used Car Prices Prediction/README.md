@@ -1,15 +1,15 @@
-PROJECT TITLE -
+**PROJECT TITLE -**
 
 
 Used Car Price Prediction using  dataset
 
 
-DATASET
+**DATASET**
 
 Car Details using  dataset
 
 
-WHAT HAVE I DONE
+**WHAT HAVE I DONE**
 
 
 Pre Processing data
@@ -26,7 +26,7 @@ Performing Predictions with accuracy.
 
 
 
-Libraries used:
+**Libraries used:**
 
 sk-learn
 
