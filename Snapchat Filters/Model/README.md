@@ -1,14 +1,34 @@
 # Snapchat Filters
-We can build our own Snapchat Filters with the help of some libraries present with Python programming language.
 
+**GOAL:**
+We will build our own Snapchat Filters with the help of some libraries using Python programming language.
 
-### Libraries Used
+**DATASET:**
+No dataset available. Instead we will be using images of our choice.
+
+**WHAT I HAD DONE:**
+
+I have created a project for making our own snapchat filters. 
+First I am reading the required images for snapchat filters and then getting the coordinates for different parts of faces present in the image.
+
+Then drawing a rectangle using X , Y axes and then displaying the face with a boundary box.
+
+After that we are getting the proper coordinates for eyes using the height (h) and width (w) with the help of x1, y1, x2, y2 coordinates to fit our sunglasses.
+
+And then using the for loop we are superimposing the image with the help of 3 channels (RGB) and finally displaying the snapchat filtered image.
+
+**MODELS USED:**
+
+We are not using any traditional model for performing this task.
+
+**LIBRARIES NEEDED:**
 - MTCNN
 - Numpy
 - OpenCV
 - Matplotlib
 
-### Working
+**WORKING:**
+
 To start using this project, follow the below guidelines: 
 
 **1.**  Fork this project/repository. 🍴
@@ -33,24 +53,32 @@ pip install -r requirements.txt
 
 **5.** Run `Snapchat Filters.ipynb` file in Google Colab or Jupyter Notebook or any other platform 💻
 
-### Screenshots
+**CONCLUSION**
+
+**SCREENSHOTS:**
 
 **1. Sample image of Human**
 <div align="center">
   
-<img width="500" height="550" src="../Snapchat%20Filters/Images/chris%20hems%20img.jpg">
+<img width="500" height="550" src="https://github.com/Umesh-01/ML-ProjectKart/blob/patch-2/Snapchat%20Filters/Images/chris%20hems%20img.jpg">
 </div>
 
 **2. Sample image of Goggles**
 <div align="center">
 
-<img width="500" height="300" src="../Snapchat%20Filters/Images/sunglasses.png">
+<img width="500" height="300" src="https://github.com/Umesh-01/ML-ProjectKart/blob/patch-2/Snapchat%20Filters/Images/sunglasses.png">
 </div>
 
 **3. Output**
 <div align="center">
 
-<img width="500" height="550" src="../Snapchat%20Filters/Images/ImageWithGoggles.png">
+<img width="500" height="550" src="https://github.com/Umesh-01/ML-ProjectKart/blob/patch-2/Snapchat%20Filters/Images/ImageWithGoggles.png">
+</div>
+
+**4. Comparison**
+<div align="center">
+
+<img width="700" height="400" src="https://github.com/Umesh-01/ML-ProjectKart/blob/patch-2/Snapchat%20Filters/Images/Snapchat_Filtered.png">
 </div>
 
 
