@@ -53,7 +53,9 @@ pip install -r requirements.txt
 
 **5.** Run `Snapchat Filters.ipynb` file in Google Colab or Jupyter Notebook or any other platform 💻
 
-**CONCLUSION**
+**CONCLUSION:**
+
+Finally, we have created a project for snapchat filters with the help of this project we can apply any kind of filters on different images. And we have also learnt how to make such type of snapchat filters, the output we got with this project is also attached here.
 
 **SCREENSHOTS:**
 
