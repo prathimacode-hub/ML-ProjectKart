@@ -7,7 +7,7 @@ The goal of this project is to make a prediction model which will predict genre 
 
 ## DATASET
 The dataset which is used in this project, is CMU Book Summary Dataset. Here is the link of the dataset : http://www.cs.cmu.edu/~dbamman/booksummaries.html. I have uploaded the
-same in [`Dataset`](https://github.com/prathimacode-hub 7/ML-ProjectKart/tree/main/Book%20Genre%20Prediction/Dataset) folder too, you can access that!
+same in [`Dataset`](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Book%20Genre%20Prediction/Dataset) folder too, you can access that!
 
 ## LIBRARIES NEEDED
 
