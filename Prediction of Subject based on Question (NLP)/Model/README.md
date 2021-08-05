@@ -1,4 +1,4 @@
-**PROJECT TITLE - Glass Classification**
+**PROJECT TITLE - Prediction of Subject based on Question (NLP)**
         
 <img src = https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Prediction%20of%20Subject%20based%20on%20Question%20(NLP)/Images/project_viz.png width = '300'>
 
@@ -34,7 +34,7 @@
 
 
 
-#### WordCloud Visualizations
+### WordCloud Visualizations
 
 - **WordCloud of most common 100 words**
 
@@ -114,7 +114,7 @@
 
 
 
-#### From the model comparison it is evident that the Random Forest Classifier performs better than other models with a Training Accuracy of 98% and a testing accuracy of 87%.
+### From the model comparison it is evident that the Random Forest Classifier performs better than other models with a Training Accuracy of 98% and a testing accuracy of 87%.
 
 
 <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Prediction%20of%20Subject%20based%20on%20Question%20(NLP)/Images/predictions_count.png" width = "500">
