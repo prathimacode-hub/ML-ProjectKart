@@ -1,8 +1,8 @@
 <h1> LGMSOC - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number of PR's : 189
-## Total Number of Contributors : 40
+## Total Number of PR's : 195
+## Total Number of Contributors : 41
 
 Name : Raunak <br>
 Github : https://github.com/raunak51299 <br>
@@ -12,9 +12,9 @@ Points : 75 <br>
 
 Name : Soumayan Pal <br>
 Github : https://github.com/Soumayan-pal01 <br>
-Number of PR's : 21 <br>
-Projects Done : Face Mask Detection Using OpenCV (Level 4) | Uber Fare Prediction (Level 4) | Image Compression Using Clustering (Level 4) | Credit Card Fraud Detection (Level 4) | Fake News Detection (Level 4) | Solar Eclipse Classification (Level 4) | Disneyland Review Analysis (Level 4) | Flight Fare Prediction (Level 4) | American Sign Language Recognition (Level 4) | Malaria Disease Prediction (Level 4) | Human Activity Recognition using Smartphones (Level 4) | Bike Rental Demand Analysis (Level 4) |  Gold Price Prediction (Level 4) | IPL Winner Prediction (Level 4) | Soil Moisture Prediction (Level 4) | Vehicle Image Classification (Level 4) | Airline Passenger Satisfaction (Level 4) | Honey Bee Pollen Detection (Level 4) | English Alphabet Classification (Level 4) | Glass Classification (Level 4) | Waste Classification (Level 4) | <br>
-Points : 945 <br>
+Number of PR's : 22 <br>
+Projects Done : Face Mask Detection Using OpenCV (Level 4) | Uber Fare Prediction (Level 4) | Image Compression Using Clustering (Level 4) | Credit Card Fraud Detection (Level 4) | Fake News Detection (Level 4) | Solar Eclipse Classification (Level 4) | Disneyland Review Analysis (Level 4) | Flight Fare Prediction (Level 4) | American Sign Language Recognition (Level 4) | Malaria Disease Prediction (Level 4) | Human Activity Recognition using Smartphones (Level 4) | Bike Rental Demand Analysis (Level 4) |  Gold Price Prediction (Level 4) | IPL Winner Prediction (Level 4) | Soil Moisture Prediction (Level 4) | Vehicle Image Classification (Level 4) | Airline Passenger Satisfaction (Level 4) | Honey Bee Pollen Detection (Level 4) | English Alphabet Classification (Level 4) | Glass Classification (Level 4) | Waste Classification (Level 4) | Prediction of Subject based on Question (NLP) (Level 4) | <br>
+Points : 990 <br>
 
 Name : Neeraj Ap <br>
 Github : https://github.com/NEERAJAP2001 <br>
@@ -126,9 +126,9 @@ Points : 2295  <br>
 
 Name : Umesh Singh <br>
 Github : https://github.com/Umesh-01 <br>
-Number of PR's : 1 <br>
-Projects Done : Add Links to the Badges (Level 0) | <br>
-Points : 5 <br>
+Number of PR's : 2 <br>
+Projects Done : Add Links to the Badges (Level 0) | SnapChat Filters (Level 3) | <br>
+Points : 35 <br>
 
 Name : Shivani Rana <br>
 Github : https://github.com/shivani6320 <br>
@@ -204,9 +204,9 @@ Points : 30 <br>
 
 Name : Akash Ramanand Rajak <br>
 Github : https://github.com/akash435 <br>
-Number of PR's : 5 <br>
-Projects Done : Amazon Data Analysis (Level 4) | Password Strength Classifier (Level 3) | Fake Jobs Posting Prediction (Level 3) | Marathon Time Prediction (Level 3) | Organ Donors Prediction (Level 4) |  <br>
-Points : 180 <br>
+Number of PR's : 6 <br>
+Projects Done : Amazon Data Analysis (Level 4) | Password Strength Classifier (Level 3) | Fake Jobs Posting Prediction (Level 3) | Marathon Time Prediction (Level 3) | Organ Donors Prediction (Level 4) | Disease Symptom Prediction (Level 4) | <br>
+Points : 225 <br>
 
 Name : Shady <br>
 Github : https://github.com/Shady2320 <br>
@@ -216,9 +216,9 @@ Points : 45 <br>
 
 Name : Aryan Tiwari <br>
 Github : https://github.com/aryantiwari10 <br>
-Number of PR's : 9 <br>
-Projects Done : Hotel Booking Prediction (Level 4) | NBA-Analysis and Prediction (Level 4) | Bank Customers Prediction (Level 4) | Fragrance Price Prediction (Level 4) | Future Sales Prediction (Level 2) | Private Companies Prediction (Level 4) | Brazil Fires Prediction (Level 4) | Supermarket Sales Prediction (Level 4) | Graduate Admission Prediction (Level 4) |  <br>
-Points : 375 <br>
+Number of PR's : 11 <br>
+Projects Done : Hotel Booking Prediction (Level 4) | NBA-Analysis and Prediction (Level 4) | Bank Customers Prediction (Level 4) | Fragrance Price Prediction (Level 4) | Future Sales Prediction (Level 2) | Private Companies Prediction (Level 4) | Brazil Fires Prediction (Level 4) | Supermarket Sales Prediction (Level 4) | Graduate Admission Prediction (Level 4) | Mempool Prediction (Level 4) | Reddits Tweets Prediction (Level 4) |  <br>
+Points : 465 <br>
 
 Name : Archana M <br>
 Github : https://github.com/23-24 <br>
@@ -244,3 +244,8 @@ Number of PR's : 1 <br>
 Projects Done : Amazon Mobile Phones Reviews Analysis (Level 3) |  <br>
 Points : 30 <br>
 
+Name : Somasree Majumder <br>
+Github : https://github.com/soma2000-lang <br>
+Number of PR's : 1 <br>
+Projects Done : Car Insurance Prediction (Level 4) |  <br>
+Points : 45 <br>
