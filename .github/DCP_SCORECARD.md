@@ -1,7 +1,7 @@
 <h1> DCP - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 12
+## Total Number Of PR's : 13
 ## Total Number of Contributors : 9
   
 Name : Aamir P <br>
@@ -18,9 +18,9 @@ Points : 20 <br>
 
 Name : Akash Jain <br>
 Github : https://github.com/Akash20x <br>
-Number of PR's : 2 <br>
-Projects Done : Coffee Production Prediction (Level 3) | Olympic Medal Prediction (Level 3) | <br>
-Points : 80 <br>
+Number of PR's : 3 <br>
+Projects Done : Coffee Production Prediction (Level 3) | Olympic Medal Prediction (Level 3) | Book Genre Prediction (Level 3) | <br>
+Points : 120 <br>
 
 Name : Palak Singh <br>
 Github : https://github.com/palak740 <br>
