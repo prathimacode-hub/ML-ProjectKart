@@ -15,7 +15,8 @@ https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 ### DESCRIPTION
 
-Mall Customer Data has hypothetical customer data. According to this data , i have divided the customers into various groups which are mentioned above.
+Mall Customer Data has hypothetical customer data. It puts you in the shoes of the owner of a supermarket. You have customer data and on the basis of this data, I have divided the customers into various groups which are mentioned above.
+It has features such as CustomerID, Gender, Age, Annual Income(in thousand rupees) and Spending Score(based on customer behaviour and spending nature). 
 
 ### WHAT I HAD DONE
 
