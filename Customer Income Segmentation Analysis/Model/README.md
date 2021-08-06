@@ -46,7 +46,8 @@ It has features such as CustomerID, Gender, Age, Annual Income(in thousand rupee
 
 ### CONCLUSION
 As we can see in the diagram, that all of them are grouped into 5 categories properly, which are also giving proper predictions on known as well as unknown data.
-KMeans is the best model.
+Tried logistic regression, but it is not able to predict correctly on known data & hence it will also not able to predict properly on unknown data and in naive bayes algorithm, the accuracy is itself low. But KMeans is dividing the data into 5 groups perfectly as seen in the plot.
+Therefore, KMeans is the best model.
 
 
 ### YOUR NAME
