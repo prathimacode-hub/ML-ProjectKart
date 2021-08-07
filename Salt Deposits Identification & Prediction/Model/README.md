@@ -18,14 +18,10 @@ The dataset is collected from Kaggle website. Here is the link for the website :
 5. Model Architectures
     - U-Net Architecture
     - ResNet 34 Architecture
-    - U-Net with ResNet 34 Encoder
-6. Loss Function
-7. Augmentation
-8. Training the Model
-9. Accuracy Check
-10. Sanity check after Thresolding
-11. Final Model
-12. Conclusion and Discussion
+6. Accuracy Checking
+7. Inference
+8. Predictions
+9. Conclusion and Discussion
 
 *******************************
 ## Libraries used
@@ -52,11 +48,19 @@ The dataset is collected from Kaggle website. Here is the link for the website :
 ## Model Visualization
 **Training and Testing Loss**
 
-![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-56/Salt%20Deposits%20Identification%20%26%20Prediction/Images/__results___36_1.png)
+![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-56/Salt%20Deposits%20Identification%20%26%20Prediction/Images/salt1.png)
 
-**Accuracy scoring on Thresolding**
+**Prediction on Training Set**
 
-![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-56/Salt%20Deposits%20Identification%20%26%20Prediction/Images/__results___45_1.png)
+![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-56/Salt%20Deposits%20Identification%20%26%20Prediction/Images/salt2.png)
+
+![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-56/Salt%20Deposits%20Identification%20%26%20Prediction/Images/salt3.png)
+
+**Prediction on Test Set**
+
+![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-56/Salt%20Deposits%20Identification%20%26%20Prediction/Images/salt4.png)
+
+![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-56/Salt%20Deposits%20Identification%20%26%20Prediction/Images/salt5.png)
 
 *************************************
 ## Conclusion and Discussion
