@@ -37,4 +37,8 @@ We have  used four different deep learning models, here is the accuracy
 
 ## Conclusion
 
-From the above comparision, we can notice that accuracies of all the deep learning models are mostly same and it performs best
+From the above comparision, we can notice that accuracies of all the deep learning models are mostly same and it performs best, we can use LSTM/GRU as a final model, since it is much faster to train, we can use this model
+
+## Sean Benhur
+
+You can connect with me here on [LinkedIn](https://www.linkedin.com/in/seanbenhur/) and Twitter(https://twitter.com/seanbenhur)
