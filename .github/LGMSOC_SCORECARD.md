@@ -1,8 +1,8 @@
 <h1> LGMSOC - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number of PR's : 195
-## Total Number of Contributors : 41
+## Total Number of PR's : 199
+## Total Number of Contributors : 42
 
 Name : Raunak <br>
 Github : https://github.com/raunak51299 <br>
@@ -204,9 +204,9 @@ Points : 30 <br>
 
 Name : Akash Ramanand Rajak <br>
 Github : https://github.com/akash435 <br>
-Number of PR's : 6 <br>
-Projects Done : Amazon Data Analysis (Level 4) | Password Strength Classifier (Level 3) | Fake Jobs Posting Prediction (Level 3) | Marathon Time Prediction (Level 3) | Organ Donors Prediction (Level 4) | Disease Symptom Prediction (Level 4) | <br>
-Points : 225 <br>
+Number of PR's : 7 <br>
+Projects Done : Amazon Data Analysis (Level 4) | Password Strength Classifier (Level 3) | Fake Jobs Posting Prediction (Level 3) | Marathon Time Prediction (Level 3) | Organ Donors Prediction (Level 4) | Disease Symptom Prediction (Level 4) | Crop Fertilizers Analysis and Prediction (Level 4) | <br>
+Points : 270 <br>
 
 Name : Shady <br>
 Github : https://github.com/Shady2320 <br>
@@ -216,9 +216,9 @@ Points : 45 <br>
 
 Name : Aryan Tiwari <br>
 Github : https://github.com/aryantiwari10 <br>
-Number of PR's : 11 <br>
-Projects Done : Hotel Booking Prediction (Level 4) | NBA-Analysis and Prediction (Level 4) | Bank Customers Prediction (Level 4) | Fragrance Price Prediction (Level 4) | Future Sales Prediction (Level 2) | Private Companies Prediction (Level 4) | Brazil Fires Prediction (Level 4) | Supermarket Sales Prediction (Level 4) | Graduate Admission Prediction (Level 4) | Mempool Prediction (Level 4) | Reddits Tweets Prediction (Level 4) |  <br>
-Points : 465 <br>
+Number of PR's : 13 <br>
+Projects Done : Hotel Booking Prediction (Level 4) | NBA-Analysis and Prediction (Level 4) | Bank Customers Prediction (Level 4) | Fragrance Price Prediction (Level 4) | Future Sales Prediction (Level 2) | Private Companies Prediction (Level 4) | Brazil Fires Prediction (Level 4) | Supermarket Sales Prediction (Level 4) | Graduate Admission Prediction (Level 4) | Mempool Prediction (Level 4) | Reddits Tweets Prediction (Level 4) | Flood Prediction (Level 4) | Discussion Forum Prediction (Level 4) | <br>
+Points : 555 <br>
 
 Name : Archana M <br>
 Github : https://github.com/23-24 <br>
@@ -248,4 +248,10 @@ Name : Somasree Majumder <br>
 Github : https://github.com/soma2000-lang <br>
 Number of PR's : 1 <br>
 Projects Done : Car Insurance Prediction (Level 4) |  <br>
+Points : 45 <br>
+
+Name : Sean Benhur J <br>
+Github : https://github.com/seanbenhur <br>
+Number of PR's : 1 <br>
+Projects Done : Named Entity Recognition (Level 4) |  <br>
 Points : 45 <br>
