@@ -1,8 +1,8 @@
 <h1> DCP - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 13
-## Total Number of Contributors : 9
+## Total Number Of PR's : 16
+## Total Number of Contributors : 10
   
 Name : Aamir P <br>
 Github : https://github.com/Best-forever-003 <br>
@@ -57,3 +57,10 @@ Github : https://github.com/harshita9621 <br>
 Number of PR's : 1 <br>
 Projects Done : Heart Attack Analysis (Level 3) | <br>
 Points : 40 <br>
+
+Name : Aryan Tiwari <br>
+Github : https://github.com/aryantiwari10 <br>
+Number of PR's : 3 <br>
+Projects Done : Ramen Noodles Rating Analysis (Level 3) | Voice Gender Identification (Level 3) | Salt Deposits Identification and Prediction (Level 3) | <br>
+Points : 120 <br>
+
