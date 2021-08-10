@@ -1,7 +1,7 @@
 <h1> DCP - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 16
+## Total Number Of PR's : 17
 ## Total Number of Contributors : 10
   
 Name : Aamir P <br>
@@ -41,7 +41,7 @@ Email Id : ritikachand22@gmail.com
 
 Name : Karakattil Dilrose Reji <br>
 Github : https://github.com/dilroseR <br>
-Number of PR's : 1 <br>
+Number of PR's : 2 <br>
 Projects Done : Driver Drowsiness Detection System (Level 3) | Customer Income Analysis Segmentation (Level 2) | <br>
 Points : 60 <br>
 Email Id : dilrose2000@gmail.com
