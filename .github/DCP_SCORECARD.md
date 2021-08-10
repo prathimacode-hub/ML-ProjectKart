@@ -42,8 +42,8 @@ Email Id : ritikachand22@gmail.com
 Name : Karakattil Dilrose Reji <br>
 Github : https://github.com/dilroseR <br>
 Number of PR's : 1 <br>
-Projects Done : Driver Drowsiness Detection System (Level 3) | <br>
-Points : 40 <br>
+Projects Done : Driver Drowsiness Detection System (Level 3) | Customer Income Analysis Segmentation (Level 2) | <br>
+Points : 60 <br>
 Email Id : dilrose2000@gmail.com
 
 Name : Vaishnavi Patil <br>
