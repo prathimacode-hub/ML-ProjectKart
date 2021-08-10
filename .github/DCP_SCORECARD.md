@@ -58,7 +58,7 @@ Github : https://github.com/shivani6320 <br>
 Number of PR's : 1 <br>
 Projects Done : IMDB Sentiment Analysis (Level 3) | <br>
 Points : 40 <br>
-Email Id : 
+Email Id : shivanirana6320@gmail.com
 
 Name : Harshita Nayak <br>
 Github : https://github.com/harshita9621 <br>
