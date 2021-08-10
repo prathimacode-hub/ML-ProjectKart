@@ -65,7 +65,7 @@ Github : https://github.com/harshita9621 <br>
 Number of PR's : 1 <br>
 Projects Done : Heart Attack Analysis (Level 3) | <br>
 Points : 40 <br>
-Email Id : 
+Email Id : harshitanayak40@gmail.com
 
 Name : Abhishek Sharma <br>
 Github : https://github.com/aryantiwari10 <br>
