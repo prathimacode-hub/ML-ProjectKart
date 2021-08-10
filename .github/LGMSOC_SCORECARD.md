@@ -1,7 +1,7 @@
 <h1> LGMSOC - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number of PR's : 199
+## Total Number of PR's : 203
 ## Total Number of Contributors : 42
 
 Name : Raunak <br>
@@ -126,9 +126,9 @@ Points : 2295  <br>
 
 Name : Umesh Singh <br>
 Github : https://github.com/Umesh-01 <br>
-Number of PR's : 2 <br>
-Projects Done : Add Links to the Badges (Level 0) | SnapChat Filters (Level 3) | <br>
-Points : 35 <br>
+Number of PR's : 4 <br>
+Projects Done : Add Links to the Badges (Level 0) | SnapChat Filters (Level 3) | Face Detection and Blurring (Level 2) | Detecting Motion and Moving Objects in Video (Level 3) | <br>
+Points : 80 <br>
 
 Name : Shivani Rana <br>
 Github : https://github.com/shivani6320 <br>
@@ -204,9 +204,9 @@ Points : 30 <br>
 
 Name : Akash Ramanand Rajak <br>
 Github : https://github.com/akash435 <br>
-Number of PR's : 7 <br>
-Projects Done : Amazon Data Analysis (Level 4) | Password Strength Classifier (Level 3) | Fake Jobs Posting Prediction (Level 3) | Marathon Time Prediction (Level 3) | Organ Donors Prediction (Level 4) | Disease Symptom Prediction (Level 4) | Crop Fertilizers Analysis and Prediction (Level 4) | <br>
-Points : 270 <br>
+Number of PR's : 8 <br>
+Projects Done : Amazon Data Analysis (Level 4) | Password Strength Classifier (Level 3) | Fake Jobs Posting Prediction (Level 3) | Marathon Time Prediction (Level 3) | Organ Donors Prediction (Level 4) | Disease Symptom Prediction (Level 4) | Crop Fertilizers Analysis and Prediction (Level 4) | Car Prices Prediction (Level 4) | <br>
+Points : 315 <br>
 
 Name : Shady <br>
 Github : https://github.com/Shady2320 <br>
@@ -216,9 +216,9 @@ Points : 45 <br>
 
 Name : Aryan Tiwari <br>
 Github : https://github.com/aryantiwari10 <br>
-Number of PR's : 13 <br>
-Projects Done : Hotel Booking Prediction (Level 4) | NBA-Analysis and Prediction (Level 4) | Bank Customers Prediction (Level 4) | Fragrance Price Prediction (Level 4) | Future Sales Prediction (Level 2) | Private Companies Prediction (Level 4) | Brazil Fires Prediction (Level 4) | Supermarket Sales Prediction (Level 4) | Graduate Admission Prediction (Level 4) | Mempool Prediction (Level 4) | Reddits Tweets Prediction (Level 4) | Flood Prediction (Level 4) | Discussion Forum Prediction (Level 4) | <br>
-Points : 555 <br>
+Number of PR's : 14 <br>
+Projects Done : Hotel Booking Prediction (Level 4) | NBA-Analysis and Prediction (Level 4) | Bank Customers Prediction (Level 4) | Fragrance Price Prediction (Level 4) | Future Sales Prediction (Level 2) | Private Companies Prediction (Level 4) | Brazil Fires Prediction (Level 4) | Supermarket Sales Prediction (Level 4) | Graduate Admission Prediction (Level 4) | Mempool Prediction (Level 4) | Reddits Tweets Prediction (Level 4) | Flood Prediction (Level 4) | Discussion Forum Prediction (Level 4) | Customer Modelling Analyis (Level 4)| <br>
+Points : 600 <br>
 
 Name : Archana M <br>
 Github : https://github.com/23-24 <br>
