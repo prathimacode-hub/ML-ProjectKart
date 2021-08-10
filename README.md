@@ -58,9 +58,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 - [Pull Request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 - [README](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md)
 
-**Note** : One should follow these templates while creating a new issue or pull request. Else, 'Program' label won't be assigned neither your contributions would count.
-This is to ensure that we know you as a 'LGM-SOC' or 'DevIncept' participant.
-If you had taken up the issue, that's already in the "Issues" tab. You should mention yourself as 'LGM-SOC' or 'DevIncept' participant. 
+**Note** : One should follow these templates while creating a new issue or pull request. 
 
 
 <h2>📝Project Structure</h2>
@@ -314,7 +312,6 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 |     201.    |  [Zoo Animal Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Zoo-Animal-Classification)  |   The goal of this project is to predict the zoo animal based on some classifications using machine learning model.    |
 
 
-
 <h2>👍OpenSource Program</h2>
 
 This project is a part of these open source programs.
@@ -332,68 +329,6 @@ This project is a part of these open source programs.
  </td>
 </tr>
 </table>
-
-
-<h2>🙌Levels & Points (LGMSOC)</h2>
-
-<table>
-  <tr>
-    <th>Level</th>
-    <th>Points</th> 
-  </tr>
-  <tr>
-    <td>Level 0</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>Level 1</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>Level 2</td>
-    <td>15</td>
-  </tr>
-  <tr>
-    <td>Level 3</td>
-    <td>30</td>
-  </tr>
-  <tr>
-    <td>Level 4</td>
-    <td>45</td>
-  </tr>
-</table>
- 
-You can check out your points scored here : **[LGMSOC_SCORECARD](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/LGMSOC_SCORECARD.md)** <br>
-**Point to Note** : It will be updated once in 2 days. 
-
-
-<h2>🙌Levels & Points (DCP)</h2>
-
-<table>
-  <tr>
-    <th>Level</th>
-    <th>Points</th> 
-  </tr>
-  <tr>
-    <td>Level 0</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>Level 1</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>Level 2</td>
-    <td>20</td>
-  </tr>
-  <tr>
-    <td>Level 3</td>
-    <td>40</td>
-  </tr>
-</table>
-
-You can check out your points scored here : **[DCP_SCORECARD](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/DCP_SCORECARD.md)** <br>
-**Point to Note** : It will be updated once in 2 days. 
 
 
 <h2>✨Hall Of Fame</h2>   
@@ -423,22 +358,11 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/ML-P
 This project follows the [Mozilla Public License 2.0](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/LICENSE).
 
 
-<h2>✔Mentors(DCP)</h2>
+<h2>✔Project Maintainer</h2>
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/vaibhavgupta2499"><img src="https://avatars.githubusercontent.com/u/51874705?v=4" width="80px;" alt=""/><br /><sub><b>Vaibhav Gupta</b></sub></a></td>
-  </tr>
-</table>
-
-
-<h2>✔Mentors(LGM-SOC)</h2>
-
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/Manasi2001"><img src="https://avatars.githubusercontent.com/u/68627617?v=4" width="80px;" alt=""/><br /><sub><b>Manasi Chhibber</b></sub></a></td>
-<td align="center"><a href="https://github.com/TanweerulHaque"><img src="https://avatars.githubusercontent.com/u/50830237?v=4" width="80px;" alt=""/><br /><sub><b>Tanweerul Haque</b></sub></a></td>
-<td align="center"><a href="https://github.com/SinghShreya05"><img src="https://avatars.githubusercontent.com/u/50830709?v=4" width="80px;" alt=""/><br /><sub><b>Shreya Singh</b></sub></a></td>
+<td align="center"><a href="https://github.com/abhisheks008"><img src="https://avatars.githubusercontent.com/u/68724349?v=4" width="80px;" alt=""/><br /><sub><b>Abhishek Sharma</b></sub></a></td>
   </tr>
 </table>
 
