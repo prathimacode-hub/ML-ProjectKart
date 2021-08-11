@@ -314,7 +314,7 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 
 <h2>👍OpenSource Program</h2>
 
-This project is a part of these open source programs.
+This project was a part of these open source programs.
 
 <table>
 <tr>
