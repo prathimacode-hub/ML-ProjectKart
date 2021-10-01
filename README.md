@@ -318,14 +318,14 @@ This project was a part of these open source programs.
 
 <table>
 <tr>
- <td>
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
+  <td>
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a> 
  </td>
-</tr>
- 
-<tr>
  <td>
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/DevIncept%20Contribution%20Program/DevIncept.jpg" width=150px height=150px /></a> 
+ </td>
+ <td>
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/Hacktober%20Fest/Hacktoberfest-2021.jpg" width=140px height=60px /></a>
  </td>
 </tr>
 </table>
