@@ -58,10 +58,8 @@
     * Convolutional Neural Network (3 convolutional layers and 2 fully connected layers with pooling layers)
 
 ## Results : 
+<img width="424" alt="result" src="https://user-images.githubusercontent.com/65017645/135702344-1c55c7d2-f62b-4a2f-bf8f-1235311a66f5.png">
 
-![1](.images/1.png)
-
-![2](.images/2.png)
 
 
 ## Download Model : 
