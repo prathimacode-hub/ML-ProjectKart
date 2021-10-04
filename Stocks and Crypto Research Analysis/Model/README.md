@@ -21,7 +21,7 @@ The goal of this project is to make a prediction model which will predict the fu
   
 ## What have I done?
 
-1.Importing all the required libraries.Check here 
+1.Importing all the required libraries.
 
 2.Upload the dataset and the Jupyter Notebook file.
 
