@@ -35,7 +35,7 @@ Face Verification : The face Recognition is done using Facenet model. Used a pre
  1. Use the port number for the webcam according to Device Configration of your sytem.(Edit :Face_Rec.py,  Line 9 ,                 camera=cv2.VideoCapture(0)). 
  2. Use webcam with resolution greater than 640x480 for better accuracy.
 
-## Output :
+## Output :[Here](https://github.com/NEERAJAP2001/ML-ProjectKart/blob/6ea41751cb91bb4457d90cfa9ac5d61dd8151ee7/Face%20Verification%20using%20DL/Images/Output.jpeg)
 ![Output](https://user-images.githubusercontent.com/65017645/135712729-917ea8c9-a10c-4ebe-99d8-0bc8cafcec37.jpeg)
 
          
