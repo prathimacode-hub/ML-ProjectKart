@@ -31,6 +31,7 @@ In this project we will be working with a dataset containing headlines of variou
 ## CONCLUSION 
    
 ### MultinomialNB
+```
               precision    recall  f1-score   support
 
          0.0       1.00      1.00      1.00     42174
@@ -42,10 +43,10 @@ In this project we will be working with a dataset containing headlines of variou
     accuracy                           0.97     84484
    macro avg       0.94      0.94      0.94     84484
 weighted avg       0.97      0.97      0.97     84484
-
-
+```
 ### DecisionTree
-              precision    recall  f1-score   support
+```
+               precision    recall  f1-score   support
 
          0.0       1.00      1.00      1.00     42174
          1.0       0.89      0.89      0.89     11599
@@ -56,9 +57,10 @@ weighted avg       0.97      0.97      0.97     84484
     accuracy                           0.95     84484
    macro avg       0.92      0.92      0.92     84484
 weighted avg       0.95      0.95      0.95     84484
-
+```
 
 ### XGBoost
+```
               precision    recall  f1-score   support
 
          0.0       1.00      1.00      1.00     42174
@@ -70,8 +72,9 @@ weighted avg       0.95      0.95      0.95     84484
     accuracy                           0.94     84484
    macro avg       0.92      0.88      0.90     84484
 weighted avg       0.94      0.94      0.94     84484
-
+```
 ### SGD
+```
               precision    recall  f1-score   support
 
          0.0       1.00      1.00      1.00     42174
@@ -83,8 +86,9 @@ weighted avg       0.94      0.94      0.94     84484
     accuracy                           0.97     84484
    macro avg       0.96      0.95      0.95     84484
 weighted avg       0.97      0.97      0.97     84484
-
+```
 ### LGBM
+```
               precision    recall  f1-score   support
 
          0.0       1.00      1.00      1.00     42174
@@ -96,3 +100,4 @@ weighted avg       0.97      0.97      0.97     84484
     accuracy                           0.95     84484
    macro avg       0.93      0.92      0.92     84484
 weighted avg       0.95      0.95      0.95     84484
+```
