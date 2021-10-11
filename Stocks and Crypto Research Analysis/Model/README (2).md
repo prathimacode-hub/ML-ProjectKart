@@ -58,7 +58,7 @@ LSTM models are able to store information over a period of time.
 
  ## Data Visualization
  
-![alt text](https://github.com/[tanvideshmukh29]/[ML-ProjectKart]/blob/[main]/Stocks%20and%20Crypto%20Research%20Analysis/Image/LSTM.png?raw=true)
+![alt text](https://github.com/tanvideshmukh29/ML-ProjectKart/tree/main/Stocks%20and%20Crypto%20Research%20Analysis/Image)
 
 
 ## Model Accuracy comparison
