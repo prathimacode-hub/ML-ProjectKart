@@ -20,7 +20,7 @@ The goal of this project is to make a prediction model which will predict the fu
 
 
 ##  Problem Statement
-We are going to use Time Series data to analysis of stock price.
+We are going to use Time Series data to analysis of stock price(Apple company dataset).
 
   
 ## What have I done?
