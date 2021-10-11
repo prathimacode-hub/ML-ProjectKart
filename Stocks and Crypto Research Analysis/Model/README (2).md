@@ -49,33 +49,37 @@ LSTM models are able to store information over a period of time.
 
  The most basic machine learning algorithm that can be implemented on this data is linear regression. The linear regression model returns an equation that determines the relationship between the independent variables and the dependent variable.
 
- ### RMSE value -50.57
+###  RMSE value -50.57
 
 # k-Nearest Neighbors
  kNN (k nearest neighbours). Based on the independent variables, kNN finds the similarity between new data points and old data points. 
 
- ### RMSE value -94.186
+### RMSE value -94.186
 
  ## Data Visualization
  
   # Orignal Data:
   
-<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/Orignal.png" width = "500">
+<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/Orignal.png" width = "700">
+
+
+ #  Predicated Data by LSTM
+
+<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/LSTM.png" width = "700">
+
 ### RMSE value -143.27
 
- #  Predicate Data by LSTM
-
-<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/LSTM.png" width = "500">
-
- #  Predicate Data by Linear Regression
+ #  Predicated Data by Linear Regression
  
-<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/LR.png" width = "500">
+<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/LR.png" width = "700">
+
 ### RMSE value -50.57
 
- #  Predicate Data by KNN
+ #  Predicated Data by KNN
  
-<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/KNN.png" width = "500">
- ### RMSE value -94.186
+<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/KNN.png" width = "700">
+
+ ###  RMSE value -94.186
 
 
 ## Model Accuracy comparison
