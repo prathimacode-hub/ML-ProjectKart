@@ -99,6 +99,8 @@ LSTM models are able to store information over a period of time.
 
 * tensorflow
 
+* Seaborn
+
 * keras
 
 ## Conclusion
