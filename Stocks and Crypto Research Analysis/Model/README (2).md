@@ -58,7 +58,25 @@ LSTM models are able to store information over a period of time.
 
  ## Data Visualization
  
+  # Orignal Data:
+  
 <img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/Orignal.png" width = "500">
+### RMSE value -143.27
+
+ #  Predicate Data by LSTM
+
+<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/LSTM.png" width = "500">
+
+ #  Predicate Data by Linear Regression
+ 
+<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/LR.png" width = "500">
+### RMSE value -50.57
+
+ #  Predicate Data by KNN
+ 
+<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/KNN.png" width = "500">
+ ### RMSE value -94.186
+
 
 ## Model Accuracy comparison
 | Model           | RMSE Value                                                           |
