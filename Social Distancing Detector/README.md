@@ -6,7 +6,7 @@ To detect whether people are maintaining social distancing in public places or n
 
 </p>
 
-## :star2: How deep learning is used to detect?
+## :star2: Introduction
    Recent improvement in deep learning allows object detection tasks more effective.This work aims to present a deep learning-based social distance monitoring framework for the public campus environment from an overhead perspective. A deep learning model, i.e., YOLOv3 (You Only Look Once), is applied for human detection. The current model (pre-trained on frontal or normal view data sets) is initially tested on the overhead data set. Transfer learning is also used to improve the efficiency of the detection model. To the best of our knowledge, this work could be considered as the first effort to use an overhead view perspective to monitor social distance with transfer learning. The detection model detects humans and gives bounding box information. After human detection, the Euclidean distance between each detected centroid pair is computed using the detected bounding box and its centroid information. A predefined minimum social distance violation threshold is specified using pixel to distance assumptions. To check, either the calculated distance comes under the violation set or not, the estimated information is matched with the violation threshold.
    The model is designed for individuals who do not obey a social distance restriction, i.e., 6 feet of space between them. The authors used a mobile robot with an RGB-D camera and a 2-D lidar to make collision-free navigation in mass gatherings.
 ## :star2: Implementation:
