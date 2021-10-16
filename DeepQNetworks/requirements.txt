@@ -1,0 +1,7 @@
+## Libraries
+- [gym](https://gym.openai.com/)
+- [numpy](https://numpy.org/)
+- [matplotlib](https://matplotlib.org/)
+- [collections](https://docs.python.org/3/library/collections.html)
+- [keras.models, keras.layers, keras.optimizers](https://keras.io/)
+- [random](https://docs.python.org/3/library/random.html)
