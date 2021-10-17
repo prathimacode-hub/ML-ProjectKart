@@ -38,15 +38,11 @@ Time series forecasting is a technique for the prediction of events through a se
 3.Exploratory Data Analysis.
 
 4.Data Processing
-
-5.Prediction Models
-
  
-    - Long short-term memory (LSTM) 
-
-     - Linear Regression
-
-     - k-Nearest Neighbors
+5. Prediction Models
+   - Long short-term memory (LSTM)
+   -  Linear Regression
+   -  k-Nearest Neighbors
     
 
 6.Model Comparison
@@ -94,22 +90,22 @@ In KNN model,gives the Root-mean-square error (RMSE) value 94.18.
 ***************************************
 
  ## Exploratory Data Analysis
- 1. **Original Data:**
+ **1. Original Data:**
  
   
 <img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/Orignal.png" width = "700">
 
 
-  2. **Predicated Data by LSTM**
+  **2. Predicated Data by LSTM**
 
 <img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/LSTM.png" width = "700">
 
 
- 3. **Predicated Data by Linear Regression**
+ **3. Predicated Data by Linear Regression**
  
 <img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/LR.png" width = "700">
 
- 4. **Predicated Data by KNN**
+ **4. Predicated Data by KNN**
  
 <img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/KNN.png" width = "700">
 
@@ -143,11 +139,11 @@ In KNN model,gives the Root-mean-square error (RMSE) value 94.18.
 ## Conclusion
 * Here I have applied three different algorithms along with the Neural Networks.
 
-* In Long Short Term Memory (LSTM) model, gives  Root-mean-square error (RMSE) value 143.27
+* In Long Short Term Memory (LSTM) model gives  Root-mean-square error (RMSE) value 143.27
 
-* In Linear Regression model,gives Root-mean-square error (RMSE) value 50.57
+* In Linear Regression model gives Root-mean-square error (RMSE) value 50.57
 
-* In KNN model,gives Root-mean-square error (RMSE) value 94.18.
+* In KNN model gives Root-mean-square error (RMSE) value 94.18.
 
 * But the Long short-term memory (LSTM)  stand out to be the best model among all those implemented models based on the accuracy scores.
 
