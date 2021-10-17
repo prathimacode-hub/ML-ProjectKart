@@ -22,6 +22,9 @@ The goal of this project is to make a prediction model which will predict the fu
 ##  Problem Statement
 We are going to use Time Series data to analysis of stock price(Apple company dataset).
 
+Time series forecasting is a technique for the prediction of events through a sequence of time. The technique is used across many fields of study, from geology to behavior to economics. The techniques predict future events by analyzing the trends of the past, on the assumption that future trends will hold similar to historical trends.
+
+
   
 ## What have I done?
 
