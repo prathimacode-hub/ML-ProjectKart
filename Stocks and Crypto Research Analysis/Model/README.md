@@ -29,17 +29,26 @@ Time series forecasting is a technique for the prediction of events through a se
 ## What have I done?
 
 1.Importing all the required libraries.
+
 2.Upload the dataset .
+
 3.Exploratory Data Analysis
+
 4.Data Processing
+
 5.Prediction Models
+
      * Long short-term memory (LSTM) 
+     
 
      * Linear Regression
+     
 
       * k-Nearest Neighbors
+      
 
 6.Model Comparison
+
 
 7.Conclusion
 
