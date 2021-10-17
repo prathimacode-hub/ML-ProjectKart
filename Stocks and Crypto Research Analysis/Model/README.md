@@ -31,6 +31,11 @@ Time series forecasting is a technique for the prediction of events through a se
   
 ## What have I done?
 
+In here,I have made stock price prediction model using Time Series data  analysis.In which I have used Long short-term memory (LSTM)
+ Linear Regression, k-Nearest Neighbors for  prediction.
+   
+***************************************
+## Contents
 1.Importing all the required libraries.
 
 2.Upload the dataset .
