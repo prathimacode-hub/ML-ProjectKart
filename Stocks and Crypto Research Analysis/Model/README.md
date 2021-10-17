@@ -68,21 +68,21 @@ Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) ar
 LSTM models are able to store information over a period of time.
 
 
-Long Short Term Memory (LSTM) model gives the Root-mean-square error (RMSE) value 143.27
+In implementation Long Short Term Memory (LSTM) model gives the Root-mean-square error (RMSE) value 143.27
 
 
  ## Linear Regression
 
  The most basic machine learning algorithm that can be implemented on this data is linear regression. The linear regression model returns an equation that determines the relationship between the independent variables and the dependent variable.
  
-Linear Regression model gives the Root-mean-square error (RMSE) value 50.57
+In implementation Linear Regression model gives the Root-mean-square error (RMSE) value 50.57
 
 
 ## k-Nearest Neighbors
  kNN (k nearest neighbours). Based on the independent variables, kNN finds the similarity between new data points and old data points. 
 
 
- KNN model gives the Root-mean-square error (RMSE) value 94.18.
+In implementation KNN model gives the Root-mean-square error (RMSE) value 94.18.
 
 
 ***************************************
