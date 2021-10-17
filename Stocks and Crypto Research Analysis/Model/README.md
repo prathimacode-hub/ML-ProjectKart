@@ -29,8 +29,20 @@ Time series forecasting is a technique for the prediction of events through a se
 ## What have I done?
 
 1.Importing all the required libraries.
+2.Upload the dataset .
+3.Exploratory Data Analysis
+4.Data Processing
+5.Prediction Models
+     * Long short-term memory (LSTM) 
 
-2.Upload the dataset and the Jupyter Notebook file.
+     * Linear Regression
+
+      * k-Nearest Neighbors
+
+6.Model Comparison
+
+7.Conclusion
+
 
   
 ## Model  Used
@@ -47,7 +59,7 @@ Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) ar
 LSTM models are able to store information over a period of time.
 
 
-In Long Short Term Memory (LSTM) model, we get Root-mean-square error (RMSE) value 143.27
+In Long Short Term Memory (LSTM) model, gives the Root-mean-square error (RMSE) value 143.27
 
 ### RMSE value -143.27
 
@@ -55,8 +67,7 @@ In Long Short Term Memory (LSTM) model, we get Root-mean-square error (RMSE) val
 
  The most basic machine learning algorithm that can be implemented on this data is linear regression. The linear regression model returns an equation that determines the relationship between the independent variables and the dependent variable.
  
-
-In KNN model,we get Root-mean-square error (RMSE) value 94.18.
+In Linear Regression model,gives the Root-mean-square error (RMSE) value 50.57
 
 ###  RMSE value -50.57
 
@@ -64,11 +75,11 @@ In KNN model,we get Root-mean-square error (RMSE) value 94.18.
  kNN (k nearest neighbours). Based on the independent variables, kNN finds the similarity between new data points and old data points. 
 
 
-In KNN model,we get Root-mean-square error (RMSE) value 94.18.
+In KNN model,gives the Root-mean-square error (RMSE) value 94.18.
 
 ### RMSE value -94.186
 
- ## Data Visualization
+ ## Exploratory Data Analysis
  
   # Original Data:
   
