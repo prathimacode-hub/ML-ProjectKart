@@ -39,7 +39,7 @@ Time series forecasting is a technique for the prediction of events through a se
 
 4.Data Processing
  
-5. Prediction Models
+5.Prediction Models
    - Long short-term memory (LSTM)
    -  Linear Regression
    -  k-Nearest Neighbors
