@@ -46,16 +46,25 @@ Time series forecasting is a technique for the prediction of events through a se
 Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) architecture used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points (e.g. images), but also entire sequences of data (such as speech or video inputs).
 LSTM models are able to store information over a period of time.
 
+
+In Long Short Term Memory (LSTM) model, we get Root-mean-square error (RMSE) value 143.27
+
 ### RMSE value -143.27
 
  # Linear Regression
 
  The most basic machine learning algorithm that can be implemented on this data is linear regression. The linear regression model returns an equation that determines the relationship between the independent variables and the dependent variable.
+ 
+
+In KNN model,we get Root-mean-square error (RMSE) value 94.18.
 
 ###  RMSE value -50.57
 
 # k-Nearest Neighbors
  kNN (k nearest neighbours). Based on the independent variables, kNN finds the similarity between new data points and old data points. 
+
+
+In KNN model,we get Root-mean-square error (RMSE) value 94.18.
 
 ### RMSE value -94.186
 
