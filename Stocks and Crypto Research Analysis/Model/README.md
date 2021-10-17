@@ -91,21 +91,21 @@ In implementation KNN model gives the Root-mean-square error (RMSE) value 94.18.
  **1. Original Data:**
  
   
-<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/Orignal.png" width = "700">
+<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Images/Orignal.png" width = "700">
 
 
   **2. Predicated Data by LSTM**
 
-<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/LSTM.png" width = "700">
+<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Images/LSTM.png" width = "700">
 
 
  **3. Predicated Data by Linear Regression**
  
-<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/LR.png" width = "700">
+<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Images/LR.png" width = "700">
 
  **4. Predicated Data by KNN**
  
-<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Image/KNN.png" width = "700">
+<img src = "https://github.com/tanvideshmukh29/ML-ProjectKart/blob/main/Stocks%20and%20Crypto%20Research%20Analysis/Images/KNN.png" width = "700">
 
 
 ***************************************
