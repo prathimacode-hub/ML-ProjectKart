@@ -31,6 +31,12 @@ I have used YOLOV3 Algorithm because YOLOv3  is fast, has at par accuracy with b
 
 numpy , argparse , imutils , cv2 , os.
 
+💠 **Output**
+<p align="center">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/66861391/136165422-fe72461f-5342-4a80-884a-2717f1b9cc8b.gif">
+
+</p>
+
 💠**CONCLUSION**
 
 The model is trained on an overhead data set, and the newly trained layer is appended with the existing model. To the best of our knowledge, this work is the first attempt that utilized transfer learning for a deep learning-based detection paradigm, used for overhead perspective social distance monitoring. The detection model gives bounding box information, containing centroid coordinates information. Using the Euclidean distance, the pairwise centroid distances between detected bounding boxes are measured. To check social distance violations between people, an approximation of physical distance to the pixel is used, and a threshold is defined. Experimental results indicated that the framework efficiently identifies people walking too close and violates social distancing.
