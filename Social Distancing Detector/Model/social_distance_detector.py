@@ -1,6 +1,4 @@
 
-from theshredbox import social_distancing_config as config
-from theshredbox.detection import detect_people
 from scipy.spatial import distance as dist
 import numpy as np
 import argparse
