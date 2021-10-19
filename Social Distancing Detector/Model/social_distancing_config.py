@@ -1,5 +1,5 @@
 # base path to YOLO directory
-MODEL_PATH = r"C:\Users\Aryan\PycharmProjects\Social-Distance-Detector-master\yolo-coco"
+MODEL_PATH = r"C:\Users\FRENY\PycharmProjects\Social-Distance-Detector-master\yolo-coco"
 
 # initialize minimum probability to filter weak detections along with
 # the threshold when applying non-maxima suppression
