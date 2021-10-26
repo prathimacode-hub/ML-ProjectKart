@@ -1,0 +1,3 @@
+## **DESCRIPTION**
+I have created two models namely twitter sentiment analysis and suicide tendancy model. I have created suicide tendancy model using Linear SVC which can identify tendency of commiting suicide or indication of facing stress, depression, etc. from the text with an accuracy of about 93%. Then I saved this model in '.sav' format. I have imported this saved model in twitter sentiment analysis model which can fetch live tweets from twitter and classify them into positive, negative and neutral tweets using textblob library.
+Tweets labeled as negative are passed through the imported suicide tendency model which can further identifies if any suicidal thoughts faced by the user of a particular tweet.
