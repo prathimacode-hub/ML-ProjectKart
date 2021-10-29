@@ -1,0 +1,8 @@
+- tweepy
+- textblob
+- pipeline
+- wordcloud
+- pandas
+- numpy
+- matplotlib
+- TfidfVectorizer
