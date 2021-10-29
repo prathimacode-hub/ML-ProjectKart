@@ -29,7 +29,10 @@ Tweets labeled as negative are passed through the imported suicide tendency mode
 
 **MODELS USED**
 
-- Linear SVC
+- For building Suicide_tendency_model, models used along with their accuracy are:</br>
+  ![image](https://user-images.githubusercontent.com/59737567/139440410-3b7b329a-2a7b-4a4e-a64c-f5ee7420879e.png)</br>
+  Since Linear SVC was found to have higher accuracy, finally model with Linear SVC was saved to be imported in Twitter_Sentiment_Analysis model.</br>
+- For building Twitter_Sentiment_Analysis, sentimemts were classified using textblob
 
 **LIBRARIES NEEDED**
 
@@ -52,7 +55,7 @@ Tweets labeled as negative are passed through the imported suicide tendency mode
 
 **CONCLUSION**
 
-Thus the model developed can be used to identify the suicidal thoughts on social media and other discussion forums, which can further be useful in reavhng out help to the users.
+Thus the model developed can be used to identify the suicidal thoughts on social media and other discussion forums, which can further be useful in reaChng out help to the users.
 
 **Nikita Emberi**
 
