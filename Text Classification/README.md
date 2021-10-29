@@ -2,7 +2,7 @@
 
 **GOAL**
 
-The goal of this project is cto classify texts and label them as positive, negative or neutral. Texts classified as negative are further classified as suicidal or non-suicidal.
+Text classification also known as text tagging or text categorization is the process of categorizing text into organized groups. By using Natural Language Processing (NLP), text classifiers can automatically analyze text and then assign a set of pre-defined tags or categories based on its content. The goal of text classification is to automatically classify the text documents into one or more defined categories. Here, in this project, text could be either positive, negative or neutral (i.e. categories). The goal of this project is extended to further predict suicidal tendency if text is classified as negative.
 
 **DATASET**
 
