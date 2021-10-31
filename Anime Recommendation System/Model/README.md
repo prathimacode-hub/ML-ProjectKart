@@ -35,10 +35,10 @@ Rows considered for making model : 4335993 <br>
 
 **OUTPUT IMAGES**
 
-<img src = "https://github.com/photon149/ML-ProjectKart/blob/8d621827210ae69f73410d422ea02f4a2f9504cf/Anime%20Recommendation%20System/Images/g1.png">
-<img src = "https://github.com/photon149/ML-ProjectKart/blob/8d621827210ae69f73410d422ea02f4a2f9504cf/Anime%20Recommendation%20System/Images/g2.png">
-<img src = "https://github.com/photon149/ML-ProjectKart/blob/8d621827210ae69f73410d422ea02f4a2f9504cf/Anime%20Recommendation%20System/Images/g3.png">
-<img src = "https://github.com/photon149/ML-ProjectKart/blob/8d621827210ae69f73410d422ea02f4a2f9504cf/Anime%20Recommendation%20System/Images/g4.png">
+<img src = "https://github.com/photon149/ML-ProjectKart/blob/fe8ee7460ed4ac8935f94ff416b36b95121353ac/Anime%20Recommendation%20System/Images/g1.png">
+<img src = "https://github.com/photon149/ML-ProjectKart/blob/fe8ee7460ed4ac8935f94ff416b36b95121353ac/Anime%20Recommendation%20System/Images/g2.png">
+<img src = "https://github.com/photon149/ML-ProjectKart/blob/fe8ee7460ed4ac8935f94ff416b36b95121353ac/Anime%20Recommendation%20System/Images/g3.png">
+<img src = "https://github.com/photon149/ML-ProjectKart/blob/fe8ee7460ed4ac8935f94ff416b36b95121353ac/Anime%20Recommendation%20System/Images/g4.png">
 
 **CONCLUSION**
 <br>
