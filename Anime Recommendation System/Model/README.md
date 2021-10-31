@@ -1,5 +1,6 @@
 # Anime Recommendation System
 
+## Description
 In this project we will be working on an Anime Dataset . Our prime aim will be to create a function or model to recommend anime based on the respective anime we have inputted.For this we have created a function , which works in a manner , that it looks at correlation between various anime series , based on factors like rating,genre etc.
 Since originally dataset was quite heavy to process , so we have done a deep cleaning of dataset , in which anime who's rating arent mentioned , or those who have been given -1 rating and eventually those who are minimum rated by 2000 people are considered , so as to reduce processing time.
 
