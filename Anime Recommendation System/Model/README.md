@@ -33,6 +33,13 @@ Rows considered for making model : 4335993 <br>
 - seaborn
 - matplotlib
 
+**OUTPUT IMAGES**
+
+<img src = "https://github.com/photon149/ML-ProjectKart/blob/8d621827210ae69f73410d422ea02f4a2f9504cf/Anime%20Recommendation%20System/Images/g1.png">
+<img src = "https://github.com/photon149/ML-ProjectKart/blob/8d621827210ae69f73410d422ea02f4a2f9504cf/Anime%20Recommendation%20System/Images/g2.png">
+<img src = "https://github.com/photon149/ML-ProjectKart/blob/8d621827210ae69f73410d422ea02f4a2f9504cf/Anime%20Recommendation%20System/Images/g3.png">
+<img src = "https://github.com/photon149/ML-ProjectKart/blob/8d621827210ae69f73410d422ea02f4a2f9504cf/Anime%20Recommendation%20System/Images/g4.png">
+
 **CONCLUSION**
 <br>
 All in all , we implemented a recommendation system to suggest best anime , based on user input .Once , the user inputs an anime of his choice , he/she gets a list of suggested animes with their correlation coeffiecient to give the best suggestion result.In the code , we also implemented by giving of two manually given anime inputs plus their results produced.
