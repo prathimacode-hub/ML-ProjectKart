@@ -8,7 +8,7 @@
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/prathimacode-hub)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub contributors](https://img.shields.io/github/contributors-anon/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/graphs/contributors)
-[![Maintenance](https://img.shields.io/maintenance/yes/2021)](https://github.com/prathimacode-hub)
+[![Maintenance](https://img.shields.io/maintenance/yes/2022)](https://github.com/prathimacode-hub)
 
 [![](https://badgen.net/github/stars/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/stargazers)
 [![](https://badgen.net/github/forks/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/network/members)
@@ -388,7 +388,7 @@ If you liked working on this project, do ⭐ and share this repository.
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
-<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my other projects.</sup>* <br>
+<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects and</sup>*  <sup><kbd>***[Get In](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Learning-Projects.md)***</kbd> *for learning projects.</sup>* <br>
 </td>
 
 
