@@ -52,87 +52,6 @@ When issue is raised from your end (or) taken it from issues tab to add a projec
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
-## 🛠 Templates to Follow
-
-- [Feature request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
-- [Bug Report](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
-- [Pull Request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
-- [README](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md)
-
-**Note** : One should follow these templates while creating a new issue or pull request. 
-
-
-## 📝 Project Structure
-
-Your projects should contain this flow to maintain similarity across all other projects. Make sure to note these things, before you create a PR.
-
-**Dataset** - This folder would have a .csv file.
-
-**Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a **'README.md'** using this [template](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md) and **'requirements.txt'** file which would be enclosed with all needed add-ons and libraries that are included in the project
-
-**Images** - This folder would have images added if applicable.
-
-**Front End** - This folder would have files related to coding and designing the webpage. 
-
-**Back End** - This folder would have files regarding backend creation for the model using Flask and Django.
-
-**UI/UX** - This folder would have files regarding dashboards, forms and webpages for the model.
-
-Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respective folders and elaborate briefly about how it works by showing step by step procedure using screenshots.
-
-
- ## 💻 Workflow:
-
-- Fork the repository
-
-- Clone your forked repository using terminal or gitbash.
-
-- Make changes to the cloned repository
-
-- Add, Commit and Push
-
-- Then in Github, in your cloned repository find the option to make a pull request 
-
-> print("Start contributing for ML-ProjectKart")
-
-
-## ⚙️ Things to Note
-
-* Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
-* You can only work on issues that have been assigned to you.
-* If you want to contribute the algorithm, it's preferrable that you create a new issue before making a PR and link your PR to that issue.
-* If you have modified/added code work, make sure the code compiles before submitting.
-* Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
-* Do not update the **[README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md).**
-
-
- ## ❄️ Open Source Programs
- 
-<table>
-<tr>
- <td align="center">
-<a href="https://hacktoberfest.digitalocean.com/"><img src="" width=100px height=100px /><br /><sub><b>Hacktoberfest 2021</b></sub></a>
- </td>
- <td align="center">
-<a href="https://contribute.devincept.com/"><img src="" width=100px height=100px /><br /><sub><b>DevIncept Codes 2021</b></sub></a>
- </td>
- <td align="center">
-<a href="https://letsgrowmore.in/soc/"><img src="" width=100px height=100px /><br /><sub><b>LetsGrowMore SoC 2021</b></sub></a>
- </td>
-</tr>
-</table>
-
-
-## 📊 Leaderboard 
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/DCP_SCORECARD.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>DevIncept Codes 2021</b></sub></a></td>
-    <td align="center"><a href="https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/LGMSOC_SCORECARD.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>LetsGrowMore Summer Of Code 2021</b></sub></a></td>
-  </tr>  
-</table>
-
-
 ## 💡Look Through The Kart Of Amazing Projects
 
 | S.No | Project Name | Description |
@@ -338,6 +257,87 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 |     199.   |  [Yotube Video Recommendation System](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Youtube%20Video%20Recommendation%20System)  |  The model will recommend the video titles on proving the search query by user. |
 |    200.    |  [Zomato Banglore Resturants Recommendation](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Zomato%20Bangalore%20Restaurants%20Recommendation%20Analysis)  |  The aim of this project is analyse a dataset and recomend the user for top restaurants in bangalore. |
 |     201.    |  [Zoo Animal Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Zoo-Animal-Classification)  |   The goal of this project is to predict the zoo animal based on some classifications using machine learning model.    |
+
+
+## 🛠 Templates to Follow
+
+- [Feature request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
+- [Bug Report](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
+- [Pull Request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
+- [README](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md)
+
+**Note** : One should follow these templates while creating a new issue or pull request. 
+
+
+## 📝 Project Structure
+
+Your projects should contain this flow to maintain similarity across all other projects. Make sure to note these things, before you create a PR.
+
+**Dataset** - This folder would have a .csv file.
+
+**Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a **'README.md'** using this [template](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md) and **'requirements.txt'** file which would be enclosed with all needed add-ons and libraries that are included in the project
+
+**Images** - This folder would have images added if applicable.
+
+**Front End** - This folder would have files related to coding and designing the webpage. 
+
+**Back End** - This folder would have files regarding backend creation for the model using Flask and Django.
+
+**UI/UX** - This folder would have files regarding dashboards, forms and webpages for the model.
+
+Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respective folders and elaborate briefly about how it works by showing step by step procedure using screenshots.
+
+
+ ## 💻 Workflow:
+
+- Fork the repository
+
+- Clone your forked repository using terminal or gitbash.
+
+- Make changes to the cloned repository
+
+- Add, Commit and Push
+
+- Then in Github, in your cloned repository find the option to make a pull request 
+
+> print("Start contributing for ML-ProjectKart")
+
+
+## ⚙️ Things to Note
+
+* Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
+* You can only work on issues that have been assigned to you.
+* If you want to contribute the algorithm, it's preferrable that you create a new issue before making a PR and link your PR to that issue.
+* If you have modified/added code work, make sure the code compiles before submitting.
+* Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
+* Do not update the **[README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md).**
+
+
+ ## ❄️ Open Source Programs
+ 
+<table>
+<tr>
+ <td align="center">
+<a href="https://hacktoberfest.digitalocean.com/"><img src="" width=100px height=100px /><br /><sub><b>Hacktoberfest 2021</b></sub></a>
+ </td>
+ <td align="center">
+<a href="https://contribute.devincept.com/"><img src="" width=100px height=100px /><br /><sub><b>DevIncept Codes 2021</b></sub></a>
+ </td>
+ <td align="center">
+<a href="https://letsgrowmore.in/soc/"><img src="" width=100px height=100px /><br /><sub><b>LetsGrowMore SoC 2021</b></sub></a>
+ </td>
+</tr>
+</table>
+
+
+## 📊 Leaderboard 
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/DCP_SCORECARD.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>DevIncept Codes 2021</b></sub></a></td>
+    <td align="center"><a href="https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/LGMSOC_SCORECARD.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>LetsGrowMore SOC 2021</b></sub></a></td>
+  </tr>  
+</table>
 
 
 ## ✨ Hall Of Fame   
