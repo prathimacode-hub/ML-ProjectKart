@@ -2,7 +2,7 @@
   <h1>Welcome to ML-ProjectKart👋🛒</h1>
 </div>
 
-![Alt text of image](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/ML-ProjectKart.png)
+![Alt text of image](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Cover%20Photos/ML-ProjectKart.png)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) 
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) 
@@ -318,13 +318,13 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 <table>
 <tr>
  <td align="center">
-<a href="https://hacktoberfest.digitalocean.com/"><img src="" width=100px height=100px /><br /><sub><b>Hacktoberfest 2021</b></sub></a>
+<a href="https://hacktoberfest.digitalocean.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Hacktoberfest%202021/Hacktoberfest-2021.jpg" width=100px height=100px /><br /><sub><b>Hacktoberfest 2021</b></sub></a>
  </td>
  <td align="center">
-<a href="https://contribute.devincept.com/"><img src="" width=100px height=100px /><br /><sub><b>DevIncept Codes 2021</b></sub></a>
+<a href="https://contribute.devincept.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/DevIncept%20Codes%202021/DevIncept.jpg" width=100px height=100px /><br /><sub><b>DevIncept Codes 2021</b></sub></a>
  </td>
  <td align="center">
-<a href="https://letsgrowmore.in/soc/"><img src="" width=100px height=100px /><br /><sub><b>LetsGrowMore SoC 2021</b></sub></a>
+<a href="https://letsgrowmore.in/soc/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/LetsGrowMore%20Summer%20Of%20Code%202021/LetsGrowMore%20Summer%20Of%20Code.jpg" width=100px height=100px /><br /><sub><b>LetsGrowMore SoC 2021</b></sub></a>
  </td>
 </tr>
 </table>
@@ -380,7 +380,7 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
+<td align="center"><a href="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/Prathima-Kadari-Picture.png" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
   </tr>
 </table>
 
