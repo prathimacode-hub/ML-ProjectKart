@@ -2,7 +2,7 @@
 
 - Info about the related issue 
 
-- [ ] Hacktoberfest2021 Participant 
+- [ ] Hacktoberfest2022 Participant 
 - [ ] Contributor
 
 Closes: #issue number that will be closed through this PR
