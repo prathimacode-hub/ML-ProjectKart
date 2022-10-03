@@ -1,5 +1,5 @@
 
-# Snapchat Filters using OpenCV
+# Snapchat Filters using OpenCV 
 
 ### Dependencies
 
