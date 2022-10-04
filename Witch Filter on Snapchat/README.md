@@ -1,13 +1,28 @@
 
-# Snapchat Filters using OpenCV 
+**Project Title**
+
+Snapchat Filters using OpenCV 
+
+
+**GOAL**
+* To Make a snapchat filter for a Face which is detected
 
 ### Dependencies
-
 * Python
 * The program makes use of Dlib-facial feature points
 * OpenCV
 * Tkinter
 * Shape predictor 68 face landmark points Model
+
+**Procedure USED**
+-  In order to build our Snapchat filter, we shall focus on the Detection of Facial Features using OpenCV with Haar Cascade Classifiers
+
+
+
+**Conclusion**
+- This is the Picture corresponding to Output![Result](https://user-images.githubusercontent.com/65017645/193783150-073b66a2-e9b9-4bd1-8b48-a791384b8bf0.png)
+
+
 
 
 ### Installing
@@ -23,7 +38,6 @@ pip install dlib
 ```
 pip install opencv-python
 ```
-
 
 
 To run :
