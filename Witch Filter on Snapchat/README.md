@@ -7,7 +7,7 @@ Snapchat Filters using OpenCV
 **GOAL**
 * To Make a snapchat filter for a Face which is detected
 
-### Dependencies
+**Dependencies**
 * Python
 * The program makes use of Dlib-facial feature points
 * OpenCV
@@ -25,7 +25,7 @@ Snapchat Filters using OpenCV
 
 
 
-### Installing
+**Installing**
 * Git clone repository
 ```
 git clone 
@@ -40,8 +40,7 @@ pip install opencv-python
 ```
 
 
-To run :
-
+**To run** 
 - `facial_test.py`          <--- inital script that finds faces and eyes in images
 - `halloween_masks.py`      <--- edited `facial_test.py` script that adds `witch.png` to faces
 - `halloween_masks_vid.py`  <--- edited `halloween_masks.py` script with live video feed instead of static images
