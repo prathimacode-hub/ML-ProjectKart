@@ -42,7 +42,7 @@
 
 ### Data Augmentation
 
-* We have used data augmentation to increase size of our dataset.
+* We have used data augmentation to increase size of our dataset
 
 ### Learning Algorithms 
 
@@ -57,11 +57,7 @@
     * Back propagation Neural Network (with 15 features and 2 layers)
     * Convolutional Neural Network (3 convolutional layers and 2 fully connected layers with pooling layers)
 
-## Results : 
-
-![1](.images/1.png)
-
-![2](.images/2.png)
+## Results : ![image](https://user-images.githubusercontent.com/65017645/194581898-15eb8c58-0c41-44d1-8274-d673c13e9708.png)
 
 
 ## Download Model : 
