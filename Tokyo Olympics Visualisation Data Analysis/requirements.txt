@@ -1,0 +1,9 @@
+LIBRARIES NEEDED FOR THIS PROJECT
+
+-pandas
+-numpy
+-matplotlib
+-seaborn
+
+
+IDE USED : Google Colab
