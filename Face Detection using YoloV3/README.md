@@ -1,4 +1,4 @@
-# YOLOFace
+# YOLOFace 
 
 # Deep learning based Face detection using the YOLOv3 algorithm
 
@@ -9,7 +9,8 @@ The YOLOv3 (You Only Look Once) is a state-of-the-art, real-time object detectio
 
 ## YOLOv3's architecture
 
-![Imgur](assets/yolo-architecture.png)
+![Imgur](![yolo-architecture](https://user-images.githubusercontent.com/65017645/196430024-e55a1623-7376-45e4-ab03-13db365b23c0.png)
+)
 
 
 ## OpenCV Deep Neural Networks (dnn module)
@@ -59,4 +60,5 @@ $ python yoloface.py --image samples/outside_000001.jpg --output-dir outputs/
 
 ## Sample outputs
 
-![Imgur](assets/outside_000001_yoloface.jpg)
+![Imgur](![outside_000001_yoloface](https://user-images.githubusercontent.com/65017645/196430056-9c8e0006-63ae-4ab2-8ef7-446546a09cac.jpg)
+)
