@@ -38,3 +38,29 @@ It's commonly calculated annually and used for comparing health status among cou
 
 * Age-adjusted death rate - A standardized and more objective rate. Mortality increases with age, so if we simply compared an older society (such as Japanese with a median age of 48.6) with a younger one (e.g., the USA with a median age of 38.1), we'd find that the former has higher mortality rate. To eliminate such distortions, the values are adjusted using various statistical techniques, resulting in the age-adjusted death rate.
 
+---
+
+## 📗**MORTALITY RATE ANALYSIS USING PYTHON**
+### **IMPLEMENTATION**
+In this particular we will be aiming to visualize the given data using Tableau and Python and create plots for same.
+
+The following steps will be followed-
+1. Importing the libraries.
+2. Defining a function to create plots.
+3. Create plots.
+
+
+
+## 🎯**RESULTS**
+
+![1](https://user-images.githubusercontent.com/36481036/196706291-96f4e119-e735-447c-8b4c-4f2a88f7e824.png)
+![2](https://user-images.githubusercontent.com/36481036/196706302-397ca16f-52ad-418d-a6c3-8b060215d8cc.png)
+
+## :page_facing_up: **CONCLUSION**
+* Different visualization techniques help us to get deeper insights into the data and create a diversified analysis.
+
+## :bust_in_silhouette: **CREDITS**
+* https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/mortality-rate
+* https://www.kaggle.com/datasets/navinmundhra/world-mortality
+
+**:sunglasses:** **CREATOR**- https://github.com/theshredbox
