@@ -40,24 +40,43 @@ It's commonly calculated annually and used for comparing health status among cou
 
 ---
 
-## 📗**MORTALITY RATE ANALYSIS USING PYTHON**
+## 📗**MORTALITY RATE ANALYSIS AND PREDICTION USING PYTHON**
 ### **IMPLEMENTATION**
 In this particular we will be aiming to visualize the given data using Tableau and Python and create plots for same.
 
-The following steps will be followed-
+The following steps will be followed for analysis-
 1. Importing the libraries.
 2. Defining a function to create plots.
 3. Create plots.
 
+For Prediction-
+1. Load the Dataset
+2. Find the missing values.
+3. Plot Chloropeth Maps.
+4. Normalize the data.
+5. Splitting the Data in Test and Train Manually & Running Linear Regression
+6. Validation Set & Cross Validation (Along with Linear Regression)
 
 
 ## 🎯**RESULTS**
 
 ![1](https://user-images.githubusercontent.com/36481036/196706291-96f4e119-e735-447c-8b4c-4f2a88f7e824.png)
 ![2](https://user-images.githubusercontent.com/36481036/196706302-397ca16f-52ad-418d-a6c3-8b060215d8cc.png)
+![image](https://user-images.githubusercontent.com/36481036/196932834-c698a5d7-c1e8-4a8e-8bae-eccbc6ba7601.png)
+![image](https://user-images.githubusercontent.com/36481036/196932962-e4005e31-8df2-4780-b8c8-b162a521ccb8.png)
+
 
 ## :page_facing_up: **CONCLUSION**
-* Different visualization techniques help us to get deeper insights into the data and create a diversified analysis.
+* The correlation between infant mortality rate and adult mortality rate and the average lifespan is as follows:
+IMR and Lifespan: -0.196557
+AMR and Lifespan: -0.696359
+We see that the correlation between these two and average lifespan is negative, which means that if the infant mortality rate or the adult mortality rate rises, then the average lifespan decrease, which is quite intuitive
+
+* We can see that schooling has a very strong direct correlation with the average lifespan, with a Pearson's correlation coefficient of 0.75. This may be due to the fact that schooling teaches many things about a healthy lifestyle and even first aids, which can be life saving in critical conditions
+
+* Life expectancy has a direct positive correlation with drinking alcohol with a correlation coefficient of 0.404877
+
+* The correlation coefficient of the population of a country and the life expectancy is -0.021538, which basically means that if the population rises, then the life expectancy decrease. This may be due to the fact the more population have severe effect on the capacity of the health system and it may crash because of this
 
 ## :bust_in_silhouette: **CREDITS**
 * https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/mortality-rate
