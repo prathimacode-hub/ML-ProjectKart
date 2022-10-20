@@ -20,8 +20,8 @@ Basically, the Haar cascade technique is an approach based on machine learning w
 
 ---
 
-### Requirements for object detection with Python OpenCV:
-We have to install first some important libraries in our system as it is an important requirement for doing object detection tasks. We have to install the following libraries into our system as the requirement for performing object detection:
+## :pushpin: **Implementation of Object Detection with Python OpenCV:**
+We have to install first some important libraries in our system as it is an important requirement for doing object detection tasks. We have to perform the following tasks for performing object detection:
 
 1. Installation of OpenCV library
 2. Import the image/video
