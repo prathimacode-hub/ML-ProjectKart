@@ -9,7 +9,7 @@
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/prathimacode-hub)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub contributors](https://img.shields.io/github/contributors-anon/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/graphs/contributors)
-[![Maintenance](https://img.shields.io/maintenance/yes/2022)](https://github.com/prathimacode-hub)
+[![Maintenance](https://img.shields.io/maintenance/yes/2023)](https://github.com/prathimacode-hub)
 
 [![](https://badgen.net/github/stars/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/stargazers)
 [![](https://badgen.net/github/forks/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/network/members)
