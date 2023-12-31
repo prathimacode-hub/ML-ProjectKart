@@ -281,8 +281,6 @@ Your projects should contain this flow to maintain similarity across all other p
 
 **Images/Screenshots** - This folder would have images added if applicable.
 
-**README.md** file - Elaborate your project in detail using the given README template
-
 <!--
 **Front End** - This folder would have files related to coding and designing the webpage. 
 
