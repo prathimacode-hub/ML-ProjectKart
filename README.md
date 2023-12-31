@@ -317,6 +317,9 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
  
 <table>
 <tr>
+<td align="center">
+<a href="https://kwoc.kossiitkgp.org/"><img src="https://wiki.metakgp.org/images/thumb/8/86/Kwoc_logo.png/300px-Kwoc_logo.png" width=100px height=100px /><br /><sub><b>Kharaghpur Winter Of Code</b></sub></a>
+ </td>
  <td align="center">
 <a href="https://hacktoberfest.digitalocean.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Hacktoberfest%202021/Hacktoberfest-2021.jpg" width=100px height=100px /><br /><sub><b>Hacktoberfest 2021</b></sub></a>
  </td>
@@ -329,7 +332,7 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 </tr>
 </table>
 
-
+<!--
 ## 📊 Leaderboard 
 
 <table>
@@ -338,7 +341,7 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
     <td align="center"><a href="https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/LGMSOC_SCORECARD.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>LetsGrowMore SOC 2021</b></sub></a></td>
   </tr>  
 </table>
-
+-->
 
 ## ✨ Hall Of Fame   
 
@@ -380,9 +383,10 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/Prathima-Kadari-Picture.png" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
+<td align="center"><a href="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/Official%20Professional%20Pic.jpg" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
   </tr>
 </table>
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
@@ -411,9 +415,9 @@ If you liked working on this project, do ⭐ and share this repository.
 
 If you want to contact me, you can reach me through the below handles.
 
-<a href="https://twitter.com/prathima_kadari"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
+<a href="https://twitter.com/prathima_kadari"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSYNFWywSHd7i84bmvUomd99zCDo-rC_utR43Ihn6peRcE9cUOTkP5K0SHdBmz-dU7tA&usqp=CAU" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
 
-© 2023 Prathima Kadari
+© 2024 Prathima Kadari
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com) 
