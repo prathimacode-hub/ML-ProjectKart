@@ -1,8 +1,7 @@
 ---
 title: Project Title
 about: Create a report to help us improve.
-name: YourName
-label: Bug Report
+name: Bug Report
 Assignee: ''
 
 ---
