@@ -33,21 +33,23 @@ The main aim is to provide an efficient and beginner-friendly projects that woul
 
 Anyone related to technology who are looking to contribute to open-source, are all invited to hop in. This place has task for everyone.
 
-| **Machine Learning** | **Deep Learning** | **Natural Language Processing** | **Computer Vision** | **FrontEnd Designers** | **BackEnd Developers** | **UI/UX Designers** |
+| **Machine Learning** | **Deep Learning** | **Natural Language Processing** | **Computer Vision** |
 
 **Data Analysts** - Frame the problem. Get, explore and prepare the data 
 
-**Machine Learning, Deep Learning, Computer Vision, Natural Language Processing Enthusiasts** - Try different algorithms, build model, optimize the model 
+**Machine Learning, Deep Learning, Computer Vision, Natural Language Processing Enthusiasts** - Try different algorithms, build model, optimize the model. 
 
+<!--
 **Front End Designers** – Design or code the webpage designed by designers 
 
 **Back End Developers** – Create backend for the model using Flask or Django 
 
 **UI/UX Designers** – Design dashboards, forms and webpages for the model 
+-->
 
 If you had worked on or want to initiate a unique project and want to share it with the world, you can do that through here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/CONTRIBUTING.md)👩‍💻
 
-When issue is raised from your end (or) taken it from issues tab to add a project, elaborate as much as you could and as well notify us about the task you will be working, that might be Model Creation (or) Data Analysis (or) Front End (or) Back End (or) UI/UX Design.
+When issue is raised from your end (or) taken it from issues tab to add a project, elaborate as much as you could and as well notify us about the task you will be working.
 
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
@@ -275,10 +277,13 @@ Your projects should contain this flow to maintain similarity across all other p
 
 **Dataset** - This folder would have a .csv file.
 
-**Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a **'README.md'** using this [template](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md) and **'requirements.txt'** file which would be enclosed with all needed add-ons and libraries that are included in the project
+**Model** - This folder would have your project file (that is .ipynb file) be it analysis or prediction. Other than project file, it should also have a **'README.md'** using this [template](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md) and **'requirements.txt'** file which would be enclosed with all needed add-ons and libraries that are included in the project. (.Pkl file if available)
 
-**Images** - This folder would have images added if applicable.
+**Images/Screenshots** - This folder would have images added if applicable.
 
+**README.md** file - Elaborate your project in detail using the given README template
+
+<!--
 **Front End** - This folder would have files related to coding and designing the webpage. 
 
 **Back End** - This folder would have files regarding backend creation for the model using Flask and Django.
@@ -286,7 +291,7 @@ Your projects should contain this flow to maintain similarity across all other p
 **UI/UX** - This folder would have files regarding dashboards, forms and webpages for the model.
 
 Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respective folders and elaborate briefly about how it works by showing step by step procedure using screenshots.
-
+-->
 
  ## 💻 Workflow:
 
@@ -360,7 +365,7 @@ Thanks go to these Wonderful People. Contributions of any kind are welcome!🚀
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-##📜 Code Of Conduct
+## 📜 Code Of Conduct
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/CODE_OF_CONDUCT.md).
 
@@ -383,7 +388,7 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/Official%20Professional%20Pic.jpg" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
+<td align="center"><a href="https://avatars.githubusercontent.com/u/74645302?v=4" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
   </tr>
 </table>
 
