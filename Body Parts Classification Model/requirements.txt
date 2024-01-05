@@ -1,0 +1,7 @@
+keras==2.15.0
+matplotlib==3.7.1
+numpy==1.23.5
+opencv-python==4.8.0.76
+pandas==1.5.3
+requests==2.31.0
+tensorflow==2.15.0
