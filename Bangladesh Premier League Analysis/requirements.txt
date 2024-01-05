@@ -1,0 +1,2 @@
+matplotlib==3.7.1
+pandas==1.5.3
