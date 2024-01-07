@@ -7,17 +7,47 @@ The main goal of the project is to analyze the performance of the bangladesh pla
 * (Dataset Link)[https://www.kaggle.com/abdunnoor11/bpl-data]
 
 # WHAT I HAD DONE 
-* Data Exploration and Visualization done with the help of EDA, to better understand the Body parts dataset and get useful insights.
-* Then, normalizing the dataset and plot the different types of the graphs.
-* I prepare so many graphs related to top most 5 players in that field.
-* From the graph, it will be well known which player is best fitted for that field.
-* Hence, data analysis completed!
+* Performed Exploratory Data Analysis on data.
+* Created data visualisations to understand the data in a better way.
+* Found strong relationships between independent features and dependent feature using correlation.
+* Handled missing values using strong correlations,dropping unnecessary ones.
+* Used different Regression techniques like Linear Regression,Ridge Regression,Lasso Regression and deep neural networks to predict the dependent feature in most suitable manner.
+* Compared various models and used best performance model to make predictions.
+* Used Mean Squared Error and R2 Score for evaluating model's performance.
+* Visualized best model's performance using matplotlib and seaborn library.
+
+**MODELS USED**
+
+| Model                        | MSE        | R2         |
+|------------------------------|------------|------------|
+| Random Forest Regression     | 19.355984  | 0.371316   |
+| Gradient Boosting Regression | 19.420494  | 0.369221   |
+| XG Boost Regression          | 21.349168  | 0.306577   |
+| Ridge Regression             | 26.813981  | 0.129080   |
+| Linear Regression            | 26.916888  | 0.125737   |
+| Deep Neural Network          | 27.758216  | 0.098411   |
+| Decision Tree Regression     | 29.044533  | 0.056631   |
+
+ ***Deep Neural Network using Keras***
+ * Input Dense Layer | Activation Function : Relu
+ * Three Hidden Layers | Activation Function : Relu
+ * Output layer | Activation Function : Linear
+ * loss : mean_absolute_error
+ * optimizer : adam
 
 # LIBRARIES NEEDED 
-* pandas
-* matplotlib
-* operator
+* Pandas
+* Numpy
+* Matplotlib
+* XGboost
+* Seaborn
+* Scikit-learn
+* Tensorflow
+* Keras
 
 # CONCLUSION 
-From the analysis and ploting the graphs, it will be cleared for all and easily predict best suited player for different tasks in the game.
+
+* Here we can see that R2 Score and Mean Absolute Error is best for Random Forest Regression.
+* By Using Neural network, We cannot get the minimum Mean Absolute Error value possible.
+* Here, Random Forest Regression model can predict most accurate results for predicting bangladesh premier league winning team which is the highest model performance in comparison with other Models.
 
