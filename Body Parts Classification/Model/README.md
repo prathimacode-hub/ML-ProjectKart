@@ -23,11 +23,14 @@ The main goal of the project is to analyze the parts of the body and recognize t
 * cv2
 * tensorflow
 * keras
+* matplotlib
 
 # CONCLUSION 
-From the models used, Accuracy achieved around 99.64%
+- By classification dataset into training and testing dataset figure is around 1669 and 429 images of the body parts.
+- By Using Neural network, We can get the minimum Loss value possible.
+- Here, deep neural network model can predict most accurate results for predicting body parts which is highest model performance in comparison with other models.
+- The Accuracy achieved by the model during training is around 99.75%.
+- The Accuracy achieved by the model during testing is around 91.88%.
 
-### Loss:- 1.37%
-
-## Accuracy:- 99.64 %
+### Accuracy:- 91.88 %
 
