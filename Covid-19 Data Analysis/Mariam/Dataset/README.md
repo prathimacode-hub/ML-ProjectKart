@@ -21,3 +21,40 @@
 <li> day_wise.csv
 </ul>
 </p>
+
+<p>The 'country_wise_latest.csv' conatins the following columns: 
+<ol>
+<li>Country/Region
+<li>Confirmed
+<li>Deaths 
+<li>Recovered
+<li>Active
+<li>New cases
+<li>New deaths
+<li>New recovered
+<li>Deaths / 100 Cases
+<li>Recovered / 100 Cases
+<li>Deaths / 100 Recovered
+<li>Confirmed last week 
+<li>1 week change 
+<li>1 week % increase
+<li>WHO Region 
+</ol>
+</p>
+
+<p>The 'day_wise.csv' conatins the following columns: 
+<ol>
+<li>Date
+<li>Confirmed
+<li>Deaths 
+<li>Recovered
+<li>Active
+<li>New cases
+<li>New deaths
+<li>New recovered
+<li>Deaths / 100 Cases
+<li>Recovered / 100 Cases
+<li>Deaths / 100 Recovered
+<li>No. of countries
+</ol>
+</p>
