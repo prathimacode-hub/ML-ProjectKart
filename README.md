@@ -9,7 +9,7 @@
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/prathimacode-hub)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub contributors](https://img.shields.io/github/contributors-anon/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/graphs/contributors)
-[![Maintenance](https://img.shields.io/maintenance/yes/2022)](https://github.com/prathimacode-hub)
+[![Maintenance](https://img.shields.io/maintenance/yes/2024)](https://github.com/prathimacode-hub)
 
 [![](https://badgen.net/github/stars/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/stargazers)
 [![](https://badgen.net/github/forks/prathimacode-hub/ML-ProjectKart)](https://github.com/prathimacode-hub/ML-ProjectKart/network/members)
@@ -317,11 +317,11 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 
 
  ## ❄️ Open Source Programs
- 
+ https://kwoc.kossiitkgp.org/
 <table>
 <tr>
 <td align="center">
-<a href="https://kwoc.kossiitkgp.org/"><img src="https://wiki.metakgp.org/images/thumb/8/86/Kwoc_logo.png/300px-Kwoc_logo.png" width=100px height=100px /><br /><sub><b>Kharaghpur Winter Of Code</b></sub></a>
+<a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Kharagpur%20Winter%20Of%20Code%202023/KWOC%202023%20Logo.png" width=100px height=100px /><br /><sub><b>Kharaghpur Winter Of Code 2023</b></sub></a>
  </td>
  <td align="center">
 <a href="https://hacktoberfest.digitalocean.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Hacktoberfest%202021/Hacktoberfest-2021.jpg" width=100px height=100px /><br /><sub><b>Hacktoberfest 2021</b></sub></a>
