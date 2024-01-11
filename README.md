@@ -320,7 +320,7 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 
 
  ## ❄️ Open Source Programs
- https://kwoc.kossiitkgp.org/
+
 <table>
 <tr>
 <td align="center">
