@@ -90,7 +90,6 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 |     27.   |  [Black Friday Sales - Analysis and Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Black%20Friday%20Sales-%20Analysis%20and%20Prediction)  |     The goal of this project is to analyse and predict purchases in the black friday sales from features as age group, gender, occupation, product category etc.|
 |     28.   |  [Board Game Review Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Board%20Game%20Review%20Prediction)  |   The goal of this project are -What are the categories of game that are the most popular?Can we build a model with the available data that predicts user rating? What factors make for the best "modern" board game.  |
 |     29.   |  [Body Fat Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Body%20Fat%20Prediction)  |    The goal is to predict percentage of body fat of a person. |
-Body Parts Classification
 |     30.   |  [Book Genre Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Book%20Genre%20Prediction)  |   The goal of this project is to make a prediction model which will predict genre of the book.   |
 |     31.   |  [Book Recommendation Systems](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Book%20Recommendation%20Systems)  |   The goal of this project is to make a recommendation system which will recommend the user a book, based on the search results given input by the users.  |
 |     32.   |  [Brain Tumor Detection and Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Brain%20Tumor%20Detection%20and%20Classification)  |   This model detects the presence of brain tumor by processing MRI scans of the patient.   |
@@ -131,7 +130,6 @@ Body Parts Classification
 |     67.    |  [Detecting Motion and Moving Objects in a Video]()  | | 
 |     68.    |  [Diabetes Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Diabetes%20Prediction)  |   The goal is to predict if a person is having Diabetes or not using logistic regression and SVM models.    |
 |     69.    |  [Diamond Price Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Diamond%20Price%20Prediction)  |   The goal is to predict price of Diamond.|
-Discussion Forum Prediction
 |     70.    |  [Disease Symptom Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Disease%20Symptom%20Prediction)  |   The goal of this project is predict symptom of disease using the information contained in this dataset.   |
 |     71.    |  [Disneyland Reviews Analysis](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Disneyland%20Reviews%20Analysis)  |   The aim of this project is to analyse the reviews given by visitors from different countries of the world using NLP.    |
 |     72.    |  [Dog Breed Identification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Dog%20Breed%20Identification)  |   This project is about predicting the breed of a dog, this can be helpful to people who are not expert in the field.    |
@@ -208,17 +206,14 @@ Discussion Forum Prediction
 |     139.    |  [Medical Cost Analysis for Smokers and Non-smokers](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Medical%20Cost%20Analysis%20for%20Smokers%20and%20Non-smokers)  |   This project consists of the fact that the average medicine charges can be changed for the smokers and non-smokers.    |
 |     140.    |  [MemPool Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/MemPool%20Prediction)  |   To predict about the memepool in detail.    |
 |     141.    |  [Mobile Price Range Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Mobile%20Price%20Range%20Classification)  |   In this project we do not have to predict actual price but a price range indicating how high the price is.    |
-Mortality Rate Analysis & Prediction
 |     142.    |  [Movie Oscar Win Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Movie%20Oscar%20Win%20Prediction)  |   The goal of this project is to make a prediction model, which will predict the chances of winning the Oscar award.    |
 |     143.    |  [Movie Recommendation System](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Movie%20Recommendation%20System)  |   This project will help one to recommend the movies , will provide the movies names.    |
 |     144.    |  [Mushroom Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Mushroom%20Classification)  |   This project is all about deploying classification algorithms and comparing the models.    |
 |     145.    |  [Music Genre Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Music%20Genre%20Classification)  |   The goal of this project is to create a model which will classify all the 10 genres based on the song selected.The song can be selected from the dataset or any other source.The song format must be in .wav format and for 30 sec in duration.   |
 |     146.    |  [NASA Asteroids Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/NASA%20Asteroids%20Classification)  |   This project helps in classifying the NASA Asteroids and checks for features responsible for claiming whether the asteroid is hazardous.   |
 |     147.    |  [NBA-Analysis and Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/NBA-Analysis%20and%20Prediction)  |   To predict number of points that were scored in the season 2013-2014 by the NBA players.   |
-Named Entity Recognition
 |     148.    |  [Natural Images Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Natural%20Images%20Classification)  |   The goal of this project is to build the Classification Model for natural images using the Neural Networks and Deep Learning.    |
 |     149.    |  [Netflix EDA and Recommedation System](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Netflix%20EDA%20and%20Recommedation%20System)  |   The project aims to gain insights from detailed EDA and recommend which movie to watch next.   |
-News Articles Classification
 |     150.    |  [Object Detection using OpenCV](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Olympic%20Medal%20Prediction)  |   To understand Computer Vision Libraries like OpenCV and detect various objects using Deep Learning Models with pretrained weights.  |
 |     151.    |  [Olympic Medal Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Mushroom%20Classification)  |  The goal of this project is to make a prediction model which will predict whether an athlete will win medal or not.   |
 |     152.    |  [Organ Donors Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Organ%20Donors%20Prediction)  |  The goal of this project is to predict donors using the information contained in this dataset.    |
@@ -230,19 +225,16 @@ News Articles Classification
 |     158.    |  [Plant Disease Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Plant%20Disease%20Prediction)  |  Goal of this project is to identify the condition of a plant by looking at the image provided. |
 |     159.    |  [Plant Seedlings Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Plant%20Seedlings%20Classification)  |   The goal of this project is to build the plant seedlings classification model. The architectures used here are, ResNet, AlexNet, Vgg, Inception, MobileNet, SqueezeNet, DenseNet to deploy the classification model.    |
 |     160.    |  [Predict Future Sales](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Predict%20Future%20Sales)  |  To predict whether the future sales.  |
-Prediction of Subject based on Question (NLP)
 |     161.    |  [Private Companies Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Private%20Companies%20Prediction)  |  To predict the number of the private limited companies.   |
 |     162.    |  [Productivity Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Productivity%20Prediction)  |   It is highly desirable among the decision makers in the garments industry to track, analyse and predict the productivity performance of the working teams in their factories.    |
 |     163.    |  [Railway Track Fault Detection](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Railway%20Track%20Fault%20Detection)  |  To predict railway track faults.  |
 |     164.    |  [Rain Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Rain%20Prediction)  |   RainTomorrow is the target variable to predict on the basis of some given Features.    |
-Ramen Noodles Rating Analysis
 |     165.    |  [Reddit Tweets Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Reddit%20Tweets%20Prediction)  |  To predict about the different reddit tweets in detail.  |
 |     166.    |  [Restaurant Recommendation System](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Restaurant%20Recommendation%20System)  |   The goal of this project is to make a Recommendation System which will recommend the users the best restaurant that they are looking for.    |
 |     167.    |  [Resume Categorizing](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Resume%20Categorizing)  |   The goal of this project is to build the model for the Resume Categorizing using eight Machine Learning Models    |
 |     168.    |  [Road Lane Detection](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Road%20Lane%20Detection)  |   This project is the model for the road lane detection, which will detect the road lane from an image which will be user given.    |
 |     169.    |  [Salary Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Salary%20Prediction)  |   The goal of this project is to predict the salary based on some parameters.    |
 |     170.    |  [Salary Range Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Salary%20Range%20Classification)  |   The goal of this project is to classify salary range from features as company, job, degree etc.    |
-Salt Deposits Identification & Prediction
 |     171.    |  [Sarcasm Detection](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Sarcasm%20Detection)  |   The Goal of this project is to detect Sarcasm from news headlines data set using classification algorithms and compare the algorithms to find out which one is better.    |
 |     172.    |  [Shoulder X-Ray Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Shoulder%20X-ray%20Classification)  |  The goal of this project is to create a classification model which will classify different images of shoulder x-ray and predict or, detect the type of the image! |
 |     173.    |  [Sign Language Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Sign%20Language%20Prediction)  |   The sign language prediction project helps in identifying the sign language from images provided.   |
@@ -293,6 +285,14 @@ Salt Deposits Identification & Prediction
 |     215.   |  [Yotube Video Recommendation System](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Youtube%20Video%20Recommendation%20System)  |  The model will recommend the video titles on proving the search query by user. |
 |     216.    |  [Zomato Banglore Resturants Recommendation](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Zomato%20Bangalore%20Restaurants%20Recommendation%20Analysis)  |  The aim of this project is analyse a dataset and recomend the user for top restaurants in bangalore. |
 |     217.    |  [Zoo Animal Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Zoo-Animal-Classification)  |   The goal of this project is to predict the zoo animal based on some classifications using machine learning model.    |
+|     218.    |  [Body Parts Classification]()  | | 
+|     219.    |  [Discussion Forum Prediction]()  | | 
+|     220.    |  [Mortality Rate Analysis & Prediction]()  | | 
+|     221.    |  [Named Entity Recognition]()  | | 
+|     222.    |  [Ramen Noodles Rating Analysis]()  | | 
+|     223.    |  [News Articles Classification]()  | | 
+|     224.    |  [Prediction of Subject based on Question (NLP)]()  | | 
+|     225.    |  [Salt Deposits Identification & Prediction]()  | | 
 
 
 ## 🛠 Templates to Follow
