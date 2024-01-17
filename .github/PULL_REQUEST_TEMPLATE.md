@@ -2,7 +2,7 @@
 
 - Info about the related issue 
 
-- [ ] KWOC 2023 Participant 
+- [ ] DWOC 2024 Participant 
 - [ ] Contributor
 
 Closes: #issue number that will be closed through this PR
