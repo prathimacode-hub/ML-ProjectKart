@@ -8,7 +8,7 @@ Assignee: ''
 
 Define You:
 
-- [ ] KWOC 2023 Participant 
+- [ ] DWOC 2024 Participant 
 - [ ] Contributor
 
 
