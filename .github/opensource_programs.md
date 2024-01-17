@@ -2,6 +2,12 @@
 
 List of Open Source Events in which this project participated.
 
+- Delta Winter Of Code 2023
+
+DWOC is an open source initiative by Delta Force, the official coding club of NIT Trichy. This program will be exposed to various real world problems and effective means to solve while giving a headstart for projects in this community of collaboration.
+
+<a href="https://dwoc.io/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Delta%20Winter%20Of%20Code%202023/DWOC2023.jpg" width=150px height=150px /></a>
+
 - Kharaghpur Winter Of Code 2023
 
 Kharagpur Winter of Code is a 5-week long online program for students who are new to open source software development. The program not only helps students to get involved in open source, but also prepares them for many open source summer programs; Google Summer of Code being one of them.
