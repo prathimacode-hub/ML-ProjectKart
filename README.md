@@ -295,16 +295,6 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 |     225.    |  [Salt Deposits Identification & Prediction]()  | | 
 
 
-## 🛠 Templates to Follow
-
-- [Feature request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
-- [Bug Report](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
-- [Pull Request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
-- [README](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md)
-
-**Note** : One should follow these templates while creating a new issue or pull request. 
-
-
 ## 📝 Project Structure
 
 Your projects should contain this flow to maintain similarity across all other projects. Make sure to note these things, before you create a PR.
@@ -338,6 +328,17 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 - Then in Github, in your cloned repository find the option to make a pull request 
 
 > print("Start contributing for ML-ProjectKart")
+
+
+
+## 🛠 Templates to Follow
+
+- [Feature request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
+- [Bug Report](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
+- [Pull Request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
+- [README](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md)
+
+**Note** : One should follow these templates while creating a new issue or pull request. 
 
 
 ## ⚙️ Things to Note
