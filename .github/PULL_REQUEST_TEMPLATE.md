@@ -2,7 +2,7 @@
 
 - Info about the related issue 
 
-- [ ] DWOC 2023 Participant 
+- [ ] CSSOC 2024 Participant 
 - [ ] Contributor
 
 Closes: #issue number that will be closed through this PR
