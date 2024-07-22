@@ -426,7 +426,7 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/Prathima-Kadari-Picture.png" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
+<td align="center"><a href="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/Official%20Professional%20Pic.jpg" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
   </tr>
 </table>
 
@@ -441,7 +441,7 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
 
 ## ⭐ Give this Project a Star
 
-[![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimacode-hub/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathima_kadari?style=social=Follow%20@prathima_kadari&style=social)](https://twitter.com/prathima_kadari)
+[![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimacode-hub/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathima_kadari?label=Follow%20@prathima_kadari&style=social)](https://twitter.com/prathima_kadari)
 
 If you liked working on this project, do ⭐ and share this repository.
 
