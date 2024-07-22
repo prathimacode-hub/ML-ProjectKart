@@ -354,7 +354,10 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 
 <table>
 <tr>
-  <td align="center">
+<td align="center">
+<a href="https://codesapiens.in/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/CodeSapiens%20Summer%20Of%20Code%202024/CodeSapiens%20Summer%20Of%20Code.png" width=100px height=100px /><br /><sub><b>Code Sapiens Summer Of Code 2024</b></sub></a>
+</td>
+<td align="center">
 <a href="https://dwoc.io/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Delta%20Winter%20Of%20Code%202023/DWOC2023.jpg" width=100px height=100px /><br /><sub><b>Delta Winter Of Code 2023</b></sub></a>
  </td>
 <td align="center">
