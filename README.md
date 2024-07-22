@@ -441,7 +441,7 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
 
 ## ⭐ Give this Project a Star
 
-[![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimacode-hub/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathima_kadari?style=social)](https://twitter.com/prathima_kadari)
+[![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimacode-hub/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathima_kadari?style=social=Follow%20@prathima_kadari&style=social)](https://twitter.com/prathima_kadari)
 
 If you liked working on this project, do ⭐ and share this repository.
 
@@ -458,7 +458,7 @@ If you liked working on this project, do ⭐ and share this repository.
 
 If you want to contact me, you can reach me through the below handles.
 
-<a href="https://twitter.com/prathima_kadari"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSYNFWywSHd7i84bmvUomd99zCDo-rC_utR43Ihn6peRcE9cUOTkP5K0SHdBmz-dU7tA&usqp=CAU" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
+<a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://twitter.com/prathima_kadari"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSYNFWywSHd7i84bmvUomd99zCDo-rC_utR43Ihn6peRcE9cUOTkP5K0SHdBmz-dU7tA&usqp=CAU" width="25"></img></a>
 
 © 2024 Prathima Kadari
 
