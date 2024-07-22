@@ -29,8 +29,6 @@ Add all the libraries needed in this project in points
 
 Add all the algorithms used with their accuracies and results
 
-INCLUSION OF **SCREENSHOT** IS MUST FOR FRONT END DESIGNERS AND UI/UX DESIGNERS.
-
 **CONCLUSION**
 
 What's the conclusion derived from this project and also showcase the accuracy results if it's applicable. Be briefer
