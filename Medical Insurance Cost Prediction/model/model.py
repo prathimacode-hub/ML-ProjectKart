@@ -7,7 +7,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
-from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score, accuracy_score
 
 # Load the dataset
 data = pd.read_csv("dataset/insurance.csv")
@@ -58,12 +58,13 @@ for name, model in models.items():
     mse = mean_squared_error(y_test, y_pred)
     mae = mean_absolute_error(y_test, y_pred)
     r2 = r2_score(y_test, y_pred)
+    accuracy = accuracy_score(y_test, y_pred)
     # Store the results
-    results[name] = {"mse": mse, "mae": mae, "r2_score": r2}
+    results[name] = {"mse": mse, "mae": mae, "r2_score": r2,"accuracy":accuracy}
 
 # Print the results
 for name, metrics in results.items():
-    print(f"{name}:\n\tMean Squared Error: {metrics['mse']}\n\tMean Absolute Error: {metrics['mae']}\n\tR-squared: {metrics['r2_score']}\n")
+    print(f"{name}:\n\tMean Squared Error: {metrics['mse']}\n\tMean Absolute Error: {metrics['mae']}\n\tR-squared: {metrics['r2_score']}\n\taccuracy_score: {metrics['accuracy']}")
 
 # Ensemble Learning (Optional): Combining predictions
 from sklearn.ensemble import VotingRegressor
@@ -87,5 +88,6 @@ ensemble_pred = ensemble_pipeline.predict(X_test)
 ensemble_mae = mean_absolute_error(y_test, ensemble_pred)
 ensemble_mse = mean_squared_error(y_test, ensemble_pred)
 ensemble_r2 = r2_score(y_test, ensemble_pred)
+ensemble_accuracy = accuracy_score(y_test, ensemble_pred)
 
 print(f"Ensemble Model:\n\tMean Absolute Error: {ensemble_mae}\n\tMean Squared Error: {ensemble_mse}\n\tR-squared: {ensemble_r2}\n")
