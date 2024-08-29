@@ -126,8 +126,8 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 |     63.    |  [Dance Form Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Dance%20Form%20Classification)  |   The goal of this project is to classify the images of various dance forms and prepare a Classification model using Deep learning methods.    |
 |     64.    |  [Dandelion Recognition](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Dandelion%20Recognition)  |   The goal of this project is to create classification model which will identify the dandelion from the images given to the model.    |
 |     65.    |  [Data Analysis Of Meteorological Data](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Data%20Analysis%20of%20Meteorological%20Data)  |   It analyzes the meteorological weather data of the last 10yrs from 2006 to 2016 at Finland to check an increase of global warming.   |
-|     66.    |  [DeepQ Networks]()  | | 
-|     67.    |  [Detecting Motion and Moving Objects in a Video]()  | | 
+|     66.    |  [DeepQ Networks](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/DeepQNetworks)  | | 
+|     67.    |  [Detecting Motion and Moving Objects in a Video](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Detecting%20Motion%20and%20Moving%20Objects%20in%20a%20Video)  | | 
 |     68.    |  [Diabetes Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Diabetes%20Prediction)  |   The goal is to predict if a person is having Diabetes or not using logistic regression and SVM models.    |
 |     69.    |  [Diamond Price Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Diamond%20Price%20Prediction)  |   The goal is to predict price of Diamond.|
 |     70.    |  [Disease Symptom Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Disease%20Symptom%20Prediction)  |   The goal of this project is predict symptom of disease using the information contained in this dataset.   |
@@ -143,13 +143,13 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 |     80.    |  [Employee Retention Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Employee%20Retention%20Project)  |   The project revolves around the idea to give basic modelling techniques used to classify if the employee will leave the company or not based on certain features in the datset.    |
 |     81.    |  [English Alphabet Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/English%20Alphabet%20Classification/Model)  | The aim of this project is to recognize the computerised generated images of the English apphabets. The dataset contains 26 classes which comprises of a to z alphabets, each class containing 100 images.  |
 |     82.    |  [Exports Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Exports%20Classification)  |   The goal of this project is to build a classification model, using regression algorithms, such as, linear regression, random forest regression, decision tree regressor and many more algorithms.    |
-|     83.    |  [Face Clustering]()  | | 
-|     84.    |  [Face Detection and Blurring]()  | | 
+|     83.    |  [Face Clustering](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Face%20Clustering)  | | 
+|     84.    |  [Face Detection and Blurring](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Face%20Detection%20and%20Blurring)  | | 
 |     85.    |  [Face Generation using DCGAN](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Face%20Generation%20using%20DCGAN)  |   The main goal of this project is to get a generator network to generate new images of faces that look as realistic as possible using a DCGAN on a dataset of faces.    |
 |     86.    |  [Face Mask Detection Using OpenCV](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Face%20Mask%20Detection%20using%20OpenCV)  |    This is a Face Mask Detection project that uses both Haar Cascades and Caffe framework approaches for face detection and a finetuned MobileNetV2 model to detect masks on face taking real time video stream as input.   |
-|     83.    |  [Face Verification using Deep Learning]()  | | 
+|     83.    |  [Face Verification using Deep Learning](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Face%20Verification%20using%20DL)  | | 
 |     84.    |  [Face Detection using PCA](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Face%20detection%20using%20PCA)  |   Implement Face detection using Principal Component Analysis (PCA) to reduce the dimensionality of large data sets.   |
-|     85.    |  [Facial Expression Recognition using Machine Learning]()  | | 
+|     85.    |  [Facial Expression Recognition using Machine Learning](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Facial%20Expression%20Recognition%20Using%20ML)  | | 
 |     86.    |  [Fake Currency Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Fake%20Currency%20Prediction)  |   The goal is to predict whether a given note is fake or not using machine learning models.    |
 |     87.    |  [Fake News Detection](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Fake%20News%20Detection)  |   The aim of the project is to detect whether the news is Real or Fake using different text extraction NLP techniques.    |
 |     88.    |  [Fake Job Posting Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Fake%20Job%20Posting%20Prediction)  |   The goal of this project is to predict the whether the employee with jods has fake job or real.    |
@@ -157,7 +157,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 |     90.    |  [Fish Weight Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Fish%20Weight%20Prediction)  |   The main goal of this project to predict the weight of the any fish using linear regression model.    |
 |     91.    |  [Flight Delay Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Flight%20Delay%20Prediction)  |   The main purpose of this project is to predict future delays in flights using machine learning models.    |
 |     92.    |  [Flight Fare Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Flight%20Fare%20Prediction)  |   The aim of the project is to predict the fare of different Airlines covering different routes using machine learning models.    |
-|     93.    |  [Flood Prediction]()  | | 
+|     93.    |  [Flood Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Flood%20Prediction)  | | 
 |     94.    |  [Flowers Recognition](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Flowers%20Recognition)  |   The goal of this project is to identify the flower name from an image uploaded by the user.    |
 |     95.    |  [Football Match Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Football%20Match%20Prediction)  |   The goal of this project is to predict the match winner according to the prediction model.    |
 |     96.   |  [Football Team Rating Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Football%20Team%20Rating%20Prediction)  |   The goal is to predict rating of Football Team.  |
@@ -172,7 +172,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 |     105.  |  [Glass Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Glass%20Classification)  |  The aim of this project is to classify the glass type using percentage of minerals present in each class of glass.  |
 |     106.  |  [Gold Price Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Graduate%20Admission%20Prediction)  |  The aim of this project is to perform analysis the gold price using different EDA techniques, and eventually train different model to predict the price of gold. |
 |     107.  |  [Graduate Admission Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Glass%20Classification)  |  To predict about the Graduate Admissions from an Indian perspective.  |
-|     108.    |  [Gun Detection]()  | | 
+|     108.    |  [Gun Detection](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Gun%20Detection)  | | 
 |     109.  |  [Handwritten Digit Recognition](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Handwritten%20Digit%20Recognition)  |  The main purpose of this project is to recognize handwritten digits by humans. |
 |     110.    |  [Heart Attack Analysis](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Heart%20Attack%20Analysis)  |   The goal of this exercise is to identify the parameters that influences the heart attack and build a ML model for the prediction of heart attack.   |
 |     111.    |  [Heart Disease Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Heart%20Disease%20prediction)  |   This project predicts heart disease based on features like age, cholesterol level, blood sugar level etc.   |
@@ -239,8 +239,8 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 |     172.    |  [Shoulder X-Ray Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Shoulder%20X-ray%20Classification)  |  The goal of this project is to create a classification model which will classify different images of shoulder x-ray and predict or, detect the type of the image! |
 |     173.    |  [Sign Language Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Sign%20Language%20Prediction)  |   The sign language prediction project helps in identifying the sign language from images provided.   |
 |     174.    |  [Snapchat Filters](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Snapchat%20Filters)  |  We will build our own Snapchat Filters with the help of some libraries using Python programming language.   |
-|     175.    |  [Snapchat Witch Filter]()  | | 
-|     176.    |  [Social Distancing Detector]()  | | 
+|     175.    |  [Snapchat Witch Filter](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Snapchat%20Witch%20Filter)  | | 
+|     176.    |  [Social Distancing Detector](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Social%20Distancing%20Detector)  | | 
 |     177.   |  [Social Network Influencer Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Social%20Network%20Influencer%20Prediction)  |  The goal of the challenge is to train a machine learning model which, for a pair of individuals, predicts the human judgement on who is more influential with high accuracy.  |
 |     178.   |  [Soil Moisture Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Soil%20Moisture%20Prediction)  |  The aim of this project is to predict the moisture present in soil. |
 |     179.    |  [Solar Eclipse Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Solar%20Eclipse%20Classification)  |   The aim of this project is to classify among the main types of Solar eclipses, which are : P = Partial Eclipse, A = Annular Eclipse, T = Total Eclipse, H = Hybrid or Annular/Total Eclipse.    |
@@ -253,7 +253,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 |     186.    |  [Stars, Galaxies and Quasars Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Stars%2C%20Galaxies%20and%20Quasars%20Classification)  |   The goal of this project is to make a perfect classification model according to the data collected on stars, galaxies and quasars.    |
 |     187.    |  [Startup Profit Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Startup%20Profit%20Prediction)  |   The goal is to predict Profit of the Startups. The dataset contains data about 50 startups. It has 5 columns: “R&D Spend”, “Administration”, “Marketing Spend”, “State”, “Profit”.    |
 |     188.    |  [Stock Price Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Stock%20Price%20Prediction)  |   The goal is to predict the price of stocks in future and make calls according to the results algorithms provide.    |
-|     189.    |  [Stocks and Crypto Research Analysis]()  | | 
+|     189.    |  [Stocks and Crypto Research Analysis](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Stocks%20and%20Crypto%20Research%20Analysis)  | | 
 |     190.    |  [Stress Level Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Stress%20Level%20Prediction)  |   The goal of this project is to predict stress level from features taken from the survey responses.    |
 |     191.    |  [Stroke Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Stroke%20Prediction)  |   The goal of this project is to predict the rate of stroke of a person.    |
 |     192.    |  [Student Performance Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Student%20Performance%20Prediction)  |   The goal of this project is to predict final grade of the student from features as study time, failures, free time, absenses, health status, going out,first period grade, second period grade etc.    |
@@ -261,10 +261,10 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 |     194.    |  [Terrorist Attack Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Terrorist%20Attack%20Prediction)  |   Analysis of given dataset and prediction of Terrorist attack using regression modal.   |
 |     195.     |  [Test Score Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Test%20Score%20Prediction)  |   The aim of project is to build machine learning algorithms to predict the scores of the students.|
 |     196.    |  [Tetris Object Counter](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Tetris%20Object%20Counter)  |   The goal of the project is to identify all the tetris objects (tetrominoes) in the given tetris input image and return the count. It is seen that during gameplay the tetris blocks are broken and this program should be able to identify such blocks too.    |
-|     197.    |  [Text Classification]()  | | 
+|     197.    |  [Text Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Text%20Classification)  | | 
 |     198.     |  [Text Summarization](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Text%20Summarization)  | The goal of this project is to create a model which will summarize the articles given by the users.  |
 |     199.    |  [Titanic Survival Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Titanic%20Survival%20Prediction)  |   Use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.    |
-|     197.    |  [Tokyo Olympics Visualization Data Analysis]()  | | 
+|     197.    |  [Tokyo Olympics Visualization Data Analysis](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Tokyo%20Olympics%20Visualisation%20Data%20Analysis)  | | 
 |     198.    |  [Traffic Sign Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Traffic%20Sign%20Classification)  |   The goal of this project is to make human readable traffic sign classification.    |
 |     199.    |  [Twitch Streamer Analysis](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Twitch%20Streamer%20Analysis)  |  The goal is to perform analysis and predict Followers gained per stream. |
 |     200.    |  [Twitter Sentiment Analysis](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Twitter%20Sentiment%20Analysis)  |   This project helps in analyzing the sentiment using the text data posted on twitter to check it by classifying the statements as positive, negative or neutral.   |
@@ -272,27 +272,27 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 |     202.    |  [USA House Pricing Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/USA%20House%20Pricing%20Prediction)  |   The goal of this project is to make a prediction model, which will predict the price of the houses at USA, depending on the given features.    |
 |     203.    |  [Uber Fare Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Uber%20Fare%20predictions)  |   This project helps in predicting the fare to be charged for the Uber travelling person.   |
 |     204.     |  [Vehicle Image Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Vehicle%20Image%20Classification)  |  The aim of this project is to classify a vehicle image which type of vehicle it is. |
-|     205.    |  [Vehicle and Pedestrian Tracking using OpenCV]()  | | 
-|     206.    |  [Voice Gender Identification]()  | | 
+|     205.    |  [Vehicle and Pedestrian Tracking using OpenCV](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Vehicles%20and%20Pedestrian%20Tracking%20Using%20OpenCV)  | | 
+|     206.    |  [Voice Gender Identification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Voice%20Gender%20Identification)  | | 
 |     207.    |  [Walmart Sales Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Walmart%20Sales%20Prediction)  |  The main purpose of this project is to predict the future sales at walmart. |
 |     208.     |  [Waste Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Waste%20Classification)  | The aim of this project is to recognize whether the image of the waste product is a Organic Waste or a Recyclable Waste   |
 |     209.    |  [Water Quality Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Water%20Quality%20Prediction)  |   This project indicates if water is safe for human consumption where 1 means Potable and 0 means Not potable.    |
 |     210.    |  [Web Page Phishing Detection](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Web%20Page%20Phishing%20Detection)  |  Many people get scammed by this Web page phishing technique. Detecting them can save people from getting scammed. Hackers usually blackmail the people to get their personal information back. Identifying this techniques can save millions.   |
 |     211.    |  [Wine Quality Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Wine%20Quality%20Prediction)  |   This model predicts the quality of wine based on some features like pH, fixed acidity, citric acid etc. using SVM and Random forest algorithm.    |
 |     212.    |  [World Happiness Report Analysis](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/World%20Happiness%20Report%20Analysis)  |  The aim of the project is to predict happiness scores and rankings and perform a detailed analysis and visualization of the training dataset and create a model. |
-|     213.    |  [World Population By Year Analysis]()  | | 
+|     213.    |  [World Population By Year Analysis](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/World%20Population%20by%20Year%20analysis)  | | 
 |     214.   |  [World Poverty Analysis](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/World%20Poverty%20Analysis)  |  The goal of this project is to analyze the world poverty using dataset. |
 |     215.   |  [Yotube Video Recommendation System](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Youtube%20Video%20Recommendation%20System)  |  The model will recommend the video titles on proving the search query by user. |
 |     216.    |  [Zomato Banglore Resturants Recommendation](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Zomato%20Bangalore%20Restaurants%20Recommendation%20Analysis)  |  The aim of this project is analyse a dataset and recomend the user for top restaurants in bangalore. |
 |     217.    |  [Zoo Animal Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Zoo-Animal-Classification)  |   The goal of this project is to predict the zoo animal based on some classifications using machine learning model.    |
-|     218.    |  [Body Parts Classification]()  | | 
-|     219.    |  [Discussion Forum Prediction]()  | | 
-|     220.    |  [Mortality Rate Analysis & Prediction]()  | | 
-|     221.    |  [Named Entity Recognition]()  | | 
-|     222.    |  [Ramen Noodles Rating Analysis]()  | | 
-|     223.    |  [News Articles Classification]()  | | 
-|     224.    |  [Prediction of Subject based on Question (NLP)]()  | | 
-|     225.    |  [Salt Deposits Identification & Prediction]()  | | 
+|     218.    |  [Body Parts Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Body%20Parts%20Classification)  | | 
+|     219.    |  [Discussion Forum Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Discussion%20Forum%20Prediction)  | | 
+|     220.    |  [Mortality Rate Analysis & Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Mortality%20Rate%20Analysis%20%26%20Prediction)  | | 
+|     221.    |  [Named Entity Recognition](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Named%20Entity%20Recognition)  | | 
+|     222.    |  [Ramen Noodles Rating Analysis](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Ramen%20Noodles%20Rating%20Analysis)  | | 
+|     223.    |  [News Articles Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/News%20Articles%20Classification)  | | 
+|     224.    |  [Prediction of Subject based on Question (NLP)](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Prediction%20of%20Subject%20based%20on%20Question%20(NLP))  | | 
+|     225.    |  [Salt Deposits Identification & Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Salt%20Deposits%20Identification%20%26%20Prediction)  | | 
 
 
 ## 📝 Project Structure
