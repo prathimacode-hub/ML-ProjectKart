@@ -100,7 +100,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 |     37.    |  [Campus Recruitment - Analysis and Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Campus%20Recruitment%20-%20Analysis%20and%20Prediction)  |   The goal of this project is to analyze the factors that can effect the Campus Recruitment, and also creating a model which will predict the chances of getting placed depending on various factors.   |
 |     38.  |  [CAPTCHA Decoding](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/CAPTCHA%20Decoding)  |    The goal of this project is to create a deep learning model which will recognize the captcha letters. |
 |     39.    |  [Car Brand Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Car%20Brand%20Classification)  |    This project classifies the car brand using machine learning.   |
-|     40.    |  [Car Insurance Prediction]()  | | 
+|     40.    |  [Car Insurance Prediction](https://github.com/unfriendme/ML-ProjectKart/tree/main/Car%20Insurance%20Prediction)  | | 
 |     41.    |  [Car Prices Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Car%20Prices%20Prediction)  |   The main goal is to predict the price of cars with the available independent variables   |
 |     42. |  [Cartier Jewelry Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Cartier%20Jewelry%20Classification)  |   The goal of this project is to make a classification model, which will classify the jewelries based on the various features.  |
 |     43.    |  [Cartoonify using KMeans]()  | | 
