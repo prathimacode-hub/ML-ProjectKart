@@ -103,7 +103,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 |     40.    |  [Car Insurance Prediction](https://github.com/unfriendme/ML-ProjectKart/tree/main/Car%20Insurance%20Prediction)  | | 
 |     41.    |  [Car Prices Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Car%20Prices%20Prediction)  |   The main goal is to predict the price of cars with the available independent variables   |
 |     42. |  [Cartier Jewelry Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Cartier%20Jewelry%20Classification)  |   The goal of this project is to make a classification model, which will classify the jewelries based on the various features.  |
-|     43.    |  [Cartoonify using KMeans]()  | | 
+|     43.    |  [Cartoonify using KMeans](https://github.com/unfriendme/ML-ProjectKart/tree/main/Cartoonify%20using%20KMeans)  | | 
 |     44.    |  [Cats Vs Dogs Classification](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Cats%20Vs%20Dogs%20Classification)  |   The goal of this project is to classify whether the image is of a dog or a cat.    |
 |     45.    |  [Cervical Cancer Risk Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Cervical%20Cancer%20Risk%20Prediction)  |  The business objective is to build a Machine Learning Prediction Model that predicts the result of Biopsy test and thereby confirming the presence/non-presence of cervical cancer in the patients.   |
 |     46.    |  [Churn Risk Score Prediction](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/Churn%20Risk%20Score%20Prediction)  |   This project is used to predict the churn score for a website based on the related features   |
