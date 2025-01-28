@@ -8,7 +8,7 @@ Assignee: ''
 
 Define You:
 
-- [ ] CSSOC 2024 Participant 
+- [ ] SWOC2025 Participant 
 - [ ] Contributor
 
 
