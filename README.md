@@ -356,7 +356,7 @@ Include README.md file for 'Front End', 'Back End' and 'UI/UX' in their respecti
 <table>
 <tr>
 <td align="center">
-<a href="https://www.socialwinterofcode.com"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Social%20Winter%20Of%20Code%202025/Social%20Winter%20Of%20Code%202025.jpg" width=100px height=100px /><br /><sub><b>Social Winter Of Code 2025</b></sub></a>
+<a href="https://codepeak.technology"><img src="" width=100px height=100px /><br /><sub><b>Code Peak 2025</b></sub></a>
 </td>
 <td align="center">
 <a href="https://codesapiens.in/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/CodeSapiens%20Summer%20Of%20Code%202024/CodeSapiens%20Summer%20Of%20Code.png" width=100px height=100px /><br /><sub><b>Code Sapiens Summer Of Code 2024</b></sub></a>
