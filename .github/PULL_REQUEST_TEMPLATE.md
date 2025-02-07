@@ -2,7 +2,7 @@
 
 - Info about the related issue 
 
-- [ ] SWOC2025 Participant 
+- [ ] CodePeak 2025 Participant 
 - [ ] Contributor
 
 Closes: #issue number that will be closed through this PR
