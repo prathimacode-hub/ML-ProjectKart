@@ -8,7 +8,7 @@ Assignee: ''
 
 Define You:
 
-- [ ] SWOC2025 Participant 
+- [ ] CodePeak 2025 Participant 
 - [ ] Contributor
 
 
