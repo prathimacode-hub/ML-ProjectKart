@@ -1,0 +1,17 @@
+# Core data science libraries
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine learning and model evaluation
+scikit-learn>=1.3.0
+
+# NLP preprocessing
+nltk>=3.8.1
+
+# Sentence embeddings (Legal-BERT)
+sentence-transformers>=2.2.2
+transformers>=4.40.0
+torch>=2.1.0
+
+# Utility
+tqdm>=4.66.0
